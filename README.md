@@ -1,4 +1,3 @@
-fiinix.github.io
-================
+# fiinix.github.io
 
-Jekyll powered personal portfolio and blog http://www.carloseriksson.com
+Jekyll powered professional portfolio and personal blog. [www.carloseriksson.com](http://www.carloseriksson.com)
