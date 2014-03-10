@@ -2,7 +2,7 @@
 layout: post
 category : test
 title: This is the Title of the Post
-summary: This is meant to be a summary of the post, I think I can get Liquid to output this one but I don't know yet.
+excerpt: This is meant to be a summary of the post, I think I can get Liquid to output this one but I don't know yet.
 tagline: "Supporting tagline"
 tags : [tag 1, tag 2, tag 3]
 ---
