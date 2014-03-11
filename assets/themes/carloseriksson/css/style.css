@@ -48,7 +48,7 @@ body {
   background-size: 1.6180em 1.6180em;*/
 
   background: url(../img/distressed-bg-top-left-alt.png) no-repeat,
-        url(../img/distressed-bg-bottom-right-alt.png) no-repeat 100% 100%
+        url(../img/distressed-bg-bottom-right-alt.png) no-repeat right bottom
         transparent;
 
   overflow-x: hidden;
@@ -64,6 +64,100 @@ body {
   -o-font-feature-settings: "liga" 1, "dlig" 1, "hlig" 1, "clig" 1;
   -webkit-font-feature-settings: "liga" 1, "dlig" 1, "hlig" 1, "clig" 1;
   font-feature-settings: "liga" 1, "dlig" 1, "hlig" 1, "clig" 1; 
+}
+
+/* ==========================================================================
+   Inline Elements
+   ========================================================================= */
+
+a {
+  color:hsla(6,65%,50%,1);
+  text-decoration: none;
+  position: relative;
+  border-bottom: 1px dotted transparent;
+  -webkit-transition: all 150ms ease-in-out 0ms;
+  transition:     all 150ms ease-in-out 0ms;
+}
+a:visited {
+
+}
+a:hover,
+a:focus,
+a:active {
+  padding-bottom:.1em;
+  border-bottom:1px dotted hsla(0,6%,12%,1);
+  -webkit-transition: all 150ms ease-in-out 0ms;
+  transition:     all 150ms ease-in-out 0ms;
+}
+
+p {
+  margin: 0 0 1.618em 0;
+}
+
+small,
+time {
+  font-size:.7778em;
+  line-height: 2.0803em;
+}
+time {
+  color: hsla(6,0%,60%,1);
+  letter-spacing: .0714em;
+  text-transform: uppercase;
+  /*white-space: pre-wrap;*/
+}
+
+/* ==========================================================================
+   Figure & Figcaption
+   ========================================================================= */
+
+figure {
+  width: 100%;
+  display: table;
+  margin: 0 0 1.618em 0;
+}
+figure img, figcaption {
+  display: block;
+  width: 100%;
+}
+
+figure img {
+  margin:0 0 1.618em 0;
+}
+figcaption {
+  font-size:.7778em;
+  line-height: 2.0803em;
+  font-style: italic;
+}
+figcaption:before {
+  content: "Figure\0000a0" counter(figureOrdinal)".\0000a0";
+  counter-increment: figureOrdinal;
+  font-variant: small-caps;
+  color: hsla(6,3%,60%,1);
+}
+
+/* ==========================================================================
+   Headers
+   ========================================================================= */
+
+h1, h2, h3 {
+  font-family: 'Ubuntu', sans-serif;
+  font-weight: 500;
+  white-space: pre-wrap;
+}
+h1 {
+  font-size: 2.6667em;
+  line-height: 1;
+  margin:0 0 1.427em 0;
+}
+h2 {
+  font-size: 2em;
+  line-height: 1.05;
+  margin: 1.0329em 0 .3443em 0;
+}
+h3 {
+  font-size: 1.3333em;
+  line-height: 1.2135;
+  margin: 1.8204em 0 .6068em 0; 
 }
 
 /* Custom container */
