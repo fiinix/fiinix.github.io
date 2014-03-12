@@ -1,23 +1,20 @@
 ---
 layout: post
-title: A Rainy Night on Drury Lane, Part IV — Dem Dee-licious Golden Pancakes
+title: A Rainy Night on Drury Lane, Part VI — Dem Dee-licious Golden Pancakes
 date: 2013-10-12T10:00:00+01:00
 excerpt: Things take a turn for the hallucinatory in the sixth instalment of “A Rainy Night on Drury Lane” as Detective Wentworth finds himself on the verge of death. Will he persevere or perish?
 tags : [A Rainy Night on Drury Lane, Dark humor, Fiction, Noir, Short story, Writing]
 ---
-
-![This is some image text](http://placehold.it/320x120)
+<figure>
+	<img src="../../../../assets/post-images/part-6-dem-dee-licious-golden-pancakes.jpg" alt="A Rainy Night on Drury Lane, Part VI — Dem Dee-licious Golden Pancakes">
+	<figcaption>A Rainy Night on Drury Lane, Part VI — Dem Dee-licious Golden Pancakes</figcaption>
+</figure>
 
 “Here’s six bits and a dollar, but please never tell your father I gave you these, okay? You know how he can get.”,  the concern in his mother’s voice was aimed towards both of them.
 
 “Mom, you know I would never—”
 
 “Sometimes your father just won’t take ‘No’ for an answer, you know that. We’ll say you earned them doing chores for Mrs. Wilson.”, having turned around before she had finished her sentence she was already walking away.
-
-<figure>
-	<img src="http://placehold.it/320x120" alt="This is some image text">
-	<ficaption>Some other text that goes underneath the image</ficaption>
-</figure>
 
 Richard Wentworth stood there for a moment, wishing he could run up to his mother to hug her and tell her that everything would be all right, but he couldn’t. No matter how vivid and tangible all of this felt, it was still a memory and nothing more. Losing its grip on reality his mind was finding safety in the few “good” memories he had. And in this memory of his, he hadn’t hugged her. Instead he had quickly turned around to run towards to the entrance of the World Fair. In hindsight he wished he had hugged his mother instead.
 
@@ -28,8 +25,6 @@ Richard Wentworth stood there for a moment, wishing he could run up to his mothe
 “Well then, little man who’s actually over fourteen. In that case, you get to pay 50¢ like an adult.”, the ticket man appeared amused by his insistence on paying full price.
 
 Richard stared in awe at the ticket in his hand. World’s Colombian Exposition it proclaimed proudly and he tried to ignore the thoughts of what his father would do if he ever found out that he had attended the World Fair.
-
-![VIDEO HERE]({{ site.url }}/assets/screenshot.jpg)
 
 It wasn’t until he reached a sight he had never seen before that he snapped out his trance-like state. Standing in front of him was the 250 feel tall steel construction of the Ferris’ Wheel. The first of its kind. Looking back towards the entrance he could see how the queue slithered all the way up to the man in the ticket booth. He knew he couldn’t be at the fair all day — his father would get suspicious — so he wouldn’t have time to ride the Ferris’ Wheel but he could at least enjoy the majestic shadow its steely skeleton cast on the ground.
 
