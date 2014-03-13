@@ -10,7 +10,7 @@ tagline: Supporting tagline
 <section>
 <article>
 <h1>Welcome</h1>
-<p>Yeah, I know. It’s looks like giant mess here, but what can you expect? I’m still building, cleaning and trying things out so everything is bound to be in a state of flux for a couple of months or so.</p>
+<p>Yeah, I know. It’s looks like a giant mess here, but what do you expect? I’m still building, cleaning and trying things out, so everything is bound to be in a state of flux for a couple of months or so.</p>
 <p>Meanwhile, that shouldn’t stop you from exploring. Here’s some of the latest ramblings from my blog. Enjoy and don’t be scared if something appears broken… it probably is.</p>
 </article>
 {% for post in site.posts limit:5%}
