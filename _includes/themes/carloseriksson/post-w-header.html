@@ -31,12 +31,12 @@
 			{% assign tags_list = page.tags %}
 			{% include JB/tags_list %}
 		</ul>
-		{% endunless %}  
+		{% endunless %}
 
 		<hr>
 
 		<div class="pagination">
-			<ul class="display-inline align-center">
+			<ul>
 				{% if page.previous %}
 				<li class="prev"><a href="{{ BASE_PATH }}{{ page.previous.url }}" title="{{ page.previous.title }}">&larr; {{ page.previous.title }}</a></li>
 				{% else %}
@@ -46,7 +46,7 @@
 				{% if page.next %}
 				<li class="next"><a href="{{ BASE_PATH }}{{ page.next.url }}" title="{{ page.next.title }}">{{ page.next.title }} &rarr;</a></li>
 				{% else %}
-				<li class="next disabled"><a>Next &rarr;</a>
+				<li class="next disabled">That&rsquo;s it.
 					{% endif %}
 				</ul>
 			</div>

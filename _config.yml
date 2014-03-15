@@ -4,6 +4,9 @@ permalink: /:categories/:year/:month/:title
 
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "CHANGELOG.md"]
 pygments: true
+markdown: rdiscount
+rdiscount:
+  extensions: [smart]
 
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.

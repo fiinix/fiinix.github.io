@@ -68,5 +68,7 @@ But Ubisoft, I would still like you to fix the stupid tailing missions and add i
 	<figcaption>5 out of 5.</figcaption>
 </figure>
 
+<hr>
+
 † Honest Critique Time!
 Here’s how you can keep the tailing missions in your game whilst making them, you know, actually fun. *Remove the stupid countdown* whenever the player stops “looking at” their target, let’s face it, you don’t actually have to be looking directly at them anyway. *Change the area which you have to remain inside to succeed*. Right now it appears—though I could be wrong—as if it’s just a giant circle around your target. Making this into some weird worm-shape based on the pathfinding instead. Make it so that players’ who anticipate their target’s behaviour, i.e. where they’re walking, are rewarded and those who simply follow their targets’ will have a harder time. In other words, the worm-shape would be larger in front of the target and slightly smaller, than the circle is now, behind them. 
