@@ -331,8 +331,12 @@ h3 {
 
 .parallax {
 	position: absolute;
+	overflow: hidden;
 	background-repeat: no-repeat;
 	background-position: top right;
+
+	top: 0;
+	right: 0;
 
 	image-rendering: -moz-crisp-edges;
 	image-rendering:   -o-crisp-edges;
@@ -342,11 +346,10 @@ h3 {
 }
 
 .parallax-size-l {
-	top: 0;
-	right:-50%;
-	width: 520px;
+	width: 100%;
 	height: 451px;
-	background-size: 256px auto;
+	background-size: 14em auto;
+	background-position: right -7em top;
 }
 .parallax-size-m {
 	background-image: url(../img/septagon-m.png);
@@ -354,15 +357,15 @@ h3 {
 	height: 250px;
 	top: 6em;
 	right: 1em;
-	background-size: 128px auto;
+	background-size: 7em auto;
 }
 .parallax-size-s {
 	background-image: url(../img/septagon-s.png);
 	width: 128px;
 	height: 125px;
 	top: 10em;
-	right: 1.5em;
-	background-size: 64px auto;
+	right: 1em;
+	background-size: 3.5em auto;
 }
 
 /* ==========================================================================
@@ -476,16 +479,16 @@ body:after {
 	body:after { content: "321"; background: hsla(30,80%,50%,1); }
 
 	.parallax-size-l {
-		background-size: 320px auto;
-		right: -160px;
+		background-size: 18em auto;
+		background-position: right -9em top;
 	}
 	.parallax-size-m {
-		background-size: 160px auto;
+		background-size: 9em auto;
 		top: 7em;
 		right: 2.5em;
 	}
 	.parallax-size-s {
-		background-size: 80px auto;
+		background-size: 4.5em auto;
 		top: 14em;
 	}
 
@@ -526,7 +529,8 @@ body:after {
 	body:after { content: "769"; background: hsla(120,80%,50%,1); }
 
 	.parallax-size-l {
-		background-size: 384px auto;
+		background-size: 21em auto;
+		background-position: right -10.5em top;
 	}	
 	.parallax-size-m {
 		top: 11em;
@@ -563,15 +567,16 @@ body:after {
 	body:after { content: "1025"; background: hsla(150,80%,50%,1); }
 
 	.parallax-size-l {
-		background-size: 520px auto;
+		background-size: 29em auto;
+		background-position: right -7em top;
 	}
 	.parallax-size-m {
-		background-size: 256px auto;
+		background-size: 14em auto;
 		top: 13em;
 		right: 8.5em;
 	}
 	.parallax-size-s {
-		background-size: 128px auto;
+		background-size: 7em auto;
 		top: 21.5em;
 		right: 3.5em;
 	}
@@ -596,8 +601,7 @@ body:after {
 	body:after { content: "1201"; background: hsla(180,80%,50%,1); }
 
 	.parallax-size-l {
-		top: 0;
-		right: 0;
+		background-position: right top;
 	}
 	.parallax-size-m {
 		top: 15em;
