@@ -4,14 +4,18 @@
 
 	<p><time>{{ page.date | date: '%-d %B, %Y' }}</time></p>
 
-	<article>
+	<article lang="en">
 		{{ content }}
 	</article>
 
 	<div class="social">
-		<ul class="display-inline align-right">
-			<li><a href="http://www.facebook.com/sharer.php?s=100&amp;p[url]={{ page.url | uri_escape }}[title]={{ page.title | uri_escape }}">Share</a></li>
-			<li><a href="http://twitter.com/share?url={{ page.url | uri_escape }}&amp;text={{ page.title | uri_escape }} by Carlos">Tweet</a></li>
+		<ul class="align-right">
+			<li><h3>Spread the love</h3></li>
+			{% if page.title %}
+			<li><a class="button facebook" href="http://www.facebook.com/sharer.php?s=100&amp;p[url]={{ BASE_PATH | append:'' | uri_escape }}{{ page.url | uri_escape }}[title]={{ page.title | uri_escape }}">Share on Facebook</a></li>
+			<li><a class="button google-plus" href="https://plus.google.com/share?url={{ BASE_PATH | append:'' | uri_escape }}{{ page.url | uri_escape }}">Share on Google+</a></li>
+			<li><a class="button twitter" href="http://twitter.com/share?text={{ page.title | uri_escape }}&url={{ BASE_PATH | append:'' | uri_escape }}{{ page.url | uri_escape }}">Share on Twitter</a></li>	
+			{% endif %}
 		</ul>
 	</div>
 

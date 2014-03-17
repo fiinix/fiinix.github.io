@@ -1,10 +1,11 @@
 ---
 layout: post-w-header
-c-header: "../../../../assets/posts/a-trip-back-to-the-year-1992/super-mario-world-forest.png"
 title: A Trip Back to the Year 1992
+color: "#608900"
 date: 2014-03-14
 excerpt: HERE
 tags : [Gaming]
+headerImg: "../../../../assets/posts/a-trip-back-to-the-year-1992/super-mario-world-forest.png"
 ---
 My son is turning 6 this summer.
 

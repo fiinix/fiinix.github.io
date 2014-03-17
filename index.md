@@ -22,7 +22,7 @@ tagline: Supporting tagline
 	{% when 'September' %}Sept.
 	{% else %}{{ post.date | date: "%-d %b" }}.
 	{% endcase %}</time> {{ post.excerpt }}
-	<a href="{{ BASE_PATH }}{{ post.url }}">[{{ post.content | number_of_words | divided_by:180 | append: ' min' }}]</a>
+	<a href="{{ BASE_PATH }}{{ post.url }}">[{{ post.content | number_of_words | divided_by:180 | plus:1 | append: '&nbsp;min' }}]</a>
 </p>
 </article>
 {% endfor %}
@@ -40,21 +40,25 @@ tagline: Supporting tagline
 <div class="frequent-topics">
 <h3>Frequent topics</h3>
 
-{% capture site_tags %}{% for tag in site.tags %}{{ tag | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
-<!-- site_tags: {{ site_tags }} -->
-{% capture num_words %}
-  {{ site_tags | split:',' | size }}
-{% endcapture %}
-<!-- num_words: {{ num_words }} -->
-{% assign tag_words = site_tags | split:',' | sort %}
-<!-- tag_words: {{ tag_words }} -->
+{% assign tags_max = 0 %}
+{% for tag in site.tags %}
+    {% if tag[1].size > tags_max %}
+        {% assign tags_max = tag[1].size %}
+    {% endif %}
+{% endfor %}
 
 <ul class="display-inline">
-  {% for item in (0..num_words) %}{% unless forloop.last %}
-    {% capture this_word %}{{ tag_words[item] | strip_newlines }}{% endcapture %}
-    <li><a class="tag" href="#{{ this_word | cgi_escape }}">{{ this_word }} </a></li>
-  {% endunless %}{% endfor %}
-  </ul>
+{% for i in (2..tags_max) reversed %}
+    {% for tag in site.tags %}
+        {% if tag[1].size == i %}
+        <li>
+            <a class="tag" href="tags.html#{{ tag[0] | cgi_escape }}">{{ tag[0] }}</a>{% unless forloop.last %} {% endunless %}
+        </li>
+        {% endif %}
+    {% endfor %}
+{% endfor %}
+</ul>
+
 </div>
 </aside>
 

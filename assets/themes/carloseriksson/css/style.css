@@ -63,17 +63,6 @@ body {
 	-webkit-font-feature-settings: "liga" 1, "dlig" 1, "hlig" 1, "clig" 1;
 	font-feature-settings: "liga" 1, "dlig" 1, "hlig" 1, "clig" 1; 
 }
-.with-header {
-	background-repeat: repeat-x;
-	background-size: auto 12em;
-	background-position: top 6em left;
-	/* Change rendering of image for crispness */
-	image-rendering: -moz-crisp-edges; /* Firefox */
-	image-rendering:   -o-crisp-edges; /* Opera */
-	image-rendering: -webkit-optimize-contrast; /* Webkit (non-standard naming) */
-	image-rendering: crisp-edges;
-	-ms-interpolation-mode: nearest-neighbor; /* IE (non-standard property) */
-}
 
 /* ==========================================================================
 Block Elements
@@ -121,6 +110,7 @@ a:active {
 
 main a[href^="http://en.wiki"]:after,
 main a[href^="https://www.youtube"]:after,
+main a[href^="https://"]:after,
 main a[href^="http://"]:after {
 	content: " ";
 	display: inline-block;
@@ -131,6 +121,7 @@ main a[href^="http://"]:after {
 	background-image: url(../img/spark-icons.png);
 	background-repeat: no-repeat;
 	background-size: auto 10px;
+	background-position: -10px 0;
 	/*background-color: red;*/
 }
 
@@ -145,6 +136,16 @@ p,
 ul,
 ol {
 	margin: 0 0 1.618em 0;
+
+	-ms-word-break: normal;
+	word-break: normal;
+
+	/* Non standard for webkit */
+	word-break: break-word;
+
+	-webkit-hyphens: auto;
+	-moz-hyphens: auto;
+	hyphens: auto;
 }
 ul,
 ol {
@@ -254,7 +255,7 @@ Headers
 
 h1, h2, h3 {
 	font-family: 'Ubuntu', sans-serif;
-	font-weight: 500;
+	font-weight: 700;
 	white-space: pre-wrap;
 }
 h1 {
@@ -269,6 +270,7 @@ h2 {
 }
 h3 {
 	font-size: 1.3333em;
+	font-weight: 500;
 	line-height: 1.2135;
 	margin: 1.8204em 0 .6068em 0; 
 }
@@ -321,6 +323,46 @@ h3 {
 .tag:active:before {
 	color:hsla(6,65%,50%,1);
 	color:white;
+}
+
+/* ==========================================================================
+   Parallax for special posts
+   ========================================================================= */
+
+.parallax {
+	position: absolute;
+	background-repeat: no-repeat;
+	background-position: top right;
+
+	image-rendering: -moz-crisp-edges;
+	image-rendering:   -o-crisp-edges;
+	image-rendering: -webkit-optimize-contrast;
+	image-rendering: crisp-edges;
+	-ms-interpolation-mode: nearest-neighbor;
+}
+
+.parallax-size-l {
+	top: 0;
+	right:-50%;
+	width: 520px;
+	height: 451px;
+	background-size: 256px auto;
+}
+.parallax-size-m {
+	background-image: url(../img/septagon-m.png);
+	width: 256px;
+	height: 250px;
+	top: 6em;
+	right: 1em;
+	background-size: 128px auto;
+}
+.parallax-size-s {
+	background-image: url(../img/septagon-s.png);
+	width: 128px;
+	height: 125px;
+	top: 10em;
+	right: 1.5em;
+	background-size: 64px auto;
 }
 
 /* ==========================================================================
@@ -433,6 +475,20 @@ body:after {
 
 	body:after { content: "321"; background: hsla(30,80%,50%,1); }
 
+	.parallax-size-l {
+		background-size: 320px auto;
+		right: -160px;
+	}
+	.parallax-size-m {
+		background-size: 160px auto;
+		top: 7em;
+		right: 2.5em;
+	}
+	.parallax-size-s {
+		background-size: 80px auto;
+		top: 14em;
+	}
+
 }
 
 @media all and (min-width: 30.0625em) { /* 481px */
@@ -461,17 +517,27 @@ body:after {
 
 	body:after { content: "641"; background: hsla(90,80%,50%,1); }
 
+	
+
 }
 
 @media all and (min-width: 48.0625em) { /* 769px */
 
 	body:after { content: "769"; background: hsla(120,80%,50%,1); }
 
-	.with-header {
-		background-repeat: repeat-y;
-		background-size: 15.6667em auto;
-		background-position: top right -10.3333em;
-	}
+	.parallax-size-l {
+		background-size: 384px auto;
+	}	
+	.parallax-size-m {
+		top: 11em;
+		right: 6em;
+	}	
+	.parallax-size-s {
+		top: 17em;
+		right: 4em;
+	}	
+
+	
 
 	section {
 		display: table-cell;
@@ -496,8 +562,18 @@ body:after {
 
 	body:after { content: "1025"; background: hsla(150,80%,50%,1); }
 
-	.with-header {
-		background-position: top right 3em;
+	.parallax-size-l {
+		background-size: 520px auto;
+	}
+	.parallax-size-m {
+		background-size: 256px auto;
+		top: 13em;
+		right: 8.5em;
+	}
+	.parallax-size-s {
+		background-size: 128px auto;
+		top: 21.5em;
+		right: 3.5em;
 	}
 
 	main {
@@ -519,9 +595,17 @@ body:after {
 
 	body:after { content: "1201"; background: hsla(180,80%,50%,1); }
 
-	.with-header {
-		background-size: 20.3333em auto;
-		background-position: top right 3em;
+	.parallax-size-l {
+		top: 0;
+		right: 0;
+	}
+	.parallax-size-m {
+		top: 15em;
+		right: 14em;
+	}
+	.parallax-size-s {
+		top: 16em;
+		right: 11em;
 	}
 
 	nav,

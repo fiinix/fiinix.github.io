@@ -1,11 +1,12 @@
 ---
-layout: post
+layout: post-w-header
 title: Arrrgh You Rrready To Shiver Me Timbers
 date: 2014-03-04T11:00:00Z
+tags : ["Assassin’s Creed IV: Black Flag", Gaming, Review ]
 excerpt: "First of all, I think I can safely call this post SPOILER-FREE because even though I talk about the game, what I liked and what I didn’t like, I don’t actually reveal anything story-related. Well, nothing you wouldn’t already know having seen the trailer.
 
 So, to all you who haven’t played the game yet and would like to remain SPOILER-FREE, go ahead, read on, it’s fine."
-tags : ["Assassin’s Creed IV: Black Flag", Gaming, Review ]
+headerImg: "../../../../assets/posts/arrrgh-you-rrready-to-shiver-me-timbers/assassins-creed-4-titleImage.png"
 ---
 So, pirates. Everyone loves pirates, right? Of course, everyone loves pirates. Expect those dastardly British and their stupid king George I who clearly doesn’t like pirates.
 
@@ -26,7 +27,7 @@ But that aside I really liked AssFlag, it brought back so many things I enjoyed 
 Previously we had to endure Ratonhnhaké:ton, also known as Connor, and his quest for vengeance or something like that. I’m honestly not sure what his problem was but he was pretty whiny about it.
 
 <figure>
-	<img src="../../../../assets/post-images/assassins-creed-4-black-flag-leap-of-faith.jpg" alt="Edward Kenway jumping of his ship the Jackdaw">
+	<img src="../../../../assets/posts/arrrgh-you-rrready-to-shiver-me-timbers/assassins-creed-4-black-flag-leap-of-faith.jpg" alt="Edward Kenway jumping of his ship the Jackdaw">
 	<figcaption>At a jump of 160 feet, I’m pretty sure this would kill me.</figcaption>
 </figure>
 
@@ -43,7 +44,7 @@ AssFlag also gets to the point quicker with less exposition-bullshit crammed dow
 After I had done that and pleased with the result, I realised that I should actually take a look at all the Assassin’s Creed games, asking the same question. So naturally, I did just that.
 
 <figure>
-	<img src="../../../../assets/post-images/assassins-creed-4-black-flag-stab-o-meter-rating.jpg" alt="Meter displaying: 10 minutes to first stab">
+	<img src="../../../../assets/posts/arrrgh-you-rrready-to-shiver-me-timbers/assassins-creed-4-black-flag-stab-o-meter-rating.jpg" alt="Meter displaying: 10 minutes to first stab">
 	<figcaption>Stab-o-Meter.</figcaption>
 </figure>
 
@@ -64,7 +65,7 @@ There we have it. I looked forward to Assassin’s Creed IV: Black Flag and for 
 But Ubisoft, I would still like you to fix the stupid tailing missions and add in more actual assassinations into the game. So, maybe next time?
 
 <figure>
-	<img src="../../../../assets/post-images/assassins-creed-4-black-flag-5-out-of-5-creed-insignias.jpg" alt="5 out of 5 Creed insignias">
+	<img src="../../../../assets/posts/arrrgh-you-rrready-to-shiver-me-timbers/assassins-creed-4-black-flag-5-out-of-5-creed-insignias.jpg" alt="5 out of 5 Creed insignias">
 	<figcaption>5 out of 5.</figcaption>
 </figure>
 
