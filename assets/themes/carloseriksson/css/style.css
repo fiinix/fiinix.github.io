@@ -379,9 +379,6 @@ h3 {
 .pagination li {
 	width: 49%;
 	display: table-cell;
-	overflow: hidden;
-	white-space: nowrap;
-	text-overflow: ellipsis;
 }
 .pagination li:nth-child(2) {
 	width:1em;
