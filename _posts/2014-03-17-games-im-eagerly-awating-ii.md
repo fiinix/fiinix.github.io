@@ -1,6 +1,7 @@
 ---
 layout: post-w-header
 title: Games I’m Eagerly Awaiting II
+color: "#fb5b00"
 date: 2014-03-17
 excerpt: You want to know the best part about actually having played all those games I had on my to-do list? As new games are announced I can start getting excited about those games, as opposed to the ones that came out circa 2011.
 tags : [Gaming, "Alien: Isolation", Destiny, Dying Light, "Middle-Earth: Shadow of Mordor", Thief, Watchdogs, Fallout 4]

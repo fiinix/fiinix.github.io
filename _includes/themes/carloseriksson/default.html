@@ -1,5 +1,9 @@
 <!DOCTYPE html>
+{% if page.color %}
+<html lang="en" style="background:{{ page.color }};">
+{% else %}
 <html lang="en">
+{% endif %}
 <head>
 	<meta charset="utf-8">
 	<title>{{ page.title }} | Carlos Eriksson</title>
@@ -36,20 +40,21 @@
 <body>
 	
 	{% if page.headerImg %}
-	<div id="js-parallax-size-l" class="parallax parallax-size-l" style="background-image:url({{page.headerImg}})"></div>
+	<div id="js-parallax-size-l" class="parallax parallax-size-l" style="background-image:url({{ page.headerImg }})"></div>
 	<div id="js-parallax-size-m" class="parallax parallax-size-m"></div>
 	<div id="js-parallax-size-s" class="parallax parallax-size-s"></div>
 	{% endif %}
 
 	<header>
-		<nav role="navigation">
-			<a class="brand" href="{{ HOME_PATH }}">{{ site.title }}</a>
+		<nav id="navigation" role="navigation">
 				<ul>
 				{% assign pages_list = site.pages %}
 				{% assign group = 'navigation' %}
 				{% include JB/pages_list %}
 				</ul>
 		</nav>
+		<a class="brand" href="{{ HOME_PATH }}">{{ site.title }}</a>
+		<a href="#navigation" class="nav-toggler" id="js-nav-toggler">Menu</a>
 	</header>
 
 	<main>
@@ -70,5 +75,25 @@
 	</footer>
 
 	{% include JB/analytics %}
+	<script src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.0/jquery.min.js"></script>
+
+	<script>
+		$(function() {
+
+			var html = $("html");
+			var navToggler = $("#js-nav-toggler");
+			var nav = $("#navigation");
+
+			html.addClass("js");
+
+			navToggler.click(function() {
+				navToggler.toggleClass('is-active');
+				nav.toggleClass('is-active');
+				return false;
+			});
+
+		});
+	</script>
+
 </body>
 </html>

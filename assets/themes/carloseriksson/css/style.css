@@ -31,9 +31,9 @@ Section comment block
 html {
 	-webkit-text-size-adjust: 100%;
 	-ms-text-size-adjust: 100%;
+	/*padding: 1.168em 0;*/
+	background: white;
 
-	background: url(../img/distressed-bg-top-left-alt.png) no-repeat,
-				url(../img/distressed-bg-bottom-right-alt.png) no-repeat right bottom transparent;
 }
 html,
 body {
@@ -44,10 +44,14 @@ body {
 	min-height: 100%;
 	font: 400 18px/1.6180 "Merriweather", Georgia, serif;
 
-	background: transparent;
+	/*border:0.0556em solid #d4d4d4;*/
+	/*border-width: .0556em 0;*/
+	/*padding: 1.618em 0;*/
+
 	color: hsla(0,6%,12%,1);
 
-	/*background-image: linear-gradient(white 99%, black 100%);*/
+	background: url(../img/distressed-bg-top-left-alt.png) no-repeat,
+				url(../img/distressed-bg-bottom-right-alt.png) no-repeat right bottom white;
 
 	overflow-x: hidden;
 	text-rendering: optimizeLegibility;
@@ -89,6 +93,7 @@ a {
 	color:hsla(6,65%,50%,1);
 	text-decoration: none;
 	position: relative;
+	padding-bottom: .1em;
 	border-bottom: 1px dotted transparent;
 	-webkit-transition: all 150ms ease-in-out 0ms;
 	transition:     all 150ms ease-in-out 0ms;
@@ -99,7 +104,7 @@ a:visited {
 a:hover,
 a:focus,
 a:active {
-	padding-bottom:.1em;
+	padding-bottom:0;
 	border-bottom:1px dotted hsla(0,6%,12%,1);
 	-webkit-transition: all 150ms ease-in-out 0ms;
 	transition:     all 150ms ease-in-out 0ms;
@@ -149,7 +154,15 @@ ol {
 }
 ul,
 ol {
-	padding: 0;
+	padding:0;
+}
+ul {
+	list-style-type: square;
+	text-indent: 0;
+}
+ul li {
+	margin: 0 0 0 1.618em;
+	padding-left: 0.809em;
 }
 
 small,
@@ -369,6 +382,40 @@ h3 {
 }
 
 /* ==========================================================================
+   Navigation
+   ========================================================================= */
+nav {
+	text-align: right;
+}
+nav li {
+	display: inline-block;
+	margin: 0 0.809em 0 0;
+	padding: 0;
+}
+
+.nav-toggler {
+	position: absolute;
+	right:0;
+}
+nav li {
+	transform: translateY(-3.236em);
+	background: #d3d3d3;
+}
+nav li a {
+	display: block;
+	padding: 3.236em .809em .809em .809em;
+}
+nav li:nth-child(1) { transition: all 100ms ease-in-out 0ms; }
+nav li:nth-child(2) { transition: all 100ms ease-in-out 100ms; }
+nav li:nth-child(3) { transition: all 100ms ease-in-out 200ms; }
+nav li:nth-child(4) { transition: all 100ms ease-in-out 300ms; }
+nav.is-active li {
+	transform: translateY(0);
+}
+
+
+
+/* ==========================================================================
    Small stuff after post
    ========================================================================= */
 
@@ -379,6 +426,8 @@ h3 {
 .pagination li {
 	width: 49%;
 	display: table-cell;
+	margin: 0;
+	padding: 0;
 }
 .pagination li:nth-child(2) {
 	width:1em;
@@ -404,9 +453,19 @@ h3 {
 /* ==========================================================================
    Auxiliary
    ========================================================================= */
+.brand {
+	display: inline-block;
+	background: url(../svg/carlos-eriksson-mark.svg) no-repeat center center;
+	background-size: 100% 100%;
+	width:3.236em;
+	height: 3.236em;
+	text-indent: -9999px;
+}
 
 .display-inline li {
 	display: inline;
+	margin: 0;
+	padding: 0;
 }
 .align-center {
 	text-align: center;
@@ -446,11 +505,12 @@ aside {
 }
 
 header {
-
+	padding: 0 1.618em;
 }
 
 nav {
 	padding-top: 1.618em;
+	/*background: hsla(0,6%,12%,1);*/
 }
 
 section {}
@@ -474,11 +534,11 @@ body:after {
 	content: "Default";
 	display: block;
 	position: absolute;
-	top: 6em; left: 0;
+	top: 0; right: 0;
 	background: hsla(0,80%,50%,1);
 	color:white;
 	padding: .75em;
-	font-size: .75em;
+	font-size: .5em;
 }
 
 @media all and (min-width: 20.0625em) { /* 321px */
@@ -535,6 +595,9 @@ body:after {
 
 	body:after { content: "769"; background: hsla(120,80%,50%,1); }
 
+	/*html { padding: 1.618em; }*/
+	/*body { border-width: .0556em; padding: 1.618em;}*/
+
 	.parallax-size-l {
 		background-size: 21em auto;
 		background-position: right -10.5em top;
@@ -587,12 +650,13 @@ body:after {
 		top: 21.5em;
 		right: 3.5em;
 	}
-
+	
+	header,
 	main {
 		padding: 0;
 	}
 
-	nav,
+	header,
 	main,
 	footer {
 		max-width: 77.7777%;
@@ -619,7 +683,7 @@ body:after {
 		right: 11em;
 	}
 
-	nav,
+	header,
 	main,
 	footer {
 		max-width: 66.6666%;
