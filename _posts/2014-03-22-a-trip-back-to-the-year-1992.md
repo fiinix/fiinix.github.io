@@ -17,10 +17,12 @@ Now, I've already told you about my own gaming, back in [A Revisit To Nostalgia 
 
 Imagine that, 16 glorious colors on the magical <abbr title="MOS Technology VIC-II">VIC-II</abbr> with its *enormous* 320 × 200 pixels.
 
+<div>
 <figure>
 	<img src="../../../../assets/posts/a-trip-back-to-the-year-1992/c64-color-palette-rgb.png" alt="Colored stripes representing the RGB values of the Commodore 64">
-	<figcaption>The RGB values of C64. I might have made it, but it's all thanks to the [research by Philip "Pepto" Timmermann][pepto].</figcaption>
+	<figcaption>The RGB values of C64. I might have made it, but it's all thanks to the <a href="http://www.pepto.de/projects/colorvic/">research by Philip "Pepto" Timmermann</a>.</figcaption>
 </figure>
+</div>
 
 How amazing was that?
 
@@ -36,10 +38,12 @@ The <abbr title="Super Nintendo Entertainment System">SNES</abbr> with its 32768
 
 We got it last week.
 
+<div>
 <figure>
 	<img src="../../../../assets/posts/a-trip-back-to-the-year-1992/snes-console.jpg" alt="A SNES console">
 	<figcaption>Just look at this beauty.</figcaption>
 </figure>
+</div>
 
 Which, ironically, is about the same time it was made apparent that I had no idea how to tune a <abbr title="Television">TV</abbr> any more.
 
@@ -51,10 +55,12 @@ In the end---thanks to helpful tips from [Nick][nick]---I managed to get the cha
 
 The auction I had bid on came with 10 games as well so, of course, the first thing we did was go through them all to see which ones were actually worth owning and which ones were turds better left unsmelt.
 
+<div>
 <figure>
 	<img src="../../../../assets/posts/a-trip-back-to-the-year-1992/snes-games.jpg" alt="A pile of SNES games.">
 	<figcaption>Now I can suck at games that are 22 years old.</figcaption>
 </figure>
+</div>
 
 Here’s the games that came with the SNES.
 
@@ -81,10 +87,12 @@ But it also means I have no idea what games I should get him/us. From one of the
 
 A quick Google search brought me to [Dorkly][dorkly] and their appropriately titled article [The Top 25 SNES Games Of All Time][dorkly2], where they had asked readers to vote for their favorite games and with 800,000 votes I would say this is probably a fairly good resource for which games to get. “A great mix of commercial blockbusters, critical darlings, and hardcore-gamer favorites”, according to the writers.
 
+<div>
 <figure>
 	<img src="../../../../assets/posts/a-trip-back-to-the-year-1992/lucien-playing-snes.jpg" alt="Lucien playing on the SNES">
 	<figcaption>So far his legs move more than his hands when he's playing, but he'll get the hang of it soon enough.</figcaption>
 </figure>
+</div>
 
 So I’ve started wandering the digital wasteland that is Ebay in search for the treasures listed by Dorkly and actually got F-Zero and Street Fighter II in the mail this morning.
 
@@ -92,7 +100,6 @@ More games are to come.
 
 
 [revisit]: http://fiinixdesign.blogspot.co.uk/2013/01/a-revisit-to-nostalgia-avenue.html
-[pepto]: http://www.pepto.de/projects/colorvic/
 [wiki-snes]: http://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System
 [ebay]: http://www.ebay.co.uk
 [nick]: https://twitter.com/WaldorfSixpence

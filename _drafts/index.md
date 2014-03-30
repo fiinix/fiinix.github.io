@@ -1,0 +1,65 @@
+---
+layout: page
+title: Welcome
+tagline: Supporting tagline
+---
+{% include JB/setup %}
+
+
+
+<section>
+<article>
+<h1>Welcome</h1>
+<p>Yeah, I know. It’s looks like a giant mess here, but what do you expect? I’m still building, cleaning and trying things out, so everything is bound to be in a state of flux for a couple of months or so.</p>
+<p>Meanwhile, that shouldn’t stop you from exploring. Here’s some of the latest ramblings from my blog. Enjoy and don’t be scared if something appears broken… it probably is.</p>
+</article>
+{% for post in site.posts limit:5%}
+<article>
+<h2><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></h2>
+<p><time datetime="{{ post.date }}">{% assign m = post.date | date: "%B" %}
+	{% case m %}
+	{% when 'May' or June' or 'July' %}{{ %-d m }}
+	{% when 'September' %}Sept.
+	{% else %}{{ post.date | date: "%-d %b" }}.
+	{% endcase %}</time> {{ post.excerpt }}
+	<a href="{{ BASE_PATH }}{{ post.url }}">[&#126;{{ post.content | number_of_words | divided_by:180 | plus:1 | append: '&nbsp;min' }}]</a>
+</p>
+</article>
+{% endfor %}
+</section>
+
+<aside>
+<div class="introduction">
+<h3>New here?</h3>
+
+<p><small>Don’t worry. Just start from <a href="archive.html">the archive</a> and work your way <del>up</del> <del>down</del> <ins>forward</ins>.</small></p>
+
+<p><small>Sooner or later you’ll end up here again and then you know you’re done.</small></p>
+</div>
+
+<div class="frequent-topics">
+<h3>Frequent topics</h3>
+
+{% assign tags_max = 0 %}
+{% for tag in site.tags %}
+    {% if tag[1].size > tags_max %}
+        {% assign tags_max = tag[1].size %}
+    {% endif %}
+{% endfor %}
+
+<ul class="display-inline">
+{% for i in (2..tags_max) reversed %}
+    {% for tag in site.tags %}
+        {% if tag[1].size == i %}
+        <li>
+            <a class="tag" href="tags.html#{{ tag[0] | cgi_escape }}">{{ tag[0] }}</a>{% unless forloop.last %} {% endunless %}
+        </li>
+        {% endif %}
+    {% endfor %}
+{% endfor %}
+</ul>
+
+</div>
+</aside>
+
+

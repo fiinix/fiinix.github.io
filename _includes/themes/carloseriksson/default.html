@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 {% if page.color %}
-<html lang="en" style="background:{{ page.color }};">
+<html lang="en" style="background-color:{{ page.color }};">
 {% else %}
 <html lang="en">
 {% endif %}
@@ -13,7 +13,7 @@
 	<!-- Enable responsive viewport -->
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 
-	<link href='http://fonts.googleapis.com/css?family=Ubuntu:700,500|Merriweather:400,400italic' rel='stylesheet' type='text/css'>
+	<link href='http://fonts.googleapis.com/css?family=Ubuntu:700,500,300|Merriweather:400,400italic' rel='stylesheet' type='text/css'>
 
 	<!-- Le HTML5 shim, for IE6-8 support of HTML elements -->
 <!--[if lt IE 9]>
@@ -21,7 +21,7 @@
   <![endif]-->
 
   <!-- Le styles -->
-  <link href="{{ ASSET_PATH }}/css/style.css?body=1" rel="stylesheet" type="text/css" media="all">
+  <link href="{{ ASSET_PATH }}/css/screen.css" rel="stylesheet" type="text/css" media="all">
 
   <!-- Le fav and touch icons -->
 <!-- Update these with your own images
@@ -38,24 +38,30 @@
 </head>
 
 <body>
+
+		<nav id="navigation" role="navigation">
+			<ul>
+			{% assign pages_list = site.pages %}
+			{% assign group = 'navigation' %}
+			{% include JB/pages_list %}
+			</ul>
+		</nav>
+
+	<!--Viewport-->
+	<div class="container">
+
+	<header>
+		<a class="brand" href="{{ HOME_PATH }}"><span class="brand-title">Mr.</span><span class="brand-first-name">Carlos</span><span class="brand-last-name">Eriksson</span></a>
+
+		<i class="toggle-nav" id="js-toggle-nav"></i>
+		<i class="toggle-mode" id="js-toggle-mode">Mode</i>
+	</header>
 	
 	{% if page.headerImg %}
 	<div id="js-parallax-size-l" class="parallax parallax-size-l" style="background-image:url({{ page.headerImg }})"></div>
 	<div id="js-parallax-size-m" class="parallax parallax-size-m"></div>
 	<div id="js-parallax-size-s" class="parallax parallax-size-s"></div>
 	{% endif %}
-
-	<header>
-		<nav id="navigation" role="navigation">
-				<ul>
-				{% assign pages_list = site.pages %}
-				{% assign group = 'navigation' %}
-				{% include JB/pages_list %}
-				</ul>
-		</nav>
-		<a class="brand" href="{{ HOME_PATH }}">{{ site.title }}</a>
-		<a href="#navigation" class="nav-toggler" id="js-nav-toggler">Menu</a>
-	</header>
 
 	<main>
 		{{ content }}
@@ -64,15 +70,22 @@
 	<footer>
 		<p>
 			<small>
-				&copy; {{ site.time | date: '%Y' }} {{ site.author.name }}. Some rights reserved.
+				&copy; {{ site.time | date: '%Y' }} {{ site.author.name }}. Some rights reserved. Powered by <a href="http://jekyllrb.com/">Jekyll</a>. Hosted at <a href="http://fiinix.github.io/">Github</a>.
 			</small>
 		</p>
 		<p>
 			<small>
-				<a href="rss.xml">RSS</a> | <a href="atom.xml">Atom</a>
+				<a href="rss.xml" rel="alternate">RSS</a>
+				|
+				<a href="atom.xml" rel="alternate">Atom</a>
+				|
+				<a href="archive.html" rel="archives">Archive</a>
 			</small>
 		</p>
 	</footer>
+
+	</div>
+	<!--/Viewport-->
 
 	{% include JB/analytics %}
 	<script src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.0/jquery.min.js"></script>
@@ -81,14 +94,22 @@
 		$(function() {
 
 			var html = $("html");
-			var navToggler = $("#js-nav-toggler");
-			var nav = $("#navigation");
+			var body = $("body");
+			var nav = $("nav");
+			var navToggler = $("#js-toggle-nav");
+			var modeToggler = $("#js-toggle-mode");
 
 			html.addClass("js");
 
 			navToggler.click(function() {
 				navToggler.toggleClass('is-active');
 				nav.toggleClass('is-active');
+				return false;
+			});
+
+			modeToggler.click(function() {
+				modeToggler.toggleClass('is-nightmode');
+				body.toggleClass('is-nightmode');
 				return false;
 			});
 
