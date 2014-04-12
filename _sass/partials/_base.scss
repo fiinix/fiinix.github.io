@@ -1,0 +1,46 @@
+/* Flags
+========================================================================== */
+
+$debug: false;
+$overlay: true;
+
+/* Fonts
+========================================================================== */
+
+// Base Font
+$base-font-family: "Merriweather", Georgia, serif;
+$base-font-size: 18;
+$base-line-length: 55;
+$base-multiplier: 1.6;
+$base-font-weight: 400;
+
+//Header Font
+$header-font-family: "Ubuntu", sans-serif;
+$header-font-weight: 700;
+
+/* Colors
+========================================================================== */
+$crimson: hsla(345,87%,43%,1);
+$lime: yellowgreen;
+$orange: orange;
+
+// Neutrals
+
+$white: #fff;
+$black: hsla(210,100%,2%,1);
+$dark-grey: hsla(0,6%,12%,1);
+$grey: hsla(6,0%,60%,1);
+$light-grey: hsla(6,0%,83%,1);
+
+$glass: hsla(0,0%,100%,.1);
+
+// Markup selectors
+
+$primary-color: $crimson;
+$secondary-color: $lime;
+$tertiary-color: $orange;
+$accent-color: $lime;
+
+$primary-text-color: $dark-grey;
+$secondary-text-color: $grey;
+$tertiary-text-color: $light-grey;
