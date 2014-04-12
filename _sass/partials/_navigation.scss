@@ -1,0 +1,146 @@
+nav {
+	display: block;
+	width: 100%;
+	max-height: 0;
+	-webkit-transition: all 600ms cubic-bezier(0.680, -0.550, 0.265, 1.550) 300ms;
+	-moz-transition: all 600ms cubic-bezier(0.680, -0.550, 0.265, 1.550) 300ms;
+	-o-transition: all 600ms cubic-bezier(0.680, -0.550, 0.265, 1.550) 300ms;
+	transition: all 600ms cubic-bezier(0.680, -0.550, 0.265, 1.550) 300ms;
+	@include mq(1025) {
+		padding: 0;
+		max-width: 77.7777%;
+		margin: 0 11.1111% 0 5.5555%;
+	}
+	@include mq(1201) {
+		max-width: 66.6666%;
+		margin: 0 22.2222% 0 11.1111%;
+	}
+	
+	/*top: -3em;*/
+	/*max-height: 0;*/
+}
+nav ul {
+	// overflow: hidden; 
+	position: relative;
+	// max-height: 0;
+	// margin: 1.6em 0;
+	margin: 0;
+	padding: #{$base-multiplier}em #{$base-multiplier}em #{$base-multiplier*2}em #{$base-multiplier}em;
+}
+
+nav {
+	text-align: right;
+}
+nav li {
+	display: block;
+	text-align: center;
+	margin: 0;
+	padding: 0;
+	@include mq(481) {
+		display: inline-block;
+		width:49%;
+	}
+	@include mq(641) {
+		width: auto;
+		margin: 0 0 0 #{$base-multiplier*0.5}em;
+	}
+}
+
+nav li {
+	-webkit-transform: translateY(#{-$base-multiplier}em);
+	-moz-transform: translateY(#{-$base-multiplier}em);
+	-o-transform: translateY(#{-$base-multiplier}em);
+	transform: translateY(#{-$base-multiplier}em);
+	opacity: 0;
+	// background: #d3d3d3;
+}
+nav li a {
+	display: block;
+	color: $white;
+	/*padding: 3.236em .809em .809em .809em;*/
+}
+nav li:nth-child(1) {
+	@include transition(all, 100ms, ease-in-out, 50ms);
+}
+nav li:nth-child(2) {
+	@include transition(all, 100ms, ease-in-out, 100ms);
+}
+nav li:nth-child(3) {
+	@include transition(all, 100ms, ease-in-out, 150ms);
+}
+nav li:nth-child(4) {
+	@include transition(all, 100ms, ease-in-out, 200ms);
+}
+nav li:nth-child(5) {
+	@include transition(all, 100ms, ease-in-out, 250ms);
+}
+nav li:nth-child(6) {
+	@include transition(all, 100ms, ease-in-out, 300ms);
+}
+
+.nav--is-active li:nth-child(1) {
+	@include transition(all, 100ms, ease-in-out, 600ms);
+}
+.nav--is-active li:nth-child(2) {
+	@include transition(all, 100ms, ease-in-out, 550ms);
+}
+.nav--is-active li:nth-child(3) {
+	@include transition(all, 100ms, ease-in-out, 500ms);
+}
+.nav--is-active li:nth-child(4) {
+	@include transition(all, 100ms, ease-in-out, 450ms);
+}
+.nav--is-active li:nth-child(5) {
+	@include transition(all, 100ms, ease-in-out, 400ms);
+}
+.nav--is-active li:nth-child(6) {
+	@include transition(all, 100ms, ease-in-out, 350ms);
+}
+
+.nav--is-active li {
+	-webkit-transform: translateY(0);
+	-moz-transform: translateY(0);
+	-o-transform: translateY(0);
+	transform: translateY(0);
+	opacity: 1;
+}
+
+.nav--is-active {
+	-webkit-transition: all 600ms cubic-bezier(0.680, -0.550, 0.265, 1.550) 0ms;
+	-moz-transition: all 600ms cubic-bezier(0.680, -0.550, 0.265, 1.550) 0ms;
+	-o-transition: all 600ms cubic-bezier(0.680, -0.550, 0.265, 1.550) 0ms;
+	transition: all 600ms cubic-bezier(0.680, -0.550, 0.265, 1.550) 0ms;
+	max-height: #{$base-multiplier*8.75}em;
+	@include mq(481) {
+		max-height: #{$base-multiplier*5.625}em;
+	}
+	@include mq(769) {
+		max-height: #{$base-multiplier*3}em;
+	}
+}
+
+.toggle-nav {
+	display: block;
+	width: #{$base-multiplier}em;
+	height: #{$base-multiplier}em;
+	background: green;
+	cursor: pointer;
+	position: absolute;
+	top: #{$base-multiplier}em;
+	right: 0;
+}
+.toggle-nav:hover,
+.toggle-nav:focus,
+.toggle-nav:active {
+	background: lime;
+}
+
+.toggle-nav--is-active {
+	background: purple;
+}
+
+.toggle-nav--is-active:hover,
+.toggle-nav--is-active:focus,
+.toggle-nav--is-active:active {
+	background: yellow;
+}

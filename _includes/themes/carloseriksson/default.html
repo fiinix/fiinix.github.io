@@ -1,6 +1,6 @@
 <!DOCTYPE html>
-{% if page.color %}
-<html lang="en" style="background-color:{{ page.color }};">
+{% if page.tile %}
+<html lang="en" style="background-image:url({{ page.tile }});">
 {% else %}
 <html lang="en">
 {% endif %}
@@ -9,6 +9,30 @@
 	<title>{{ page.title }} | Carlos Eriksson</title>
 	{% if page.description %}<meta name="description" content="{{ page.description }}">{% endif %}
 	<meta name="author" content="{{ site.author.name }}">
+
+	<!-- Social Media Metadata -->
+
+	<!-- Google Plus -->
+	<link rel="author" href="https://plus.google.com/+CarlosEriksson/">
+
+	<!-- Facebook -->
+	<meta property="og:title" content="{{ page.title }}"/>
+	<meta property="og:type" content="blog" />
+	<meta property="og:url" content="{{ site.url }}{{ page.url }}"/>
+	<meta property="og:image" content="{{ page.tile }}"/>
+	<meta property="og:site_name" content="The Blog of Carlos Eriksson"/>
+	<meta property="og:description" content="{{ page.excerpt }}"/>
+
+	<!-- Twitter -->
+	<meta name="twitter:card" content="summary">
+	<meta name="twitter:url" content="{{ site.url }}{{ page.url }}">
+	<meta name="twitter:title" content="{{ page.title }}"/>
+	<meta name="twitter:description" content="{{ page.excerpt }}"/>
+	<meta name="twitter:image" content="{{ page.tile }}"/>
+	<meta name="twitter:creator" content="@https://twitter.com/fiinixdesign">
+	<meta name="twitter:site" content="@fiinixdesign">
+
+	<!-- /Social Media Metadata -->
 
 	<!-- Enable responsive viewport -->
 	<meta name="viewport" content="width=device-width, initial-scale=1">
@@ -48,7 +72,12 @@
 		</nav>
 
 	<!--Viewport-->
-	<div class="container">
+	<!-- {% if page.headerImg %} -->
+	<!-- <div class="container containeris-custom-post" style="background-image:url({{ page.headerImg }});"> -->
+	<!-- {% else %} -->
+	<!-- <div class="container"> -->
+	<!-- {% endif %}	 -->
+	<div class="wrapper">
 
 	<header>
 		<a class="brand" href="{{ HOME_PATH }}"><span class="brand-title">Mr.</span><span class="brand-first-name">Carlos</span><span class="brand-last-name">Eriksson</span></a>
@@ -56,16 +85,8 @@
 		<i class="toggle-nav" id="js-toggle-nav"></i>
 		<i class="toggle-mode" id="js-toggle-mode">Mode</i>
 	</header>
-	
-	{% if page.headerImg %}
-	<div id="js-parallax-size-l" class="parallax parallax-size-l" style="background-image:url({{ page.headerImg }})"></div>
-	<div id="js-parallax-size-m" class="parallax parallax-size-m"></div>
-	<div id="js-parallax-size-s" class="parallax parallax-size-s"></div>
-	{% endif %}
 
-	<main>
-		{{ content }}
-	</main>
+	{{ content }}
 
 	<footer>
 		<p>
@@ -102,14 +123,14 @@
 			html.addClass("js");
 
 			navToggler.click(function() {
-				navToggler.toggleClass('is-active');
-				nav.toggleClass('is-active');
+				navToggler.toggleClass('toggle-nav--is-active');
+				nav.toggleClass('nav--is-active');
 				return false;
 			});
 
 			modeToggler.click(function() {
-				modeToggler.toggleClass('is-nightmode');
-				body.toggleClass('is-nightmode');
+				modeToggler.toggleClass('toggle-mode--is-nightmode');
+				body.toggleClass('body--is-nightmode');
 				return false;
 			});
 

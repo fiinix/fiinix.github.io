@@ -5,7 +5,8 @@ color: "#608900"
 date: 2014-03-22
 excerpt: In this week’s episode of “Shit we did this week”, my son and I go back to the year of 1992 to experience some good old fashion gaming.
 tags : [Gaming, SNES, Super Nintendo Entertainment System, Commodore 64, C64, Killer Instinct, Jurassic Park, The Abominable Weekly Update]
-headerImg: "../../../../assets/posts/a-trip-back-to-the-year-1992/titleImage.png"
+category: blog
+tile: "../../../../assets/posts/a-trip-back-to-the-year-1992/tile.png"
 ---
 Last week I briefly mentioned that Lucien and I was going to get our retro gaming on.
 

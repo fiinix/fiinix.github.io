@@ -1,0 +1,40 @@
+p {
+	
+}
+p,
+ul,
+ol {
+	margin: 0 0 #{$base-multiplier}em 0;
+
+	-ms-word-break: normal;
+	word-break: normal;
+
+	/* Non standard for webkit */
+	word-break: break-word;
+
+	-webkit-hyphens: auto;
+	-moz-hyphens: auto;
+	-ms-hyphens: auto;
+	hyphens: auto;
+}
+ul,
+ol {
+	padding:0;
+}
+ul {
+	list-style-type: square;
+	text-indent: 0;
+}
+ul li {
+	margin: 0 0 0 #{$base-multiplier}em;
+	padding-left: #{$base-multiplier*.5}em;
+}
+
+hr {
+	display: block;
+	height: #{1/$base-font-size}em;
+	border: 0;
+	border-top: #{1/$base-font-size}em solid #d3d3d3;
+	margin: 0 0 #{$base-multiplier}em 0;
+	padding: 0;
+}

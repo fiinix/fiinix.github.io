@@ -1,0 +1,89 @@
+/* ==========================================================================
+   Hero Image
+   ========================================================================= */
+
+.container--is-custom-post {
+	background-repeat: repeat-x;
+	background-position: top -3.2em left;
+}
+
+.parallax {
+	position: absolute;
+	overflow: hidden;
+	background-repeat: no-repeat;
+	background-position: top right;
+
+	pointer-events: none;
+
+	top: #{$base-multiplier}em;
+	top: 0;
+	right: 0;
+
+	image-rendering: -moz-crisp-edges;
+	image-rendering:   -o-crisp-edges;
+	image-rendering: -webkit-optimize-contrast;
+	image-rendering: crisp-edges;
+	-ms-interpolation-mode: nearest-neighbor;
+}
+
+.parallax-size-l {
+	width: 100%;
+	height: 451px;
+	background-size: 14em auto;
+	background-position: right -7em top;
+	@include mq(769) {
+		background-size: 21em auto;
+		background-position: right -10.5em top;
+	}
+	@include mq(1025) {
+		background-size: 29em auto;
+		background-position: right -7em top;
+	}
+	@include mq(1201) {
+		background-position: right top;
+	}
+}
+
+.parallax-size-m {
+	background-image: image-url("septagon-m.png");
+	width: 256px;
+	height: 250px;
+	top: 6em;
+	right: 1em;
+	background-size: 7em auto;
+	@include mq(769) {
+		top: 11em;
+		right: 6em;
+	}
+	@include mq(1025) {
+		background-size: 14em auto;
+		top: 13em;
+		right: 8.5em;
+	}
+	@include mq(1201) {
+		top: 15em;
+		right: 14em;
+	}
+}
+
+.parallax-size-s {
+	background-image: image-url("septagon-s.png");
+	width: 128px;
+	height: 125px;
+	top: 10em;
+	right: 1em;
+	background-size: 3.5em auto;
+	@include mq(769) {
+		top: 17em;
+		right: 4em;
+	}
+	@include mq(1025) {
+		background-size: 7em auto;
+		top: 21.5em;
+		right: 3.5em;
+	}
+	@include mq(1201) {
+		top: 16em;
+		right: 11em;
+	}
+}

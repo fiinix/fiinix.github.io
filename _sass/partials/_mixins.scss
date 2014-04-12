@@ -1,0 +1,67 @@
+/* Media Query
+========================================================================== */
+@mixin mq($point, $IE9: false, $query1: min, $query2: width) {
+    @if $IE9 == true{
+        .lt-ie9 & {
+            @content;
+        }
+        @media screen and (#{$query1}-#{$query2}: $point / $base-font-size +em) {
+            @content;
+        }
+    }
+
+    @else {
+        @media screen and (#{$query1}-#{$query2}: $point / $base-font-size +em) {
+            @content;
+        }
+    }
+}
+
+/* Box-shadow
+========================================================================== */
+
+@mixin box-shadow($params) {
+    -webkit-box-shadow: $params;
+    -moz-box-shadow: $params;
+    box-shadow: $params;
+}
+
+
+/* Transition
+========================================================================== */
+$easeInOutBack:  cubic-bezier(0.680, -0.550, 0.265, 1.550);
+
+@mixin transition($transition-property: all, $transition-time: 150ms, $method: $easeInOutBack, $transition-delay: 0ms) {
+    -webkit-transition: $transition-property $transition-time $method $transition-delay;
+    -moz-transition: $transition-property $transition-time $method $transition-delay;
+    -ms-transition: $transition-property $transition-time $method $transition-delay;
+    -o-transition: $transition-property $transition-time $method $transition-delay;
+    transition: $transition-property $transition-time $method $transition-delay;
+}
+
+/* Flexbox
+========================================================================== */
+
+@mixin flexbox() {
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+}
+
+@mixin flex($values) {
+  -webkit-box-flex: $values;
+  -moz-box-flex:  $values;
+  -webkit-flex:  $values;
+  -ms-flex:  $values;
+  flex:  $values;
+}
+
+@mixin order($val) {
+  -webkit-box-ordinal-group: $val;  
+  -moz-box-ordinal-group: $val;     
+  -ms-flex-order: $val;     
+  -webkit-order: $val;  
+  order: $val;
+}

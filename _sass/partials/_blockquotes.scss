@@ -1,0 +1,19 @@
+blockquote {
+	margin:#{$base-multiplier*2}em #{$base-multiplier}em #{$base-multiplier*2}em #{$base-multiplier*2}em;
+	margin: 0 0 #{$base-multiplier}em 0;
+	padding: 0 0 0 #{$base-multiplier}em;
+	font-style: italic;
+	position: relative;
+	border-left: 0.1667em solid $primary-color;
+}
+blockquote img {
+	margin:0 0 #{$base-multiplier}em 0;
+}
+blockquote p {
+
+}
+cite {
+	display: block;
+	text-align: right;
+	color: $secondary-text-color;
+}

@@ -1,0 +1,66 @@
+a {
+	color: $primary-color;
+	text-decoration: none;
+	position: relative;
+	padding-bottom: 2/10 * 1em;
+	border-bottom: #{1/$base-font-size}em dotted transparent;
+	-ms-word-break: normal;
+	word-break: normal;
+
+	/* Non standard for webkit */
+	word-break: normal;
+
+	-webkit-hyphens: none;
+	-moz-hyphens: none;
+	-ms-hyphens: none;
+	hyphens: none;
+	@include transition;
+}
+h2 a {
+	border-bottom-width: #{0.5/$base-font-size}em ;
+}
+a:visited {
+
+}
+a:hover,
+a:focus,
+a:active {
+	padding-bottom:0;
+	border-color: $primary-text-color;
+}
+
+
+/* Special links */
+
+.spark-icons {
+	content: " ";
+	display: inline-block;
+	vertical-align: baseline;
+	position: relative;
+	width: 10px; height: 10px;
+	margin: 0 .25em 0 .25em;
+	background-image: image-url("spark-icons.png");
+	background-repeat: no-repeat;
+	background-size: auto 10px;
+	background-position: 0 0;
+	/*background-color: red;*/
+}
+
+main a[href^="http://"]:after,
+main a[href^="https://"]:after {
+	@extend .spark-icons;
+}
+
+main a[href*="wiki"]:after, {
+	@extend .spark-icons;
+	background-position: -20px 0;
+}
+main a[href^="http://www.youtube"]:after,
+main a[href^="https://www.youtube"]:after {
+	@extend .spark-icons;
+	background-position: -10px 0;
+}
+
+// Attribute selectors ending with certain file formats
+main a[href$=".pdf"] {}
+main a[href$=".doc"] {}

@@ -1,0 +1,35 @@
+.tag {
+	display: inline-block;
+	white-space: nowrap;
+	font-size:#{12/$base-font-size}em;
+	border:0;
+	background: $tertiary-text-color;
+	color: $primary-text-color;
+	margin:0 1.2135em 0 0;
+	padding:0 #{$base-multiplier/4}em;
+}
+.tag:visited,
+.body--is-nightmode .tag:visited {
+	background: $secondary-color;
+}
+.tag:hover,
+.tag:focus,
+.tag:active,
+.body--is-nightmode .tag:hover,
+.body--is-nightmode .tag:focus,
+.body--is-nightmode .tag:active {
+	padding:.4045em .809em;
+	margin: -.809em .809em -.809em -.4045em;
+	border-radius:  .809em .809em .809em 0;
+	background: $primary-color;
+	color: $white;
+	border:0;
+
+}
+
+/* When Nightmode is activated */
+
+.body--is-nightmode .tag {
+	background: $primary-text-color;
+	color: $tertiary-text-color;
+}

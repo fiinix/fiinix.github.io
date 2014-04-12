@@ -1,10 +1,14 @@
+<main class="blog blog__post" role="main">
 <section>
 
 	<h1>{{ page.title }} {% if page.tagline %}<small>{{page.tagline}}</small>{% endif %}</h1>
 
-	<p><time>{{ page.date | date: '%-d %B, %Y' }}</time></p>
+	<p class="post-timestamp"><time datetime="{{ page.date }}">{{ page.date | date: '%-d %B, %Y' }}</time></p>
 
 	<article lang="en">
+		<p class="hero">
+		{{ page.excerpt }}
+		</p>
 		{{ content }}
 	</article>
 
@@ -19,15 +23,7 @@
 		</ul>
 	</div>
 
-	<h3>This has been a post about:</h3>
-
-	{% unless page.categories == empty %}
-	<ul class="tag_box inline">
-		<li><i class="icon-folder-open"></i></li>
-		{% assign categories_list = page.categories %}
-		{% include JB/categories_list %}
-	</ul>
-	{% endunless %}  
+	<h3>This has been a post about:</h3> 
 
 	{% unless page.tags == empty %}
 	<ul class="display-inline">
@@ -59,4 +55,5 @@
 
 		{% include JB/comments %}
 
-	</section>
+</section>
+</main>

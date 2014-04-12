@@ -1,0 +1,189 @@
+@if $debug == true{
+
+/**
+ * Are there any empty elements in your page?
+ */
+:empty{
+    outline:5px solid yellow;
+}
+
+
+/**
+ * Images require `alt` attributes, empty `alt`s are fine but should be
+ * double-checked, no `alt` is bad and is flagged red.
+ */
+img{
+    outline:5px solid red;
+}
+img[alt]{
+    outline:none;
+}
+img[alt=""]{
+    outline:5px solid yellow;
+}
+
+
+/**
+ * Links sometimes, though not always, benefit from `title` attributes. Links
+ * without are never invalid but it’s a good idea to check.
+ */
+a{
+    outline:5px solid yellow;
+}
+a[title]{
+    outline:none;
+}
+
+
+/**
+ * Double-check any links whose `href` is something questionable.
+ */
+a[href="#"],
+a[href*="javascript"]{
+    outline:5px solid yellow;
+}
+
+
+/**
+ * The `target` attribute ain’t too nice...
+ */
+a[target]{
+    outline:5px solid yellow;
+}
+
+
+/**
+ * Ensure any lists only contain `li`s as children.
+ */
+ul,
+ol{
+    > *:not(li){
+        outline:5px solid red;
+    }
+}
+
+
+/**
+ * It’s always nice to give `th`s `scope` attributes.
+ */
+th{
+    outline:5px solid yellow;
+}
+th[scope]{
+    outline:none;
+}
+
+
+/**
+ * `tr`s as children of `table`s ain’t great, did you need a `thead`/`tbody`?
+ */
+table > tr{
+    outline:5px solid yellow;
+}
+
+
+/**
+ * `tfoot` needs to come *before* `tbody`.
+ */
+tbody + tfoot{
+    outline:5px solid yellow;
+}
+
+
+/**
+ * Forms require `action` attributes
+ */
+form{
+    outline:5px solid red;
+}
+form[action]{
+    outline:none;
+}
+
+
+/**
+ * Various form-field types have required attributes. `input`s need `type`
+ * attributes, `textarea`s need `rows` and `cols` attributes and submit buttons
+ * need a `value` attribute.
+ */
+textarea,
+input{
+    outline:5px solid red;
+}
+input[type]{
+    outline:none;
+}
+textarea[rows][cols]{
+    outline:none;
+}
+input[type=submit]{
+    outline:5px solid red;
+}
+input[type=submit][value]{
+    outline:none;
+}
+
+
+/**
+ * Avoid inline styles where possible.
+ */
+[style]{
+outline:5px solid yellow;
+}
+
+
+/**
+ * You should avoid using IDs for CSS, is this doing any styling?
+ */
+[id]{
+outline:5px solid yellow;
+}
+
+}/* endif */
+
+
+
+
+@if $overlay == true{
+
+/**
+ * Overlay colored box to display which "breakpoint" is active
+ */
+body:after {
+	content: "Default";
+	display: block;
+	position: absolute;
+	top: 6em;
+	left: 0;
+	background: hsla(0,80%,50%,1);
+	color: white;
+	padding: .75em;
+	font-size: .75em;
+	@include mq(321) {
+		content: "17.8333";
+		background: hsla(30,80%,50%,1);
+	}
+	@include mq(481) {
+		content: "26.7222";
+		background: hsla(60,80%,50%,1);
+	}
+	@include mq(641) {
+		content: "35.6111";
+		background: hsla(90,80%,50%,1);
+	}
+	@include mq(769) {
+		content: "42.7222";
+		background: hsla(120,80%,50%,1);
+	}
+	@include mq(1025) {
+		content: "56.9444";
+		background: hsla(150,80%,50%,1);
+	}
+	@include mq(1201) {
+		content: "66.7222";
+		background: hsla(180,80%,50%,1);
+	}
+}
+
+
+}/* endif */

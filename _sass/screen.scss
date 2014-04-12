@@ -1,0 +1,69 @@
+/* Compass */
+@import "compass";
+
+/* Third-party */
+@import "vendor/normalize";
+@import "vendor/box-sizing";
+
+/* Partials */
+@import "partials/base";
+@import "partials/mixins";
+@import "partials/auxiliary";
+
+@import "partials/selection-highlight";
+
+@import "partials/blocks";
+@import "partials/inlines";
+@import "partials/hero-image";
+@import "partials/links";
+@import "partials/buttons";
+@import "partials/headers";
+@import "partials/figures";
+@import "partials/blockquotes";
+
+@import "partials/tags";
+@import "partials/pagination";
+@import "partials/social";
+
+@import "partials/polygon";
+
+@import "partials/read-mode-toggle";
+
+@import "partials/layout";
+@import "partials/navigation";
+
+@import "partials/debug";
+
+
+/* ==========================================================================
+Section comment block
+========================================================================= */
+
+
+.facebook {}
+.twitter {}
+
+.brand {
+	display:inline-block;
+	/*background: url(../svg/carlos-eriksson-wordmark.svg) no-repeat center center;
+	background-size: 100% auto;*/
+	/*width:10em;*/
+	height: auto;
+	font: 300 1.25em/1 'Ubuntu', sans-serif;
+	text-transform: capitalize;
+	color: hsla(0,6%,12%,1);
+	/*text-indent: -9999px;*/
+}
+.brand-first-name {
+    display: none;
+    font-weight: 500;
+    @include mq(481) {
+    	display: inline-block;
+    }
+}
+.brand-title {
+	font-weight: 500;
+	@include mq(481) {
+		display: none;
+	}
+}
