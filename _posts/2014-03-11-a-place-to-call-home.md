@@ -4,6 +4,7 @@ title: A Place to Call Home
 date: 2014-03-11T22:49:00+00:00
 excerpt: An introduction as good as any other.
 tags : [First, Jekyll, Github]
+category: blog
 ---
 Welcome to the new website. It's not much of a looker yet, heck, I haven't even gotten smart quotes to work yet. But I will, because these programmers quotes annoys the shit out of me.
 
