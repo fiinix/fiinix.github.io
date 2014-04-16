@@ -13,9 +13,9 @@ tagline: Supporting tagline
 <p>Carlos Eriksson is a multilingual<sup>†</sup> Designer</sup>‡</sup> from Finland, living and working in South East England. He specialises in creating exciting and functional designs.</p>
 <p>Meanwhile, that shouldn’t stop you from exploring. Here’s some of the latest ramblings from my blog. Enjoy and don’t be scared if something appears broken… it probably is.</p>
 </article>
-{% for post in site.posts limit:5%}
+{% for post in site.categories.blog limit:5%}
 <article>
-<h2><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></h2>
+<h2><a href="{{ BASE_PATH }}{{ post.url }}" rel="bookmark">{{ post.title }}</a></h2>
 <p><time datetime="{{ post.date }}">{% assign m = post.date | date: "%B" %}
 	{% case m %}
 	{% when 'May' or June' or 'July' %}{{ %-d m }}
@@ -28,11 +28,11 @@ tagline: Supporting tagline
 {% endfor %}
 </section>
 
-<aside>
+<aside role="complementary">
 <div class="introduction">
 <h3>New here?</h3>
 
-<p><small>Don’t worry. Just start from <a href="archive.html">the archive</a> and work your way <del>up</del> <del>down</del> <ins>forward</ins>.</small></p>
+<p><small>Don’t worry. Just start from <a href="archive.html" rel="archives">the archive</a> and work your way <del>up</del> <del>down</del> <ins>forward</ins>.</small></p>
 
 <p><small>Sooner or later you’ll end up here again and then you know you’re done.</small></p>
 </div>

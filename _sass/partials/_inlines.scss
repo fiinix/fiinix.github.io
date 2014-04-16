@@ -24,6 +24,23 @@ em {}
 del { color: $secondary-text-color; }
 ins { text-decoration: none; border-bottom: #{1/$base-font-size}em dashed $secondary-text-color; }
 
+.inverted {
+	background: $black;
+	color: $white;
+	padding: 0 #{$base-multiplier*0.25}em;
+	text-transform: uppercase;
+	-ms-word-break: normal;
+	word-break: normal;
+
+	/* Non standard for webkit */
+	word-break: normal;
+
+	-webkit-hyphens: none;
+	-moz-hyphens: none;
+	-ms-hyphens: none;
+	hyphens: none;
+}
+
 .hero {
 	font-size:#{24/$base-font-size}em;
 	line-height: #{$base-multiplier/(24/18)};

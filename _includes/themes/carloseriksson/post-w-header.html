@@ -6,6 +6,9 @@
 	<p class="post-timestamp"><time datetime="{{ page.date }}">{{ page.date | date: '%-d %B, %Y' }}</time></p>
 
 	<article lang="en">
+		{% if page.discretion == true %}
+		{% include themes/carloseriksson/warning.html %}
+		{% endif %}
 		<p class="hero">
 		{{ page.excerpt }}
 		</p>

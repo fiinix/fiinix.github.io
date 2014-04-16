@@ -6,6 +6,9 @@
 	<p class="post-timestamp"><time datetime="{{ page.date }}">{{ page.date | date: '%-d %B, %Y' }}</time></p>
 
 	<article lang="en">
+		{% if page.discretion == true %}
+		{% include themes/carloseriksson/warning.html %}
+		{% endif %}
 		<p class="hero">
 		{{ page.excerpt }}
 		</p>
@@ -37,7 +40,7 @@
 
 	<div class="pagination">
 		<ul class="display-inline align-center">
-			{% if page.previous %}
+			{% if page.previous.category contains "blog" %}
 			<li class="pagination__item"><a href="{{ BASE_PATH }}{{ page.previous.url }}" title="{{ page.previous.title }}">&larr; {{ page.previous.title }}</a></li>
 			{% else %}
 			<li class="pagination__item pagination__item--is-disabled">That&rsquo;s it.</li>

@@ -25,7 +25,7 @@ ul {
 	list-style-type: square;
 	text-indent: 0;
 }
-ul li {
+li {
 	margin: 0 0 0 #{$base-multiplier}em;
 	padding-left: #{$base-multiplier*.5}em;
 }
