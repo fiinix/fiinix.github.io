@@ -17,17 +17,19 @@
 
 	<!-- Facebook -->
 	<meta property="og:title" content="{{ page.title }}"/>
-	<meta property="og:type" content="blog" />
-	<meta property="og:url" content="http://carloseriksson.com{{ page.url }}"/><!--<meta property="og:image" content="{{ page.tile }}"/>-->
+	<meta property="og:type" content="website" />
+	<meta property="og:url" content="http://carloseriksson.com{{ page.url }}/"/>
+	<meta property="og:image" content="http://carloseriksson.com/{{ page.facebook }}"/>
 	<meta property="og:site_name" content="The Blog of Carlos Eriksson"/>
-	<meta property="og:description" content="{{ page.excerpt }}"/>
+	<meta property="og:description" content="{{ page.excerpt | truncatewords: 200 }}"/>
+	<meta property="fb:app_id" content="284734295023080" />
 
 	<!-- Twitter -->
 	<meta name="twitter:card" content="summary">
-	<meta name="twitter:url" content="http://carloseriksson.com{{ page.url }}">
+	<meta name="twitter:url" content="http://carloseriksson.com{{ page.url }}/">
 	<meta name="twitter:title" content="{{ page.title }}"/>
 	<meta name="twitter:description" content="{{ page.excerpt }}"/>
-	<!--<meta name="twitter:image" content="{{ page.tile }}"/>-->
+	<meta name="twitter:image" content="http://carloseriksson.com/{{ page.twitter }}"/>
 	<meta name="twitter:creator" content="@https://twitter.com/fiinixdesign">
 	<meta name="twitter:site" content="@fiinixdesign">
 
