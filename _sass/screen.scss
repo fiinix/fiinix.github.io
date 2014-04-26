@@ -10,6 +10,8 @@
 @import "partials/mixins";
 @import "partials/auxiliary";
 
+@import "partials/font-face";
+
 @import "partials/selection-highlight";
 
 @import "partials/blocks";
@@ -25,8 +27,10 @@
 @import "partials/pagination";
 @import "partials/social";
 
-@import "partials/polygon";
+//Page specifics
+
 @import "partials/showcase";
+@import "partials/PAGE__archive";
 
 @import "partials/read-mode-toggle";
 
@@ -39,7 +43,6 @@
 /* ==========================================================================
 Section comment block
 ========================================================================= */
-
 
 .facebook {}
 .twitter {}

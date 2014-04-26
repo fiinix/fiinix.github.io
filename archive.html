@@ -6,5 +6,18 @@ group: navigation
 ---
 {% include JB/setup %}
 
-{% assign posts_collate = site.posts %}
-{% include JB/posts_collate %}
+<section>
+	{% assign posts_collate = site.posts %}
+	{% include JB/posts_collate %}
+</section>
+
+<aside role="complementary">
+	<div class="featured-posts">
+		<h3>Featured posts</h3>
+		<p>
+		<small>
+			Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor, deleniti, molestiae, doloremque non deserunt nam iure quia qui accusamus aliquam nobis explicabo aspernatur suscipit perferendis pariatur numquam tempora! Earum, numquam.
+		</small>
+		</p>
+	</div>
+</aside>

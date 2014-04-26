@@ -10,7 +10,7 @@
 		{% include themes/carloseriksson/warning.html %}
 		{% endif %}
 		<p class="hero">
-		{{ page.excerpt }}
+		{{ page.excerpt | markdownify | strip_html | trim }}
 		</p>
 		{{ content }}
 	</article>

@@ -10,7 +10,7 @@
 		{% include themes/carloseriksson/warning.html %}
 		{% endif %}
 		<p class="hero">
-		{{ page.excerpt }}
+		{{ page.excerpt | markdownify | strip_html | trim }}
 		</p>
 		{{ content }}
 	</article>
@@ -41,7 +41,7 @@
 	<div class="pagination">
 		<ul class="display-inline align-center">
 			{% if page.previous.category contains "blog" %}
-			<li class="pagination__item"><a href="{{ BASE_PATH }}{{ page.previous.url }}" title="{{ page.previous.title }}">&larr; {{ page.previous.title }}</a></li>
+			<li class="pagination__item"><a href="{{ BASE_PATH }}{{ page.previous.url }}" title="{{ page.previous.title }}">&#8672; {{ page.previous.title }}</a></li>
 			{% else %}
 			<li class="pagination__item pagination__item--is-disabled">That&rsquo;s it.</li>
 			{% endif %}
