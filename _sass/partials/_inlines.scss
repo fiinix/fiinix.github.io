@@ -10,7 +10,7 @@ time {
 	white-space: nowrap;
 }
 
-abbr[title] {
+abbr {
 	font-size:#{14/$base-font-size}em;
 	line-height: #{$base-multiplier/(14/18)};
 	text-transform: uppercase;
