@@ -1,7 +1,7 @@
 <main class="blog blog__post" role="main">
 <section>
 
-	<h1>{{ page.title }} {% if page.tagline %}<small>{{page.tagline}}</small>{% endif %}</h1>
+	<h1>{{ page.title | markdownify | strip_html | trim }} {% if page.tagline %}<small>{{page.tagline}}</small>{% endif %}</h1>
 
 	<p class="post-timestamp"><time datetime="{{ page.date }}">{{ page.date | date: '%-d %B, %Y' }}</time></p>
 
