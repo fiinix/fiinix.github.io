@@ -2,7 +2,7 @@
 layout: post
 title: Getting Inked Again
 date: 2014-04-26 T 21:00 UTC
-tags : [The Weekly Abominable Weekly Update, Tattoo, Burgers, BBQ]
+tags : [The Abominable Weekly Update, Tattoo, Burgers, BBQ]
 category: blog
 excerpt: Oooh, what's this? Another post? An Abominable Weekly Update? Well it's about time. Feast your eyes on a little of this and a little of that.
 ---

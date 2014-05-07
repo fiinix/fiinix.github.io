@@ -60,6 +60,17 @@ main a[href^="https://www.youtube"]:after {
 	@extend .spark-icons;
 	background-position: -10px 0;
 }
+main a[href^="https://www.google.com/maps/"]:after,
+main a[href^="http://www.google.com/maps/"]:after,
+main a[href^="http://www.openstreetmap.org/"]:after,
+main a[href^="http://www.openstreetmap.org/"]:after {
+	@extend .spark-icons;
+	background-position: -30px 0;
+}
+main a[href^="http://www.gutenberg.org/"]:after {
+	@extend .spark-icons;
+	background-position: -40px 0;
+}
 
 // Attribute selectors ending with certain file formats
 main a[href$=".pdf"] {}

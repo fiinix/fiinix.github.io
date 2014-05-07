@@ -10,7 +10,8 @@
 }
 .tag:visited,
 .body--is-nightmode .tag:visited {
-	background: $secondary-color;
+	background: $secondary-text-color;
+	color: $white;
 }
 .tag:hover,
 .tag:focus,

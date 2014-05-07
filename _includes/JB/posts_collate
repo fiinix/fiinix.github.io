@@ -22,24 +22,24 @@ Usage:
 {% if site.JB.posts_collate.provider == "custom" %}
   {% include custom/posts_collate %}
 {% else %}
-  {% for post in posts_collate reversed  %}
+  {% for post in posts_collate  %}
     {% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
     {% capture this_month %}{{ post.date | date: "%B" }}{% endcapture %}
-    {% capture next_year %}{{ post.next.date | date: "%Y" }}{% endcapture %}
-    {% capture next_month %}{{ post.next.date | date: "%B" }}{% endcapture %}
+    {% capture next_year %}{{ post.previous.date | date: "%Y" }}{% endcapture %}
+    {% capture next_month %}{{ post.previous.date | date: "%B" }}{% endcapture %}
   
  
 
     {% if forloop.first %}
      <h1>Archive</h1>
      <p>
-    Every post spanning back to that lonesome year 2008 when I only wrote one measly post.
+    Every post spanning back to that lonesome year of 2008 when I only wrote one measly post.
      </p>
      <p>
     Jump to any year.<a href="#2008">2008</a>, <a href="#2009">2009</a>, <a href="#2010">2010</a>, <a href="#2011">2011</a>, <a href="#2012">2012</a>, <a href="#2013">2013</a>, <a href="#2014">2014</a>.
      </p>
       <h2 id="{{this_year}}">{{this_year}}</h2>
-      <h3>{{this_month}}</h3>
+      <h3 id="{{this_year}}-{{ post.date | date: "%m" }}">{{this_month}}</h3>
       <ul class="archive">
     {% endif %}
   
@@ -78,13 +78,13 @@ Usage:
     {% else %}
       {% if this_year != next_year %}
         </ul>
-        <h2>{{next_year}}</h2>
-        <h3>{{next_month}}</h3>
+        <h2 id="{{next_year}}">{{next_year}}</h2>
+        <h3 id="{{next_year}}-{{ post.previous.date | date: "%m" }}">{{next_month}}</h3>
         <ul class="archive">
       {% else %}    
         {% if this_month != next_month %}
           </ul>
-          <h3>{{next_month}}</h3>
+          <h3 id="{{next_year}}-{{ post.previous.date | date: "%m" }}">{{next_month}}</h3>
           <ul class="archive">
         {% endif %}
       {% endif %}

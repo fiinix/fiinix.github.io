@@ -15,33 +15,50 @@
 		{{ content }}
 	</article>
 
-	<div class="social">
-		<ul class="align-right">
-			<li><h3>Spread the love</h3></li>
-			{% if page.title %}
-			<li class="social__item"><a class="button facebook" href="http://www.facebook.com/sharer.php?s=100&amp;p[url]={{ 'http://www.carloseriksson.com' | cgi_escape }}{{ page.url | cgi_escape }}[title]={{ page.title | uri_escape }}">Share on Facebook</a></li>
-			<li class="social__item"><a class="button google-plus" href="https://plus.google.com/share?url={{ 'http://www.carloseriksson.com' | cgi_escape }}{{ page.url | cgi_escape }}">Share on Google+</a></li>
-			<li class="social__item"><a class="button twitter" href="http://twitter.com/share?text={{ page.title | cgi_escape }}&url={{ 'http://www.carloseriksson.com' | cgi_escape }}{{ page.url | cgi_escape }}">Share on Twitter</a></li>	
-			{% endif %}
-		</ul>
-	</div>
+	<hr>
 
-	<h3>This has been a post about:</h3> 
+		{% unless page.tags == empty %}
 
-	{% unless page.tags == empty %}
+	<!-- site.tags[tag].size -->
+
+	{% assign tags_max = 0 %}
+{% for tag in page.tags %}
+<!-- <p>{{ tag }}</p> -->
+    {% if site.tags[tag].size > tags_max %}
+        {% assign tags_max = site.tags[tag].size %}
+<!--         <p>å säg hej -> {{ site.tags[tag].size }} assigned {{ tags_max }}</p> -->
+    {% endif %}
+{% endfor %}
+
+<ul class="display-inline">
+{% for i in (1..tags_max) reversed %}
+    {% for tag in page.tags %}
+        {% if site.tags[tag].size == i %}
+        <li>
+            <a class="tag" href="{{ BASE_PATH }}{{ site.JB.tags_path }}#{{ tag | replace: ' ', '+' }}">{{ tag }}{% if site.tags[tag].size > 1 %}<span>&nbsp;&times;&nbsp;{{ site.tags[tag].size }}</span>{% endif %}</a>{% unless forloop.last %} {% endunless %}
+        </li>
+        {% endif %}
+    {% endfor %}
+{% endfor %}
+</ul>
+
+	{% endunless %}
+
+
+	<!-- {% unless page.tags == empty %}
 	<ul class="display-inline">
 		<li><i class="icon-tags"></i></li>
 		{% assign tags_list = page.tags %}
 		{% include JB/tags_list %}
 	</ul>
-	{% endunless %}  
+	{% endunless %}   -->
 
 	<hr>
 
 	<div class="pagination">
 		<ul class="display-inline align-center">
 			{% if page.previous.category contains "blog" %}
-			<li class="pagination__item"><a href="{{ BASE_PATH }}{{ page.previous.url }}" title="{{ page.previous.title }}">&#8672; {{ page.previous.title }}</a></li>
+			<li class="pagination__item"><a href="{{ BASE_PATH }}{{ page.previous.url }}" title="{{ page.previous.title }}">&larr; {{ page.previous.title }}</a></li>
 			{% else %}
 			<li class="pagination__item pagination__item--is-disabled">That&rsquo;s it.</li>
 			{% endif %}

@@ -20,14 +20,25 @@ Usage:
 {% if site.JB.tags_list.provider == "custom" %}
   {% include custom/tags_list %}
 {% else %}
+
   {% if tags_list.first[0] == null %}
+
+  <p>{{ tags_list }}</p>
+  <p>{{ page.tags | array_to_sentence_string}}</p>
+  <p>{{ site.tags }}</p>
+
     {% for tag in tags_list %} 
-    	<li><a class="tag" href="{{ BASE_PATH }}{{ site.JB.tags_path }}#{{ tag }}-ref">{{ tag }} <span>{{ site.tags[tag].size }}</span></a></li>
+      <li><a class="tag" href="{{ BASE_PATH }}{{ site.JB.tags_path }}#{{ tag | cgi_escape }}">{{ tag }} <span>{{ site.tags[tag].size }}</span></a></li>
     {% endfor %}
+
+
   {% else %}
     {% for tag in tags_list %} 
-    	<li><a class="tag" href="{{ BASE_PATH }}{{ site.JB.tags_path }}#{{ tag[0] }}-ref">{{ tag[0] }} <span>{{ tag[1].size }}</span></a></li>
+    	<li><a class="tag" href="{{ BASE_PATH }}{{ site.JB.tags_path }}#{{ tag[0] | cgi_escape }}"><span>{{ tag[1].size }}</span> {{ tag[0] }}</a></li>
     {% endfor %}
-  {% endif %}
+
+
+{% endif %}
+
 {% endif %}
 {% assign tags_list = nil %}

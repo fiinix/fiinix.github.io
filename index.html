@@ -24,7 +24,7 @@ tagline: Supporting tagline
 	{% when 'September' %}{{ post.date | date: "%-d " | append: 'Sept.' }}
 	{% else %}{{ post.date | date: "%-d %b" }}.
 	{% endcase %}</time> {{ post.excerpt | markdownify | strip_html | trim }}
-	<a href="{{ BASE_PATH }}{{ post.url }}">[&#126;{{ post.content | number_of_words | divided_by:180 | plus:1 | append: '&nbsp;min' }}]</a>
+	<a href="{{ BASE_PATH }}{{ post.url }}">[&#126;{{ post.content | number_of_words | divided_by:180 | plus:1 | append: '&nbsp;min&nbsp;to&nbsp;read' }}]</a>
 </p>
 </article>
 {% endfor %}
