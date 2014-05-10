@@ -1,11 +1,12 @@
-p {
-	
+p,
+ul,
+ol,
+pre {
+	margin: 0 0 #{$base-multiplier}em 0;
 }
 p,
 ul,
 ol {
-	margin: 0 0 #{$base-multiplier}em 0;
-
 	-ms-word-break: normal;
 	word-break: normal;
 
@@ -32,7 +33,7 @@ li {
 
 hr {
 	display: block;
-	height: #{1/$base-font-size}em;
+	height: 1/$base-font-size +0em;
 	border: 0;
 	border-top: #{1/$base-font-size}em solid #d3d3d3;
 	margin: 0 0 #{$base-multiplier}em 0;

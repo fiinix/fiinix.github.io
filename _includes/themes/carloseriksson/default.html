@@ -95,6 +95,9 @@
 
 	<footer>
 		<p>
+			<small>&copy; {{ site.time | date: '%Y' }} {{ site.author.name }}. Some rights reserved. Made with love, lust and coffee.</small>
+		</p>
+		<!--<p>
 			<small>
 				&copy; {{ site.time | date: '%Y' }} {{ site.author.name }}. Some rights reserved. Powered by <a href="http://jekyllrb.com/">Jekyll</a>. Hosted at <a href="https://github.com/fiinix/fiinix.github.io">Github</a>.
 			</small>
@@ -107,7 +110,7 @@
 				|
 				<a href="archive.html" rel="archives">Archive</a>
 			</small>
-		</p>
+		</p>-->
 	</footer>
 
 	</div>
@@ -115,32 +118,7 @@
 
 	{% include JB/analytics %}
 	<script src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.0/jquery.min.js"></script>
-
-	<script>
-		$(function() {
-
-			var html = $("html");
-			var body = $("body");
-			var nav = $("nav");
-			var navToggler = $("#js-toggle-nav");
-			var modeToggler = $("#js-toggle-mode");
-
-			html.addClass("js");
-
-			navToggler.click(function() {
-				navToggler.toggleClass('toggle-nav--is-active');
-				nav.toggleClass('nav--is-active');
-				return false;
-			});
-
-			modeToggler.click(function() {
-				modeToggler.toggleClass('toggle-mode--is-nightmode');
-				body.toggleClass('body--is-nightmode');
-				return false;
-			});
-
-		});
-	</script>
+	<script src="{{ ASSET_PATH }}/js/library.js"></script>
 
 </body>
 </html>
