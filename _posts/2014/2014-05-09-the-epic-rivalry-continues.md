@@ -5,7 +5,7 @@ color: "#014D8F"
 date: 2014-05-10 T 16:05 UTC
 tags : [Eurovision Song Contest, Humour]
 category: blog
-excerpt: Barely in time for this year's Eurovision Song Contest I get off my high horse to judge something else, something I barely understand.
+excerpt: Barely in time for this year's Eurovision Song Contest I get off my high horse to judge what I barely understand.
 tile: "../../../../assets/posts/2014/the-epic-rivalry-continues/tile.png"
 ---
 I never remember what a pain in the ass it is to listen to 37 songs, many of which are in languages I don't understand at all, making it "incomprehensible gibberish set to weird ethnic music" most of the time. But these are the things I do because I love you, dear readers.
