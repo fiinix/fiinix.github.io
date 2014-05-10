@@ -29,7 +29,7 @@ In 10th place comes.
 
 ##Montenegro
 
-Even though I have no idea what this song is about---it could be about passionately beating midgets for money, for all I know---I really like it and unlike some other ballads this year it manages to pull a bit at my heart strings and I believe it. 2 points to [Sergej Ćetković as his Moj Svijet][montenegro].
+Even though I have no idea what this song is about---it could be about passionately beating midgets for money, for all I know---I really like it and unlike some other ballads this year it manages to pull a bit at my heart strings and I believe it. 2 points to [Sergej Ćetković ands his Moj Svijet][montenegro].
 
 <div>
 <figure>
@@ -212,7 +212,7 @@ Whilst not the best song, I think this the best Eurovision song, which is still 
 <div>
 <figure>
 	<img src="../../../../assets/posts/2014/the-epic-rivalry-continues/mk-12.png" alt="Illustration of Macedonia FYR receiving 12 points">
-	<figcaption>The One in a league of its own.</figcaption>
+	<figcaption>The One that is the very definition of Eurovision.</figcaption>
 </figure>
 </div>
 
