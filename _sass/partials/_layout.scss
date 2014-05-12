@@ -26,7 +26,8 @@ body {
 	-moz-font-feature-settings: "liga" 1, "dlig" 1, "hlig" 1, "clig" 1;
 	-moz-font-feature-settings: "liga=1, dlig=1, hlig=1, clig=1";
 	-webkit-font-feature-settings: "liga" 1, "dlig" 1, "hlig" 1, "clig" 1;
-	font-feature-settings: "liga" 1, "dlig" 1, "hlig" 1, "clig" 1; 
+	font-feature-settings: "liga" 1, "dlig" 1, "hlig" 1, "clig" 1;
+
 }
 
 .wrapper,
@@ -43,6 +44,7 @@ footer {
 .wrapper {
 	background-color: $white;
 	margin: 0 #{$base-multiplier*0.2}em #{$base-multiplier*0.2}em 0;
+	@include box-shadow(0 0 #{$base-multiplier}em 0 rgba($black, .2));
 	@include mq(481) {
 		margin: 0 #{$base-multiplier*0.5}em #{$base-multiplier*0.5}em 0;
 	}
@@ -71,9 +73,12 @@ header {
 
 /* Styling for <main> */
 main {
-	display: table;
+	display: block;
 	table-layout: fixed;
 	padding: 0 #{$base-multiplier}em;
+	@include mq(321) {
+		display: table;
+	}
 	@include mq(1025) {
 		padding: 0;
 		max-width: 77.7777%;
@@ -87,6 +92,7 @@ main {
 .showcase {
 	max-width: none;
 	margin: 0;
+	padding: 0;
 }
 
 
@@ -107,6 +113,20 @@ section {
 
 article {}
 
+.showcase article {
+	padding: 0 #{$base-multiplier}em;
+
+	@include mq(1025) {
+		padding: 0;
+		max-width: 77.7777%;
+		margin: 0 11.1111% 0 5.5555%;
+	}
+	@include mq(1201) {
+		max-width: 66.6666%;
+		margin: 0 22.2222% 0 11.1111%;
+	}
+}
+
 
 
 
@@ -116,6 +136,7 @@ aside {
 		display: table-cell;
 		vertical-align: top;
 		padding: 0 0 0 #{$base-multiplier}em;
+		min-width: 216/$base-font-size +0em;
 		width: auto;
 	}
 }
@@ -141,7 +162,8 @@ footer {
 .introduction,
 .frequent-topics,
 .hire-me,
-.quick-contact {
+.quick-contact,
+.featured-posts {
 	display: block;
 	@include mq(641) {
 		display: table-cell;

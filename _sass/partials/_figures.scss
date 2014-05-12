@@ -40,3 +40,27 @@ figcaption:before {
 	position: absolute;
 	top:0; left: 0;
 }
+
+.media-title figcaption {
+	font: normal 72px/1.2 'feast', Arial, sans-serif;
+	text-transform: uppercase;
+	color: $white;
+	text-align: center;
+	transform: rotate(-2.5deg);
+	background: $primary-color;
+	// text-shadow:	1px 1px 0 blue,
+	// 				-1px 0 0 blue,
+	// 				0 -1px 0 blue,
+	// 				-1px -1px 0 blue,
+	// 				3px 3px 0 grey,
+	// 				-3px 0 0 grey,
+	// 				0 -3px 0 grey,
+	// 				-3px -3px 0 grey;
+}
+.media-title span {
+	font-size: 48px;
+	line-height: 1.8;
+}
+.media-title figcaption:before {
+	content: none;
+}

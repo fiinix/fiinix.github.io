@@ -18,7 +18,7 @@ And maybe, just *maybe*, I was the one who mostly enjoyed that wild boar burger.
 
 <div>
 <figure>
-	<img src="../../../../assets/posts/2014/fun-filled-festivities-for-the-family/morris-dancers-at-sweeps-festival-2014-in-rochester-uk.jpg" alt="Morris dancers at the Sweeps Festival 2014, Rochester, UK">
+	<img class="lazy" data-original="../../../../assets/posts/2014/fun-filled-festivities-for-the-family/morris-dancers-at-sweeps-festival-2014-in-rochester-uk.jpg" alt="Morris dancers at the Sweeps Festival 2014, Rochester, UK">
 	<figcaption>I’ve never before seen so many different people in so many different costumes, doing the exact same dance.</figcaption>
 </figure>
 </div>
@@ -31,7 +31,7 @@ Lucien, on the other hand, wanted to ride on the merry-go-rounds and who were we
 
 <div>
 <figure>
-	<img src="../../../../assets/posts/2014/fun-filled-festivities-for-the-family/lucien-riding-a-spaceship-on-a-merry-go-round.jpg" alt="Lucien riding a spaceship on a merry-go-round">
+	<img class="lazy" data-original="../../../../assets/posts/2014/fun-filled-festivities-for-the-family/lucien-riding-a-spaceship-on-a-merry-go-round.jpg" alt="Lucien riding a spaceship on a merry-go-round">
 	<figcaption>His career as an astronaut might have been brief but it was glorious.</figcaption>
 </figure>
 </div>
@@ -50,7 +50,7 @@ Participants are encouraged to use their wildest imagination and submit a story 
 
 <div>
 <figure>
-	<img src="../../../../assets/posts/2014/fun-filled-festivities-for-the-family/lego.jpg" alt="MOC Lego Mech">
+	<img class="lazy" data-original="../../../../assets/posts/2014/fun-filled-festivities-for-the-family/lego.jpg" alt="MOC Lego Mech">
 	<figcaption>LE-05 Spring Cleaner, Prototype</figcaption>
 </figure>
 </div>
@@ -77,7 +77,7 @@ Don't bring a gun to a Cthulhu monster fight. Bring a double-barreled shotgun. A
 
 <div>
 <figure>
-	<img src="../../../../assets/posts/2014/fun-filled-festivities-for-the-family/eldritch-horror-promo-artwork.jpg" alt="Desperate man pointing a gun at his own head as Cthulhu prepares to devour his soul">
+	<img class="lazy" data-original="../../../../assets/posts/2014/fun-filled-festivities-for-the-family/eldritch-horror-promo-artwork.jpg" alt="Desperate man pointing a gun at his own head as Cthulhu prepares to devour his soul">
 	<figcaption>“Take a boat trip. You’ll enjoy a change of scenery—”, Bob thought, cursing himself for listening to Alice’s suggestion.</figcaption>
 </figure>
 </div>
