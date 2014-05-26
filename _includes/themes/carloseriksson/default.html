@@ -1,13 +1,17 @@
 <!DOCTYPE html>
-{% if page.tile %}
+{% if page.tile and page.color %}
+<html lang="en" style="background-color:{{ page.color }};background-image:url({{ page.tile }});">
+{% elsif page.tile %}
 <html lang="en" style="background-image:url({{ page.tile }});">
+{% elsif page.color %}
+<html lang="en" style="background-color:{{ page.color }};">
 {% else %}
 <html lang="en">
 {% endif %}
 <head>
 	<meta charset="utf-8">
-	<title>{{ page.title }} | Carlos Eriksson</title>
-	{% if page.description %}<meta name="description" content="{{ page.description }}">{% endif %}
+	<title>{{ page.title | markdownify | strip_html | trim }} | Carlos Eriksson</title>
+	{% if page.description %}<meta name="description" content="{{ page.description }}">{% else %}{% if page.excerpt %}<meta name="description" content="{{ page.excerpt | markdownify | strip_html | trim }}">{% endif %}{% endif %}
 	<meta name="author" content="{{ site.author.name }}">
 
 	<!-- Social Media Metadata -->
@@ -16,7 +20,7 @@
 	<link rel="author" href="https://plus.google.com/+CarlosEriksson/">
 
 	<!-- Facebook -->
-	<meta property="og:title" content="{{ page.title }}"/>
+	<meta property="og:title" content="{{ page.title | markdownify | strip_html | trim }}"/>
 	<meta property="og:type" content="website" />
 	<meta property="og:url" content="http://carloseriksson.com{{ page.url }}/"/>
 	<meta property="og:image" content="http://carloseriksson.com{{ page.facebook }}"/>
@@ -29,7 +33,7 @@
 	<!-- Twitter -->
 	<meta name="twitter:card" content="summary">
 	<meta name="twitter:url" content="http://carloseriksson.com{{ page.url }}/">
-	<meta name="twitter:title" content="{{ page.title }}"/>
+	<meta name="twitter:title" content="{{ page.title | markdownify | strip_html | trim }}"/>
 	{% if page.excerpt %}
 	<meta name="twitter:description" content="{{ page.excerpt  | markdownify | strip_html | trim }}"/>
 	{% endif %}

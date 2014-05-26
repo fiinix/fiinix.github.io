@@ -43,23 +43,23 @@ footer {
 
 .wrapper {
 	background-color: $white;
-	margin: 0 #{$base-multiplier*0.2}em #{$base-multiplier*0.2}em 0;
-	@include box-shadow(0 0 #{$base-multiplier}em 0 rgba($black, .2));
+	margin: 0 $base-space-xs $base-space-xs 0;
+	@include box-shadow(0 0 $base-space 0 rgba($black, .1));
 	@include mq(481) {
-		margin: 0 #{$base-multiplier*0.5}em #{$base-multiplier*0.5}em 0;
+		margin: 0 $base-space-s $base-space-s 0;
 	}
 	@include mq(641) {
-		margin: 0 #{$base-multiplier}em #{$base-multiplier}em 0;
+		margin: 0 $base-space $base-space 0;
 	}
 	@include mq(769) {
-		margin: 0 #{$base-multiplier*2}em #{$base-multiplier*2}em 0;
+		margin: 0 $base-space-xl $base-space-xl 0;
 	}
 }
 
 header {
-	padding: #{$base-multiplier}em;
+	padding: $base-space;
 	@include mq(1025) {
-		padding: #{$base-multiplier}em 0;
+		padding: $base-space 0;
 		max-width: 77.7777%;
 		margin: 0 11.1111% 0 5.5555%;
 	}
@@ -75,7 +75,7 @@ header {
 main {
 	display: block;
 	table-layout: fixed;
-	padding: 0 #{$base-multiplier}em;
+	padding: 0 $base-space;
 	@include mq(321) {
 		display: table;
 	}
@@ -89,11 +89,6 @@ main {
 		margin: 0 22.2222% 0 11.1111%;
 	}
 }
-.showcase {
-	max-width: none;
-	margin: 0;
-	padding: 0;
-}
 
 
 section {
@@ -104,28 +99,11 @@ section {
 		max-width: $base-font-size/$base-line-length *100em;
 	}
 }
-.showcase section {
-	max-width: none;
-}
 
 
 
 
 article {}
-
-.showcase article {
-	padding: 0 #{$base-multiplier}em;
-
-	@include mq(1025) {
-		padding: 0;
-		max-width: 77.7777%;
-		margin: 0 11.1111% 0 5.5555%;
-	}
-	@include mq(1201) {
-		max-width: 66.6666%;
-		margin: 0 22.2222% 0 11.1111%;
-	}
-}
 
 
 
@@ -135,7 +113,7 @@ aside {
 	@include mq(769) {
 		display: table-cell;
 		vertical-align: top;
-		padding: 0 0 0 #{$base-multiplier}em;
+		padding: 0 0 0 $base-space;
 		min-width: 216/$base-font-size +0em;
 		width: auto;
 	}
@@ -145,11 +123,11 @@ aside {
 
 footer {
 	border-top: #{1/$base-font-size}em solid $tertiary-text-color;
-	padding: #{$base-multiplier}em;
+	padding: $base-space;
 	@include mq(1025) {
 		max-width: 77.7777%;
 		margin: 0 11.1111% 0 5.5555%;
-		padding: #{$base-multiplier}em 0;
+		padding: $base-space 0;
 	}
 	@include mq(1201) {
 		max-width: 66.6666%;
@@ -172,13 +150,13 @@ footer {
 	@include mq(769) {
 		display: block;
 		width: 100%;
-		// padding: 0 0 0 #{$base-multiplier}em;
+		// padding: 0 0 0 $base-space;
 	}
 }
 
 .introduction {
 	@include mq(641) {
-		padding: 0 #{$base-multiplier/2}em 0 0;
+		padding: 0 $base-space-s 0 0;
 	}
 	@include mq(769) {
 		padding: 0;
@@ -186,7 +164,7 @@ footer {
 }
 .frequent-topics {
 	@include mq(641) {
-		padding: 0 0 0 #{$base-multiplier/2}em;
+		padding: 0 0 0 $base-space-s;
 	}
 	@include mq(769) {
 		padding: 0;
