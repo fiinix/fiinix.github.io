@@ -5,7 +5,7 @@
 
 	<p class="post-timestamp"><time datetime="{{ page.date }}">{{ page.date | date: '%-d %B, %Y' }}</time></p>
 
-	<article lang="en">
+	<article lang="en"{% if page.color %} style="border-color:{{ page.color }};"{% endif %}>
 		{% if page.discretion == true %}
 		{% include themes/carloseriksson/warning.html %}
 		{% endif %}
@@ -33,7 +33,7 @@
     {% for tag in page.tags %}
         {% if site.tags[tag].size == i %}
         <li>
-            <a class="tag" href="{{ BASE_PATH }}{{ site.JB.tags_path }}#{{ tag | replace: ' ', '+' }}">{{ tag }}{% if site.tags[tag].size > 1 %}<span>&nbsp;&times;&nbsp;{{ site.tags[tag].size }}</span>{% endif %}</a>{% unless forloop.last %} {% endunless %}
+            <a class="tag" title="Find all posts tagged in: {{ tag }}" href="{{ BASE_PATH }}{{ site.JB.tags_path }}#{{ tag | replace: ' ', '+' }}">{{ tag }}{% if site.tags[tag].size > 1 %}<span>&nbsp;&times;&nbsp;{{ site.tags[tag].size }}</span>{% endif %}</a>{% unless forloop.last %} {% endunless %}
         </li>
         {% endif %}
     {% endfor %}
@@ -68,13 +68,25 @@
 
 		<hr>
 
-		<p class="align-center">
-			<button class="js-request-disqus icon icon--disqus">read/write a comment</button>
-		</p>
+	<p class="align-center">
+		<button class="js-request-disqus icon__disqus">Read/write a comment</button>
+		<button class="js-share icon__share">Share</button>
+	</p>
 
-		<div class="comments js-disqus-comments">
-		 <div id="disqus_thread"></div>
-		</div>
+	<div class="social-links">
+		<ul>
+			<li><a href="#" class="button icon__facebook">Share this</a></li>
+			<li><a href="#" class="button icon__twitter">Tweet this</a></li>
+			<li><a href="#" class="button icon__pinterest">Pin this</a></li>
+			<li><a href="#" class="button icon__tumblr">Do Something</a></li>
+			<li><a href="#" class="button icon__tumblr">Do Something</a></li>
+			<li><a href="#" class="button icon__tumblr">Do Something</a></li>
+		</ul>
+	</div>
+
+	<div class="comments js-disqus-comments">
+		<div id="disqus_thread"></div>
+	</div>
 
 </section>
 </main>

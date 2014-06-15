@@ -43,7 +43,7 @@ The previous expo had 88,000 participants and notable guests such as [Roger Crai
 </figure>
 </div>
 
-Disappointingly I feel like the best stories I have, have no photos to verify their validity other than my word for it. Like the guy who was dressed Captain Jack Sparrow from the Pirates of the Caribbean film series and did an amazingly accurate cosplay including the mannerisms and swagger of Johnny Depp's portrayal.
+Disappointingly I feel like the best stories I have, have no photos to verify their validity other than my word for it. Like the guy who was dressed as Captain Jack Sparrow from the Pirates of the Caribbean film series and did an amazingly accurate cosplay including the mannerisms and swagger of Johnny Depp's portrayal.
 
 Or the five people, all dressed in card board boxes, chasing each other as Solid Snake from the Metal Gear Solid series.
 
