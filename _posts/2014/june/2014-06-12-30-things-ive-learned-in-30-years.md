@@ -5,6 +5,7 @@ date: 2014-06-15 T 22:00 UTC
 tags : [On Turning Thirty]
 category: blog
 excerpt: In honour of tomorrow's special day—It's my birthday—I wanted to give you all a really special post. But I couldn't come up with anything special.
+facebook: "../../../../assets/posts/2014/june/30-thing-ive-learned-in-30-years/facebook-og-image.jpg"
 ---
 > Do not let your fire go out, spark by irreplaceable spark, in the hopeless swamps of the approximate, the not-quite, the not-yet, the not-at-all. Do not let the hero in your soul perish, in lonely frustration for the life you deserved, but have never been able to reach. Check your road and the nature of your battle. The world you desired can be won, it exists, it is real, it is possible, it is yours. <cite>Ayn Rand</cite>
 
