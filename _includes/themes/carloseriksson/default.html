@@ -23,7 +23,7 @@
 	<meta property="og:title" content="{{ page.title | markdownify | strip_html | trim }}"/>
 	<meta property="og:type" content="website" />
 	<meta property="og:url" content="http://carloseriksson.com{{ page.url }}/"/>
-	<meta property="og:image" content="http://carloseriksson.com{{ page.facebook }}"/>
+	<meta property="og:image" content="http://carloseriksson.com/{{ page.facebook }}"/>
 	<meta property="og:site_name" content="The Blog of Carlos Eriksson"/>
 	{% if page.excerpt %}
 	<meta property="og:description" content="{{ page.excerpt | markdownify | strip_html | trim }}"/>
@@ -91,8 +91,8 @@
 	<header>
 		<a class="brand" href="{{ HOME_PATH }}"><span class="brand-title">Mr.</span><span class="brand-first-name">Carlos</span><span class="brand-last-name">Eriksson</span></a>
 
-		<i class="toggle-nav" id="js-toggle-nav"></i>
-		<i class="toggle-mode" id="js-toggle-mode">Mode</i>
+	<button class="toggle-nav" id="js-toggle-nav"><i class="icon__menu"></i>Menu</button>
+	<button class="toggle-mode" id="js-toggle-mode"><i class="icon__mode">Night</i></button>
 	</header>
 
 	{{ content }}
@@ -109,9 +109,9 @@
 		<p>
 			<small>
 				<a href="rss.xml" rel="alternate">RSS</a>
-				|
+				·
 				<a href="atom.xml" rel="alternate">Atom</a>
-				|
+				·
 				<a href="archive.html" rel="archives">Archive</a>
 			</small>
 		</p>-->
