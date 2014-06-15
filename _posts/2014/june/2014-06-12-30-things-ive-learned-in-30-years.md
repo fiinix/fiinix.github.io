@@ -30,7 +30,7 @@ Especially strangers who are willing to share images like this one.
 
 <div>
 <figure>
-	<img src="../../../../assets/posts/2014/june/30-thing-ive-learned-in-30-years/i-am-buzz-lightyear-i-cum-in-pies.jpg" alt="Child&rsquo;s drawing of Buzz Lightyear, saying &ldquo;I am Buzz Lightyear, I cum in pies&rdquo;">
+	<img class="lazy" data-original="../../../../assets/posts/2014/june/30-thing-ive-learned-in-30-years/i-am-buzz-lightyear-i-cum-in-pies.jpg" alt="Child&rsquo;s drawing of Buzz Lightyear, saying &ldquo;I am Buzz Lightyear, I cum in pies&rdquo;">
 	<figcaption>The importance of correct spelling.</figcaption>
 </figure>
 </div>
