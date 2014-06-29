@@ -103,7 +103,7 @@ From desperately attempting to defeat the Spinner of Webs in Greenland, where my
 </figure>
 </div>
 
-Unfortunately, it was also getting late and after playing for about 5 hours we have to give up early. But it was probably for the best anyway as I'm pretty sure we would have gotten our asses kicked as Yog-Sothoth was about to awaken and I had been told that shot goes from "hitting the fan" to "smeared all over the walls" once that happens.
+Unfortunately, it was also getting late and after playing for about 5 hours we have to give up early. But it was probably for the best anyway as I'm pretty sure we would have gotten our asses kicked as Yog-Sothoth was about to awaken and I had been told that shit goes from "hitting the fan" to "smeared all over the walls" once that happens.
 
 In conclusion, I enjoyed Eldritch Horror a lot and give it <abbr title="5 stars out of 5">★&nbsp;★&nbsp;★&nbsp;★&nbsp;★</abbr>. I really want to play it again soon, especially after realising we had been using Epic Monsters together with the Normal ones---drawing either one--making the game much more difficult than it needed to be.
 

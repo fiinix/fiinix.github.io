@@ -6,8 +6,10 @@ $(function() {
     var html = $('html');
     var body = $('body');
     var nav = $('nav');
+    var socialLinks = $('.social-links');
     var navToggler = $('#js-toggle-nav');
     var modeToggler = $('#js-toggle-mode');
+    var socialToggler = $('#js-toggle-social-links');
 
     var disqusComments = $('.js-disqus-comments');
     var disqusLoaded = false;
@@ -45,6 +47,12 @@ $(function() {
     modeToggler.click(function() {
         modeToggler.toggleClass('toggle-mode--is-nightmode');
         body.toggleClass('body--is-nightmode');
+        return false;
+    });
+
+    socialToggler.click(function() {
+        socialToggler.toggleClass('toggle-social-links--is-active');
+        socialLinks.toggleClass('social-links--is-active');
         return false;
     });
 
