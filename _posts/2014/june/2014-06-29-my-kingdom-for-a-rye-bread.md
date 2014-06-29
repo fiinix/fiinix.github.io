@@ -5,7 +5,7 @@ date: 2014-06-29 T 14:00 UTC
 tags : [Health, Recipe, Nordic Cuisine, Birthday]
 category: blog
 excerpt: It's been too long since I've had some rye bread and left with few options I suppose I'll just have to make my own. Oh no.
-facebook: "assets/posts/2014/june/my-kingdom-for-a-rye-bread/facebook-og-image.png"
+facebook: "assets/posts/2014/june/my-kingdom-for-a-rye-bread/facebook-og-image.jpg"
 twitter: "assets/posts/2014/june/my-kingdom-for-a-rye-bread/twitter-image.jpg"
 ---
 As someone who grew up eating many kilos of rye crispbread---*knäckebröd*---every year I've always been very fond of it, despite eating less as I've grown older.
