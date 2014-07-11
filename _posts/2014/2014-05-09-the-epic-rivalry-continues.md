@@ -29,7 +29,7 @@ In 10th place comes.
 
 ##Montenegro
 
-Even though I have no idea what this song is about---it could be about passionately beating midgets for money, for all I know---I really like it and unlike some other ballads this year it manages to pull a bit at my heart strings and I believe it. 2 points to [Sergej Ćetković ands his Moj Svijet][montenegro].
+Even though I have no idea what this song is about---it could be about passionately beating midgets for money, for all I know---I really like it and unlike some other ballads this year it manages to pull a bit at my heart strings and I believe it. 2 points to [Sergej Ćetković and his Moj Svijet][montenegro].
 
 <div>
 <figure>

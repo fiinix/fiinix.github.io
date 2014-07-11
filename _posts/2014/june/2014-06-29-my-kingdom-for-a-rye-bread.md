@@ -46,7 +46,7 @@ Which is what I'm now republishing here, with my own <mark>annotations,</mark> w
 
 Put the flour into a large bowl and add the salt. Warm the water to about 22C (if you don't have a thermometer get the water pleasantly warm). <mark>Because everyone knows what "pleasantly warm" feels like?</mark> Crumble the yeast into the water and whisk until the water is milky and has virtually dissolved.
 
-Pour the yeast mixture into the flour and stir. The result will be sticky, stiff and wet. <mark>So fucking sticky it's not even funny.</mark> Cover the bowl with clingfilm or a cloth and leave in a warm place for an hour, during which time it will rise a little. Don't expect the rise to be as voluminous as with white dough---it should just be a little puffed up. <mark>Or not really at all I you're impatient like me in this case.</mark>
+Pour the yeast mixture into the flour and stir. The result will be sticky, stiff and wet. <mark>So fucking sticky it's not even funny.</mark> Cover the bowl with clingfilm or a cloth and leave in a warm place for an hour, during which time it will rise a little. Don't expect the rise to be as voluminous as with white dough---it should just be a little puffed up. <mark>Or not really at all if you're impatient like me in this case.</mark>
 
 Line a baking sheet---or better still, two---with baking parchment. (You will need to bake these large breads in batches.) Set the oven at 200C/gas mark 6.
 
