@@ -25,7 +25,7 @@ No, it's---
 
 Yeah, it's one of those. Again.
 
-This week has been mostly rather uneventful, barring the ominous thunderstorms that interrupted the heatwave we've experienced this entire week.
+This week has been rather uneventful, barring the ominous thunderstorms that interrupted the heatwave we've experienced this entire week.
 
 <div>
 <figure>
@@ -66,7 +66,7 @@ The onslaught of 10 superhero themed children, including my own. Faced with thes
 
 Being the world's greatest detective I deduced that the only thing that would subdue these <del>creatures</del> <ins>children</ins>, was cake.
 
-Thankfully, Rebecka---who was dresses as Bubbles---had baked a appropriate themed birthday cake, thus we were able to bribe them with a bat cake.
+Thankfully, Rebecka---who was dressed as Bubbles---had baked an appropriately themed birthday cake, giving us the leverage we needed to bribe them with a bat cake.
 
 <div>
 <figure>
@@ -77,7 +77,7 @@ Thankfully, Rebecka---who was dresses as Bubbles---had baked a appropriate theme
 
 And in the end, Lucien's birthday party went awesomely---much thanks to Batman keeping everyone safe, if I may say so myself---and everyone had a, hopefully, great time.
 
-Cake was eaten, balloons were blown up, only to be popped within the first 5 minutes, tears were shed
+Cake was eaten, balloons were blown up, only to be popped within the first 5 minutes, tears were shed, laughs were had, and no one died.
 
 <div>
 <figure>
