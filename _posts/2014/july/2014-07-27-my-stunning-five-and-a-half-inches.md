@@ -2,7 +2,7 @@
 layout: post
 title: "My Stunning 5 and a Half Inches"
 date: 2014-07-27 T 14:30 UTC
-tags : [The Weekly Abominable Update, LG G3, Smartphone]
+tags : [The Abominable Weekly Update, LG G3, Smartphone]
 category: blog
 excerpt: In which I give in to O2's constant pestering and renew my contract with them and get a new phone.
 ---
