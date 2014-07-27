@@ -1,13 +1,14 @@
 blockquote {
-	margin:#{$base-multiplier*2}em #{$base-multiplier}em #{$base-multiplier*2}em #{$base-multiplier*2}em;
-	margin: 0 0 #{$base-multiplier}em 0;
-	padding: 0 0 0 #{$base-multiplier}em;
+	margin: 0 0 $base-space 0;
+	padding: 0 0 0 $base-space;
 	font-style: italic;
 	position: relative;
-	border-left: 0.1667em solid $primary-color;
+	border-left-style: solid;
+	border-left-width: $base-space-xs;
+	border-left-color: inherit;
 }
 blockquote img {
-	margin:0 0 #{$base-multiplier}em 0;
+	margin:0 0 $base-space 0;
 }
 blockquote p {
 
@@ -17,3 +18,9 @@ cite {
 	text-align: right;
 	color: $secondary-text-color;
 }
+
+$base-space-xl: $base-multiplier *2 +0em;
+$base-space-l: $base-multiplier *1.5 +0em;
+$base-space: $base-multiplier +0em;
+$base-space-s: $base-multiplier *0.5 +0em;
+$base-space-xs: $base-multiplier *0.25 +0em;

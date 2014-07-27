@@ -21,6 +21,7 @@ abbr[title] {
 }
 
 em {}
+mark { background-color: #FFFF4D; }
 
 del { color: $secondary-text-color; }
 ins { text-decoration: none; border-bottom: #{1/$base-font-size}em dashed $secondary-text-color; }

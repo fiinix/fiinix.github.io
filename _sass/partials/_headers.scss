@@ -9,6 +9,10 @@ h1 {
 	line-height: 1;
 	margin:0 0 1.427em 0;
 	margin: 0 0 #{$base-multiplier}em 0;
+	text-shadow: 4px 3px 0px #fff, 9px 8px 0px rgba(0,0,0,0.12);
+}
+.body--is-nightmode h1 {
+	text-shadow: 4px 3px 0px #00050a, 9px 8px 0px rgba(255,255,255,0.12);
 }
 .blog h1 {
 	// max-width: $base-font-size/$base-line-length *37.4995em;

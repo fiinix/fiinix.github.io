@@ -1,0 +1,72 @@
+<figure class="showcase__hero-image">
+	<img class="lazy" data-original="{{ page.hero }}" alt="{{ page.title | markdownify | strip_html | trim }}{{page.tagline}}" style="border-color:{{ page.color }};">
+</figure>
+<main class="showcase showcase__post" role="main">
+<section>
+
+	<h1 {% if page.color %}style="color:{{ page.color }};"{% endif %}>
+		{{ page.title | markdownify | strip_html | trim }}
+	</h1>
+
+	<p class="post-timestamp"><time datetime="{{ page.date }}">{{ page.date | date: '%B, %Y' }}</time></p>
+
+	<article lang="en"{% if page.color %} style="border-color:{{ page.color }};"{% endif %}>
+		<p class="hero">
+		{{ page.excerpt | markdownify | strip_html | trim }}
+		</p>
+		{{ content }}
+	</article>
+
+	<div class="align-right">
+		<p>
+			<a href="#top" title="Jump to the top of the page">&uarr; Back to top</a>
+		</p>
+	</div>
+
+	<hr>
+
+	{% include JB/pagination %}
+
+		<hr>
+
+		<p class="align-center">
+			<small>
+				<em>Comments disabled for Showcase items.</em>
+			</small>
+		</p>
+
+</section>
+<aside role="complementary">
+
+	{% if page.link1 %}
+	<h3>{{ page.link1 }}</h3>
+	<p><a href="{{ page.link1-link }}" title="{{ page.link1-label }}">{{ page.link1-label }}</a></p>
+	{% endif %}
+
+	{% if page.link2 %}
+	<h3>{{ page.link2 }}</h3>
+	<p><a href="{{ page.link2-link }}" title="{{ page.link2-label }}">{{ page.link2-label }}</a></p>
+	{% endif %}
+
+	{% unless page.tags == empty %}
+	{% assign tags_max = 0 %}
+	{% for tag in page.tags %}
+    {% if site.tags[tag].size > tags_max %}
+        {% assign tags_max = site.tags[tag].size %}
+    {% endif %}
+    {% endfor %}
+    <h3>Tagged in</h3>
+    <ul class="display-inline">
+    	{% for i in (1..tags_max) reversed %}
+    	{% for tag in page.tags %}
+    	{% if site.tags[tag].size == i %}
+    	<li>
+    		<a class="tag" title="{{ tag }}" href="{{ BASE_PATH }}{{ site.JB.tags_path }}#{{ tag | replace: ' ', '+' }}">{{ tag }}{% if site.tags[tag].size > 1 %}<span>&nbsp;&times;&nbsp;{{ site.tags[tag].size }}</span>{% endif %}</a>{% unless forloop.last %} {% endunless %}
+        </li>
+		{% endif %}
+	{% endfor %}
+{% endfor %}
+</ul>
+{% endunless %}
+</aside>
+</main>

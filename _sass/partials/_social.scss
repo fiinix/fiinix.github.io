@@ -1,6 +1,63 @@
-.social ul {
-	list-style: none;
-}
-.social__item {}
+$facebook: #3b5998;
+$twitter: #55acee;
+$pinterest: #cc2127;
+$google-plus: #dd4b39;
 
-.social__item--is-disabled {}
+.social-links {
+
+	ul {
+		list-style: none;
+	}
+	li {
+		display: inline;
+		margin: 0;
+	}
+
+	a {
+		color: $white;
+		white-space: nowrap;
+	}
+	.facebook {
+		background-color: $facebook;
+
+		&:hover,
+		&:focus,
+		&:active {
+			border-color: $facebook;
+			background-color: $white;
+		}
+	}
+	.twitter {
+		background-color: $twitter;
+
+		&:hover,
+		&:focus,
+		&:active {
+			border-color: $twitter;
+			background-color: $white;
+		}
+	}
+	.google-plus {
+		background-color: $google-plus;
+
+		&:hover,
+		&:focus,
+		&:active {
+			border-color: $google-plus;
+			background-color: $white;
+		}
+	}
+	.pinterest {
+		background-color: $pinterest;
+
+		&:hover,
+		&:focus,
+		&:active {
+			border-color: $pinterest;
+			background-color: $white;
+		}
+	}
+	.email {
+		
+	}
+}

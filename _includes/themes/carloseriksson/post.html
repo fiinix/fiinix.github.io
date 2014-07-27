@@ -50,40 +50,25 @@
 
 	<hr>
 
-
-	<!-- {% unless page.tags == empty %}
-	<ul class="display-inline">
-		<li><i class="icon-tags"></i></li>
-		{% assign tags_list = page.tags %}
-		{% include JB/tags_list %}
-	</ul>
-	{% endunless %}   -->
-
-	<div class="pagination">
-		<ul class="display-inline align-center">
-			{% if page.previous.category contains "blog" %}
-			<li class="pagination__item"><a href="{{ BASE_PATH }}{{ page.previous.url }}" title="{{ page.previous.title }}">&larr; {{ page.previous.title }}</a></li>
-			{% else %}
-			<li class="pagination__item pagination__item--is-disabled">That&rsquo;s it.</li>
-			{% endif %}
-			<li>|</li>
-			{% if page.next %}
-			<li class="pagination__item"><a href="{{ BASE_PATH }}{{ page.next.url }}" title="{{ page.next.title }}">{{ page.next.title }} &rarr;</a></li>
-			{% else %}
-			<li class="pagination__item pagination__item--is-disabled">That&rsquo;s it.
-				{% endif %}
-			</ul>
-		</div>
+	{% include JB/pagination %}
 
 		<hr>
 		
 		<p class="align-center">
-			<button class="js-request-disqus icon icon--disqus">read/write a comment</button>
-		</p>
+		<small>
+			<em>Commenting without registration is possible but you&rsquo;ll miss out on email notifications of new comments, which includes replies to your comments.</em>
+		</small>
+	</p>
+	<p class="align-center">
+		<button class="toggle-disqus js-request-disqus">
+			<i class="icon toggle-disqus__icon"></i>
+			<span class="toggle-disqus__label">Comments</span>
+		</button>
+	</p>
 
-		<div class="comments js-disqus-comments">
-		 <div id="disqus_thread"></div>
-		</div>
+	<div class="comments js-disqus-comments">
+		<div id="disqus_thread"></div>
+	</div>
 
 </section>
 </main>

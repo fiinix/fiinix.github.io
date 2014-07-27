@@ -14,9 +14,24 @@ $base-font-size: 18;
 $base-line-length: 55;
 $base-multiplier: 1.6;
 
+$base-space-xl: $base-multiplier *2 +0em;
+$base-space-l: $base-multiplier *1.5 +0em;
+$base-space: $base-multiplier +0em;
+$base-space-s: $base-multiplier *0.5 +0em;
+$base-space-xs: $base-multiplier *0.25 +0em;
+
 //Header Font
 $header-font-family: "Ubuntu", sans-serif;
 $header-font-weight: 700;
+
+/* Transition
+========================================================================== */
+$easeInOutBack:  cubic-bezier(0.680, -0.550, 0.265, 1.550);
+
+$transition-property-default: all;
+$transition-duration-default: 150ms;
+$transition-function-default: $easeInOutBack;
+$transition-delay-default: 0ms;
 
 /* Colors
 ========================================================================== */

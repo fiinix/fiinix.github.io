@@ -1,32 +1,58 @@
 .button,
 button {
-	padding: $base-multiplier *0.5 +0em $base-multiplier +0em;
-	background: $primary-color;
+	padding: $base-space-s $base-space-l;
+	margin: 0 $base-space-s $base-space-s 0;
+	background-color: $primary-color;
 	color: $white;
-	border: 0;
-	font-size:.7778em;
-	line-height: 2.0803em;
+	border: 2px solid transparent;
+	font: 300 .7778em/2.0803 'Ubuntu', sans-serif;
 	text-transform: uppercase;
-	border-radius: #{$base-multiplier}em #{$base-multiplier}em #{$base-multiplier}em 0;
+	border-radius: $base-space-l;
 	position: relative;
 
-	&:visited,
-	&.is-disabled {
+	&:visited {
 		background: $tertiary-text-color;
 		color: $primary-text-color;
 	}
 	&:hover,
 	&:focus,
 	&:active {
-		background: $secondary-color;
+		// background-color: $white;
+		// background-image: image-url("white-noise-d.gif");
 		z-index: 3000;
-		color: $black;
-		border-radius: #{$base-multiplier *2}em #{$base-multiplier *2}em #{$base-multiplier *2}em 0;
-		padding: $base-multiplier +0em $base-multiplier *2 +0em;
-		margin: (- $base-multiplier *0.5 +0em) (- $base-multiplier +0em) (- $base-multiplier *0.5 +0em) (- $base-multiplier +0em);
+		color: $white;
+		border-color: $primary-color;
+		border-radius: $base-space-l $base-space-l $base-space-l 0;
+		padding: $base-space-s $base-space-l;
+		margin: 0 $base-space-s $base-space-s 0;
+
+		@include transition(all, 0ms, ease-in-out, 0ms);
+		// padding: $base-multiplier +0em $base-multiplier *2 +0em;
+		// margin: (- $base-multiplier *0.5 +0em) (- $base-multiplier +0em) (- $base-multiplier *0.5 +0em) (- $base-multiplier +0em);
 	}
 
-	@include transition;
+	&.is-disabled {
+
+		cursor: default;
+		pointer-events: none;
+		background: $tertiary-text-color;
+		color: $primary-text-color;
+		border-color: transparent;
+		border-radius: $base-space-l;
+
+		&:hover,
+		&:focus,
+		&:active {
+			cursor: default;
+			pointer-events: none;
+			background: $tertiary-text-color;
+			color: $primary-text-color;
+			border-color: transparent;
+			border-radius: $base-space-l;
+		}
+	}
+
+	@include transition(all, 450ms, ease-in-out, 0ms);
 }
 
 .button + .button {

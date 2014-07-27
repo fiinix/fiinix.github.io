@@ -1,32 +1,53 @@
-a {
+a,
+.link {
 	color: $primary-color;
 	text-decoration: none;
 	position: relative;
-	padding-bottom: 2/10 * 1em;
+	padding:0 0 2/10 * 1em 0;
 	border-bottom: #{1/$base-font-size}em dotted transparent;
+
+/* Reset potential button-styling conflicts */
+	background: none;
+	margin: 0;
+	border-radius: 0;
+	text-transform: none;
+	font-family: inherit;
+	font-size: inherit;
+	line-height: inherit;
+	font-weight: inherit;
+	font-style: inherit;
+
 	-ms-word-break: normal;
 	word-break: normal;
-
 	/* Non standard for webkit */
 	word-break: normal;
-
 	-webkit-hyphens: none;
 	-moz-hyphens: none;
 	-ms-hyphens: none;
 	hyphens: none;
+
+	&:hover,
+	&:focus,
+	&:active {
+		border-color: $primary-text-color;
+		padding: 0;
+
+		background: none;
+		margin: 0;
+		border-radius: 0;
+
+		@include transition;
+	}
+	&:focus {
+		border-color: transparent;
+		background-color: $primary-color;
+		color: $white;
+	}
+
 	@include transition;
 }
 h2 a {
 	border-bottom-width: #{0.5/$base-font-size}em ;
-}
-a:visited {
-
-}
-a:hover,
-a:focus,
-a:active {
-	padding-bottom:0;
-	border-color: $primary-text-color;
 }
 
 
@@ -39,7 +60,7 @@ a:active {
 	position: relative;
 	width: 10px; height: 10px;
 	margin: 0 .25em 0 .25em;
-	background-image: image-url("spark-icons.png");
+	background-image: image-url("sparkicons.svg");
 	background-repeat: no-repeat;
 	background-size: auto 10px;
 	background-position: 0 0;
@@ -50,15 +71,14 @@ main a[href^="http://"]:after,
 main a[href^="https://"]:after {
 	@extend .spark-icons;
 }
-
-main a[href*="wiki"]:after, {
-	@extend .spark-icons;
-	background-position: -20px 0;
-}
 main a[href^="http://www.youtube"]:after,
 main a[href^="https://www.youtube"]:after {
 	@extend .spark-icons;
 	background-position: -10px 0;
+}
+main a[href*="wiki"]:after, {
+	@extend .spark-icons;
+	background-position: -20px 0;
 }
 main a[href^="https://www.google.com/maps/"]:after,
 main a[href^="http://www.google.com/maps/"]:after,

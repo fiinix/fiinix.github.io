@@ -29,14 +29,12 @@
 
 /* Transition
 ========================================================================== */
-$easeInOutBack:  cubic-bezier(0.680, -0.550, 0.265, 1.550);
-
-@mixin transition($transition-property: all, $transition-time: 150ms, $method: $easeInOutBack, $transition-delay: 0ms) {
-    -webkit-transition: $transition-property $transition-time $method $transition-delay;
-    -moz-transition: $transition-property $transition-time $method $transition-delay;
-    -ms-transition: $transition-property $transition-time $method $transition-delay;
-    -o-transition: $transition-property $transition-time $method $transition-delay;
-    transition: $transition-property $transition-time $method $transition-delay;
+@mixin transition($property: $transition-property-default, $duration: $transition-duration-default, $function: $transition-function-default, $delay: $transition-delay-default) {
+    -webkit-transition: $property $duration $function $delay;
+    -moz-transition: $property $duration $function $delay;
+    -ms-transition: $property $duration $function $delay;
+    -o-transition: $property $duration $function $delay;
+    transition: $property $duration $function $delay;
 }
 
 /* Flexbox

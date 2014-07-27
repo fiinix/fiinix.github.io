@@ -1,21 +1,27 @@
 .tag {
 	display: inline-block;
 	white-space: nowrap;
-	font-size:#{12/$base-font-size}em;
+	font: 300 0.6667em/#{$base-space} 'Ubuntu', sans-serif;
+	text-transform: uppercase;
 	border:0;
-	background: $tertiary-text-color;
-	color: $primary-text-color;
 	margin:0 1.2135em 0 0;
-	padding:0 $base-multiplier*0.25 +0em;
-
-	&:visited {
-		background: $secondary-text-color;
-		color: $white;
-	}
-}
-.body--is-nightmode .tag:visited {
+	padding:0 $base-space-xs;
 	background: $secondary-text-color;
 	color: $white;
+
+	&:visited {
+		background: $tertiary-text-color;
+		color: $primary-text-color;
+	}
+}
+/* When Nightmode is activated */
+.body--is-nightmode .tag {
+	background: $secondary-text-color;
+	color: $primary-text-color;
+}
+.body--is-nightmode .tag:visited {
+	background: $primary-text-color;
+	color: $tertiary-text-color;
 }
 .tag:hover,
 .tag:focus,
@@ -23,19 +29,10 @@
 .body--is-nightmode .tag:hover,
 .body--is-nightmode .tag:focus,
 .body--is-nightmode .tag:active {
-	padding: $base-multiplier *0.25 +0em $base-multiplier *0.5 +0em;
-	// margin: -.809em .809em -.809em -.4045em;
-	margin: (- $base-multiplier *0.5 +0em) $base-multiplier *0.5 +0em (- $base-multiplier *0.5 +0em) (- $base-multiplier *0.25 +0em);
-	border-radius: $base-multiplier *0.5 +0em $base-multiplier *0.5 +0em $base-multiplier *0.5 +0em 0;
+	padding: $base-space-xs $base-space-s;
+	margin: (- $base-space-s) $base-space-s (- $base-space-s) (- $base-space-xs);
+	border-radius: $base-space-s $base-space-s $base-space-s 0;
 	background: $primary-color;
 	color: $white;
 	border:0;
-
-}
-
-/* When Nightmode is activated */
-
-.body--is-nightmode .tag {
-	background: $primary-text-color;
-	color: $tertiary-text-color;
 }
