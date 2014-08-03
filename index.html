@@ -9,13 +9,18 @@ tagline: Supporting tagline
 
 <section>
 <article>
-<h1>Bonjour,</h1>
-<p>Carlos Eriksson is a multilingual<sup>†</sup> Designer</sup>‡</sup> from Finland, living and working in South East England. He specialises in creating exciting and functional designs.</p>
+<!-- <h1>Hey, I&rsquo;m Carlos.</h1>
+<p class="hero">Designer, front-end developer, illustrator, artist, musician, writer, father, etc.</p>
+<p>For the past 15 years I&rsquo;ve been <del>crafting</del> <ins>engineering</ins> experiences that focus on functional and beautiful design. I&rsquo;ve had the pleasure of having my work featured on sites such as xbox.com and some of my work is seen by <a href="http://xbmc.org/xbmc-statistics/">tens of thousands of people</a> on a daily basis.</p>
+<p>Check out my showcase to <a href="/showcase">view more of my work</a>. Or, <a href="/about">read more about me</a> and what makes me tick.</p> -->
+<p>Carlos Eriksson is a multilingual<sup>†</sup> Designer<sup>‡</sup> from Finland, living and working in South East England. He specialises in creating exciting and functional designs.</p>
 <p>Meanwhile, that shouldn’t stop you from exploring. Here’s some of the latest ramblings from my blog. Enjoy and don’t be scared if something appears broken… it probably is.</p>
+<hr>
+<h3>Latest post</h3>
 </article>
-{% for post in site.categories.blog limit:5%}
-<article>
-<h2><a href="{{ BASE_PATH }}{{ post.url }}" rel="bookmark">{{ post.title | markdownify | strip_html | trim }}</a></h2>
+{% for post in site.categories.blog limit:5 %}
+<article class="blog__post__summary">
+<h2><a href="{{ BASE_PATH }}{{ post.url }}" rel="bookmark" title="Read &ldquo;{{ post.title }}&rdquo;">{{ post.title | markdownify | strip_html | trim }}</a></h2>
 <p><time datetime="{{ post.date }}">{% assign m = post.date | date: "%B" %}
 	{% case m %}
 	{% when 'May' %}{{ post.date | date: "%-d " | append: m }}
@@ -24,7 +29,20 @@ tagline: Supporting tagline
 	{% when 'September' %}{{ post.date | date: "%-d " | append: 'Sept.' }}
 	{% else %}{{ post.date | date: "%-d %b" }}.
 	{% endcase %}</time> {{ post.excerpt | markdownify | strip_html | trim }}
-	<a href="{{ BASE_PATH }}{{ post.url }}">[&#126;{{ post.content | number_of_words | divided_by:180 | plus:1 | append: '&nbsp;min&nbsp;to&nbsp;read' }}]</a>
+	<a href="{{ BASE_PATH }}{{ post.url }}" title="Read &ldquo;{{ post.title }}&rdquo;">[&#126;{{ post.content | number_of_words | divided_by: 180 | plus:1 | append: '&nbsp;min&nbsp;to&nbsp;read' }}]</a>
+    {% capture words %}
+  {{ post.content | number_of_words | minus: 250 }}
+{% endcapture %}
+{% unless words contains "-" %}
+  {{ words | plus: 250 | divided_by: 180 | append: "&nbsp;min&nbsp;to&nbsp;read" }}
+{% endunless %}
+{% capture truncated_content %}
+  {{ post.content | truncatewords: 250 }}
+{% endcapture %}
+{% if post.content != truncated_content %}
+  {{ post.content | number_of_words | append: '.0' | divided_by:180 | append: 'min' }}
+{% endif %}
+
 </p>
 </article>
 {% endfor %}
@@ -34,9 +52,9 @@ tagline: Supporting tagline
 <div class="introduction">
 <h3>New here?</h3>
 
-<p><small>Don’t worry. Just start from <a href="archive.html" rel="archives">the archive</a> and work your way <del>up</del> <del>down</del> <ins>forward</ins>.</small></p>
+<p><small>Don&rsquo;t worry. Just start from <a href="archive.html" rel="archives">the archive</a> and work your way <del>up</del> <del>down</del> <ins>forward</ins>.</small></p>
 
-<p><small>Sooner or later you’ll end up here again and then you know you’re done.</small></p>
+<p><small>Sooner or later you&rsquo;ll end up here again and then you know you’re done.</small></p>
 </div>
 
 <div class="frequent-topics">
@@ -54,7 +72,7 @@ tagline: Supporting tagline
     {% for tag in site.tags %}
         {% if tag[1].size == i %}
         <li>
-            <a class="tag" href="tags.html#{{ tag[0] | cgi_escape }}">{{ tag[0] }}</a>{% unless forloop.last %} {% endunless %}
+            <a class="tag" title="{{ tag[0] }}" href="tags.html#{{ tag[0] | cgi_escape }}">{{ tag[0] }}</a>{% unless forloop.last %} {% endunless %}
         </li>
         {% endif %}
     {% endfor %}
