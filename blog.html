@@ -25,20 +25,21 @@ group: navigation
 	{% endcase %}</time> {{ post.excerpt }}
 	<a href="{{ BASE_PATH }}{{ post.url }}">[&#126;{{ post.content | number_of_words | divided_by:180 | plus:1 | append: '&nbsp;min' }}]</a>
 </p>
+<p>
 {{ post.content | number_of_words }}<br>
 {{ post.content | number_of_words | divided_by:180 }}<br>
 {{ post.content | number_of_words | plus:1 }}<br>
 {{ post.content | number_of_words | divided_by:180 | plus:1 }}<br>
-<p>
-<p>
+<br><br>
     {{ 360 | divided_by: 180 }}
 </p>
-    {% capture truncated_content %}
+<p>
+   [{% capture truncated_content %}
     {{ post.content | truncatewords: 250 }}
     {% endcapture %}
     {% if post.content != truncated_content %}
     {{ post.content | number_of_words | divided_by:180 | plus:1 | append: "min" }}
-    {% endif %}]</a>
+    {% endif %}] 
 </p>
 </article>
 {% endfor %}
