@@ -26,7 +26,8 @@ group: navigation
 	<a href="{{ BASE_PATH }}{{ post.url }}">[&#126;{{ post.content | number_of_words | divided_by:180 | plus:1 | append: '&nbsp;min' }}]</a>
 </p>
 {{ post.content | number_of_words }}<br>
-{{ post.content | number_of_words | divided_by:180 }}
+{{ post.content | number_of_words | divided_by:180 }}<br>
+{{ post.content | number_of_words | divided_by:180 | plus:1 }}<br>
 <p>
     {% capture truncated_content %}
     {{ post.content | truncatewords: 250 }}
