@@ -50,7 +50,7 @@ Usage:
   {% when '2' or '22' %}{{ dn }} {{ d }}nd
   {% when '3' or '23' %}{{ dn }} {{ d }}rd
   {% else %}{{ dn }} {{ d }}th
-  {% endcase %}</time> <h3 class="align-right"><a href="{{ BASE_PATH }}{{ post.url }}" {% if post.color %}style="color:{{ post.color }};">&#9733 {% else %}>{% endif %}{{ post.title }}</a></h3></li>
+  {% endcase %}</time> <h3 class="align-right"><a href="{{ BASE_PATH }}{{ post.url }}" title="Read &ldquo;{{ post.title }}&rdquo;" {% if post.color %}style="color:{{ post.color }};">&#9733 {% else %}>{% endif %}{{ post.title }}</a></h3></li>
 
 
 
