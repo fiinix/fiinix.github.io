@@ -29,10 +29,10 @@ group: navigation
 {{ post.content | strip_html | number_of_words }}<br>
 {{ post.content | number_of_words }}<br>
 {{ post.content | number_of_words | ceil }}<br>
-{{ post.content | number_of_words | divided_by:180 | ceil }}<br>
-{{ post.content | number_of_words | plus:1 }}<br>
-{{ post.content | number_of_words | plus:1 | divided_by:180 }}<br>
-{{ post.content | number_of_words | divided_by:180 | plus:1 }}<br>
+{{ post.content | number_of_words | divided_by: 180 | ceil }}<br>
+{{ post.content | number_of_words | plus: 1 }}<br>
+{{ post.content | number_of_words | plus: 1 | divided_by: 180 }}<br>
+{{ post.content | number_of_words | divided_by: 180 | plus: 1 }}<br>
 <br><br>
     {{ 360 | divided_by: 180 }}
 </p>
