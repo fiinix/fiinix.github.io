@@ -26,6 +26,9 @@ group: navigation
 	<a href="{{ BASE_PATH }}{{ post.url }}">[&#126;{{ post.content | number_of_words | divided_by:180 | plus:1 | append: '&nbsp;min' }}]</a>
 </p>
 <p>
+    {{ post.content | strip_html }}
+</p>
+<p>
 {{ post.content | strip_html | number_of_words }}<br>
 {{ post.content | number_of_words }}<br>
 {{ post.content | number_of_words | ceil }}<br>
