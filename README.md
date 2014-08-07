@@ -1,3 +1,5 @@
 # fiinix.github.io
 
-Jekyll powered professional portfolio and personal blog. [www.carloseriksson.com](http://www.carloseriksson.com)
+My personal blog and portfolio. [www.carloseriksson.com](http://www.carloseriksson.com)
+
+[Public board on Trello](https://trello.com/b/zEdO8nv9/carloseriksson-com) for the developement. Powered by Jekyll, Sass. Soon Grunt. Etc.
