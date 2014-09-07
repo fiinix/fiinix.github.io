@@ -1,28 +1,24 @@
 ---
 layout: page
-title : Blog
-header : Post Archive
+title: Connect
+tagline: call me baby
 group: navigation
 ---
 {% include JB/setup %}
 
 <section>
 <article>
-<h1>Welcome</h1>
-<p>After <strong>6 years of blogging</strong> using the Blogger+Blogspot combo I have finally moved my blog to my own domain—took longer than it should have, didn’t it?</p>
-<p>It’s now running on Github+Jekyll and I honestly couldn’t be happier.</p>
-<p>Yeah, I know. It’s looks like a giant mess here, but what do you expect? I’m still building, cleaning and trying things out, so everything is bound to be in a state of flux for a couple of months or so.</p>
-<p>Meanwhile, that shouldn’t stop you from exploring. Here’s some of the latest ramblings from my blog. Enjoy and don’t be scared if something appears broken… it probably is.</p>
-</article>
-{% for post in site.posts limit:5%}
-<article>
-<h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-{{ post.content | number_of_words }}
-</article>
-{% endfor %}
+<h1>Connect</h1>
+<p>Or you can simply fill out this super-convinient form and I'll get back in touch <abbr title="as soon as possible">asap</abbr>.</p>
+<form action="ACTION">
+    <div>
+        <label for="name">Your name</label>
+        <input type="text" name="name" id="name" placeholder="eg. Jane Smith">
+    </div>
+</form>
 </section>
 
-<aside>
+<aside role="complementary">
 <div class="introduction">
 <h3>New here?</h3>
 
@@ -55,3 +51,5 @@ group: navigation
 
 </div>
 </aside>
+
+

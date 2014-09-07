@@ -1,0 +1,251 @@
+/* ==========================================================================
+   Showcase
+   ========================================================================= */
+
+// <li class="showcase-preview__item">
+// 	<a href="#" title="">
+// 		<figure>
+// 			<img src="{{ post.preview }}" alt="">
+// 			<figcaption>
+
+//				<i class="showcase-preview__item__overlay">
+// 				<span class="tag showcase-preview__item-tag">
+//					{{ post.tag }}
+//				</span>
+// 				<span class="showcase-preview__item-title">
+// 					{{ post.title }}
+// 				</span>
+// 			</figcaption>
+// 		</figure>
+// 	</a>
+// </li>
+
+.showcase__hero-image {
+	display: block;
+	width: auto;
+	position: relative;
+	overflow: hidden;
+	height: 0;
+	padding-bottom: 56.25%;
+	margin-bottom: $base-space;
+
+	&:before {
+		content: " ";
+		display: block;
+		position: absolute;
+		z-index: 8000;
+		width: 10em;
+		height: 10em;
+		top: 0; left: 0;
+		background: white;
+		transform-origin: 0 0 0;
+		transform: rotate(45deg) translate(-5em,-5em);
+		box-shadow: -11px -11px 0 0 white inset,
+					-12px -12px 0 0 rgba(0,0,0,.12) inset;
+	}
+	&:after {
+		content: " ";
+		display: block;
+		position: absolute;
+		z-index: 8000;
+		width: 10em;
+		height: 10em;
+		bottom: 0; right: 0;
+		background: white;
+		transform-origin: 10em 10em 0;
+		transform: rotate(45deg) translate(5em,5em);
+		box-shadow: 11px 11px 0 0 white inset,
+					12px 12px 0 0 rgba(0,0,0,.12) inset;
+	}
+
+	@include mq(481) {
+		padding-bottom: 40.81%;
+	}
+	@include mq(641) {
+		padding-bottom: 35.81%;
+	}
+	@include mq(769) {
+		padding-bottom: 25.81%;
+		margin: 0 $base-space $base-space $base-space;
+		// padding-bottom: 15.7%;
+	}
+	@include mq(1025) {
+		margin: 0 5.5555% $base-space 2.7777%;
+	}
+	@include mq(1201) {
+		margin: 0 11.1111% $base-space 5.5555%;
+	}
+}
+.showcase__hero-image img {
+	// border-left: $base-space-xs solid $primary-color;
+	position: relative;
+
+	@include mq(481) {
+		// border-left-width: $base-space-s;
+		// border-left-width: 11.1111%;
+		top: (- $base-space);
+	}
+	@include mq(641) {
+		// border-left-width: $base-space;
+		top: (- $base-space-xl);
+	}
+	@include mq(769) {
+		// border-left-width: $base-space-xl;
+		top: -6.4em;
+	}
+	@include mq(1025) {
+		// border-left-width: $base-space-xl*3;
+		// border-left-width: 11.1111%;
+		top: -1.6em;
+	}
+	@include mq(1201) {
+		// border-left-width: $base-space-xl*4;
+	}
+}
+
+.showcase-preview {
+	font: 0/0 a;
+}
+
+.showcase-preview__item {
+	display: inline-block;
+	vertical-align: top;
+	width: 100%;
+	height: 0;
+	padding: 0 0 56.25% 0;
+	margin: 0;
+	overflow: hidden;
+
+	&:before {
+		content: " ";
+		display: block;
+		position: absolute;
+		z-index: 8000;
+		width: 10em;
+		height: 10em;
+		top: 0; left: 0;
+		background: white;
+		transform-origin: 0 0 0;
+		transform: rotate(45deg) translate(-5em,-5em);
+		box-shadow: -11px -11px 0 0 white inset,
+					-12px -12px 0 0 rgba(0,0,0,.12) inset;
+	}
+	&:after {
+		content: " ";
+		display: block;
+		position: absolute;
+		z-index: 8000;
+		width: 10em;
+		height: 10em;
+		bottom: 0; right: 0;
+		background: white;
+		transform-origin: 10em 10em 0;
+		transform: rotate(45deg) translate(5em,5em);
+		box-shadow: 11px 11px 0 0 white inset,
+					12px 12px 0 0 rgba(0,0,0,.12) inset;
+	}
+
+	@include mq(481) {
+		width: 50%;
+		padding: 0 0 28.125% 0;
+	}
+	@include mq(769) {
+		width: 33.3333%;
+		padding: 0 0 18.5625% 0;
+
+		&:nth-child(10n+1),
+		&:nth-child(10n+7) {
+			width: 66.6666%;
+			// padding: 0 0 18.5625% 0;
+			img {
+				position: relative;
+				top: -25%;
+			}
+		}
+	}
+}
+.showcase-preview__item a {
+	display: block;
+	position: relative;
+	padding: 0;
+	border: 0;
+	transform: translate3D(0,0,0);
+
+	@include transition(all, 600ms, ease-in-out, 0ms);
+
+	figure {
+		display: block;
+		margin: 0;
+	}
+
+	img {
+		transform: translate3D(0,0,0);
+
+		@include transition(all,300ms, ease-in-out, 0ms);
+	}
+	&:hover,
+	&:focus,
+	&:active {
+
+		img {
+			transform: scale(1.05);
+
+			@include transition(all, 2000ms, ease-in-out, 0ms);
+		}
+		.showcase-preview__item__overlay {
+			opacity: .1;
+			background-image: image-url("white-noise.gif");
+		}
+	}
+}
+
+.showcase-preview__item figcaption {
+	font: $base-font-weight #{$base-font-size}px/#{$base-multiplier} $base-font-family;
+	display: block;
+	position: absolute;
+	top: 0;
+	height:100%;
+	text-align:center;
+
+	@include transition;
+
+	&:before {
+		content: none;
+	}
+}
+.showcase-preview__item__overlay {
+	display: block;
+	width: 100%;
+	height: 100%;
+	position: absolute;
+	top: 0;
+	left: 0;
+	background-color: rgba(0,0,0, .75);
+}
+.showcase-preview__item__title {
+	font-size: 1.3333em;
+	font-family: $header-font-family;
+	padding: $base-space-s $base-space;
+	font-weight: 700;
+	font-style: normal;
+	line-height: 1.2135;
+	pointer-events: none;
+	display: inline-block;
+	color: white;
+	position: absolute;
+	top: $base-space-l;
+	left: $base-space;
+
+	@include transition;
+}
+.showcase-preview__item__tag {
+	pointer-events: none;
+	display: inline-block;
+	color: $black;
+	background: $white;
+	position: absolute;
+	top: $base-space-xl;
+	left: $base-space-xl;
+
+	@include transition;
+}

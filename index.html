@@ -30,6 +30,7 @@ tagline: Supporting tagline
 	{% else %}{{ post.date | date: "%-d %b" }}.
 	{% endcase %}</time> {{ post.excerpt | markdownify | strip_html | trim }}
 	<a href="{{ BASE_PATH }}{{ post.url }}" title="Read &ldquo;{{ post.title }}&rdquo;">Read &ldquo;{{ post.title }}&rdquo;</a>.
+
 </p>
 </article>
 {% endfor %}
