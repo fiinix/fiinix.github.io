@@ -34,7 +34,7 @@ My health on the other hand has never been better and although I still struggle 
 
 The family is also well and it truly seems we have been more blessed this year than the last. Lucien shows no signs of suffering from his earlier illness and we no longer worry as much.
 
-Ukko has smiled down on us lately as well and the weather has been in our favour. We caught a river boat just the other weekend for a wonderful family outing to a nearby farm. Rebecka, who had never fed sheep before, was quite bewildered by the whole experience much to my amusement. But I must confess, walking along the river back home took a toll on all of us.
+Freyr has smiled down on us lately as well and the weather has been in our favour. We caught a river boat just the other weekend for a wonderful family outing to a nearby farm. Rebecka, who had never fed sheep before, was quite bewildered by the whole experience much to my amusement. But I must confess, walking along the river back home took a toll on all of us.
 
 <figure>
 	<img class="js-lazy-load" data-original="../../../../assets/posts/2014/september/a-letter-from-the-promised-land/the-eriksson-family-at-kent-life.jpg" alt="Rebecka and Lucien Eriksson">
