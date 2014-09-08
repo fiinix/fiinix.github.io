@@ -1,0 +1,49 @@
+/**
+ * ===========================================================================
+ *
+ * Spark icons
+ *
+ * ===========================================================================
+ */
+.spark-icons {
+	content: " ";
+	display: inline-block;
+	vertical-align: baseline;
+	position: relative;
+	width: 10px; height: 10px;
+	margin: 0 .25em 0 .25em;
+	background-image: url(/assets/img/sparkicons.svg);
+	background-repeat: no-repeat;
+	background-size: auto 10px;
+	background-position: 0 0;
+	/*background-color: red;*/
+}
+
+.post-content a[href^="http://"]:after,
+.post-content a[href^="https://"]:after {
+	@extend .spark-icons;
+}
+.post-content a[href^="http://www.youtube"]:after,
+.post-content a[href^="https://www.youtube"]:after {
+	@extend .spark-icons;
+	background-position: -10px 0;
+}
+.post-content a[href*="wiki"]:after, {
+	@extend .spark-icons;
+	background-position: -20px 0;
+}
+.post-content a[href^="https://www.google.com/maps/"]:after,
+.post-content a[href^="http://www.google.com/maps/"]:after,
+.post-content a[href^="http://www.openstreetmap.org/"]:after,
+.post-content a[href^="http://www.openstreetmap.org/"]:after {
+	@extend .spark-icons;
+	background-position: -30px 0;
+}
+.post-content a[href^="http://www.gutenberg.org/"]:after {
+	@extend .spark-icons;
+	background-position: -40px 0;
+}
+
+// Attribute selectors ending with certain file formats
+.post-content a[href$=".pdf"] {}
+.post-content a[href$=".doc"] {}

@@ -1,2 +1,3 @@
-_site
-_ignore
+_site/
+_ignore/
+.sass-cache/
