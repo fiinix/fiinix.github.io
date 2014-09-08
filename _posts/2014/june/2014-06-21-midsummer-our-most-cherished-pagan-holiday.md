@@ -1,5 +1,5 @@
 ---
-layout: post-w-header
+layout: post--special
 title: Midsummer,  Our Most Cherished Pagan Holiday
 color: "#91b716"
 date: 2014-06-22 T 23:45 UTC
@@ -14,20 +14,16 @@ twitter: "assets/posts/2014/june/midsummer-our-most-cherished-pagan-holiday/twit
 
 I've noticed that I have quite a high readership from United Kingdom and I imagine many of you might not know what midsummer is---the celebration, not the word itself, of course. And with that in mind I would like to present to you;
 
-<div>
 <figure>
-	<img class="lazy" data-original="../../../../assets/posts/2014/june/midsummer-our-most-cherished-pagan-holiday/title.jpg" alt="The Abominable Midsummer Update, designed to look like a medieval book">
+	<img class="js-lazy-load" data-original="../../../../assets/posts/2014/june/midsummer-our-most-cherished-pagan-holiday/title.jpg" alt="The Abominable Midsummer Update, designed to look like a medieval book">
 </figure>
-</div>
 
 
 [Midsummer][midsummer], originally a pagan holiday celebrating the  summer solstice---when the day is at its longest and night at its shortest---is still a very important holiday celebrated in many places in Northern Europe, such as Sweden, who once held discussions whether or not to make midsummer their National Day.
 
-<div>
 <figure class="media-video">
 	<iframe src="//player.vimeo.com/video/39345149?portrait=0&amp;color=ff0179" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen> </iframe>
 </figure>
-</div>
 
 Which brings us to Finland, and specifically the region of [Ostrobothnia][ostro]---where I'm from---whose close connections with Swedish traditions and language has always meant that many traditions there---in Sweden---are also traditions here. And nothing more made quite as apparent as the tradition of midsummer. That's why many things in the previous video apply to Ostrobothnian midsummer celebrations as well.
 
@@ -39,12 +35,10 @@ Besides, if you get cold---not that you would, would you?---but let's pretend, a
 
 Which is how we segue into the first of the top 7 important things about midsummer.
 
-<div>
 <figure>
-	<img class="lazy" data-original="../../../../assets/posts/2014/june/midsummer-our-most-cherished-pagan-holiday/midsummer-bonfire-in-seurasaari-finland.jpg" alt="A giant float of burning wood">
+	<img class="js-lazy-load" data-original="../../../../assets/posts/2014/june/midsummer-our-most-cherished-pagan-holiday/midsummer-bonfire-in-seurasaari-finland.jpg" alt="A giant float of burning wood">
 	<figcaption>A midsummer bonfire in Finland. Original photograph by Ralf Roletschek.</figcaption>
 </figure>
-</div>
 
 ##7. The Bonfire
 Man make fire. Then man burn self on fire. Man stupid. Fire stupid.
@@ -64,7 +58,7 @@ You're probably seeing a theme here, right?
 
 <div>
 <figure>
-	<img class="lazy" data-original="../../../../assets/posts/2014/june/midsummer-our-most-cherished-pagan-holiday/midsummer-expectations-vs-reality.jpg" alt="Funny cartoon depicting the difference in the expectation vs reality of midsummer.">
+	<img class="js-lazy-load" data-original="../../../../assets/posts/2014/june/midsummer-our-most-cherished-pagan-holiday/midsummer-expectations-vs-reality.jpg" alt="Funny cartoon depicting the difference in the expectation vs reality of midsummer.">
 	<figcaption>I would credit the original author if I could find any reference to who it is.</figcaption>
 </figure>
 </div>
@@ -113,7 +107,7 @@ No self-respecting midsummer celebrant would be caught dead without a maypole, o
 
 <div>
 <figure>
-	<img class="lazy" data-original="../../../../assets/posts/2014/june/midsummer-our-most-cherished-pagan-holiday/the-midsummer-maypole.jpg" alt="Rebecka hiding behind the table featuring our miniature midsummer pole.">
+	<img class="js-lazy-load" data-original="../../../../assets/posts/2014/june/midsummer-our-most-cherished-pagan-holiday/the-midsummer-maypole.jpg" alt="Rebecka hiding behind the table featuring our miniature midsummer pole.">
 	<figcaption>When you see you will <del>shit bricks</del> <ins>laugh</ins>.</figcaption>
 </figure>
 </div>
@@ -131,7 +125,7 @@ Sure some families are more estranged than others and some might not even be on 
 
 <div>
 <figure>
-	<img class="lazy" data-original="../../../../assets/posts/2014/june/midsummer-our-most-cherished-pagan-holiday/the-midsummer-celebrants.jpg" alt="Lucy, Rebecka, Steve and Torz">
+	<img class="js-lazy-load" data-original="../../../../assets/posts/2014/june/midsummer-our-most-cherished-pagan-holiday/the-midsummer-celebrants.jpg" alt="Lucy, Rebecka, Steve and Torz">
 	<figcaption>Good times were had.</figcaption>
 </figure>
 </div>

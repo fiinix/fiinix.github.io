@@ -1,6 +1,24 @@
----
-theme :
-  name : carloseriksson
----
-{% include JB/setup %}
-{% include themes/carloseriksson/default.html %}
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+    <!-- <body style="background-color: {{ page.color }};background-image: url({{ page.tile }});"> -->
+    <body>
+
+    {% include nav.html %}
+
+    <!-- Wrapper -->
+    <div class="wrapper" id="top">
+
+    {% include header.html %}
+
+      {{ content }}
+
+    {% include footer.html %}
+
+  </div>
+  <!-- /Wrapper -->
+  {% include scripts.html %}
+    </body>
+</html>

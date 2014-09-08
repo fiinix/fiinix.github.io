@@ -1,5 +1,5 @@
 ---
-layout: post-w-header
+layout: post--special
 title: Carlos Goes to MCM London Comic Con
 color: "#e56323"
 date: 2014-05-26 T 18:40 UTC
@@ -14,7 +14,7 @@ This month's theme was: Adventure, and unlike last month's theme---Dragons---I w
 
 <div>
 <figure>
-	<img class="lazy" data-original="../../../../assets/posts/2014/may/carlos-goes-mcm-london-comic-con/lootcrate-may-2014.jpg" alt="The content of Loot Crate, May 2014">
+	<img class="js-lazy-load" data-original="../../../../assets/posts/2014/may/carlos-goes-mcm-london-comic-con/lootcrate-may-2014.jpg" alt="The content of Loot Crate, May 2014">
 	<figcaption>From left to right-ish: Zombiefied Jake from Adventure Time, Steve from Minecraft, CaptainSparklez Stickers, The Friend Zone Soundtrack CD, Zelda T-Shirt.</figcaption>
 </figure>
 </div>
@@ -27,7 +27,7 @@ Though, having said that, I did really like the Zelda---featuring Link---t-shirt
 
 <div>
 <figure>
-	<img class="lazy" data-original="../../../../assets/posts/2014/may/carlos-goes-mcm-london-comic-con/carlos-goes-mcm-london-comic-con-may-2014.jpg" alt="Blurred hand with Saturday entry wristband for MCM London Comic Con, 2014">
+	<img class="js-lazy-load" data-original="../../../../assets/posts/2014/may/carlos-goes-mcm-london-comic-con/carlos-goes-mcm-london-comic-con-may-2014.jpg" alt="Blurred hand with Saturday entry wristband for MCM London Comic Con, 2014">
 	<figcaption>Paying a little extra for a pre-order ticket was definitely worth it.</figcaption>
 </figure>
 </div>
@@ -38,7 +38,7 @@ The previous expo had 88,000 participants and notable guests such as [Roger Crai
 
 <div>
 <figure>
-	<img class="lazy" data-original="../../../../assets/posts/2014/may/carlos-goes-mcm-london-comic-con/phil-lamarr-the-man-of-many-voices.jpg" alt="Comic book style illustration of Phil Lamarr and the many characters he does">
+	<img class="js-lazy-load" data-original="../../../../assets/posts/2014/may/carlos-goes-mcm-london-comic-con/phil-lamarr-the-man-of-many-voices.jpg" alt="Comic book style illustration of Phil Lamarr and the many characters he does">
 	<figcaption>Phil Lamarr and some of his many voices.</figcaption>
 </figure>
 </div>
@@ -51,56 +51,56 @@ But thankfully I do have *some photos*, so without further procrastination, enjo
 
 <div>
 <figure>
-	<img class="lazy" data-original="../../../../assets/posts/2014/may/carlos-goes-mcm-london-comic-con/assassins-creed-cosplayer-standing-high-up-on-pole.jpg" alt="Assassin’s Creed cosplayer standing high up on a pole">
+	<img class="js-lazy-load" data-original="../../../../assets/posts/2014/may/carlos-goes-mcm-london-comic-con/assassins-creed-cosplayer-standing-high-up-on-pole.jpg" alt="Assassin’s Creed cosplayer standing high up on a pole">
 	<figcaption>Spot the guy taking Assassin’s Creed cosplay to a whole new level.</figcaption>
 </figure>
 </div>
 
 <div>
 <figure>
-	<img class="lazy" data-original="../../../../assets/posts/2014/may/carlos-goes-mcm-london-comic-con/cats-group-of-cosplayers-enjoying-a-well-earned-eating-break.jpg" alt="A group of people cosplaying as Cats with intricate costumes">
+	<img class="js-lazy-load" data-original="../../../../assets/posts/2014/may/carlos-goes-mcm-london-comic-con/cats-group-of-cosplayers-enjoying-a-well-earned-eating-break.jpg" alt="A group of people cosplaying as Cats with intricate costumes">
 	<figcaption>One could say their costumes were purrfect.</figcaption>
 </figure>
 </div>
 
 <div>
 <figure>
-	<img class="lazy" data-original="../../../../assets/posts/2014/may/carlos-goes-mcm-london-comic-con/cosplayer-dressed-as-warhammer-40k-space-marine.jpg" alt="A Warhammer 40K Space Marine cosplayer">
+	<img class="js-lazy-load" data-original="../../../../assets/posts/2014/may/carlos-goes-mcm-london-comic-con/cosplayer-dressed-as-warhammer-40k-space-marine.jpg" alt="A Warhammer 40K Space Marine cosplayer">
 	<figcaption>One could say his costume was… ummm… space marine-y?</figcaption>
 </figure>
 </div>
 
 <div>
 <figure>
-	<img class="lazy" data-original="../../../../assets/posts/2014/may/carlos-goes-mcm-london-comic-con/pirate-cosplayer-women-giving-out-free-hugs.jpg" alt="Woman pirate cosplayer giving out FREE HUGS">
+	<img class="js-lazy-load" data-original="../../../../assets/posts/2014/may/carlos-goes-mcm-london-comic-con/pirate-cosplayer-women-giving-out-free-hugs.jpg" alt="Woman pirate cosplayer giving out FREE HUGS">
 	<figcaption>Never before have I seen so many different people giving out “FREE HUGS”.</figcaption>
 </figure>
 </div>
 
 <div>
 <figure>
-	<img class="lazy" data-original="../../../../assets/posts/2014/may/carlos-goes-mcm-london-comic-con/cosplayer-wearing-full-set-of-daedric-armor-and-daedric-warhammer.jpg" alt="A cosplayer in a full set of Daedric Armor, from The Elder Scrolls series, with Daedric Warhammer.">
+	<img class="js-lazy-load" data-original="../../../../assets/posts/2014/may/carlos-goes-mcm-london-comic-con/cosplayer-wearing-full-set-of-daedric-armor-and-daedric-warhammer.jpg" alt="A cosplayer in a full set of Daedric Armor, from The Elder Scrolls series, with Daedric Warhammer.">
 	<figcaption>Morning routine; Brush teeth ✓, Coffee ✓, Daedric Warhammer ✓</figcaption>
 </figure>
 </div>
 
 <div>
 <figure>
-	<img class="lazy" data-original="../../../../assets/posts/2014/may/carlos-goes-mcm-london-comic-con/the-transformers-bumblebee-camaro.jpg" alt="Bumblebee from the Transformers series, depicted in his yellow Chevrolet Camaro form.">
+	<img class="js-lazy-load" data-original="../../../../assets/posts/2014/may/carlos-goes-mcm-london-comic-con/the-transformers-bumblebee-camaro.jpg" alt="Bumblebee from the Transformers series, depicted in his yellow Chevrolet Camaro form.">
 	<figcaption>I also found Bumblebee, from the Transformers series, doing his best to hide from Shia LaBeouf.</figcaption>
 </figure>
 </div>
 
 <div>
 <figure>
-	<img class="lazy" data-original="../../../../assets/posts/2014/may/carlos-goes-mcm-london-comic-con/zombie-cosplayer-staring-into-camera.jpg" alt="Zombie cosplayer staring blankly into the camera">
+	<img class="js-lazy-load" data-original="../../../../assets/posts/2014/may/carlos-goes-mcm-london-comic-con/zombie-cosplayer-staring-into-camera.jpg" alt="Zombie cosplayer staring blankly into the camera">
 	<figcaption>Dragging his feet around, moaning and groaning I never saw this guy break character. Not once.</figcaption>
 </figure>
 </div>
 
 <div>
 <figure>
-	<img class="lazy" data-original="../../../../assets/posts/2014/may/carlos-goes-mcm-london-comic-con/me-posing-with-a-werewolf-cosplayer.jpg" alt="Carlos Eriksson pretending to be eating by a werewolf cosplayer.">
+	<img class="js-lazy-load" data-original="../../../../assets/posts/2014/may/carlos-goes-mcm-london-comic-con/me-posing-with-a-werewolf-cosplayer.jpg" alt="Carlos Eriksson pretending to be eating by a werewolf cosplayer.">
 	<figcaption>My very lame attempt at pretending to be eaten by a werewolf.</figcaption>
 </figure>
 </div>
@@ -111,7 +111,7 @@ After years of wanting one---and not buying it online for some reason---I finall
 
 <div>
 <figure>
-	<img class="lazy" data-original="../../../../assets/posts/2014/may/carlos-goes-mcm-london-comic-con/fallout-vault-boy-thumbs-up-t-shirt.jpg" alt="Royal Blue -shirt featuring Vault Boy, the Vault Tec mascot from the Fallout series.">
+	<img class="js-lazy-load" data-original="../../../../assets/posts/2014/may/carlos-goes-mcm-london-comic-con/fallout-vault-boy-thumbs-up-t-shirt.jpg" alt="Royal Blue -shirt featuring Vault Boy, the Vault Tec mascot from the Fallout series.">
 	<figcaption>Vault Boy giving his memorable “Thumbs up!”.</figcaption>
 </figure>
 </div>
@@ -124,7 +124,7 @@ So, I finished the weekend with a quick trip to Chatham and its Maritime Food & 
 
 <div>
 <figure>
-	<img class="lazy" data-original="../../../../assets/posts/2014/may/carlos-goes-mcm-london-comic-con/odins-cookhouse-presents-raiders-reindeer-burger.jpg" alt="Odin’s Cookhouse and their Raider’s Reindeer burger">
+	<img class="js-lazy-load" data-original="../../../../assets/posts/2014/may/carlos-goes-mcm-london-comic-con/odins-cookhouse-presents-raiders-reindeer-burger.jpg" alt="Odin’s Cookhouse and their Raider’s Reindeer burger">
 	<figcaption>His name is Rudolph Paulson, his name Rudolph Paulson…</figcaption>
 </figure>
 </div>

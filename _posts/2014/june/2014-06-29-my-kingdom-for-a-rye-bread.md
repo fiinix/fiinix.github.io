@@ -18,7 +18,7 @@ I've already mentioned my desire to bake my own rye bread, a desire that's grown
 
 <div>
 <figure>
-	<img class="lazy" data-original="../../../../assets/posts/2014/june/my-kingdom-for-a-rye-bread/vaasan-ruispalat-western-style-rye-bread.jpg" alt="Vaasan Ruispalat dark rye bread with a generous dollop of butter on it">
+	<img class="js-lazy-load" data-original="../../../../assets/posts/2014/june/my-kingdom-for-a-rye-bread/vaasan-ruispalat-western-style-rye-bread.jpg" alt="Vaasan Ruispalat dark rye bread with a generous dollop of butter on it">
 	<figcaption>I wonder if <em>Secalecide</em>—to kill for rye—could be a real thing?</figcaption>
 </figure>
 </div>
@@ -54,7 +54,7 @@ Roll out about a 12th---<mark>About 60g worth of dough</mark>---of the dough int
 
 <div>
 <figure>
-	<img class="lazy" data-original="../../../../assets/posts/2014/june/my-kingdom-for-a-rye-bread/carlos-eriksson-rye-crispbread.jpg" alt="My deliciously rustic-looking crispbreads">
+	<img class="js-lazy-load" data-original="../../../../assets/posts/2014/june/my-kingdom-for-a-rye-bread/carlos-eriksson-rye-crispbread.jpg" alt="My deliciously rustic-looking crispbreads">
 	<figcaption>They actually turned out pretty good.</figcaption>
 </figure>
 </div>
@@ -63,7 +63,7 @@ And because I completely forgot to include a picture of my birthday cake last we
 
 <div>
 <figure>
-	<img class="lazy" data-original="../../../../assets/posts/2014/june/my-kingdom-for-a-rye-bread/carlos-eriksson-30th-birthday-cake-with-30-candles.jpg" alt="A salty liquorice and lemon flavoured birthday cake with 30 individual candles on it.">
+	<img class="js-lazy-load" data-original="../../../../assets/posts/2014/june/my-kingdom-for-a-rye-bread/carlos-eriksson-30th-birthday-cake-with-30-candles.jpg" alt="A salty liquorice and lemon flavoured birthday cake with 30 individual candles on it.">
 	<figcaption>These candles aren't really designed to be this close to one another.</figcaption>
 </figure>
 </div>

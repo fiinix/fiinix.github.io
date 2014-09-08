@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A Letter From the Promised Land"
-date: 2014-09-07 T 22:45 UTC
+date: 2014-09-07 T 16:00 UTC
 tags : [Job, The Abominable Weekly Update, Kent Life]
 category: blog
 excerpt: In which I pretend to be a turn of the 20th century immigrant who is writing home to the family and friends he has left behind for a brighter future in the new world.
@@ -17,7 +17,7 @@ I can't tell you how happy this makes me.
 The place itself is smaller than where I was before making it more intimate but I must confess, I quite prefer it this way. A fellow co-worker struggles with keeping warm which apparently doesn't bother me as much given that I'm used to harsher climates.
 
 <figure>
-	<img class="lazy" data-original="../../../../assets/posts/2014/september/a-letter-from-the-promised-land/squiders-at-the-weighbridge.jpg" alt="Squiders, The Weighbridge, Turkey Mill">
+	<img class="js-lazy-load" data-original="../../../../assets/posts/2014/september/a-letter-from-the-promised-land/squiders-at-the-weighbridge.jpg" alt="Squiders, The Weighbridge, Turkey Mill">
 	<figcaption>The Weighbridge. <a href="../../../../assets/posts/2014/september/a-letter-from-the-promised-land/squiders-at-the-weighbridge-original.jpg">Original photo</a>.</figcaption>
 </figure>
 
@@ -26,7 +26,7 @@ I hope both of my brothers are well. I do worry sometimes about how they are doi
 And imagine my surprise to hear of my sister's marriage. Granted she had been betrothed for quite some time and I suppose it was only inevitable but I'm nonetheless happy to hear that her fiancée finally decided to make an honourable woman out of her.
 
 <figure>
-	<img class="lazy" data-original="../../../../assets/posts/2014/september/a-letter-from-the-promised-land/the-garden-in-turkey-mill.jpg" alt="The beautifully kept garden at Turkey Mills">
+	<img class="js-lazy-load" data-original="../../../../assets/posts/2014/september/a-letter-from-the-promised-land/the-garden-in-turkey-mill.jpg" alt="The beautifully kept garden at Turkey Mills">
 	<figcaption>The beautiful garden where I can enjoy my lunches. <a href="../../../../assets/posts/2014/september/a-letter-from-the-promised-land/the-garden-in-turkey-mill-original.jpg">Original photo</a>.</figcaption>
 </figure>
 
@@ -37,7 +37,7 @@ The family is also well and it truly seems we have been more blessed this year t
 Ukko has smiled down on us lately as well and the weather has been in our favour. We caught a river boat just the other weekend for a wonderful family outing to a nearby farm. Rebecka, who had never fed sheep before, was quite bewildered by the whole experience much to my amusement. But I must confess, walking along the river back home took a toll on all of us.
 
 <figure>
-	<img class="lazy" data-original="../../../../assets/posts/2014/september/a-letter-from-the-promised-land/the-eriksson-family-at-kent-life.jpg" alt="Rebecka and Lucien Eriksson">
+	<img class="js-lazy-load" data-original="../../../../assets/posts/2014/september/a-letter-from-the-promised-land/the-eriksson-family-at-kent-life.jpg" alt="Rebecka and Lucien Eriksson">
 	<figcaption>The Eriksson family. <a href="../../../../assets/posts/2014/september/a-letter-from-the-promised-land/the-eriksson-family-at-kent-life-original.jpg">Original photo</a>.</figcaption>
 </figure>
 

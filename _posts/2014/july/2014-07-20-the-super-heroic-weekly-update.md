@@ -18,7 +18,7 @@ No, it's---
 
 <div>
 <figure>
-	<img class="lazy" data-original="../../../../assets/posts/2014/july/the-super-heroic-weekly-update/the-super-heroic-weekly-update-title.png" alt="The Super Heroic Weekly Update">
+	<img class="js-lazy-load" data-original="../../../../assets/posts/2014/july/the-super-heroic-weekly-update/the-super-heroic-weekly-update-title.png" alt="The Super Heroic Weekly Update">
 </figure>
 </div>
 
@@ -29,7 +29,7 @@ This week has been rather uneventful, barring the ominous thunderstorms that int
 
 <div>
 <figure>
-	<img class="lazy" data-original="../../../../assets/posts/2014/july/the-super-heroic-weekly-update/a-few-seconds-before-all-hell-broke-loose.jpg" alt="Ominous thunderstorm clouds.">
+	<img class="js-lazy-load" data-original="../../../../assets/posts/2014/july/the-super-heroic-weekly-update/a-few-seconds-before-all-hell-broke-loose.jpg" alt="Ominous thunderstorm clouds.">
 	<figcaption>Satan’s butt-hole, seconds before it <strong>raptured</strong>. Photo courtesy of <a href="https://twitter.com/mattreflect">Matthew Last</a>.</figcaption>
 </figure>
 </div>
@@ -44,7 +44,7 @@ Thankfully he was an eager participant to our little endeavour and we could quic
 
 <div>
 <figure>
-	<img class="lazy" data-original="../../../../assets/posts/2014/july/the-super-heroic-weekly-update/building-the-lego-castle.jpg" alt="In the middle of building the Lego King's Castle, 70404.">
+	<img class="js-lazy-load" data-original="../../../../assets/posts/2014/july/the-super-heroic-weekly-update/building-the-lego-castle.jpg" alt="In the middle of building the Lego King's Castle, 70404.">
 	<figcaption>Oh God, so much Lego. Even though I’m the one who bought all of it.</figcaption>
 </figure>
 </div>
@@ -59,7 +59,7 @@ The onslaught of 10 superhero themed children, including my own. Faced with thes
 
 <div>
 <figure>
-	<img class="lazy" data-original="../../../../assets/posts/2014/july/the-super-heroic-weekly-update/carlos-eriksson-is-batman.jpg" alt="Carlos dressed as Batman.">
+	<img class="js-lazy-load" data-original="../../../../assets/posts/2014/july/the-super-heroic-weekly-update/carlos-eriksson-is-batman.jpg" alt="Carlos dressed as Batman.">
 	<figcaption>To fight them, I must become one of them. Photo courtesy of Dominic Bodmer.</figcaption>
 </figure>
 </div>
@@ -70,7 +70,7 @@ Thankfully, Rebecka---who was dressed as Bubbles---had baked an appropriately th
 
 <div>
 <figure>
-	<img class="lazy" data-original="../../../../assets/posts/2014/july/the-super-heroic-weekly-update/lucien-and-his-batman-cake.jpg" alt="Lucien and his Batman birthday cake.">
+	<img class="js-lazy-load" data-original="../../../../assets/posts/2014/july/the-super-heroic-weekly-update/lucien-and-his-batman-cake.jpg" alt="Lucien and his Batman birthday cake.">
 	<figcaption>The world’s greatest cake. Photo courtesy of Dominic Bodmer.</figcaption>
 </figure>
 </div>
@@ -81,7 +81,7 @@ Cake was eaten, balloons were blown up, only to be popped within the first 5 min
 
 <div>
 <figure>
-	<img class="lazy" data-original="../../../../assets/posts/2014/july/the-super-heroic-weekly-update/the-guests-at-lucien-erikssons-birthday-party-2014.jpg" alt="Group photo of all the guests at Lucien’s birthday party.">
+	<img class="js-lazy-load" data-original="../../../../assets/posts/2014/july/the-super-heroic-weekly-update/the-guests-at-lucien-erikssons-birthday-party-2014.jpg" alt="Group photo of all the guests at Lucien’s birthday party.">
 	<figcaption>All the best superheroes were there, like two of the three Powerpuff Girls (Bubbles &amp; Blossom), Batman, Spidermans—or is it Spidermen?—Poison Ivy and… ummm… Captain Underpants. To name a few.</figcaption>
 </figure>
 </div>
@@ -92,7 +92,7 @@ Until his next birthday, here's a picture a someone who quite clearly is *not* L
 
 <div>
 <figure>
-	<img class="lazy" data-original="../../../../assets/posts/2014/july/the-super-heroic-weekly-update/oscar-as-wolverine.jpg" alt="One of the children, Oscar, dressed as Wolverine.">
+	<img class="js-lazy-load" data-original="../../../../assets/posts/2014/july/the-super-heroic-weekly-update/oscar-as-wolverine.jpg" alt="One of the children, Oscar, dressed as Wolverine.">
 	<figcaption>Even Wolverine, who tends to shy away from social gatherings, made an appearance.</figcaption>
 </figure>
 </div>

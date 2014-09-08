@@ -1,6 +1,0 @@
-<p>
-		Previously…<br>{% if page.previous %}<a href="{{ BASE_PATH }}{{ page.previous.url }}" title="{{ page.previous.title }}" class="pagination__item">&larr; {{ page.previous.title }}</a>{% else %}<span class="pagination__item pagination__item--is-disabled">This is as far back as you can go.</span>{% endif %}
-	</p>
-
-	<p class="align-right">Next…<br>{% if page.next %}<a href="{{ BASE_PATH }}{{ page.next.url }}" title="{{ page.next.title }}" class="pagination__item">{{ page.next.title }} &rarr;</a>{% else %}<span class="pagination__item pagination__item--is-disabled">That&rsquo;s it, you&rsquo;ve read them all, for now.</span>{% endif %}
-	</p>
