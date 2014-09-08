@@ -1,0 +1,33 @@
+/**
+ * ===========================================================================
+ *
+ * Blockquotes
+ *
+ * ===========================================================================
+ */
+blockquote {
+
+	padding: 0 0 0 em($fontLeading);
+	margin: 0 0 em($fontLeading);
+
+	font-style: italic;
+
+	border-left-color: inherit;
+	border-left-style: solid;
+	border-left-width: 0.4em;
+
+	position: relative;
+
+	p:last-of-type {
+		margin-bottom: 0;
+	}
+
+	cite {
+
+		color: $grey;
+		display: block;
+		text-align: right;
+		margin-top: em($fontLeading);
+
+	}
+}

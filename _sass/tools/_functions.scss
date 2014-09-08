@@ -1,0 +1,133 @@
+/**
+ * ===========================================================================
+ *
+ * Functions
+ *
+ * ===========================================================================
+ *
+ */
+/**
+ *
+ * Variables
+ *
+ */
+$pi: 3.1415926535897932384626433832795028841971693993751;
+$π: $pi;
+$e: 2.71828182845904523536028747135266249775724709369995;
+$iter: 50;
+/**
+ *
+ * EM
+ *
+ */
+@function em($target, $context: $fontSize) {
+	@return $target/$context +em
+}
+/**
+ *
+ * REM
+ *
+ */
+@function rem($target, $context: $fontSize) {
+	@return $target/$context +rem
+}
+/**
+ *
+ * PX
+ *
+ */
+@function px($target, $context: $fontSize) {
+	@return $target*$context +px
+}
+/**
+ *
+ * Unit-less
+ *
+ */
+@function number($target, $context: $fontSize) {
+	@return $target/$context
+}
+/**
+ *
+ * Strip units
+ *
+ */
+@function strip-units($number) {
+	@return $number / ($number * 0 + 1);
+}
+/**
+ *
+ * Random
+ *
+ */
+@function rand() {
+	@return 4;
+}
+/**
+ *
+ * Greatest common divisor
+ *
+ * From: http://rosettacode.org/wiki/Greatest_common_divisor#JavaScript
+ *
+ */
+ @function gcd($a, $b) {
+ 	@if ($b != 0) {
+ 		@return gcd($b, $a % $b);
+ 		} @else {
+ 			@return abs($a);
+ 		}
+ 	}
+/**
+ *
+ * Exponent
+ *
+ * Handles decimal exponents by trying to convert them into a fraction and
+ * then use a nthRoot-algorithm for parts of the calculation
+ *
+ */
+ @function pow($base, $exponent, $prec: 12) {
+ 	@if (floor($exponent) != $exponent) {
+ 		$prec2 : pow(10, $prec);
+ 		$exponent: round($exponent * $prec2);
+ 		$denominator: gcd($exponent, $prec2);
+ 		@return nthRoot(pow($base, $exponent / $denominator), $prec2 / $denominator, $prec);
+ 	}
+
+ 	$value: $base;
+ 	@if $exponent > 1 {
+ 		@for $i from 2 through $exponent {
+ 			$value: $value * $base;
+ 		}
+ 		} @else if $exponent < 1 {
+ 			@for $i from 0 through -$exponent {
+ 				$value: $value / $base;
+ 			}
+ 		}
+
+ 		@return $value;
+ 	}
+/**
+ *
+ * nthRoot
+ *
+ * From: http://rosettacode.org/wiki/Nth_root#JavaScript
+ *
+ */
+ @function nthRoot($num, $n: 2, $prec: 12) { 
+ 	$x: 1;
+
+ 	@for $i from 0 through $prec {
+ 		$x: 1 / $n * (($n - 1) * $x + ($num / pow($x, $n - 1)));
+ 	}
+
+ 	@return $x;
+ }
+ @function sqrt($number) {
+ 	$guess: rand();
+ 	$root: $guess;
+
+ 	@for $i from 1 through $iter {
+ 		$root: $root - (pow($root, 2) - $number) / (2 * $root);
+ 	}
+ 	@return $root;
+ }

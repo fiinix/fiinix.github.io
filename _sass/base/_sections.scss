@@ -1,0 +1,89 @@
+html {
+	height: 100%;
+	-webkit-text-size-adjust: 100%;
+	-ms-text-size-adjust: 100%;
+
+	font-size: $fontSize +px;
+	line-height: number($fontLeading);
+
+	@include mq($breakpointLap) {
+		font-size: $fontSizeLap +px;
+		line-height: number($fontLeadingLap, $fontSizeLap);
+	};
+
+}
+body {
+	font-style: $fontStyle;
+	font-weight: $fontWeight;
+	font-size: 1rem;
+	font-family: $fontFamily;
+
+	// background-color: $primaryColor;
+	// color: contrast($primaryColor);
+
+	background-size: em($fontLeadingLap, $fontSizeLap) em($fontLeadingLap, $fontSizeLap);
+
+	background-color: white;
+	// background-image: linear-gradient(transparent 96%, rgba(255,255,255,.9) 96%);
+	
+	overflow-x: hidden;
+	min-height: 100%;
+
+	text-rendering: optimizeLegibility;
+	counter-reset: figureOrdinal;
+
+	/**
+	 *
+	 * IE10 | Gives scrollbars that appear during touch and keyboard 
+	 * interactions, and fade out again after a few seconds.
+	 *
+	 */
+	-ms-overflow-style: -ms-autohiding-scrollbar;
+
+	-moz-font-feature-settings: "liga" 1, "dlig" 1, "hlig" 1, "clig" 1;
+	-moz-font-feature-settings: "liga=1, dlig=1, hlig=1, clig=1";
+	-webkit-font-feature-settings: "liga" 1, "dlig" 1, "hlig" 1, "clig" 1;
+	font-feature-settings: "liga" 1, "dlig" 1, "hlig" 1, "clig" 1;
+
+	
+}
+
+.wrapper {
+	// border: 1em solid $primaryColor;
+	// border-width: 0 1em 1em 0;
+	// background-color: $white;
+	color: contrast($white);
+
+	// padding: 0 pow($fontScale, 1) +em;
+
+	margin-top: 0;
+	margin-right: pow($fontScale, 1) +em;
+	margin-bottom: pow($fontScale, 1) +em;
+	margin-left: 0;
+
+	@include mq($breakpointWrist) {
+		// margin: pow($fontScale, 1) +em;
+	}
+	@include mq($breakpointPalm) {
+		// margin: pow($fontScale, 1) +em;
+	}
+	@include mq($breakpointLap) {
+		margin-right: pow($fontScaleLap, 2) +em;
+	}
+	@include mq($breakpointDesk) {
+		margin-right: pow($fontScaleLap, 4) +em;
+	}
+	@include mq($breakpointWall) {
+		margin-right: pow($fontScaleLap, 6) +em;
+	}
+	@include mq($breakpointMall) {
+		margin-right: pow($fontScaleLap, 8) +em;
+	}
+}
+article {
+	// max-width: em($measure*($fontSize/$fontConstant));
+}
+footer {
+	padding-top: em($fontLeading);
+	border-top: em($borderWidth) $borderStyle $borderColor;
+}

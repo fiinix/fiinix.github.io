@@ -1,0 +1,93 @@
+/**
+ * ===========================================================================
+ *
+ * carloseriksson.com
+ *
+ * ===========================================================================
+ */
+/**
+ *
+ * Colors
+ *
+ */
+$crimson:						hsl(345,87%,43%);
+
+$primaryColor:					$crimson;
+$secondaryColor:				lighten(adjust-hue($primaryColor, 210%), 10);
+$tertiaryColor:					darken(adjust-hue($primaryColor, 150%), 10);
+$accentColor:					darken($primaryColor, 10);
+
+$black:							hsl(0,0%,12%);
+$white:							#F3F3F3;
+
+$darkGrey:						hsl(0,0%,18%);
+$grey:							hsl(0,0%,60%);
+$lightGrey:						hsl(0,0%,83%);
+
+$debugBg:						rgba(255,0,0,.1);
+/**
+ *
+ * Typography
+ *
+ */
+$fontSize:						16;
+$fontSizeLap:					18;
+
+$fontLeading:					24;
+$fontLeadingLap:				28.8;
+
+$fontScale:						1.25;
+$fontScaleLap:					1.5;
+
+$fontWeight:					400;
+$fontStyle:						normal;
+$fontFamily:					'Merriweather', Georgia, serif;
+$measure:						66;
+/**
+ *
+ * Font constant
+ *
+ * http://www.pearsonified.com/2012/01/characters-per-line.php
+ *
+ * Georgia is e.g. 2.27, I've measured Merriweather at ~2.03
+ *
+ */
+$fontConstant:					2.03;
+
+
+$headingFamily:					'Merriweather Sans', sans-serif;
+$headingWeight:					800;
+
+$uiWeight:						300;
+/**
+ *
+ * Transitions
+ *
+ */
+$easeInOutBack:					cubic-bezier(0.68, -0.55, 0.265, 1.55);
+
+$transitionPropertyDefault: 	all;
+$transitionDurationDefault:		300ms;
+$transitionTimingDefault:		$easeInOutBack;
+$transitionDelayDefault:		0ms;
+
+/**
+ *
+ * Opinionated breakpoints
+ *
+ */
+$breakpointWrist:				321;
+$breakpointPalm:				481;
+$breakpointLap:					769;
+$breakpointDesk:				1025;
+$breakpointWall:				1201;
+$breakpointMall:				1367;
+
+/**
+ *
+ * Borders
+ *
+ */
+$borderWidth:					1;
+$borderStyle:					solid;
+$borderColor:					$lightGrey;

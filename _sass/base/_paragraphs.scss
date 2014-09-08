@@ -1,0 +1,26 @@
+/**
+ * ===========================================================================
+ *
+ * Paragraphs
+ *
+ * ===========================================================================
+ *
+ */
+p {
+	margin-top: 0;
+	margin-bottom: em($fontLeading);
+}
+/**
+ *
+ * Apply to lead paragraph of posts
+ *
+ */
+.lead {
+	font-size: pow($fontScale, 1) +em;
+	line-height: pow($fontScale, 0.75);
+
+	@include mq($breakpointLap) {
+		font-size: pow($fontScaleLap, 1) +em;
+		line-height: pow($fontScaleLap, 0.75);
+	};
+}

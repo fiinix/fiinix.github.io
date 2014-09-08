@@ -1,0 +1,17 @@
+/**
+ * ===========================================================================
+ *
+ * Thematic breaks
+ *
+ * ===========================================================================
+ */
+hr {
+	display: block;
+	height: 1px;
+	border: 0;
+	border-top: em($borderWidth) $borderStyle $borderColor;
+	width: 100%;
+	padding: 0;
+	margin: 0;
+	margin-bottom: em($fontLeading);
+}

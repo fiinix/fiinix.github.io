@@ -1,0 +1,7 @@
+<p>Newer…<br>
+	{% if page.next %}<a href="{{ BASE_PATH }}{{ page.next.url }}" title="{{ page.next.title }}" class="pagination__item"><i class="pagination__arrow">&larr;</i>{{ page.next.title | markdownify | strip_html | trim }}</a>{% else %}<span class="pagination__item pagination__item--is-disabled">Stay tuned for scenes from next weeks episode.</span>{% endif %}
+</p>
+<p class="align-right">
+	Older…<br>
+	{% if page.previous %}<a href="{{ BASE_PATH }}{{ page.previous.url }}" title="{{ page.previous.title }}" class="pagination__item">{{ page.previous.title | markdownify | strip_html | trim }}<i class="pagination__arrow">&rarr;</i></a>{% else %}<span class="pagination__item pagination__item--is-disabled">Great Scott, you&rsquo;ve gone back in time.</span>{% endif %}
+</p>

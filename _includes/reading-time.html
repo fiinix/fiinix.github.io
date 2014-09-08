@@ -1,0 +1,11 @@
+{% if include.type == "post" %}
+
+~<span class="post__reading-time js-reading-time">{% capture truncated_content %}{{ post.content | truncatewords: 250 }}{% endcapture %}{% if post.content != truncated_content %}{{ post.content | number_of_words | append: '.0' | divided_by:180 }}{% endif %}</span> min
+
+{% elsif include.type == "page" %}
+
+~<span class="page__reading-time js-reading-time">{% capture truncated_content %}{{ page.content | truncatewords: 250 }}{% endcapture %}{% if page.content != truncated_content %}{{ page.content | number_of_words | append: '.0' | divided_by:180 }}{% endif %}</span> minutes of your time
+
+{% else %}
+No reading-time.type set
+{% endif %}

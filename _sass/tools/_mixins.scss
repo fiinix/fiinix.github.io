@@ -1,0 +1,44 @@
+/**
+ *
+ * Media-query
+ *
+ */
+@mixin mq($point, $IE9: false, $query1: min, $query2: width) {
+	@if $IE9 == true{
+		.lt-ie9 & {
+			@content;
+		}
+		@media screen and (#{$query1}-#{$query2}: em($point)) {
+			@content;
+		}
+	}
+	@else {
+		@media screen and (#{$query1}-#{$query2}: em($point)) {
+			@content;
+		}
+	}
+}
+/**
+ *
+ * Transition
+ *
+ */
+@mixin transition(
+	$property: $transitionPropertyDefault,
+	$duration: $transitionDurationDefault,
+	$timing: $transitionTimingDefault,
+	$delay: $transitionDelayDefault) {
+	transition: $property $duration $timing $delay;
+}
+/**
+ *
+ * Elements state
+ *
+ */
+@mixin state {
+	&:hover,
+	&:focus,
+	&:active {
+		@content;
+	}
+}

@@ -1,0 +1,18 @@
+{% if include.type == "post" %}
+<time class="post__timestamp" datetime="{{ post.date }}">
+	{% assign m = post.date | date: "%B" %}
+	{% case m %}
+	{% when 'May' %}{{ post.date | date: "%-d " | append: m }}
+	{% when 'June' %}{{ post.date | date: "%-d " | append: m }}
+	{% when 'July' %}{{ post.date | date: "%-d " | append: m }}
+	{% when 'September' %}{{ post.date | date: "%-d " | append: 'Sept.' }}
+	{% else %}{{ post.date | date: "%-d %b" }}.
+	{% endcase %}
+</time>
+{% elsif include.type == "page" %}
+<time class="page__timestamp" datetime="{{ page.date }}">
+	{{ page.date | date: "%-d %B %Y" }}
+</time>
+{% else %}
+No date.type set
+{% endif %}

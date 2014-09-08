@@ -1,0 +1,96 @@
+/**
+ * ===========================================================================
+ *
+ * Tags
+ *
+ * ===========================================================================
+ *
+ */
+.tag {
+	display: inline-block;
+	white-space: nowrap;
+
+	font-weight: $uiWeight;
+	font-family: $headingFamily;
+	/* 16/1.25 = 12.8/16 = 0.8 */
+	font-size: em($fontSize/$fontScale);
+	line-height: pow($fontScale, 1.25);
+
+	padding: 0 em($fontSize/pow($fontScale, 2));
+	margin: 0 em($fontSize/pow($fontScale, 1)) em($fontSize/pow($fontScale, 2)) 0;
+
+	background-color: $grey;
+	color: contrast($grey);
+
+	&:visited {
+		background-color: $lightGrey;
+		color: contrast($lightGrey);
+	}
+
+	@include transition;
+	@include state {
+
+		background-image: none;
+
+		padding: em($fontSize/pow($fontScale, 2)) em($fontSize/pow($fontScale, 1));
+		margin: em(- $fontSize/pow($fontScale, 2));
+		margin-right: em($fontSize/pow($fontScale, 2));
+
+		border-radius: em($fontSize/pow($fontScale, 1));
+		border-bottom-left-radius: 0;
+
+		background-color: $primaryColor;
+		color: $white;
+
+		position: relative;
+		z-index: 30;
+	};
+
+	@include mq($breakpointLap) {
+		/* 18/1.5 = 12/18  */
+		font-size: em($fontSizeLap/$fontScaleLap, $fontSizeLap);
+		line-height: pow($fontScaleLap, 1.25);
+
+		padding: 0 em($fontSizeLap/pow($fontScaleLap, 2), $fontSizeLap);
+		margin: 0 em($fontSizeLap/pow($fontScaleLap, 1), $fontSizeLap) em($fontSizeLap/pow($fontScaleLap, 2), $fontSizeLap) 0;
+	};
+}
+
+// .tag {
+// 	display: inline-block;
+// 	white-space: nowrap;
+// 	font: 300 0.6667em/#{$base-space} 'Ubuntu', sans-serif;
+// 	text-transform: uppercase;
+// 	border:0;
+// 	margin:0 1.2135em 0 0;
+// 	padding:0 $base-space-xs;
+// 	background: $secondary-text-color;
+// 	color: $white;
+
+// 	&:visited {
+// 		background: $tertiary-text-color;
+// 		color: $primary-text-color;
+// 	}
+// }
+// /* When Nightmode is activated */
+// .body--is-nightmode .tag {
+// 	background: $secondary-text-color;
+// 	color: $primary-text-color;
+// }
+// .body--is-nightmode .tag:visited {
+// 	background: $primary-text-color;
+// 	color: $tertiary-text-color;
+// }
+// .tag:hover,
+// .tag:focus,
+// .tag:active,
+// .body--is-nightmode .tag:hover,
+// .body--is-nightmode .tag:focus,
+// .body--is-nightmode .tag:active {
+// 	padding: $base-space-xs $base-space-s;
+// 	margin: (- $base-space-s) $base-space-s (- $base-space-s) (- $base-space-xs);
+// 	border-radius: $base-space-s $base-space-s $base-space-s 0;
+// 	background: $primary-color;
+// 	color: $white;
+// 	border:0;
+// }

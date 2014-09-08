@@ -1,0 +1,65 @@
+/**
+ * ===========================================================================
+ *
+ * Elements
+ *
+ * ===========================================================================
+ *
+ */
+small {
+	font-size: em($fontSize/$fontScale);
+	line-height: pow($fontScale, 1.25);
+
+	@include mq($breakpointLap) {
+		font-size: em($fontSizeLap/$fontScaleLap, $fontSizeLap);
+		line-height: pow($fontScaleLap, 1.25);
+	};
+}
+
+time {
+	text-transform: uppercase;
+	color: $grey;
+}
+.post__timestamp {
+	margin-right: .5em;
+
+	font-size: em($fontSize/$fontScale);
+	line-height: pow($fontScale, 1.25);
+
+	@include mq($breakpointLap) {
+		font-size: em($fontSizeLap/$fontScaleLap, $fontSizeLap);
+		line-height: pow($fontScaleLap, 1.25);
+	};
+}
+
+abbr,
+abbr[title] {
+	text-transform: uppercase;
+	letter-spacing: .1em;
+	border-bottom: 1px dotted $grey;
+	cursor: help;
+
+	font-size: em($fontSize/$fontScale);
+	line-height: pow($fontScale, 1.25);
+
+	@include mq($breakpointLap) {
+		font-size: em($fontSizeLap/$fontScaleLap, $fontSizeLap);
+		line-height: pow($fontScaleLap, 1.25);
+	};
+}
+
+em {}
+mark {
+	background-color: #FFFF4D;
+}
+
+del { color: $grey; }
+ins {
+	text-decoration: none;
+	border-bottom: 1px dashed $grey;
+}
+
+strong {
+	font-size: em($fontSize/$fontScale);
+	line-height: pow($fontScale, 1.25);
+}

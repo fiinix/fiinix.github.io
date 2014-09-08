@@ -1,0 +1,17 @@
+/**
+ * ===========================================================================
+ *
+ * Selection
+ *
+ * ===========================================================================
+ */
+::-moz-selection {
+	background: $primaryColor;
+	text-shadow: none;
+	color: contrast($primaryColor);
+}
+::selection {
+	background: $primaryColor;
+	text-shadow: none;
+	color: contrast($primaryColor);
+}
