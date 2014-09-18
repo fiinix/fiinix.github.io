@@ -1,0 +1,35 @@
+/**
+ * ===========================================================================
+ *
+ * Timestamp
+ *
+ * ===========================================================================
+ */
+.post__timestamp {
+	margin-right: .5em;
+
+	font-size: em($fontSize/$fontScale);
+	line-height: pow($fontScale, 1.25);
+
+	@include mq($breakpointLap) {
+		font-size: em($fontSizeLap/$fontScaleLap, $fontSizeLap);
+		line-height: pow($fontScaleLap, 1.25);
+	};
+}
+.page__timestamp {
+	position: relative;
+
+	&:after {
+		content: " ";
+		display: block;
+
+		height: 1px;
+		width: 25%;
+
+		position: absolute;
+		bottom: -0.75em;
+		left: 37.5%;
+
+		background-color: $primaryColor;
+	}
+}

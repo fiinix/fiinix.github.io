@@ -1,15 +1,14 @@
 /**
  * ===========================================================================
  *
- * Tags
+ * Buttons
  *
  * ===========================================================================
- *
  */
-.tag {
-	display: inline-block;
-	white-space: nowrap;
-	position: relative;
+%button {
+	
+	border: 0;
+	text-decoration: none;
 
 	font-weight: $uiWeight;
 	font-family: $headingFamily;
@@ -17,11 +16,12 @@
 	font-size: em($fontSize/$fontScale);
 	line-height: pow($fontScale, 1.25);
 
-	padding: em($fontSize/pow($fontScale, 2)) em($fontSize/pow($fontScale, 1));
-	margin: 0 3px 3px 0;
+	padding: em($fontSize/pow($fontScale, 1)) em($fontSize/pow($fontScale, 0));
 
 	background-color: transparent;
-	color: contrast($grey);
+	color: white;
+
+	position: relative;
 
 	&:before {
 		content: " ";
@@ -34,7 +34,7 @@
 		left: 0;
 
 		background-color: $grey;
-		transform: skew(5deg, 1deg);
+		transform: skew(-5deg, -1deg);
 
 		z-index: -1;
 
@@ -68,9 +68,15 @@
 		font-size: em($fontSizeLap/$fontScaleLap, $fontSizeLap);
 		line-height: pow($fontScaleLap, 1.25);
 
-		padding: em($fontSize/pow($fontScaleLap, 2)) em($fontSize/pow($fontScaleLap, 1));
+		padding: em($fontSize/pow($fontScaleLap, 0)) pow($fontScaleLap, 1) +em;
 
 	};
-
+	
 	@include transition($duration: 150ms, $timing: ease-in-out);
+
+}
+
+button,
+.button {
+	@extend %button;
 }

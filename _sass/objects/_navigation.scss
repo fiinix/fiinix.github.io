@@ -1,0 +1,26 @@
+/**
+ * ===========================================================================
+ *
+ * Navigation
+ *
+ * ===========================================================================
+ */
+.site-nav {
+
+	width: 100%;
+
+	@include mq($breakpointDesk) {
+		max-width: 77.7777%;
+		margin-right: 11.1111%;
+		margin-left: 5.5555%;
+	}
+	@include mq($breakpointWall) {
+		max-width: 66.6666%;
+		margin-right: 22.2222%;
+		margin-left: 11.1111%;
+	}
+
+}
+.navigation-toggle i {
+	font-style: normal;
+}

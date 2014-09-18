@@ -1,0 +1,18 @@
+/**
+ * ===========================================================================
+ *
+ * Disqus
+ *
+ * ===========================================================================
+ */
+.toggle-disqus.is-disabled {
+
+	color: contrast($grey);
+
+	pointer-events: none;
+	cursor: default;
+
+	&:before {
+		background-color: $grey;
+	}
+}
