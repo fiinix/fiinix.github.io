@@ -27,13 +27,13 @@ h1,
 .h1 {
 	font-size: pow($fontScale, 4) +em;
 	line-height: pow($fontScale, 0);
-	margin-top: ((pow($fontScale, 4)) / 4) * 3 +em;
+	margin-top: 0;
 	margin-bottom: (pow($fontScale, 4)) / 4 +em;
 
 	@include mq($breakpointLap) {
 		font-size: pow($fontScaleLap, 4) +em;
 		line-height: pow($fontScaleLap, 0);
-		margin-top: ((pow($fontScaleLap, 4)) / 4) * 3 +em;
+		margin-top: 0;
 		margin-bottom: (pow($fontScaleLap, 4)) / 4 +em;
 	};
 }

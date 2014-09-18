@@ -21,7 +21,7 @@ body {
 	// background-color: $primaryColor;
 	// color: contrast($primaryColor);
 
-	background-size: em($fontLeadingLap, $fontSizeLap) em($fontLeadingLap, $fontSizeLap);
+	// background-size: em($fontLeadingLap, $fontSizeLap) em($fontLeadingLap, $fontSizeLap);
 
 	background-color: white;
 	// background-image: linear-gradient(transparent 96%, rgba(255,255,255,.9) 96%);
@@ -57,7 +57,7 @@ body {
 	// padding: 0 pow($fontScale, 1) +em;
 
 	margin-top: 0;
-	margin-right: pow($fontScale, 1) +em;
+	// margin-right: pow($fontScale, 1) +em;
 	margin-bottom: pow($fontScale, 1) +em;
 	margin-left: 0;
 
@@ -68,16 +68,16 @@ body {
 		// margin: pow($fontScale, 1) +em;
 	}
 	@include mq($breakpointLap) {
-		margin-right: pow($fontScaleLap, 2) +em;
+		// margin-right: pow($fontScaleLap, 2) +em;
 	}
 	@include mq($breakpointDesk) {
-		margin-right: pow($fontScaleLap, 4) +em;
+		// margin-right: pow($fontScaleLap, 4) +em;
 	}
 	@include mq($breakpointWall) {
-		margin-right: pow($fontScaleLap, 6) +em;
+		// margin-right: pow($fontScaleLap, 6) +em;
 	}
 	@include mq($breakpointMall) {
-		margin-right: pow($fontScaleLap, 8) +em;
+		// margin-right: pow($fontScaleLap, 8) +em;
 	}
 }
 article {

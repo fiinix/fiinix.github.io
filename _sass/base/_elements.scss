@@ -20,17 +20,6 @@ time {
 	text-transform: uppercase;
 	color: $grey;
 }
-.post__timestamp {
-	margin-right: .5em;
-
-	font-size: em($fontSize/$fontScale);
-	line-height: pow($fontScale, 1.25);
-
-	@include mq($breakpointLap) {
-		font-size: em($fontSizeLap/$fontScaleLap, $fontSizeLap);
-		line-height: pow($fontScaleLap, 1.25);
-	};
-}
 
 abbr,
 abbr[title] {
