@@ -9,7 +9,7 @@ github_username:  fiinix
 
 # Build settings
 markdown: kramdown
-highlighter: rouge
+highlighter: pygments
 permalink: /blog/:title
 
 # Sass settings
