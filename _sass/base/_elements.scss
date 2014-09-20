@@ -26,15 +26,22 @@ abbr[title] {
 	text-transform: uppercase;
 	letter-spacing: .1em;
 	border-bottom: 1px dotted $grey;
-	cursor: help;
 
-	font-size: em($fontSize/$fontScale);
-	line-height: pow($fontScale, 1.25);
+	/* Manually adjusted to mimic a small cap and fall within
+	 * the x-height of the body font */	
+
+	font-size: .74em;
+
+	// font-size: em($fontSize/$fontScale);
+	// line-height: pow($fontScale, 1.25);
 
 	@include mq($breakpointLap) {
-		font-size: em($fontSizeLap/$fontScaleLap, $fontSizeLap);
-		line-height: pow($fontScaleLap, 1.25);
+		// font-size: em($fontSizeLap/$fontScaleLap, $fontSizeLap);
+		// line-height: pow($fontScaleLap, 1.25);
 	};
+}
+abbr[title] {
+	cursor: help;
 }
 
 em {}

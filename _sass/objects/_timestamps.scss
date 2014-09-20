@@ -5,7 +5,8 @@
  *
  * ===========================================================================
  */
-.post__timestamp {
+.post__timestamp,
+.page__timestamp {
 	margin-right: .5em;
 
 	font-size: em($fontSize/$fontScale);
@@ -17,19 +18,7 @@
 	};
 }
 .page__timestamp {
-	position: relative;
 
-	&:after {
-		content: " ";
-		display: block;
+	margin-right: 0;
 
-		height: 1px;
-		width: 25%;
-
-		position: absolute;
-		bottom: -0.75em;
-		left: 37.5%;
-
-		background-color: $primaryColor;
-	}
 }

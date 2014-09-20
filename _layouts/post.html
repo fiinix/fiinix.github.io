@@ -7,13 +7,14 @@ layout: default
     <header class="post-header">
       <h1 class="post-heading">{{ page.title }}</h1>
 
-      <p class="align-center">{% include date.html type="page" %} &bull; {% include reading-time.html type="page" %}</p>
+      <p class="align-center">{% include date.html type="page" %}</p>
+      <p class="align-center">{% include reading-time.html type="page" %}</p>
 
       <p class="lead">{{ page.excerpt | markdownify | strip_html | trim }}</p>
 
     </header>
 
-    <article class="post-content" lang="en" style="border-color:{{ page.color }};">
+    <article class="post-content" lang="en">
       {{ content }}
     </article>
 
