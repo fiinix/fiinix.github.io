@@ -80,16 +80,16 @@ Which came in handy as I hung out with my mom, siblings and brother-in-law for m
 
 ##A kosher flight home
 
-Monday morning. Time to take my sweet time getting up. My flight doesn't leave until 17:55, giving me plenty of time to have breakfast and hang out with my mom before heading out to catch up with my grandparents before I leave.
+Monday morning. I took my sweet time getting up. My flight wasn't leaving until 17:55, giving me plenty of time to have breakfast and hang out with my mom before heading out to catch up with my grandparents before I leave.
 
-Once I arrive at the airport, boarding has already begun and I simply saunter through security into the plane to sit down and begin my flight home, which turned out to be interesting all in itself.
+Once I arrived at the airport, boarding had already begun and I simply sauntered through security into the plane to sit down and begin my flight home, which turned out to be interesting all in itself.
 
 <figure>
 	<img class="js-lazy-load" data-original="../../../../assets/posts/2014/october/a-frivolous-flight-to-finland/re-connect-furniture-design-by-meital-tzabari.jpg" alt="Wooden chair made with renewable materials">
 	<figcaption>Re:connect by <a href="http://www.meitaltzabari.com/">Meital Tzabari</a>.</figcaption>
 </figure>
 
-On the plane from Helsinki I happened  to sit next to a Furniture Designer from Israel. She had been living in the <abbr title="United Kingdom">UK</abbr> for the past 10 years and had a studio in London. Being Jewish, but not of a very strict kind, she had ordered from Finnair's kosher range---out of curiosity---and was more than happy to share some of it with me---who was also curious.
+On the plane from Helsinki I sat next to a Furniture Designer from Israel. She had been living in the <abbr title="United Kingdom">UK</abbr> for the past 10 years and had a studio in London. Being Jewish, but not of a very strict kind, she had ordered from Finnair's kosher range---out of curiosity---and was more than happy to share some of it with me---who was also curious.
 
 > The Hebrew word "kosher" literally means "fit" or "proper." When used in relation to food products, "kosher" means that the item in question has been prepared in accordance with Jewish religious practices.
 
