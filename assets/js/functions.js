@@ -272,8 +272,7 @@ $(function() {
     var disqusToggler = $('.js-request-disqus');
 
     // Does it Dijon?
-    html.removeClass('no-js');
-    html.addClass('js');
+    html.removeClass('no-js').addClass('js');
 
     //Lazy load images
     lazyImages.lazyload({
@@ -292,12 +291,14 @@ $(function() {
     function loadDisqus() {
         if(! disqusLoaded) {
             disqusToggler.addClass('is-disabled');
+
             var disqus_shortname = 'fiinix';
             var dsq = document.createElement('script');
             dsq.type = 'text/javascript';
             dsq.async = true;
             dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
             (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+
             disqusLoaded = true;
         }
     }
@@ -320,17 +321,21 @@ $(function() {
         return false;
     });
 
-    //Load Disqus on visitor request
+    //Load Disqus on requesting a comment URI
 
     if(window.location.hash.indexOf('#comment-') >= 0) {
-        html.add(body).animate({
-            scrollTop: disqusComments.offset().top
-        }, 0);
+
+        html.add(body).animate({scrollTop: disqusComments.offset().top}, 0);
         loadDisqus();
     };
 
     disqusToggler.click(function() {
-            loadDisqus();
+
+        // Track event
+        ga('send', 'event', 'disqus', 'comment', 'event-comment-test');
+
+        loadDisqus();
+
     });
 
 });
