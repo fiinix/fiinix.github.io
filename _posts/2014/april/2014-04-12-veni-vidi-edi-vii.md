@@ -6,7 +6,7 @@ date: 2014-04-12 T 12:42 UTC
 tags : [The Abominable Weekly Update, Burgers, Bluewater, Lego,]
 category: blog
 excerpt: Which should translate to “I came, I saw, I ate the Buffalo”. A very fitting title considering the theme of this weeks main event.
-tile: "../../../../assets/posts/veni-vidi-edi-vii/tile.png"
+tile: "/assets/posts/2014/april/veni-vidi-edi-vii/tile.png"
 ---
 
 A couple of co-workers and I really like burgers. We talk about burgers quite frequently---which I'm sure annoys some less meat enthusiastic employees at times. We talk so much about them that our talks have even inspired and spawned a little side-project called [Burgerizer][burg]. But more on that later.
@@ -17,7 +17,7 @@ Our first stop was going to be [Grand Central Basildon][grand-central] in Essex,
 
 <div>
 <figure>
-	<img src="../../../../assets/posts/veni-vidi-edi-vii/grand-central-basildon-burger.jpg" alt="Bloomingdale Burger from Grand Central Basildon.">
+	<img class="js-lazy-load" data-original="/assets/posts/2014/april/veni-vidi-edi-vii/grand-central-basildon-burger.jpg" alt="Bloomingdale Burger from Grand Central Basildon.">
 	<figcaption>Steve and his Bloomingdale Burger. <a href="http://instagram.com/p/kIiUlhn90u/#">Photo by Steven Hill</a>.</figcaption>
 </figure>
 </div>
@@ -38,7 +38,7 @@ Well, this sounds promising doesn't it.
 
 <div>
 <figure>
-	<img src="../../../../assets/posts/veni-vidi-edi-vii/bluewater.jpg" alt="Panorama of Bluewater Shopping Centre at dusk">
+	<img class="js-lazy-load" data-original="/assets/posts/2014/april/veni-vidi-edi-vii/bluewater.jpg" alt="Panorama of Bluewater Shopping Centre at dusk">
 	<figcaption>Original photo by David Iliff. License: CC-BY-SA 3.0</figcaption>
 </figure>
 </div>
@@ -53,7 +53,7 @@ Having scoped out our destination we first made a few "quick" stops at the other
 
 <div>
 <figure>
-	<img src="../../../../assets/posts/veni-vidi-edi-vii/a-wall-of-lego.jpg" alt="A wall of protuding buckets of Lego">
+	<img class="js-lazy-load" data-original="/assets/posts/2014/april/veni-vidi-edi-vii/a-wall-of-lego.jpg" alt="A wall of protuding buckets of Lego">
 	<figcaption>Their Pick-A-Brick wall was also pretty awesome.</figcaption>
 </figure>
 </div>
@@ -68,13 +68,15 @@ I ordered the Chargrilled Chicken Skewers for the starter and decided, after muc
 
 But as you might remember I was going to follow in the footsteps of our great---eater of animals---Darwin and seeing as there was the option of changing any burger meat for buffalo meat, I of course had to.
 
+<p data-pullquote="Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facere!"></p>
+
 First to arrive though, was the Chargrilled Chicken Skewers, forever remembered as *the most succulent and mouth-watering* chicken I have ever had. So perfectly grilled that this is now what I will aim to achieve with my own barbecuing.
 
 How about the burger, you ask?
 
 <div>
 <figure>
-	<img src="../../../../assets/posts/veni-vidi-edi-vii/gourmet-burger-kitchens-the-apollo.jpg" alt="The Apollo, award-winning burger from Gourmet Burger Kitchen. With buffalo instead of chicken.">
+	<img class="js-lazy-load" data-original="/assets/posts/2014/april/veni-vidi-edi-vii/gourmet-burger-kitchens-the-apollo.jpg" alt="The Apollo, award-winning burger from Gourmet Burger Kitchen. With buffalo instead of chicken.">
 	<figcaption>The Apollo, an award-winning burger from Gourmet Burger Kitchen. With buffalo instead of chicken.</figcaption>
 </figure>
 </div>

@@ -24,7 +24,7 @@ Cue the---
 
 <div>
 <figure>
-	<img class="js-lazy-load" data-original="../../../../assets/posts/2014/august/cupcakes-wizards-squids-and-tattoos/pina-colada-cupcakes-with-pineapple-curd.jpg" alt="Piña Colada Cupcakes with Pineapple curd filling and Malibu Coconut Rum Flavoured Swiss Meringue Buttercream Frosting.">
+	<img class="js-lazy-load" data-original="/assets/posts/2014/august/cupcakes-wizards-squids-and-tattoos/pina-colada-cupcakes-with-pineapple-curd.jpg" alt="Piña Colada Cupcakes with Pineapple curd filling and Malibu Coconut Rum Flavoured Swiss Meringue Buttercream Frosting.">
 	<figcaption>Piña Colada Cupcakes with Pineapple curd filling and Malibu Coconut Rum Flavoured Swiss Meringue Buttercream Frosting.</figcaption>
 </figure>
 </div>
@@ -43,7 +43,7 @@ Kris and Jo---from Squiders---had invited me out, so we could get to know each o
 
 <div>
 <figure>
-	<img class="js-lazy-load" data-original="../../../../assets/posts/2014/august/cupcakes-wizards-squids-and-tattoos/the-result-of-my-first-pub-quiz.jpg" alt="The result of our Pub quiz evening.">
+	<img class="js-lazy-load" data-original="/assets/posts/2014/august/cupcakes-wizards-squids-and-tattoos/the-result-of-my-first-pub-quiz.jpg" alt="The result of our Pub quiz evening.">
 	<figcaption>Please excuse the lack of correct answers.</figcaption>
 </figure>
 </div>
@@ -60,7 +60,7 @@ Once it's healed I'll give you a look at the result of the first session. Until 
 
 <div>
 <figure>
-	<img class="js-lazy-load" data-original="../../../../assets/posts/2014/august/cupcakes-wizards-squids-and-tattoos/the-first-session-of-my-sleeve-tattoo.jpg" alt="Progress shot of the first session of my sleeve tattoo.">
+	<img class="js-lazy-load" data-original="/assets/posts/2014/august/cupcakes-wizards-squids-and-tattoos/the-first-session-of-my-sleeve-tattoo.jpg" alt="Progress shot of the first session of my sleeve tattoo.">
 	<figcaption>Please excuse the lack of blood.</figcaption>
 </figure>
 </div>

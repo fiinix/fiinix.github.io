@@ -36,7 +36,7 @@ But when I wasn't gaming I also managed to get my <abbr title="Barbecue">BBQ</ab
 
 <div>
 <figure>
-	<img src="../../../../assets/posts/getting-inked-again/first-bbq-burger-of-season-2014.jpg" alt="Aberdeen Angus Beef Burger with Shropshire Blue Cheese and Gherkin">
+	<img class="js-lazy-load" data-original="/assets/posts/2014/april/getting-inked-again/first-bbq-burger-of-season-2014.jpg" alt="Aberdeen Angus Beef Burger with Shropshire Blue Cheese and Gherkin">
 	<figcaption>The first burger of the BBQ season, an Aberdeen Angus Beef Burger with Shropshire Blue Cheese and Gherkin.</figcaption>
 </figure>
 </div>
@@ -57,7 +57,7 @@ Usually I design and draw my own tattoos with very little input from the tattoo 
 
 <div>
 <figure>
-	<img src="../../../../assets/posts/getting-inked-again/rough-sketch-of-final-tattoo.jpg" alt="A rough sketch of a part of my final tattoo">
+	<img class="js-lazy-load" data-original="/assets/posts/2014/april/getting-inked-again/rough-sketch-of-final-tattoo.jpg" alt="A rough sketch of a part of my final tattoo">
 	<figcaption>The first rough sketch for my final tattoo. This is the secondary character in the piece.</figcaption>
 </figure>
 </div>

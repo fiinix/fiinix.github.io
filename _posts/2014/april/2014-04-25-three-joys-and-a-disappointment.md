@@ -6,7 +6,7 @@ date: 2014-04-26 T 19:00 UTC
 tags : ["Kingdoms of Amalur: Reckoning", "Lego Batman 2: DC Super Heroes", Spelunky, Thief, Gaming, Review]
 category: blog
 excerpt: As a part of my extended Easter holiday, I spent a significant portion of the time playing an assortment of games. Steam sales will do that to you.
-tile: "../../../../assets/posts/three-joys-and-a-disappointment/tile.png"
+tile: "/assets/posts/2014/april/three-joys-and-a-disappointment/tile.png"
 ---
 Instead of writing a long introduction---I know how you all *love* that---I thought I would get right to the point for a change. And the point is: games.
 
@@ -20,7 +20,7 @@ Back when <abbr>KoA:R</abbr> was first revealed I thought it looked a lot like F
 
 <div>
 <figure>
-	<img src="../../../../assets/posts/three-joys-and-a-disappointment/kingdoms-of-amalur-reckoning.jpg" alt="Kingdoms of Amalur: Reckoning">
+	<img class="js-lazy-load" data-original="/assets/posts/2014/april/three-joys-and-a-disappointment/kingdoms-of-amalur-reckoning.jpg" alt="Kingdoms of Amalur: Reckoning">
 	<figcaption>Kingdoms of Amalur: Reckoning, a game of magical monster slaying.</figcaption>
 </figure>
 </div>
@@ -39,7 +39,7 @@ And yes, the controls are still a bit "Ooops, I fell to my death" at times and t
 
 <div>
 <figure>
-	<img src="../../../../assets/posts/three-joys-and-a-disappointment/lego-batman-2-dc-super-heroes.jpg" alt="Lego Batman 2: DC Super Heroes">
+	<img class="js-lazy-load" data-original="/assets/posts/2014/april/three-joys-and-a-disappointment/lego-batman-2-dc-super-heroes.jpg" alt="Lego Batman 2: DC Super Heroes">
 	<figcaption>Lego Batman 2: DC Super Heroes, a game of repetitive brick punching.</figcaption>
 </figure>
 </div>
@@ -58,7 +58,7 @@ I've played 6 hours, during which I've died a total of 105 times. That's roughly
 
 <div>
 <figure>
-	<img src="../../../../assets/posts/three-joys-and-a-disappointment/spelunky-a-game-of-forgiveness-and-love.jpg" alt="Spelunky">
+	<img class="js-lazy-load" data-original="/assets/posts/2014/april/three-joys-and-a-disappointment/spelunky-a-game-of-forgiveness-and-love.jpg" alt="Spelunky">
 	<figcaption>Spelunky, a game of <del>forgiveness and love</del> <ins>brutal deaths</ins>.</figcaption>
 </figure>
 </div>
@@ -75,7 +75,7 @@ Boy did that game ever disappoint me. From the clumsily told story to the uninsp
 
 <div>
 <figure>
-	<img src="../../../../assets/posts/three-joys-and-a-disappointment/thief-4.jpg" alt="Thief">
+	<img class="js-lazy-load" data-original="/assets/posts/2014/april/three-joys-and-a-disappointment/thief-4.jpg" alt="Thief">
 	<figcaption>Thief, a game of sneaking from point A–B.</figcaption>
 </figure>
 </div>

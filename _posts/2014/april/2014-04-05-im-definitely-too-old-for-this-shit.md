@@ -18,7 +18,7 @@ Yeah, I’m still working on “Island of Eternity”, despite having not done a
 
 <div>
 <figure>
-	<img src="../../../../assets/posts/im-definitely-too-old-for-this-shit/island-of-eternity-card-concept.png" alt="Island of Eternity, Inflammable Concept">
+	<img class="js-lazy-load" data-original="/assets/posts/2014/april/im-definitely-too-old-for-this-shit/island-of-eternity-card-concept.png" alt="Island of Eternity, Inflammable Concept">
 	<figcaption>“Inflammable”</figcaption>
 </figure>
 </div>

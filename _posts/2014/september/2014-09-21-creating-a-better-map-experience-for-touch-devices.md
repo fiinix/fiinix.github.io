@@ -29,7 +29,7 @@ The idea itself is quite simple.
 We'll overlay a `::before` pseudo-element on top of the map. It will receive our click/touch events instead of the map, which means we'll be free to scroll without interacting with the map itself. Using a button we can then toggle to remove the overlay, letting the map receive our click/touch events again.
 
 <figure>
-	<img src="../../../../assets/posts/2014/september/creating-a-better-map-experience-for-touch-devices/2014-09-19-illustration.jpg" alt="Google map with an overlaid sketch illustrating our plan">
+	<img class="js-lazy-load" data-original="/assets/posts/2014/september/creating-a-better-map-experience-for-touch-devices/2014-09-19-illustration.jpg" alt="Google map with an overlaid sketch illustrating our plan">
 	<figcaption>Sometimes plans include an octopus. Sometimes.</figcaption>
 </figure>
 

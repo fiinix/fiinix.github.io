@@ -12,7 +12,7 @@ This is exactly what happened this morning when the mail man arrived with a myst
 
 <div>
 <figure>
-	<img src="../../../../assets/posts/the-mysterious-morning-box/a-mysterious-box-appears.jpg" alt="An inconspicous looking black box">
+	<img class="js-lazy-load" data-original="/assets/posts/2014/april/the-mysterious-morning-box/a-mysterious-box-appears.jpg" alt="An inconspicous looking black box">
 	<figcaption>Angry “Size Comparison” Barbarian doesn't like inconspicuously marked boxes.</figcaption>
 </figure>
 </div>
@@ -31,7 +31,7 @@ First thing my eyes meet is a smaller box with the writing, "THE NORD" in all ca
 
 <div>
 <figure>
-	<img src="../../../../assets/posts/the-mysterious-morning-box/holding-the-nord.jpg" alt="Holding a small box labelled 'The Nord'">
+	<img class="js-lazy-load" data-original="/assets/posts/2014/april/the-mysterious-morning-box/holding-the-nord.jpg" alt="Holding a small box labelled 'The Nord'">
 	<figcaption>“I knew it, fucking Skyrim”, I think to myself.</figcaption>
 </figure>
 </div>
@@ -50,7 +50,7 @@ But since the first box surprised me I'm keeping my hesitation at bay and look a
 
 <div>
 <figure>
-	<img src="../../../../assets/posts/the-mysterious-morning-box/from-the-eye-of-the-dragon.jpg" alt="Viserion from a Game of Thrones Mystery Mini box.'">
+	<img class="js-lazy-load" data-original="/assets/posts/2014/april/the-mysterious-morning-box/from-the-eye-of-the-dragon.jpg" alt="Viserion from a Game of Thrones Mystery Mini box.'">
 	<figcaption>I got a dragon, apparently called Viserion.</figcaption>
 </figure>
 </div>
@@ -59,7 +59,7 @@ But since the first box surprised me I'm keeping my hesitation at bay and look a
 
 <div>
 <figure>
-	<img src="../../../../assets/posts/the-mysterious-morning-box/lootcrate-april-2014.jpg" alt="The content from Lootcrate, April 2014'">
+	<img class="js-lazy-load" data-original="/assets/posts/2014/april/the-mysterious-morning-box/lootcrate-april-2014.jpg" alt="The content from Lootcrate, April 2014'">
 	<figcaption>Mine, mine, all mine.</figcaption>
 </figure>
 </div>
@@ -68,7 +68,7 @@ The rest of my mysterious morning box contained a 20 Sided Stress Dice, a regula
 
 <div>
 <figure>
-	<img src="../../../../assets/posts/the-mysterious-morning-box/mikeys-dragon-jerky.jpg" alt="Mikey’s Dragon Beef Jerky">
+	<img class="js-lazy-load" data-original="/assets/posts/2014/april/the-mysterious-morning-box/mikeys-dragon-jerky.jpg" alt="Mikey’s Dragon Beef Jerky">
 	<figcaption>Mikey’s Dragon Jerky, it’s “Fus Ro Yum”-a-licious.</figcaption>
 </figure>
 </div>

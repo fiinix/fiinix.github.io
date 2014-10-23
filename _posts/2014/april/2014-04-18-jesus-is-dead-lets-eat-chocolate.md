@@ -24,7 +24,7 @@ Look over here! Look at the pretty picture I took of a blooming Cherry Tree outs
 
 <div>
 <figure>
-	<img src="../../../../assets/posts/jesus-is-dead-lets-eat-chocolate/spring-signs.jpg" alt="A blooming Cherry Tree">
+	<img class="js-lazy-load" data-original="/assets/posts/2014/april/jesus-is-dead-lets-eat-chocolate/spring-signs.jpg" alt="A blooming Cherry Tree">
 	<figcaption>A few days later all of these flowers were gone. So sad.</figcaption>
 </figure>
 </div>
@@ -39,7 +39,7 @@ And by proof I mean a picture of a bowl of porridge. I'll leave you to assume I 
 
 <div>
 <figure>
-	<img src="../../../../assets/posts/jesus-is-dead-lets-eat-chocolate/breakfast-porridge.jpg" alt="A bowl of oatmeal porridge with apple sauce">
+	<img class="js-lazy-load" data-original="/assets/posts/2014/april/jesus-is-dead-lets-eat-chocolate/breakfast-porridge.jpg" alt="A bowl of oatmeal porridge with apple sauce">
 	<figcaption>Carlos took and combined: Common Oatmeal (HP +5) with Motherfucking Apple Sauce (ST +3)</figcaption>
 </figure>
 </div>
@@ -52,7 +52,7 @@ She approved and they lived happily ever after.
 
 <div>
 <figure>
-	<img src="../../../../assets/posts/jesus-is-dead-lets-eat-chocolate/the-witches-are-flying-everywhere.jpg" alt="A handcrafted witch on a broomstick">
+	<img class="js-lazy-load" data-original="/assets/posts/2014/april/jesus-is-dead-lets-eat-chocolate/the-witches-are-flying-everywhere.jpg" alt="A handcrafted witch on a broomstick">
 	<figcaption>Rebecka and Lucien’s improvisational crafts.</figcaption>
 </figure>
 </div>
@@ -65,7 +65,7 @@ A joke building up to a <del>bad</del> <ins>great</ins> punchline.
 
 <div>
 <figure>
-	<img src="../../../../assets/posts/jesus-is-dead-lets-eat-chocolate/the-hidden-egg.jpg" alt="A chocolate egg hidden amongst a blooming flower">
+	<img class="js-lazy-load" data-original="/assets/posts/2014/april/jesus-is-dead-lets-eat-chocolate/the-hidden-egg.jpg" alt="A chocolate egg hidden amongst a blooming flower">
 	<figcaption>Sssh, don’t tell Lucien. He’s going to try to find it tomorrow.</figcaption>
 </figure>
 </div>
@@ -74,7 +74,7 @@ And that's it for this time. So, go out there, think about Jesus, eat some choco
 
 <div>
 <figure>
-	<img src="../../../../assets/posts/jesus-is-dead-lets-eat-chocolate/easter-greetings-from-the-eriksson-family-2014.jpg" alt="The yearly Easter card from the Eriksson family">
+	<img class="js-lazy-load" data-original="/assets/posts/2014/april/jesus-is-dead-lets-eat-chocolate/easter-greetings-from-the-eriksson-family-2014.jpg" alt="The yearly Easter card from the Eriksson family">
 </figure>
 </div>
 

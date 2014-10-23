@@ -7,7 +7,7 @@ tags : [Health, On Turning Thirty]
 discretion: true
 category: blog
 excerpt: Slowly and surely my lifestyle has gone from “Unlikely to make it to 20” to “Coronary Heart Disease in mid-forties” and finally to “Might make to 77.”
-tile: "../../../../assets/posts/my-body-the-trash-receptacle/tile.png"
+tile: "/assets/posts/2014/april/my-body-the-trash-receptacle/tile.png"
 ---
 Before you imagine the worst. No, I'm fine, there's nothing wrong with me. Nothing new at least and nothing that I know of---and what you don't know, won't kill you, right?
 
@@ -23,7 +23,7 @@ It has taken quite a few beatings over the years, from scratches, bruises and mi
 
 <div>
 <figure>
-	<img src="../../../../assets/posts/my-body-the-trash-receptacle/x-rays-of-carlos-erikssons-face.jpg" alt="X-rays of my face from 2003">
+	<img class="js-lazy-load" data-original="/assets/posts/2014/april/my-body-the-trash-receptacle/x-rays-of-carlos-erikssons-face.jpg" alt="X-rays of my face from 2003">
 	<figcaption>Carlos Eriksson, 2003-09-05 T 13:47:20 UTC+02:00</figcaption>
 </figure>
 </div>
@@ -57,7 +57,7 @@ So until I have further evidence I'm just going to have to settle with "reasonab
 
 <div>
 <figure>
-	<img src="../../../../assets/posts/my-body-the-trash-receptacle/level-up.png" alt="Achivement Unlocked: Not Killing Yourself Quite As Quickly">
+	<img class="js-lazy-load" data-original="/assets/posts/2014/april/my-body-the-trash-receptacle/level-up.png" alt="Achivement Unlocked: Not Killing Yourself Quite As Quickly">
 <figcaption>And this years award for surviving ones own stupidity goes to...</figcaption>
 </figure>
 </div>
@@ -89,7 +89,7 @@ After 7-8 trials I think I've managed to find that sweet spot between *not too s
 
 <div>
 <figure>
-	<img src="../../../../assets/posts/my-body-the-trash-receptacle/apple-sauce-by-carlos-eriksson.jpg" alt="Apple sauce in a Kilner jar">
+	<img class="js-lazy-load" data-original="/assets/posts/2014/april/my-body-the-trash-receptacle/apple-sauce-by-carlos-eriksson.jpg" alt="Apple sauce in a Kilner jar">
 	<figcaption>Motherfucking Apple Sauce, with +3 to Stamina.</figcaption>
 </figure>
 </div>

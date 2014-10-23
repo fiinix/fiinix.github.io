@@ -6,7 +6,7 @@ date: 2014-06-22 T 23:45 UTC
 tags : ["Season’s Greetings", Video, Midsummer, The Abominable Weekly Update]
 category: blog
 excerpt: Join me as I attempt to explain the curious tradition that is midsummer and top it of with a video greeting to all of you. But mostly you. Yes, you.
-tile: "../../../../assets/posts/2014/june/midsummer-our-most-cherished-pagan-holiday/tile.png"
+tile: "/assets/posts/2014/june/midsummer-our-most-cherished-pagan-holiday/tile.png"
 facebook: "assets/posts/2014/june/midsummer-our-most-cherished-pagan-holiday/facebook-og-image.png"
 twitter: "assets/posts/2014/june/midsummer-our-most-cherished-pagan-holiday/twitter-image.jpg"
 ---
@@ -15,7 +15,7 @@ twitter: "assets/posts/2014/june/midsummer-our-most-cherished-pagan-holiday/twit
 I've noticed that I have quite a high readership from United Kingdom and I imagine many of you might not know what midsummer is---the celebration, not the word itself, of course. And with that in mind I would like to present to you;
 
 <figure>
-	<img class="js-lazy-load" data-original="../../../../assets/posts/2014/june/midsummer-our-most-cherished-pagan-holiday/title.jpg" alt="The Abominable Midsummer Update, designed to look like a medieval book">
+	<img class="js-lazy-load" data-original="/assets/posts/2014/june/midsummer-our-most-cherished-pagan-holiday/title.jpg" alt="The Abominable Midsummer Update, designed to look like a medieval book">
 </figure>
 
 
@@ -36,7 +36,7 @@ Besides, if you get cold---not that you would, would you?---but let's pretend, a
 Which is how we segue into the first of the top 7 important things about midsummer.
 
 <figure>
-	<img class="js-lazy-load" data-original="../../../../assets/posts/2014/june/midsummer-our-most-cherished-pagan-holiday/midsummer-bonfire-in-seurasaari-finland.jpg" alt="A giant float of burning wood">
+	<img class="js-lazy-load" data-original="/assets/posts/2014/june/midsummer-our-most-cherished-pagan-holiday/midsummer-bonfire-in-seurasaari-finland.jpg" alt="A giant float of burning wood">
 	<figcaption>A midsummer bonfire in Finland. Original photograph by Ralf Roletschek.</figcaption>
 </figure>
 
@@ -58,7 +58,7 @@ You're probably seeing a theme here, right?
 
 <div>
 <figure>
-	<img class="js-lazy-load" data-original="../../../../assets/posts/2014/june/midsummer-our-most-cherished-pagan-holiday/midsummer-expectations-vs-reality.jpg" alt="Funny cartoon depicting the difference in the expectation vs reality of midsummer.">
+	<img class="js-lazy-load" data-original="/assets/posts/2014/june/midsummer-our-most-cherished-pagan-holiday/midsummer-expectations-vs-reality.jpg" alt="Funny cartoon depicting the difference in the expectation vs reality of midsummer.">
 	<figcaption>I would credit the original author if I could find any reference to who it is.</figcaption>
 </figure>
 </div>
@@ -107,7 +107,7 @@ No self-respecting midsummer celebrant would be caught dead without a maypole, o
 
 <div>
 <figure>
-	<img class="js-lazy-load" data-original="../../../../assets/posts/2014/june/midsummer-our-most-cherished-pagan-holiday/the-midsummer-maypole.jpg" alt="Rebecka hiding behind the table featuring our miniature midsummer pole.">
+	<img class="js-lazy-load" data-original="/assets/posts/2014/june/midsummer-our-most-cherished-pagan-holiday/the-midsummer-maypole.jpg" alt="Rebecka hiding behind the table featuring our miniature midsummer pole.">
 	<figcaption>When you see you will <del>shit bricks</del> <ins>laugh</ins>.</figcaption>
 </figure>
 </div>
@@ -125,7 +125,7 @@ Sure some families are more estranged than others and some might not even be on 
 
 <div>
 <figure>
-	<img class="js-lazy-load" data-original="../../../../assets/posts/2014/june/midsummer-our-most-cherished-pagan-holiday/the-midsummer-celebrants.jpg" alt="Lucy, Rebecka, Steve and Torz">
+	<img class="js-lazy-load" data-original="/assets/posts/2014/june/midsummer-our-most-cherished-pagan-holiday/the-midsummer-celebrants.jpg" alt="Lucy, Rebecka, Steve and Torz">
 	<figcaption>Good times were had.</figcaption>
 </figure>
 </div>

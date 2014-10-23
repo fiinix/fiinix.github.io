@@ -14,7 +14,7 @@ Which I totally did.
 
 <div>
 <figure>
-	<img src="../../../../assets/posts/no-sleep-for-i-am-the-werewolf/wow-such-games-much-boards.jpg" alt="All the board games we had available">
+	<img class="js-lazy-load" data-original="/assets/posts/2014/april/no-sleep-for-i-am-the-werewolf/wow-such-games-much-boards.jpg" alt="All the board games we had available">
 	<figcaption>More games than anyone of us played during the marathon.</figcaption>
 </figure>
 </div>
@@ -68,7 +68,7 @@ A different game---that I had been eyeing before---and *did* get to play was [Su
 
 <div>
 <figure>
-	<img src="../../../../assets/posts/no-sleep-for-i-am-the-werewolf/session-of-survive-escape-from-atlantis.jpg" alt="A session of Survive: Escape From Atlantis! being played">
+	<img class="js-lazy-load" data-original="/assets/posts/2014/april/no-sleep-for-i-am-the-werewolf/session-of-survive-escape-from-atlantis.jpg" alt="A session of Survive: Escape From Atlantis! being played">
 	<figcaption>I totally lost this game of Survive: Escape From Atlantis!</figcaption>
 </figure>
 </div>
@@ -79,7 +79,7 @@ I did develop a favourite that even now---as I think back---I'm filled with fond
 
 <div>
 <figure>
-	<img src="../../../../assets/posts/no-sleep-for-i-am-the-werewolf/one-night-ultimate-werewolf.jpg" alt="Artwork for One Night: Ultimate Werewolf">
+	<img class="js-lazy-load" data-original="/assets/posts/2014/april/no-sleep-for-i-am-the-werewolf/one-night-ultimate-werewolf.jpg" alt="Artwork for One Night: Ultimate Werewolf">
 	<figcaption>Quick. Brutal. My kind of fun.</figcaption>
 </figure>
 </div>

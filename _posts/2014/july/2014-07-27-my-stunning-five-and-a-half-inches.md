@@ -40,7 +40,7 @@ And I really like it so far. God damn it.
 
 <div>
 <figure>
-	<img class="js-lazy-load" data-original="../../../../assets/posts/2014/july/my-stunning-five-and-a-half-inches/lg-g3-fake-promo-by-carlos-eriksson.jpg" alt="Fake promotional image for LG G3 with the slogan: With its stunning Quad HD display at an astounding 538ppi, stalking your ex on Facebook will never be the same again.">
+	<img class="js-lazy-load" data-original="/assets/posts/2014/july/my-stunning-five-and-a-half-inches/lg-g3-fake-promo-by-carlos-eriksson.jpg" alt="Fake promotional image for LG G3 with the slogan: With its stunning Quad HD display at an astounding 538ppi, stalking your ex on Facebook will never be the same again.">
 	<figcaption>I hope LG doesn’t sue me for this.</figcaption>
 </figure>
 </div>

@@ -16,7 +16,7 @@ But now I'm back---not that I ever really left---and boy do I have things to tel
 
 <div>
 <figure>
-	<img class="js-lazy-load" data-original="../../../../assets/posts/2014/july/notice-of-termination/the-abominable-weekly-update-title.png" alt="The Abominable Weekly Update">
+	<img class="js-lazy-load" data-original="/assets/posts/2014/july/notice-of-termination/the-abominable-weekly-update-title.png" alt="The Abominable Weekly Update">
 </figure>
 </div>
 
@@ -38,7 +38,7 @@ Enough of that now though as I'm sure you're all more curious to know what I'll 
 
 <div>
 <figure>
-	<img class="js-lazy-load" data-original="../../../../assets/posts/2014/july/notice-of-termination/turkey-mill-maidstone.jpg" alt="Beautiful pond at Turkey Mill, Maidstone">
+	<img class="js-lazy-load" data-original="/assets/posts/2014/july/notice-of-termination/turkey-mill-maidstone.jpg" alt="Beautiful pond at Turkey Mill, Maidstone">
 	<figcaption>My future place of work. Photograph courtesy of <a href="http://www.lucybateman.co.uk/">Lucy Bateman Photography</a>.</figcaption>
 </figure>
 </div>

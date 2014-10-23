@@ -15,7 +15,7 @@ Join me, for the first time in the history of Carlos, as we are about to begin o
 I often sit and think about how I'm perceived. And let's face it. I'm a bit of a pretentious hipster, I really am. And rather than pretending I'm not, I try to embrace it and not shy away from the repercussions.
 
 <figure>
-	<img class="js-lazy-load" data-original="../../../../assets/posts/2014/october/the-pretentious-perception-of-carlos/whisky-by-joshua-rappeneker.jpg" alt="A glass of whisky on the rocks in an English pub">
+	<img class="js-lazy-load" data-original="/assets/posts/2014/october/the-pretentious-perception-of-carlos/whisky-by-joshua-rappeneker.jpg" alt="A glass of whisky on the rocks in an English pub">
 	<figcaption>“Whisky” courtesy of <a href="https://flic.kr/p/4Dhj7x">Joshua Rappeneker</a>, cropped to 16×9 under its CC BY-SA 2.0 license.</figcaption>
 </figure>
 
@@ -24,6 +24,8 @@ Which brings me to the whisky.
 For some time now I've been thinking about adding it to my repertoire of things that I drink. I look at myself in mirror and I think, "Yeah, I'm the kind of pretentious self-proclaimed artist who should be sitting at a massive oak table, penning my next novel whilst enjoying a glass of whisky."
 
 But, there's a problem and this is partly why I'm asking for your advise.
+
+<p data-pullquote="Drinking it like a shot probably didn’t help either."></p>
 
 See, I can't stomach whisky. And I don't mean it in a "I don't like it" kind of way. I mean, the few times that I've had whisky in the past has always resulted in the whisky hitting my stomach and then seconds later, instantly and violently, returning to greet the light of day again.
 

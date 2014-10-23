@@ -33,7 +33,7 @@ So far so good.
 Because I was only staying for a weekend and because I enjoy travelling lightly, I had only packed an extra t-shirt, a pair of boxer-briefs and a pair of socks. Since I've also <del>stopped travelling with my belt</del> <ins>gotten too fat to need a belt</ins> I simply walked through security in a breeze.
 
 <figure>
-	<img class="js-lazy-load" data-original="../../../../assets/posts/2014/october/a-frivolous-flight-to-finland/jeepers-its-the-finnair-creeper.jpg" alt="Photo of an airplane wing with humours Scooby Doo-inspired illustrations on top">
+	<img class="js-lazy-load" data-original="/assets/posts/2014/october/a-frivolous-flight-to-finland/jeepers-its-the-finnair-creeper.jpg" alt="Photo of an airplane wing with humours Scooby Doo-inspired illustrations on top">
 	<figcaption>Jeepers, it’s the Finnair Creeper!</figcaption>
 </figure>
 
@@ -60,7 +60,7 @@ After that, it was time for the debauchery.
 Five grown-ass men in a small 32 m<sup>2</sup> apartment.
 
 <figure>
-	<img class="js-lazy-load" data-original="../../../../assets/posts/2014/october/a-frivolous-flight-to-finland/carlos-and-mr-suqqa-swap-faces-in-finland.jpg" alt="Carlos and Suqqa have their faces swapped by the Windows Phone app Faceswap">
+	<img class="js-lazy-load" data-original="/assets/posts/2014/october/a-frivolous-flight-to-finland/carlos-and-mr-suqqa-swap-faces-in-finland.jpg" alt="Carlos and Suqqa have their faces swapped by the Windows Phone app Faceswap">
 	<figcaption>You look different. Have you lost weight?</figcaption>
 </figure>
 
@@ -85,7 +85,7 @@ Monday morning. I took my sweet time getting up. My flight wasn't leaving until 
 Once I arrived at the airport, boarding had already begun and I simply sauntered through security into the plane to sit down and begin my flight home, which turned out to be interesting all in itself.
 
 <figure>
-	<img class="js-lazy-load" data-original="../../../../assets/posts/2014/october/a-frivolous-flight-to-finland/re-connect-furniture-design-by-meital-tzabari.jpg" alt="Wooden chair made with renewable materials">
+	<img class="js-lazy-load" data-original="/assets/posts/2014/october/a-frivolous-flight-to-finland/re-connect-furniture-design-by-meital-tzabari.jpg" alt="Wooden chair made with renewable materials">
 	<figcaption>Re:connect by <a href="http://www.meitaltzabari.com/">Meital Tzabari</a>.</figcaption>
 </figure>
 
