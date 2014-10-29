@@ -1,3 +1,7 @@
+* {
+  -webkit-tap-highlight-color: rgba(0,0,0,0);
+}
+
 html {
 	height: 100%;
 	-webkit-text-size-adjust: 100%;
@@ -52,14 +56,17 @@ body {
 	// border: 1em solid $primaryColor;
 	// border-width: 0 1em 1em 0;
 	// background-color: $white;
-	color: contrast($white);
+	// color: contrast($white);
+	// margin
+
+	padding-top: em($fontLeading);
 
 	// padding: 0 pow($fontScale, 1) +em;
 
-	margin-top: 0;
+	// margin-top: 0;
 	// margin-right: pow($fontScale, 1) +em;
-	margin-bottom: pow($fontScale, 1) +em;
-	margin-left: 0;
+	// margin-bottom: pow($fontScale, 1) +em;
+	// margin-left: 0;
 
 	@include mq($breakpointWrist) {
 		// margin: pow($fontScale, 1) +em;
@@ -82,8 +89,4 @@ body {
 }
 article {
 	// max-width: em($measure*($fontSize/$fontConstant));
-}
-footer {
-	padding-top: em($fontLeading);
-	border-top: em($borderWidth) $borderStyle $borderColor;
 }

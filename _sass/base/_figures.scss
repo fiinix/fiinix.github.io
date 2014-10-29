@@ -40,6 +40,8 @@ figcaption {
 	font-size: em($fontSize/$fontScale);
 	line-height: pow($fontScale, 1.25);
 
+	color: $black;
+
 	/**
 	 *
 	 * Automatic numbering with CSS Counters

@@ -1,21 +1,30 @@
-/**
- * ===========================================================================
- *
- * carloseriksson.com
- *
- * ===========================================================================
- */
-/**
- *
- * Colors
- *
- */
+/* ==========================================================================
+
+
+   Carloseriksson.com
+
+
+   ========================================================================== */
+
+
+
+/* Palette
+   ========================================================================== */
+$deviate:						10;
+
 $crimson:						hsl(345,87%,43%);
+// $mint:							#36d894;
+$mint:							hsl(155,67%,53%);
+$mintText:						hsl(155,57%,33%);
 
 $primaryColor:					$crimson;
-$secondaryColor:				lighten(adjust-hue($primaryColor, 210%), 10);
-$tertiaryColor:					darken(adjust-hue($primaryColor, 150%), 10);
-$accentColor:					darken($primaryColor, 10);
+$secondaryColor:				$mint;
+$tertiaryColor:					hsl(155,77%,30%);
+$accentColor:					desaturate(darken($crimson, $deviate), $deviate);
+
+$test1:							adjust-hue($mint, 15);
+$test2:							adjust-hue($mint, 30);
+$test3:							adjust-hue($mint, 45);
 
 $black:							hsl(0,0%,12%);
 $white:							#F3F3F3;
@@ -25,11 +34,11 @@ $grey:							hsl(0,0%,60%);
 $lightGrey:						hsl(0,0%,83%);
 
 $debugBg:						rgba(255,0,0,.1);
-/**
- *
- * Typography
- *
- */
+
+
+
+/* Typography
+   ========================================================================== */
 $fontSize:						16;
 $fontSizeLap:					18;
 
@@ -43,12 +52,11 @@ $fontWeight:					400;
 $fontStyle:						normal;
 $fontFamily:					'Merriweather', Georgia, serif;
 $measure:						66;
+
 /**
- *
  * Font constant
  *
  * http://www.pearsonified.com/2012/01/characters-per-line.php
- *
  * Georgia is e.g. 2.27, I've measured Merriweather at ~2.03
  *
  */
@@ -58,9 +66,13 @@ $fontConstant:					2.03;
 $headingFamily:					'Merriweather Sans', sans-serif;
 $headingWeight:					800;
 
+$uiFamily:						$headingFamily;
 $uiWeight:						300;
 
 $fixedFamily:					Consolas, monospace;
+
+
+
 /**
  *
  * Transitions
@@ -73,6 +85,8 @@ $transitionDurationDefault:		300ms;
 $transitionTimingDefault:		$easeInOutBack;
 $transitionDelayDefault:		0ms;
 
+
+
 /**
  *
  * Opinionated breakpoints
@@ -82,8 +96,36 @@ $breakpointWrist:				321;
 $breakpointPalm:				481;
 $breakpointLap:					769;
 $breakpointDesk:				1025;
-$breakpointWall:				1201;
-$breakpointMall:				1367;
+$breakpointWall:				1367;
+$breakpointMall:				1921;
+
+
+$canon:							18;
+
+$canon-margin-left:				1;
+$canon-margin-top:				1;
+$canon-margin-right:			2;
+$canon-margin-bottom:			2;
+
+$canon-margin-left-lap:			2;
+$canon-margin-top-lap:			2;
+$canon-margin-right-lap:		4;
+$canon-margin-bottom-lap:		4;
+
+$z-layers: (
+	"goku":						9001, 
+	"shoryuken":				8000,
+	"modal": (
+	"base":						500,
+	"close":					100,
+	"header":					50,
+	"footer":					10
+	),
+	"default":					1,
+	"below":					-1,
+	"bottomless-pit":			-9000
+);
+
 
 /**
  *

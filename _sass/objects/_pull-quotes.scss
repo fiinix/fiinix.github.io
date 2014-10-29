@@ -1,0 +1,49 @@
+/* ==========================================================================
+
+
+   Pull quotes
+
+
+   ========================================================================== */
+
+p[data-pullquote] {
+
+	color: inherit;
+
+}
+
+p[data-pullquote]:before {
+
+	display: block;
+	content: attr(data-pullquote);
+
+	margin: 0 0 1.5em 0;
+	padding: 0;
+
+	word-break: keep-all;
+
+	-webkit-hyphens: none;
+	-moz-hyphens: none;
+	hyphens: none;
+
+	font-weight: $fontWeight;
+	font-family: $headingFamily;
+
+	color: inherit;
+
+	font-size: pow($fontScale, 1) +em;
+	line-height: pow($fontScale, 0.75);
+
+	@include mq($breakpointLap) {
+
+		font-size: pow($fontScaleLap, 1) +em;
+		line-height: pow($fontScaleLap, 0.75);
+
+		float: right;
+		width: 12em;
+
+		margin: 0 -15% 0.5em 1em;
+
+	};
+
+}

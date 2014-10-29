@@ -7,22 +7,21 @@
  *
  */
 small {
-	font-size: em($fontSize/$fontScale);
-	line-height: pow($fontScale, 1.25);
 
-	@include mq($breakpointLap) {
-		font-size: em($fontSizeLap/$fontScaleLap, $fontSizeLap);
-		line-height: pow($fontScaleLap, 1.25);
-	};
+	font-size: .74em;
+
 }
 
 time {
+
 	text-transform: uppercase;
 	color: $grey;
+
 }
 
 abbr,
 abbr[title] {
+
 	text-transform: uppercase;
 	letter-spacing: .1em;
 	border-bottom: 1px dotted $grey;
@@ -32,30 +31,32 @@ abbr[title] {
 
 	font-size: .74em;
 
-	// font-size: em($fontSize/$fontScale);
-	// line-height: pow($fontScale, 1.25);
-
-	@include mq($breakpointLap) {
-		// font-size: em($fontSizeLap/$fontScaleLap, $fontSizeLap);
-		// line-height: pow($fontScaleLap, 1.25);
-	};
 }
 abbr[title] {
+
 	cursor: help;
+
 }
 
 em {}
 mark {
+
 	background-color: #FFFF4D;
+
 }
 
-del { color: $grey; }
+del {
+
+	color: $grey;
+
+}
 ins {
+
 	text-decoration: none;
 	border-bottom: 1px dashed $grey;
+
 }
 
 strong {
-	font-size: em($fontSize/$fontScale);
-	line-height: pow($fontScale, 1.25);
+
 }

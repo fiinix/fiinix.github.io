@@ -1,38 +1,23 @@
 /**
  * ===========================================================================
  *
- * Navigation
+ * Footer
  *
  * ===========================================================================
  */
-.main-navigation {
-	width: 100%;
+.footer {
+
 	background-color: $primaryColor;
 	color: contrast($primaryColor);
 
-	padding-top: em($fontLeading);
+	padding-top: em($fontLeading*2);
 	padding-bottom: em($fontLeading);
-	margin-bottom: em($fontLeading /2);
 
-	
-	a {
-		// display: inline-block;
-		color: $white;
+	padding-left: em($fontLeading);
+	padding-right: em($fontLeading);
 
-		font-weight: $uiWeight;
-		font-size: em($fontSize/$fontScale);
-		line-height: pow($fontScale, 1.25);
-		font-family: $uiFamily;
-
-		border-color: transparent;
-
-		@include transition;
-		@include state {
-
-			border-color: $white;
-
-		};
-	}
+	margin-top: em($fontLeading);
+	// border-top: em($borderWidth) $borderStyle $borderColor;
 
 
 	position: relative;
@@ -47,35 +32,46 @@
 		height: em($fontLeading);
 
 		position: absolute;
-		bottom: em(- $fontLeading/2);
+		top: em(- $fontLeading/2);
 		left: 0;
 
 		background-color: $primaryColor;
-		transform: skew(0deg, -1deg);
+		transform: skew(0deg, 1deg);
 	}
-}
 
-.nav-container {
+	.group {
 
-	width: 100%;
+		font-family: $uiFamily;
+		font-size: .74em;
+
+	}
 
 	@include mq($breakpointDesk) {
+
+		padding-left: 0;
+		padding-right: 0;
+
+	}
+
+}
+.footer-hr {
+
+	border-color: darken($primaryColor, 10);
+
+	@include mq($breakpointDesk) {
+
 		max-width: 77.7777%;
 		margin-right: 11.1111%;
 		margin-left: 5.5555%;
+
 	}
+
 	@include mq($breakpointWall) {
+
 		max-width: 66.6666%;
 		margin-right: 22.2222%;
 		margin-left: 11.1111%;
+
 	}
 
-}
-/**
- *
- * Navigation toggler
- *
- */
-.navigation-toggle i {
-	font-style: normal;
 }

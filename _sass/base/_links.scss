@@ -11,17 +11,21 @@ a {
 	color: $primaryColor;
 	text-decoration: none;
 
-	background-image: none;
-	background-repeat: repeat-x;
-	background-position: bottom .18em left;
-	background-size: 2px 2px;
+	border-bottom: 1px solid $lightGrey;
+
+	// background-image: none;
+	// background-repeat: repeat-x;
+	// background-position: bottom .18em left;
+	// background-size: 2px 2px;
 
 	&:visited {
 		color: desaturate(darken($primaryColor, 10),10);
+		border-color: $lightGrey;
 	}
 	
 	@include state {
 		color: $primaryColor;
-		background-image: linear-gradient(to bottom, transparent 50%, $grey 50%);
+		border-color: $grey;
+		// background-image: linear-gradient(to bottom, transparent 50%, $grey 50%);
 	}
 }
