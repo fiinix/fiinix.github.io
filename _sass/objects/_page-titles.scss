@@ -27,9 +27,11 @@ svg {
 	right: 0;
 
 	pointer-events: none;
+
 }
 
 text {
+	animation: test 1000ms ease-in-out infinite 0ms;
 	/* Firefox doesnt understand inline SVGs with relative IDs */
 	// fill: url(#wood);
 }

@@ -1,6 +1,25 @@
 ---
 layout: default
 ---
+<svg width="75%" height="1.5em">
+<defs>
+  <pattern id="texture" patternUnits="userSpaceOnUse" width="300" height="300" >
+    <image xlink:href="{{ page.tile }}" width="300" height="300" />
+  </pattern>
+</defs>
+<text y="1.2em" fill="url(#texture)">{{ page.title }}</text>
+</svg>
+
+<!-- {% if page.tile and page.color %}
+  <body style="background-color:{{ page.color }};background-image:url({{ page.tile }});">
+  {% elsif page.tile %}
+  <body style="background-image:url({{ page.tile }});">
+  {% elsif page.color %}
+  <body style="background-color:{{ page.color }};">
+  {% else %}
+  <body>
+  {% endif %} -->
+
 <div class="group" role="main">
   <section class="col--main">
 

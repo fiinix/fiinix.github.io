@@ -16,19 +16,18 @@
 	width: 100%;
 
 	margin-top: 0;
-	margin-right: auto;
 	margin-bottom: 0;
-	margin-left: auto;
-
-	max-width: ((100 / $canon) * ($canon - ($canon-margin-right + $canon-margin-left))) +0%;
 	margin-right: ((100 / $canon) * $canon-margin-right) +0%;
 	margin-left: ((100 / $canon) * $canon-margin-left) +0%;
+
+	max-width: ((100 / $canon) * ($canon - ($canon-margin-right + $canon-margin-left))) +0%;
 
 	@include mq($breakpointDesk) {
 		
 		flex-direction: row;
 
 		max-width: ((100 / $canon) * ($canon - ($canon-margin-right-lap + $canon-margin-left-lap))) +0%;
+
 		margin-right: ((100 / $canon) * $canon-margin-right-lap) +0%;
 		margin-left: ((100 / $canon) * $canon-margin-left-lap) +0%;
 
@@ -56,7 +55,18 @@
 
 }
 
+.flex-group {
 
+	display: flex;
+	flex-direction: column;
+
+	@include mq($breakpointDesk) {
+		
+		flex-direction: row;
+
+	}
+
+}
 
 .col {
 

@@ -2,3 +2,4 @@ _site/
 _ignore/
 .sass-cache/
 .DS_Store/
+_config.yml

@@ -1,8 +1,15 @@
-<p>
-	Older…<br>
-	{% if page.previous %}<a href="{{ BASE_PATH }}{{ page.previous.url }}" title="{{ page.previous.title }}" class="pagination__item"><i class="pagination__arrow">&larr;</i>{{ page.previous.title | markdownify | strip_html | trim }}</a>{% else %}<span class="pagination__item pagination__item--is-disabled">Great Scott, you&rsquo;ve gone back in time.</span>{% endif %}
+<div class="flex-group">
+	<div class="col">
+		<p>
+	{% if page.previous %}<a href="{{ BASE_PATH }}{{ page.previous.url }}" title="{{ page.previous.title }}" class="pagination__item"><i class="pagination__arrow">&larr;</i> Earlier</a>{% else %}<span class="is-disabled">That&rsquo;s it.</span>{% endif %}
 </p>
-<p class="align-right">
-	Newer…<br>
-	{% if page.next %}<a href="{{ BASE_PATH }}{{ page.next.url }}" title="{{ page.next.title }}" class="pagination__item">{{ page.next.title | markdownify | strip_html | trim }}<i class="pagination__arrow">&rarr;</i></a>{% else %}<span class="pagination__item pagination__item--is-disabled">Stay tuned for scenes from next weeks episode.</span>{% endif %}
+	</div>
+	<div class="col align-center">
+		<p><a href="#top" title="Jump to the top of the page">&uarr; Back to top</a></p>
+	</div>
+	<div class="col align-right">
+		<p>
+	{% if page.next %}<a href="{{ BASE_PATH }}{{ page.next.url }}" title="{{ page.next.title }}" class="pagination__item">Forward <i class="pagination__arrow">&rarr;</i></a>{% else %}<span class="is-disabled">To be continued…</span>{% endif %}
 </p>
+	</div>
+</div>
