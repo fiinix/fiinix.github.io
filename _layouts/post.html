@@ -1,15 +1,6 @@
 ---
 layout: default
 ---
-<svg width="75%" height="1.5em">
-<defs>
-  <pattern id="texture" patternUnits="userSpaceOnUse" width="4" height="4" >
-    <image xlink:href="/assets/img/text-texture.png" width="4" height="4" />
-  </pattern>
-</defs>
-<text y="1.2em" fill="url(#texture)">{{ page.title }}</text>
-</svg>
-
 <div class="group" role="main">
   <section class="col--main">
 
@@ -19,26 +10,6 @@ layout: default
       <p class="align-center">{% include date.html type="page" %}</p>
       <p class="align-center">{% include reading-time.html type="page" %}</p>
 
-      <svg class="icon">
-        <use xlink:href="#new-window" />
-        <use xlink:href="#media" />
-        <use xlink:href="#wikipedia" />
-        <use xlink:href="#book" />
-        <use xlink:href="#location" />
-        <use xlink:href="#arrow-left" />
-        <use xlink:href="#arrow-up" />
-        <use xlink:href="#arrow-right" />
-      </svg>
-<svg>
-      <use xlink:href="#new-window"  width="10" height="10" x="-5" y="-5" transform="matrix(1 0 0 -1 5 5)" overflow="visible"/>
-<use xlink:href="#media"  width="10" height="10" x="-5" y="-5" transform="matrix(1 0 0 -1 5 5)" overflow="visible"/>
-<use xlink:href="#wikipedia"  width="10" height="10" x="-5" y="-5" transform="matrix(1 0 0 -1 5 5)" overflow="visible"/>
-<use xlink:href="#book"  width="10" height="10" x="-5" y="-5" transform="matrix(1 0 0 -1 5 5)" overflow="visible"/>
-<use xlink:href="#location"  width="6" height="10" x="-3" y="-5" transform="matrix(1 0 0 -1 5 5)" overflow="visible"/>
-<use xlink:href="#arrow-left"  width="10" height="10" x="-5" y="-5" transform="matrix(1 0 0 -1 5 5)" overflow="visible"/>
-<use xlink:href="#arrow-up"  width="10" height="10" x="-5" y="-5" transform="matrix(1 0 0 -1 5 5)" overflow="visible"/>
-<use xlink:href="#arrow-right"  width="10" height="10" x="-5" y="-5" transform="matrix(1 0 0 -1 5 5)" overflow="visible"/>
-</svg>
       <p class="lead">{{ page.excerpt | markdownify | strip_html | trim }}</p>
 
     </header>
