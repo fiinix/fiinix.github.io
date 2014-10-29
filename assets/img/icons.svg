@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg">
+<defs>
+	<symbol id="arrow-left" viewBox="-5 -5 10 10">
+		<polygon points="-5,0 0,-5 1,-4 -2,-1 5,-1 5,1 -2,1 1,4 0,5 		"/>
+	</symbol>
+	<symbol id="arrow-right" viewBox="-5 -5 10 10">
+		<polygon points="5,0 0,5 -1,4 2,1 -5,1 -5,-1 2,-1 -1,-4 0,-5 		"/>
+	</symbol>
+	<symbol id="arrow-up" viewBox="-5 -5 10 10">
+		<polygon points="0,5 -5,0 -4,-1 -1,2 -1,-5 1,-5 1,2 4,-1 5,0 		"/>
+	</symbol>
+	<symbol id="book" viewBox="-5 -5 10 10">
+		<path d="M-5,5V-5l5,1v8L-5,5z M-1-3l-3-1v8l3-1V-3z"/>
+		<path d="M0,4v-8l5-1V5L0,4z M4-4L0-3v6l4,1V-4z"/>
+	</symbol>
+	<symbol id="location" viewBox="-3 -5 6 10">
+		<path d="M0,5c-1.7,0-3-1.3-3-3c0-3,3-7,3-7s3,4,3,7C3,3.7,1.7,5,0,5z M0,1c-0.6,0-1,0.4-1,1s0.4,1,1,1s1-0.4,1-1
+			S0.6,1,0,1z"/>
+	</symbol>
+	<symbol id="media" viewBox="-5 -5 10 10">
+		<path d="M-5,5V-5H5V5H-5z M-2.1-3v6l5-3L-2.1-3z"/>
+	</symbol>
+	<symbol id="new-window" viewBox="-5 -5 10 10">
+		<polygon points="-5,4 -5,-5 2,-5 2,-2 1,-2 1,-4 -4,-4 -4,3 -3,3 -3,4 		"/>
+		<polygon points="-1,5 5,5 5,-1 4,-1 4,3 1,0 0,1 3,4 -1,4 		"/>
+	</symbol>
+	<symbol id="wikipedia" viewBox="-5 -5 10 10">
+		<polygon points="-5,5 -5,4 -4,4 -3,-5 -2,-5 0,1 2,-5 3,-5 4,4 5,4 5,5 3,5 2,-2 0,3 -2,-2 -3,5 		"/>
+	</symbol>
+</defs>
+</svg>
