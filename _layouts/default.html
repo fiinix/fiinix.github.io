@@ -1,24 +1,32 @@
 <!DOCTYPE html>
 <html>
 
-  {% include head.html %}
+	{% include head.html %}
 
-    <!-- <body style="background-color: {{ page.color }};background-image: url({{ page.tile }});"> -->
-    <body>
+	<!-- {% if page.tile and page.color %}
+	<body style="background-color:{{ page.color }};background-image:url({{ page.tile }});">
+	{% elsif page.tile %}
+	<body style="background-image:url({{ page.tile }});">
+	{% elsif page.color %}
+	<body style="background-color:{{ page.color }};">
+	{% else %}
+	<body>
+	{% endif %} -->
+	<body>
 
-    {% include nav.html %}
+		{% include nav.html %}
 
-    <!-- Wrapper -->
-    <div class="wrapper" id="top">
+		<!-- Wrapper -->
+		<div class="wrapper" id="top">
 
-    {% include header.html %}
+		{% include header.html %}
 
-      {{ content }}
+			{{ content }}
 
-    {% include footer.html %}
+		{% include footer.html %}
 
-  </div>
-  <!-- /Wrapper -->
-  {% include scripts.html %}
-    </body>
+	</div>
+	<!-- /Wrapper -->
+	{% include scripts.html %}
+		</body>
 </html>

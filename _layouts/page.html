@@ -1,14 +1,30 @@
 ---
 layout: default
 ---
-<div class="post">
+<div class="group" role="main">
+   <section class="col--main">
 
-  <header class="post-header">
-    <h1>{{ page.title }}</h1>
-  </header>
+      <h1 class="h2">{{page.title}}</h1>
+      <h2 class="h3">susbitle if any</h2>
 
-  <article class="post-content">
-  {{ content }}
-  </article>
+      {{content}}
 
-</div>
+   </section>
+   <aside class="col--complementary" role="complementary">
+
+    <div class="introduction">
+      <h4>aside stuff</h4>
+
+      <p><small>Don’t worry. Just start from <a rel="archives" href="/archive/">the archive</a> and work your way <del>up</del> <del>down</del> <ins>forward</ins>.</small></p>
+
+      <p><small>Sooner or later you’ll end up here again and then you know you’re done.</small></p>
+    </div>
+    <div class="frequent-topics">
+      <h4>Frequent topics</h4>
+
+      {% include site__tags.html %}
+
+    </div>
+
+   </aside>
+ </div>
