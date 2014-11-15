@@ -18,7 +18,7 @@ The whole circle of life and all.
 
 I'm retiring the [The Abominable Weekly Update][tag] tag---I'm going to get around to making this link actually go somewhere---This will be last entry featuring it and come next time I will have thought of something new. Something exciting. Something fresh.
 
-I had originally written this entry using my newfangled little writing tool [Saga][saga]---not nearly as cool as it sounds---but being lazy as I had, I had neglected to implement a way for the browser to cache my writing---I will after this, using HTML5 Storage----which resulted in me accidentally pressing Back and wiping all of it away.
+I had originally written this entry using my newfangled little writing tool [Saga][saga]---not nearly as cool as it sounds---but being lazy as I had, I had neglected to implement a way for the browser to cache my writing---I will after this, using HTML5 Storage---which resulted in me accidentally pressing Back and wiping all of it away.
 
 "Vittu!"
 
