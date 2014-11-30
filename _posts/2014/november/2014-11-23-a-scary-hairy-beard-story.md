@@ -8,13 +8,18 @@ excerpt: In which Carlos Eriksson tries to grow a beard for a year and documents
 ---
 *Feel free to bookmark this entry to easily return to it, it will be updated every Sunday.*
 
+[Start](#week-0) |
+[Week 1](#week-1---itchy-bitchy-tiny-whiny) |
+[Week 2](#week-2---patchy-but-promising) |
+[Week 3](#week-3---the-length-of-a-lifetime)
+
 ####Week 0
 
 The date is 9th of November and I'm bored on a Sunday.
 
 So bored, that I decide to grow a beard for a year. Up until this point in my life I've never really been unshaven for longer than two weeks and it's never looked good.
 
-I've also decided to myself a head start by not going completely clean shaven. It's not like I've made some masochistic promise to start from zero anyway.
+I've also decided to give myself a head start, by not going completely clean shaven. It's not like I've made some masochistic promise to start from zero anyway.
 
 ####Week 1 - Itchy Bitchy Tiny Whiny
 
@@ -31,3 +36,15 @@ I look like a homeless person, no offence to homeless people, with my patchy and
 Here's a joke I found, to cheer myself up.
 
 > Don't listen to the naysayers. Anyone who says your beard makes you look homeless isn't the kind of your person you want in your cardboard box anyway.
+
+####Week 3 - The Length of a Lifetime
+
+This week was a lot easier than the last one. Maybe I'm growing used to the presence of my beard. Or maybe my sense of self-control has matured to a new level of---
+
+"Nah, just kidding. Fuck you," said the beard and starts itching at random intervals.
+
+"Fucking beard."
+
+<figure class="media-video">
+	<iframe width="560" height="315" src="//www.youtube.com/embed/loEDsHq06is" frameborder="0" allowfullscreen></iframe>
+</figure>
