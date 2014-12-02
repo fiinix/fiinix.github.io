@@ -26,7 +26,7 @@ The efforts do come with its benefits, which I've greatly enjoyed and in case yo
 
 <figure>
 	<img src="/assets/posts/2014/december/800-days-of-breathing/the-smoke-by-lucas-zoltowski.jpg" alt="Man made from ashes crawling out of cigarette butt">
-	<figcaption>The Smoke, by <a href="link">Lucas Zoltowski</a>.</figcaption>
+	<figcaption>The Smoke, by <a href="http://lucaszoltowski.deviantart.com/">Lucas Zoltowski</a>.</figcaption>
 </figure>
 
 ####1 minute
