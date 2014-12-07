@@ -12,6 +12,7 @@ excerpt: In which Carlos Eriksson tries to grow a beard for a year and documents
 [Week 1](#week-1---itchy-bitchy-tiny-whiny) |
 [Week 2](#week-2---patchy-but-promising) |
 [Week 3](#week-3---the-length-of-a-lifetime)
+[Week 4](#week-4---being-beard-man)
 
 ####Week 0
 
@@ -47,4 +48,21 @@ This week was a lot easier than the last one. Maybe I'm growing used to the pres
 
 <figure class="media-video">
 	<iframe width="560" height="315" src="//www.youtube.com/embed/loEDsHq06is" frameborder="0" allowfullscreen></iframe>
+</figure>
+
+####Week 4 - Being Beard-man
+
+The itching has finally subsided for real.
+
+But instead I now have to start dealing with the fact that, whatever I ate a few days ago is still lingering around my nostril area today.
+
+Why doesn't anyone tell you that your face will smell like old food?
+
+Soon, I'll have to adopt a secret identity so I can go, "Carlos? Who's that? I'm Beard-man, a completely different person with no affiliation to this 'Carlos' you speak of."
+
+"That smell? Oh yeah, that's me, Beard-man. Who definitely isn't this  'Carlos' guy, who by the way sounds like he smells like strawberries, hopes and dreams."
+
+<figure>
+	<img src="/assets/posts/2014/november/a-scary-hairy-beard-story/carlos-eriksson-beard-growing-progess-week-4.jpg" alt="The beard growth after 4 weeks.">
+	<figcaption>Sssh, don’t tell anyone that I’m Beard-man, I don’t want my arch-nemesis Cleen S Haven to find me.</figcaption>
 </figure>
