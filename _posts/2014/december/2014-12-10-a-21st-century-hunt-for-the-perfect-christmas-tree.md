@@ -60,7 +60,7 @@ Having ventured deeper into the woods, we finally find the tree.
 
 That immaculate, virgin Mary-esque Christmas tree.
 
-The tree to make all other trees weep, as they compare their lives to it's and kill themselves.
+The tree to make all other trees weep, as they compare their lives to its and kill themselves.
 
 Hold on.
 
