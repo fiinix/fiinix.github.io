@@ -13,6 +13,7 @@ excerpt: In which Carlos Eriksson tries to grow a beard for a year and documents
 [Week 2](#week-2---patchy-but-promising) |
 [Week 3](#week-3---the-length-of-a-lifetime) |
 [Week 4](#week-4---being-beard-man)
+[Week 5](#week-5---tee-tree-facial-wash)
 
 ####Week 0
 
@@ -66,3 +67,13 @@ Soon, I'll have to adopt a secret identity so I can go, "Carlos? Who's that? I'm
 	<img src="/assets/posts/2014/november/a-scary-hairy-beard-story/carlos-eriksson-beard-growing-progess-week-4.jpg" alt="The beard growth after 4 weeks.">
 	<figcaption>Sssh, don’t tell anyone that I’m Beard-man, I don’t want my arch-nemesis Cleen S Haven to find me.</figcaption>
 </figure>
+
+####Week 5 - Tee Tree Facial Wash
+
+Right, that concludes week 5 and quite frankly, I'm still not sure about this beard thing. I know the plan is to grow my beard for a whole year but I still don't feel like my beard *can* grow enough for me to accomplish that.
+
+Another week before I make a final decision.
+
+Well, I say final but actually I can still change my mind whenever.
+
+On a more positive note though, I've discovered my wife's Tee Tree Facial Wash with Exfoliating action and oh my lord it's awesome. Not just the fact that my beard doesn't smell like food any more but the scrubbing action. Oh, the scrubbing action.
