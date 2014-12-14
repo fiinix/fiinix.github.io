@@ -12,7 +12,7 @@ excerpt: In which Carlos Eriksson tries to grow a beard for a year and documents
 [Week 1](#week-1---itchy-bitchy-tiny-whiny) |
 [Week 2](#week-2---patchy-but-promising) |
 [Week 3](#week-3---the-length-of-a-lifetime) |
-[Week 4](#week-4---being-beard-man)
+[Week 4](#week-4---being-beard-man) |
 [Week 5](#week-5---tee-tree-facial-wash)
 
 ####Week 0
