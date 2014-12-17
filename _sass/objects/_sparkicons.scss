@@ -24,7 +24,8 @@
 	@extend .spark-icons;
 }
 .post-content a[href^="http://www.youtube"]:after,
-.post-content a[href^="https://www.youtube"]:after {
+.post-content a[href^="https://www.youtube"]:after,
+.post-content a[href^="spotify"]:after {
 	@extend .spark-icons;
 	background-position: -10px 0;
 }
