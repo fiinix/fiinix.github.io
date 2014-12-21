@@ -13,7 +13,8 @@ excerpt: In which Carlos Eriksson tries to grow a beard for a year and documents
 [Week 2](#week-2---patchy-but-promising) |
 [Week 3](#week-3---the-length-of-a-lifetime) |
 [Week 4](#week-4---being-beard-man) |
-[Week 5](#week-5---tee-tree-facial-wash)
+[Week 5](#week-5---tee-tree-facial-wash) |
+[Week 6](#week-6---46-weeks-to-go)
 
 ####Week 0
 
@@ -77,3 +78,17 @@ Another week before I make a final decision.
 Well, I say final but actually I can still change my mind whenever.
 
 On a more positive note though, I've discovered my wife's Tee Tree Facial Wash with Exfoliating action and oh my lord it's awesome. Not just the fact that my beard doesn't smell like food any more but the scrubbing action. Oh, the scrubbing action.
+
+####Week 6 - 46 Weeks To Go
+
+As I finish week 6 I've decided that I will in fact continue with this adventure.
+
+I want to see what becomes of this beard of mine, will it suck indefinitely or will it not?
+
+But the biggest contributor to this decision---and I'm not ashamed to admit it---was when my wife asked me if she had any say in this whole endeavour, to which I replied, "Of course", and she told me that she thought that it actually suited me, which was not something she had anticipated.
+
+So unless she's blatantly lying to stroke my ego---which I hope she isn't---that means I also have her blessing to continue this hairy journey of mine.
+
+<figure class="media-video">
+	<iframe width="560" height="315" src="//www.youtube.com/embed/bmerE7kLI-Y" frameborder="0" allowfullscreen></iframe>
+</figure>
