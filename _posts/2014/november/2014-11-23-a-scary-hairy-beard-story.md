@@ -14,7 +14,8 @@ excerpt: In which Carlos Eriksson tries to grow a beard for a year and documents
 [Week 3](#week-3---the-length-of-a-lifetime) |
 [Week 4](#week-4---being-beard-man) |
 [Week 5](#week-5---tee-tree-facial-wash) |
-[Week 6](#week-6---46-weeks-to-go)
+[Week 6](#week-6---46-weeks-to-go) |
+[Week 7](#week-7---halo-dick)
 
 ####Week 0
 
@@ -91,4 +92,18 @@ So unless she's blatantly lying to stroke my ego---which I hope she isn't---that
 
 <figure class="media-video">
 	<iframe width="560" height="315" src="//www.youtube.com/embed/bmerE7kLI-Y" frameborder="0" allowfullscreen></iframe>
+</figure>
+
+####Week 7 - Halo Dick
+
+Another week has gone by and as I exit week 7 I'm left with a feeling of surprise as I discover I can now put my own moustache in my mouth.
+
+But I'm pretty sure I shouldn't.
+
+So, as I continue on my beard journey I now begin to look forward to week 13, which is allegedly supposed to be quite a doozy.
+
+Until then, enjoy a little bit of Halo Dick.
+
+<figure class="media-video">
+	<iframe width="560" height="315" src="//www.youtube.com/embed/JyL-J-piB8o" frameborder="0" allowfullscreen></iframe>
 </figure>
