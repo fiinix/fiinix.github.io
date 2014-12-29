@@ -15,7 +15,7 @@ So, whilst Rebecka begun crafting the Christmas calendar from felt, I went out t
 We spent the evening before December 1<sup>st</sup> wrapping all the 24 little presents, to have them ready for the morning.
 
 <figure>
-	<img src="/assets/posts/2014/december/distinguishable-december-issue-12-14/wrapping-christmas-presents-with-the-eriksson-family.jpg" alt="Wrapping Christmas presents with the Eriksson family.">
+	<img class="js-lazy-load" data-original="/assets/posts/2014/december/distinguishable-december-issue-12-14/wrapping-christmas-presents-with-the-eriksson-family.jpg" alt="Wrapping Christmas presents with the Eriksson family.">
 	<figcaption>Oh, the things we do for our children.</figcaption>
 </figure>
 
@@ -28,14 +28,14 @@ Before that though, we did manage to go to [Rochester][rochester] for their annu
 Unfortunately I didn't get any decent pictures from the festival---of the five I actually took---so you're going to have to make due with a picture from one of my morning walks to work.
 
 <figure>
-	<img src="/assets/posts/2014/december/distinguishable-december-issue-12-14/morning-frost-on-the-walk-to-turkey-mill.jpg" alt="Morning frost on the walk to Turkey Mill, Maidstone.">
+	<img class="js-lazy-load" data-original="/assets/posts/2014/december/distinguishable-december-issue-12-14/morning-frost-on-the-walk-to-turkey-mill.jpg" alt="Morning frost on the walk to Turkey Mill, Maidstone.">
 	<figcaption>The crisp morning air always wakes me up.</figcaption>
 </figure>
 
 Between coughing and complaining about various aches, we still managed to keep up with our preparatory duties of baking saffron buns, [hunting down a Christmas tree][tree] and baking and decorating gingerbread cookies.
 
 <figure>
-	<img src="/assets/posts/2014/december/distinguishable-december-issue-12-14/gingerbeard-cookies-with-the-writing-poop-on-them.jpg" alt="Gingerbread cookies with writing on them.">
+	<img class="js-lazy-load" data-original="/assets/posts/2014/december/distinguishable-december-issue-12-14/gingerbeard-cookies-with-the-writing-poop-on-them.jpg" alt="Gingerbread cookies with writing on them.">
 	<figcaption>No Christmas would, of course, be complete without the traditional Poop Pig.</figcaption>
 </figure>
 
@@ -44,7 +44,7 @@ Thankfully, once Christmas finally begun to rear its head we had begun feeling b
 And so far so good as we've gotten to spend time together, eating Christmas dinner, watching films and playing the board game [Scooby-Doo! Hide & Shriek][game], which Rebecka had picked up at a charity shop a few days earlier.
 
 <figure>
-	<img src="/assets/posts/2014/december/distinguishable-december-issue-12-14/lucien-eriksson-dressed-as-santa-claus-giving-presents.jpg" alt="Wrapping Christmas presents with the Eriksson family">
+	<img class="js-lazy-load" data-original="/assets/posts/2014/december/distinguishable-december-issue-12-14/lucien-eriksson-dressed-as-santa-claus-giving-presents.jpg" alt="Wrapping Christmas presents with the Eriksson family">
 	<figcaption>Ho, ho, ho, are there any nice children here?</figcaption>
 </figure>
 
