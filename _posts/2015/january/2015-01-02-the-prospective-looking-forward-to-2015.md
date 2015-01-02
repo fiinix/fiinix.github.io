@@ -49,7 +49,7 @@ Currently at: 29,051 words. 29% completed.
 I'm excited about making a costume to wear for the next Comic con. I already know what I'm going as and have gathered a few supplies needed to get started. Come to think of it, I don't think I've told you what I'm going to dress up as.
 
 <figure>
-	<img src="/assets/posts/2015/january/the-prospective-looking-forward-to-2015/batman-arkham-knight-scarecrow.jpg" alt="Preview of Scarecrow from the upcoming Batman: Arkham Knight game">
+	<img class="js-lazy-load" data-original="/assets/posts/2015/january/the-prospective-looking-forward-to-2015/batman-arkham-knight-scarecrow.jpg" alt="Preview of Scarecrow from the upcoming Batman: Arkham Knight game">
 	<figcaption>Unrealistic goals ✓</figcaption>
 </figure>
 
