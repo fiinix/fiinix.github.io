@@ -15,7 +15,8 @@ excerpt: In which Carlos Eriksson tries to grow a beard for a year and documents
 [Week 4](#week-4---being-beard-man) |
 [Week 5](#week-5---tee-tree-facial-wash) |
 [Week 6](#week-6---46-weeks-to-go) |
-[Week 7](#week-7---halo-dick)
+[Week 7](#week-7---halo-dick) |
+[Week 8](#week-8---where-no-beard-has-gone-before)
 
 ####Week 0
 
@@ -66,7 +67,7 @@ Soon, I'll have to adopt a secret identity so I can go, "Carlos? Who's that? I'm
 "That smell? Oh yeah, that's me, Beard-man. Who definitely isn't this  'Carlos' guy, who by the way sounds like he smells like strawberries, hopes and dreams."
 
 <figure>
-	<img src="/assets/posts/2014/november/a-scary-hairy-beard-story/carlos-eriksson-beard-growing-progess-week-4.jpg" alt="The beard growth after 4 weeks.">
+	<img class="js-lazy-load" data-original="/assets/posts/2014/november/a-scary-hairy-beard-story/carlos-eriksson-beard-growing-progess-week-4.jpg" alt="The beard growth after 4 weeks.">
 	<figcaption>Sssh, don’t tell anyone that I’m Beard-man, I don’t want my arch-nemesis Cleen S Haven to find me.</figcaption>
 </figure>
 
@@ -106,4 +107,17 @@ Until then, enjoy a little bit of Halo Dick.
 
 <figure class="media-video">
 	<iframe width="560" height="315" src="//www.youtube.com/embed/JyL-J-piB8o" frameborder="0" allowfullscreen></iframe>
+</figure>
+
+####Week 8 - Where No Beard Has Gone Before
+
+For the first time since I started this experiment in facial hair growth, I have had to trim down the moustache a bit.
+
+Some hairs were getting so long that they started crawling into my mouth, which of course, you already knew but then Rebecka told me that it also started crawling into her nose.
+
+"Enough is enough," I thought and took out the scissor to carefully trim down the bits that were getting long.
+
+<figure>
+	<img class="js-lazy-load" data-original="/assets/posts/2014/november/a-scary-hairy-beard-story/carlos-eriksson-beard-growing-progess-week-8.jpg" alt="The beard growth after 8 weeks.">
+	<figcaption>What? Is there something on my face?</figcaption>
 </figure>
