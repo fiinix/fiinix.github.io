@@ -16,7 +16,8 @@ excerpt: In which Carlos Eriksson tries to grow a beard for a year and documents
 [Week 5](#week-5---tee-tree-facial-wash) |
 [Week 6](#week-6---46-weeks-to-go) |
 [Week 7](#week-7---halo-dick) |
-[Week 8](#week-8---where-no-beard-has-gone-before)
+[Week 8](#week-8---where-no-beard-has-gone-before) |
+[Week 9](#week-9---with-a-hint-of-lemon)
 
 ####Week 0
 
@@ -121,3 +122,9 @@ Some hairs were getting so long that they started crawling into my mouth, which 
 	<img class="js-lazy-load" data-original="/assets/posts/2014/november/a-scary-hairy-beard-story/carlos-eriksson-beard-growing-progess-week-8.jpg" alt="The beard growth after 8 weeks.">
 	<figcaption>What? Is there something on my face?</figcaption>
 </figure>
+
+####Week 9 - With a Hint of Lemon
+
+Last week I decided that this is the week I start to actually groom this ish-beard of mine. So first thing Monday morning I ordered a beard an moustache comb---which turned out to be the tiniest comb I've ever seen---and a teeny-weeny, 10 ml, bottle of Sicilian Lemon Beard Oil courtesy of The Bearded Man Company.
+
+After I've run out of oil, which should still last me a good month, I thought I'd make my own instead. Cheaper in the long run and I get complete control over the scent.
