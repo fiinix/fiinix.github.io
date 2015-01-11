@@ -125,6 +125,6 @@ Some hairs were getting so long that they started crawling into my mouth, which 
 
 ####Week 9 - With a Hint of Lemon
 
-Last week I decided that this is the week I start to actually groom this ish-beard of mine. So first thing Monday morning I ordered a beard an moustache comb---which turned out to be the tiniest comb I've ever seen---and a teeny-weeny, 10 ml, bottle of Sicilian Lemon Beard Oil courtesy of The Bearded Man Company.
+Last week I decided that this is the week I start to actually groom this ish-beard of mine. So first thing Monday morning I ordered a beard and moustache comb---which turned out to be the tiniest comb I've ever seen---and a teeny-weeny, 10 ml, bottle of Sicilian Lemon Beard Oil courtesy of The Bearded Man Company.
 
 After I've run out of oil, which should still last me a good month, I thought I'd make my own instead. Cheaper in the long run and I get complete control over the scent.
