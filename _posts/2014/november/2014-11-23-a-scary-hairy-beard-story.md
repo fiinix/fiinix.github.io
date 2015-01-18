@@ -17,7 +17,8 @@ excerpt: In which Carlos Eriksson tries to grow a beard for a year and documents
 [Week 6](#week-6---46-weeks-to-go) |
 [Week 7](#week-7---halo-dick) |
 [Week 8](#week-8---where-no-beard-has-gone-before) |
-[Week 9](#week-9---with-a-hint-of-lemon)
+[Week 9](#week-9---with-a-hint-of-lemon) |
+[Week 10](#week-10---a-man-bun-appears)
 
 ####Week 0
 
@@ -128,3 +129,13 @@ Some hairs were getting so long that they started crawling into my mouth, which 
 Last week I decided that this is the week I start to actually groom this ish-beard of mine. So first thing Monday morning I ordered a beard and moustache comb---which turned out to be the tiniest comb I've ever seen---and a teeny-weeny, 10 ml, bottle of Sicilian Lemon Beard Oil courtesy of The Bearded Man Company.
 
 After I've run out of oil, which should still last me a good month, I thought I'd make my own instead. Cheaper in the long run and I get complete control over the scent.
+
+####Week 10 - A Man Bun Appears
+
+I don't really have anything interesting to write about this week. My beard keeps growing---too slowly if you ask me---but there's isn't much I can do about that.
+
+The advice on the internet ranges from "Don't masturbate to keep all your testosterone in your body" to "Buying suspicious 'supplements' for extra manly growth".
+
+For now, I've decided on neither and I'm settling for a disappointed growth instead.
+
+On the other hand, this week I tried to tie a little man bun at the back of my head and well... it looked pretty ridiculous, so there's always that.
