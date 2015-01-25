@@ -18,7 +18,7 @@ excerpt: In which Carlos Eriksson tries to grow a beard for a year and documents
 [Week 7](#week-7---halo-dick) |
 [Week 8](#week-8---where-no-beard-has-gone-before) |
 [Week 9](#week-9---with-a-hint-of-lemon) |
-[Week 10](#week-10---a-man-bun-appears)
+[Week 10](#week-10---a-man-bun-appears) |
 [Week 11](#week-11---when-a-man-loves-a-beard)
 
 ####Week 0
