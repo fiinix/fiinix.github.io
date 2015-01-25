@@ -19,6 +19,7 @@ excerpt: In which Carlos Eriksson tries to grow a beard for a year and documents
 [Week 8](#week-8---where-no-beard-has-gone-before) |
 [Week 9](#week-9---with-a-hint-of-lemon) |
 [Week 10](#week-10---a-man-bun-appears)
+[Week 11](#week-11---when-a-man-loves-a-beard)
 
 ####Week 0
 
@@ -139,3 +140,43 @@ The advice on the internet ranges from "Don't masturbate to keep all your testos
 For now, I've decided on neither and I'm settling for a disappointed growth instead.
 
 On the other hand, this week I tried to tie a little man bun at the back of my head and well... it looked pretty ridiculous, so there's always that.
+
+####Week 11 - When A Man Loves A Beard
+
+Try to imagine what it might have sounded like if Percy Sledge had loved a beard, instead of a woman.
+
+When a man loves a beard<br>
+Can't keep his hands on nothin' else<br>
+He'd trade the world<br>
+For the good comb an' oil he's found<br>
+If it is bad, he can't see it<br>
+The beard can do no wrong<br>
+Turn his back on his best friend<br>
+If the douche puts it down<br>
+
+When a man loves a beard<br>
+Spend his very last dime<br>
+Trying to ex-foliate regularly<br>
+He'd give up all his comforts<br>
+And sleep out in the rain<br>
+As long as he could cover<br>
+The beard appropriately<br>
+
+When a man loves a beard<br>
+He gives it everything he's got (yeah)<br>
+Trying to hold on<br>
+To those precious follicles<br>
+Beard please don't treat me bad<br>
+
+When a man loves a beard<br>
+Deep down in his soul<br>
+It can bring him such masculinity<br>
+If he is playing a little football<br>
+Or other sports-related activities<br>
+The beard and him will kick some ass<br>
+
+Yes when a man loves a beard<br>
+I know exactly how he feels<br>
+'Cause beard, beard, beard<br>
+I am a man<br>
+When a man loves a beard <br>
