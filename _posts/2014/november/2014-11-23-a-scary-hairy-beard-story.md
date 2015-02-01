@@ -19,7 +19,8 @@ excerpt: In which Carlos Eriksson tries to grow a beard for a year and documents
 [Week 8](#week-8---where-no-beard-has-gone-before) |
 [Week 9](#week-9---with-a-hint-of-lemon) |
 [Week 10](#week-10---a-man-bun-appears) |
-[Week 11](#week-11---when-a-man-loves-a-beard)
+[Week 11](#week-11---when-a-man-loves-a-beard) |
+[Week 12](#week-12---a-time-travelling-beard)
 
 ####Week 0
 
@@ -180,3 +181,16 @@ I know exactly how he feels<br>
 'Cause beard, beard, beard<br>
 I am a man<br>
 When a man loves a beard <br>
+
+####Week 12 - A Time-Travelling Beard
+
+Right. It's been 12 weeks since I started this hairy, itchy journey of mine and since I've been posting a picture every 4 weeks I thought I could continue that tradition.
+
+<figure>
+	<img class="js-lazy-load" data-original="/assets/posts/2014/november/a-scary-hairy-beard-story/carlos-eriksson-beard-growing-progess-week-12.jpg" alt="The beard growth after 12 weeks.">
+	<figcaption>You can call me Mr. Husky MacMan.</figcaption>
+</figure>
+
+For the next month we're going to attempt to recreate the hardship, austerity and rationing of living during World War II. Which in any other case would also mean that I would shave everything away, because beards weren't particularly fashionably during World War II.
+
+But, because we've decided to cut ourselves some slack I'm keeping the beard. Besides, growing a beard for a year wouldn't be so much fun if I cut it of after 12 weeks.
