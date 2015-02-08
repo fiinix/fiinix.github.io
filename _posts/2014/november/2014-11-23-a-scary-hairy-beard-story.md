@@ -20,7 +20,8 @@ excerpt: In which Carlos Eriksson tries to grow a beard for a year and documents
 [Week 9](#week-9---with-a-hint-of-lemon) |
 [Week 10](#week-10---a-man-bun-appears) |
 [Week 11](#week-11---when-a-man-loves-a-beard) |
-[Week 12](#week-12---a-time-travelling-beard)
+[Week 12](#week-12---a-time-travelling-beard) |
+[Week 13](#week-13---the-hogan)
 
 ####Week 0
 
@@ -194,3 +195,18 @@ Right. It's been 12 weeks since I started this hairy, itchy journey of mine and 
 For the next month we're going to attempt to recreate the hardship, austerity and rationing of living during World War II. Which in any other case would also mean that I would shave everything away, because beards weren't particularly fashionably during World War II.
 
 But, because we've decided to cut ourselves some slack I'm keeping the beard. Besides, growing a beard for a year wouldn't be so much fun if I cut it of after 12 weeks.
+
+####Week 13 - The Hogan
+
+So, is week 13 the doozy I was expecting?
+
+Well, no. But as this stupid thing begins to fill in---fill out?---it's looking less and less patchy, which is nice.
+
+I told you I was going to let my hair grow out as well, didn't I?
+
+I'm going for that Jesus-y look but you can call me Carlos Christ.
+
+<figure>
+	<img class="js-lazy-load" data-original="/assets/posts/2014/november/a-scary-hairy-beard-story/hulk-hogan-beardception-meme.jpg" alt="Hulk Hogan and his beard">
+	<figcaption>“Gaze into my beard brother,” Hulk repeated time after time.</figcaption>
+</figure>
