@@ -217,3 +217,5 @@ I'm going for that Jesus-y look but you can call me Carlos Christ.
 I'm so bored of this now. Not the beard-growing but the weekly updates---if you can call them that?---where I'm supposed to be insightful about growing a beard. Or something like that, to be honest with you, I'm not entirely sure what I'm supposed to be doing here.
 
 Besides, there's plenty of more eloquent people out there, making videos about their beards. Have you actually looked online? There's a ridiculous amount of videos out there. And I thought I wouldn't add myself to that mix.
+
+Is there anything you'd like to me to talk about?
