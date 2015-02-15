@@ -21,7 +21,8 @@ excerpt: In which Carlos Eriksson tries to grow a beard for a year and documents
 [Week 10](#week-10---a-man-bun-appears) |
 [Week 11](#week-11---when-a-man-loves-a-beard) |
 [Week 12](#week-12---a-time-travelling-beard) |
-[Week 13](#week-13---the-hogan)
+[Week 13](#week-13---the-hogan) |
+[Week 14](#week-14---bored-of-the-beard)
 
 ####Week 0
 
@@ -210,3 +211,9 @@ I'm going for that Jesus-y look but you can call me Carlos Christ.
 	<img class="js-lazy-load" data-original="/assets/posts/2014/november/a-scary-hairy-beard-story/hulk-hogan-beardception-meme.jpg" alt="Hulk Hogan and his beard">
 	<figcaption>“Gaze into my beard brother,” Hulk repeated time after time.</figcaption>
 </figure>
+
+####Week 14 - Bored of the Beard
+
+I'm so bored of this now. Not the beard-growing but the weekly updates---if you can call them that?---where I'm supposed to be insightful about growing a beard. Or something like that, to be honest with you, I'm not entirely sure what I'm supposed to be doing here.
+
+Besides, there's plenty of more eloquent people out there, making videos about their beards. Have you actually looked online? There's a ridiculous amount of videos out there. And I thought I wouldn't add myself to that mix.
