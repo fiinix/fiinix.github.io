@@ -22,7 +22,8 @@ excerpt: In which Carlos Eriksson tries to grow a beard for a year and documents
 [Week 11](#week-11---when-a-man-loves-a-beard) |
 [Week 12](#week-12---a-time-travelling-beard) |
 [Week 13](#week-13---the-hogan) |
-[Week 14](#week-14---bored-of-the-beard)
+[Week 14](#week-14---bored-of-the-beard) |
+[Week 15](#week-15---white-all-over-my-face)
 
 ####Week 0
 
@@ -219,3 +220,13 @@ I'm so bored of this now. Not the beard-growing but the weekly updates---if you 
 Besides, there's plenty of more eloquent people out there, making videos about their beards. Have you actually looked online? There's a ridiculous amount of videos out there. And I thought I wouldn't add myself to that mix.
 
 Is there anything you'd like to me to talk about?
+
+####Week 15 - White All Over My Face
+
+Even though [we're pretending it's 1943][wartime] and we had agreed to postpone any shrove bun eating until *after* February, my wife still surprised me with making a few buns last Tuesday. Using our rations no less.
+
+Needless to say, I slapped one into my face instantly, devouring it with gusto. It should come as no surprise that my beard is quite the whipped cream magnet and by the end of it I had to go and wash my entire face just to clean up.
+
+Totally worth it.
+
+[wartime]: http://wartimelife.co.uk/
