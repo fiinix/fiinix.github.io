@@ -23,7 +23,7 @@ To honour the 6 months of my employment we did the same thing as we had done bef
 I also went for another session at Stainless Steve's, continuing on my sleeve tattoo.
 
 <figure>
-	<img class="js-lazy-load" data-original="/assets/posts/2015/march/fabolous-february-issue-02-15/carlos-eriksson-sleeve-tattoo-session-3-at-stainless-steves-custom-tattoos.jpg" alt="Carlos Eriksson at Stainless Steve's Custom Tattoos, for session #3 of his sleeve tattoo.">
+	<img class="js-lazy-load" data-original="/assets/posts/2015/march/fabulous-february-issue-02-15/carlos-eriksson-sleeve-tattoo-session-3-at-stainless-steves-custom-tattoos.jpg" alt="Carlos Eriksson at Stainless Steve's Custom Tattoos, for session #3 of his sleeve tattoo.">
 	<figcaption>I still haven’t figured out how to get a good picture of the entire tattoo.</figcaption>
 </figure>
 
@@ -40,7 +40,7 @@ Rather than use one of the ready-made characters, 41-VEX, Lowhhrick, Oskara or P
 And although I'm not a massive Star Wars fan I've quite enjoyed the first gaming session we had. I got to create, assigned skill points and buy equipment for my reptilian friend, who is then forced to join DK88, an assassin droid and Lowhhrick, a gladiator Wookie, to try to escape Mos Shuuta and Teemo the Hutt.
 
 <figure>
-	<img class="js-lazy-load" data-original="/assets/posts/2015/march/fabolous-february-issue-02-15/star-wars-escape-from-mos-shuuta.jpg" alt="Star Wars: Edge of the Empire, the first encounter of Escape from Mos Shuuta">
+	<img class="js-lazy-load" data-original="/assets/posts/2015/march/fabulous-february-issue-02-15/star-wars-escape-from-mos-shuuta.jpg" alt="Star Wars: Edge of the Empire, the first encounter of Escape from Mos Shuuta">
 	<figcaption>Hiding behind a bar taking pot shots is also a tactic.</figcaption>
 </figure>
 
@@ -64,7 +64,7 @@ Structuring your CSS, the DOs, DONTs and WHYs. Nothing particularly new for me, 
 Stefani's talk was about how data visualization illustrations are not the same as posters with big numbers. Very interesting seeing how analogue her work really was, as she does [her beautiful illustrations][stefani] by hand.
 
 <figure>
-	<img class="js-lazy-load" data-original="/assets/posts/2015/march/fabolous-february-issue-02-15/reasons-london-2015.jpg" alt="Reasons: London, 2015">
+	<img class="js-lazy-load" data-original="/assets/posts/2015/march/fabulous-february-issue-02-15/reasons-london-2015.jpg" alt="Reasons: London, 2015">
 	<figcaption>I tried, unsuccessfully, to get <a href="https://twitter.com/fiinixdesign/status/568772018239381504">#twatinthebluehat</a> to trend. Photo courtesy of <a href="https://twitter.com/reasonsto">@reasonsto</a>.</figcaption>
 </figure>
 
@@ -100,7 +100,7 @@ Lucien and I took another road trip up to London, to have follow up on his Kawas
 Which is awesome news and we took skipped all the way---well, half the way---to the nearest restaurant to grab a bit to eat.
 
 <figure>
-	<img class="js-lazy-load" data-original="/assets/posts/2015/march/fabolous-february-issue-02-15/lucien-eriksson-and-his-echocardiogram.jpg" alt="Lucien Eriksson and his echocardiogram.">
+	<img class="js-lazy-load" data-original="/assets/posts/2015/march/fabulous-february-issue-02-15/lucien-eriksson-and-his-echocardiogram.jpg" alt="Lucien Eriksson and his echocardiogram.">
 	<figcaption>His heart.</figcaption>
 </figure>
 
