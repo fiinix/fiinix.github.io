@@ -23,7 +23,8 @@ excerpt: In which Carlos Eriksson tries to grow a beard for a year and documents
 [Week 12](#week-12---a-time-travelling-beard) |
 [Week 13](#week-13---the-hogan) |
 [Week 14](#week-14---bored-of-the-beard) |
-[Week 15](#week-15---white-all-over-my-face)
+[Week 15](#week-15---white-all-over-my-face) |
+[Week 16](#week-16---my-sexy-face)
 
 ####Week 0
 
@@ -230,3 +231,14 @@ Needless to say, I slapped one into my face instantly, devouring it with gusto. 
 Totally worth it.
 
 [wartime]: http://wartimelife.co.uk/
+
+####Week 16 - My Sexy Face
+
+So, as I finish the 16th week of growing a stupid beard I give you my best attempt at a sexy face. Not a funny one, no, we'll have none of that shit. This is my genuine attempt at a sexy side-stare face. Is it good?
+
+I'll leave you to decide.
+
+<figure>
+	<img class="js-lazy-load" data-original="/assets/posts/2014/november/a-scary-hairy-beard-story/carlos-eriksson-beard-growing-progess-week-16.jpg" alt="The beard growth after 16 weeks.">
+	<figcaption>“How YOU doin’?” he said, trying to look sexy and suave despite not having washed his hair for at least a week.</figcaption>
+</figure>
