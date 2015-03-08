@@ -24,7 +24,8 @@ excerpt: In which Carlos Eriksson tries to grow a beard for a year and documents
 [Week 13](#week-13---the-hogan) |
 [Week 14](#week-14---bored-of-the-beard) |
 [Week 15](#week-15---white-all-over-my-face) |
-[Week 16](#week-16---my-sexy-face)
+[Week 16](#week-16---my-sexy-face) |
+[Week 17](#week-17---35-weeks-to-go)
 
 ####Week 0
 
@@ -242,3 +243,11 @@ I'll leave you to decide.
 	<img class="js-lazy-load" data-original="/assets/posts/2014/november/a-scary-hairy-beard-story/carlos-eriksson-beard-growing-progess-week-16.jpg" alt="The beard growth after 16 weeks.">
 	<figcaption>“How YOU doin’?” he said, trying to look sexy and suave despite not having washed his hair for at least a week.</figcaption>
 </figure>
+
+####Week 17 - 35 Weeks To Go
+
+"When will this be over?" I ask as if I didn't already know.
+
+"In 35 weeks," is the answer of course. Because 52 weeks is how long I decided to pursue this little endeavour of mine. An whilst my beard is, kind of, growing adequately, I'm very curious to see what will become of my hair.
+
+Hair is meant to grow about 15 cm---6 inches---in a year, so hopefully it won't look completely stupid in November.
