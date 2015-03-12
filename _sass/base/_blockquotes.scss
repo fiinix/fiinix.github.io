@@ -1,33 +1,32 @@
-/**
- * ===========================================================================
- *
- * Blockquotes
- *
- * ===========================================================================
- */
+/* ==========================================================================
+
+
+   Blockquotes
+
+
+   ========================================================================== */
 blockquote {
 
-	padding: 0 0 0 em($fontLeading);
-	margin: 0 0 em($fontLeading);
+	padding: 3em 4.5em;
 
-	font-style: italic;
+	margin-left: -4.5em;
+	margin-right: -4.5em;
 
-	border-left-color: inherit;
-	border-left-style: solid;
-	border-left-width: 0.4em;
+	border: 1em solid;
+	border-width: 0.25em 0;
+	border-color: inherit;
 
-	position: relative;
+}
 
-	p:last-of-type {
-		margin-bottom: 0;
-	}
+cite {
 
-	cite {
+	display: block;
+	margin-top: 1.5em;
 
-		color: $grey;
-		display: block;
-		text-align: right;
-		margin-top: em($fontLeading);
+}
 
-	}
+cite:before {
+
+	content: "\2014";
+
 }

@@ -1,0 +1,61 @@
+---
+layout: default
+---
+
+ <!-- <div class="group" role="main">
+   <section class="span-main">
+
+      <h1 class="h2">title</h1>
+      <h2 class="h3">susbitle if any</h2>
+
+      <article>
+        <p>stuf fhere</p>
+    </article>
+    {% endfor %}
+
+   </section>
+   <aside class="span-complementary" role="complementary">
+
+    <div class="introduction">
+      <h4>aside stuff</h4>
+
+      <p><small>Don’t worry. Just start from <a rel="archives" href="archive.html">the archive</a> and work your way <del>up</del> <del>down</del> <ins>forward</ins>.</small></p>
+
+      <p><small>Sooner or later you’ll end up here again and then you know you’re done.</small></p>
+    </div>
+    <div class="frequent-topics">
+      <h4>Frequent topics</h4>
+
+      {% include site__tags.html %}
+
+    </div>
+
+   </aside>
+ </div> -->
+
+ <div class="group" role="main">
+  <section class="col--main">
+
+    <header class="post-header">
+      <h1 class="post-heading">{{ page.title }}</h1>
+
+      <p class="align-center">{% include date.html type="page" %}</p>
+      <p class="align-center">{% include reading-time.html type="page" %}</p>
+
+      <p class="lead">{{ page.excerpt | markdownify | strip_html | trim }}</p>
+
+    </header>
+
+    <article class="post-content" lang="en">
+      {{ content }}
+    </article>
+
+    {% include post__tags.html %}
+    {% include back-to-top.html %}
+    <hr>
+    <p>
+      no commenting for showcase items.
+    </p>
+
+  </section>
+</div>

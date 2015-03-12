@@ -1,23 +1,52 @@
 /* ==========================================================================
 
 
-   Pull quotes
+   Pull-quotes
 
 
    ========================================================================== */
-
 p[data-pullquote] {
 
 	color: inherit;
+	border-color: inherit;
+	position: relative;
 
 }
+
+// p[data-pullquote]:after {
+
+// 	content: " ";
+// 	display:block;
+
+// 	position: absolute;
+// 	top: -1.88em;
+// 	right: 50%;
+
+// 	width: 1em;
+// 	height: 0;
+
+// 	border-style: solid;
+// 	border-width: 0 0 0.33em 0;
+// 	border-bottom-color: inherit;
+
+// 	transform: translateX(50%) rotate(-7.5deg);
+
+// 	@include mq($breakpoint-lap) {
+
+// 		top: 0.33em;
+// 		right: 0;
+// 		transform: translateX(-5.5em) rotate(-7.5deg);
+
+// 	};
+
+// }
 
 p[data-pullquote]:before {
 
 	display: block;
 	content: attr(data-pullquote);
 
-	margin: 0 0 1.5em 0;
+	margin: 3em 0 1.5em 0;
 	padding: 0;
 
 	word-break: keep-all;
@@ -26,23 +55,20 @@ p[data-pullquote]:before {
 	-moz-hyphens: none;
 	hyphens: none;
 
-	font-weight: $fontWeight;
-	font-family: $headingFamily;
+	font-weight: $heading-weight;
+	font-family: $heading-family;
 
 	color: inherit;
 
-	font-size: pow($fontScale, 1) +em;
-	line-height: pow($fontScale, 0.75);
+	font-size: 1.5em;
+	line-height: 1.3554;
 
-	@include mq($breakpointLap) {
-
-		font-size: pow($fontScaleLap, 1) +em;
-		line-height: pow($fontScaleLap, 0.75);
+	@include mq($breakpoint-lap) {
 
 		float: right;
 		width: 12em;
 
-		margin: 0 -15% 0.5em 1em;
+		margin: 1.5em -15% 1.5em 1em;
 
 	};
 

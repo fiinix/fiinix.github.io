@@ -1,60 +1,50 @@
 ---
 layout: default
 ---
-<svg width="75%" height="1.5em">
-<defs>
-  <pattern id="texture" patternUnits="userSpaceOnUse" width="4" height="4" >
-    <image xlink:href="/assets/img/text-texture.png" width="4" height="4" />
-  </pattern>
-</defs>
-<text y="1.2em" fill="url(#texture)">{{ page.title }}</text>
-</svg>
-
+<div class="container">
 <div class="group" role="main">
-  <section class="col--main">
+  <section class="col col--primary">
 
-    <header class="post-header">
-      <h1 class="post-heading">{{ page.title }}</h1>
+    <svg class="decorative-title">
+    <defs>
+      <pattern id="texture" patternUnits="userSpaceOnUse" width="{{ page.cover-width }}" height="{{ page.cover-height }}" >
+        <image xlink:href="{{ page.cover }}" width="{{ page.cover-width }}" height="{{ page.cover-height }}" />
+      </pattern>
+    </defs>
+    <!-- <polygon width="150" height="150" fill="url(#texture)" points="0,5 5,10 6,9 3,6 10,6 10,4 3,4 6,1 5,0   "/> -->
+    <polygon width="474" height="512" fill="url(#texture)" points="52,410.6 0,182.7 145.7,0 473.2,0 473.2,410.6 262.6,512 "/>
+    
+  </svg>
 
-      <p class="align-center">{% include date.html type="page" %}</p>
-      <p class="align-center">{% include reading-time.html type="page" %}</p>
 
-      <svg class="icon">
-        <use xlink:href="#new-window" />
-        <use xlink:href="#media" />
-        <use xlink:href="#wikipedia" />
-        <use xlink:href="#book" />
-        <use xlink:href="#location" />
-        <use xlink:href="#arrow-left" />
-        <use xlink:href="#arrow-up" />
-        <use xlink:href="#arrow-right" />
-      </svg>
-<svg>
-      <use xlink:href="#new-window"  width="10" height="10" x="-5" y="-5" transform="matrix(1 0 0 -1 5 5)" overflow="visible"/>
-<use xlink:href="#media"  width="10" height="10" x="-5" y="-5" transform="matrix(1 0 0 -1 5 5)" overflow="visible"/>
-<use xlink:href="#wikipedia"  width="10" height="10" x="-5" y="-5" transform="matrix(1 0 0 -1 5 5)" overflow="visible"/>
-<use xlink:href="#book"  width="10" height="10" x="-5" y="-5" transform="matrix(1 0 0 -1 5 5)" overflow="visible"/>
-<use xlink:href="#location"  width="6" height="10" x="-3" y="-5" transform="matrix(1 0 0 -1 5 5)" overflow="visible"/>
-<use xlink:href="#arrow-left"  width="10" height="10" x="-5" y="-5" transform="matrix(1 0 0 -1 5 5)" overflow="visible"/>
-<use xlink:href="#arrow-up"  width="10" height="10" x="-5" y="-5" transform="matrix(1 0 0 -1 5 5)" overflow="visible"/>
-<use xlink:href="#arrow-right"  width="10" height="10" x="-5" y="-5" transform="matrix(1 0 0 -1 5 5)" overflow="visible"/>
-</svg>
+    <header class="post-header post--new">
+      <h1 class="post-heading" data-heading-overlay="{{ page.title }}"{% if page.color %} style="color: {{ page.color }};"{% endif %}>{{ page.title }}</h1>
 
-      <p class="lead">
-        {{ page.excerpt | markdownify | strip_html | trim }}
-      </p>
+      <div class="group">
+        <div class="col">
+          <p>{% include date.html type="page" %}</p>
+        </div>
+        <div class="col align-right">
+          {% include reading-time.html type="page" %}
+        </div>
+      </div>
+
+      <p class="lead">{{ page.excerpt | markdownify | strip_html | trim }}</p>
 
     </header>
 
-    <article class="post-content" lang="en" {% if page.color %} style="border-color:{{ page.color }}; color: {{ page.color }};"{% endif %}>
+    <article class="post-content" lang="en" {% if page.color %} style="border-color:{{ page.color }} {{ page.color }} {{ page.color2 }} {{ page.color2 }}; color: {{ page.color }};"{% endif %}>
       {{ content }}
     </article>
 
-    {% include post__tags.html %}
-    <hr>
-    {% include post__pagination.html %}
-    <hr>
-    {% include disqus.html %}
+
+    <footer class="post-footer">
+      {% include post__tags.html %}
+      <hr>
+      {% include post__pagination.html %}
+    </footer>
+
 
   </section>
+</div>
 </div>

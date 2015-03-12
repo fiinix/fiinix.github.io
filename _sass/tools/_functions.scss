@@ -20,7 +20,7 @@ $iter: 50;
  * EM
  *
  */
-@function em($target, $context: $fontSize) {
+@function em($target, $context: $font-size) {
 	@return $target/$context +em
 }
 /**
@@ -28,7 +28,7 @@ $iter: 50;
  * REM
  *
  */
-@function rem($target, $context: $fontSize) {
+@function rem($target, $context: $font-size) {
 	@return $target/$context +rem
 }
 /**
@@ -36,7 +36,7 @@ $iter: 50;
  * PX
  *
  */
-@function px($target, $context: $fontSize) {
+@function px($target, $context: $font-size) {
 	@return $target*$context +px
 }
 /**
@@ -44,7 +44,7 @@ $iter: 50;
  * Unit-less
  *
  */
-@function number($target, $context: $fontSize) {
+@function number($target, $context: $font-size) {
 	@return $target/$context
 }
 /**

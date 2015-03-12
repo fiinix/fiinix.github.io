@@ -1,0 +1,54 @@
+/* ==========================================================================
+
+
+   Post heading
+
+
+   ========================================================================== */
+.post-heading {
+
+	position: relative;
+
+	margin-top: 1em;
+	margin-bottom: 1em;
+	
+	transform: skew(0deg, -7deg);
+
+	color: $primary-color;
+
+	&:before {
+	
+		content: attr(data-heading-overlay);
+		width: 100%;
+		position: absolute;
+		top: -4px;
+		left: -4px;
+
+		color: $white;
+		text-shadow:	1px 1px 0 $black,
+						1px -1px 0 $black,
+						-1px 1px $black,
+						-1px -1px $black,
+
+	}
+
+}
+
+.post-content {
+
+	color: $primary-color;
+
+}
+
+.post-type--professional {
+
+	color: $secondary-color;
+	border-color: $secondary-color $accent-color $accent-color $secondary-color;
+
+}
+
+.post--new .post-heading {
+
+	color: inherit;
+
+}

@@ -1,44 +1,53 @@
-/**
- * ===========================================================================
- *
- * Figures
- *
- * ===========================================================================
- */
+/* ==========================================================================
+
+
+   Figures
+
+
+   ========================================================================== */
 figure {
-	width: 100%;
+
 	padding: 0;
-	margin: 0;
-	margin-bottom: em($fontLeading);
 
-	&.media-video {
-		overflow: hidden;
-		position: relative;
-		height: 0;
-		padding-top: 25px; /* Youtube chrome */
-		padding-bottom: 56.25%;
-	}
+	margin-top: 4.5em;
+	margin-bottom: 4.5em;
 
-	img {
-		width: 100%;
-	}
-	iframe,
-	embed {
-		position: absolute;
-		top: 0;
-		left: 0;
+	margin-left: -4.5em;
+	margin-right: -4.5em;
 
-		width: 100%;
-		height: 100%;
-	}
+	position: relative;
+
 }
+
+figure img { width: 100%; }
+
+figure iframe,
+figure embed {
+
+	position: absolute;
+	top: 0;
+	left: 0;
+
+	width: 100%;
+	height: 100%;
+
+}
+
 figcaption {
 
-	margin-top: em($fontLeading);
+	margin-left: (4.5 / 0.74) +em;
+	margin-right: (4.5 / 0.74) +em;
+	margin-top: 3em;
 
-	font-style: italic;
-	font-size: em($fontSize/$fontScale);
-	line-height: pow($fontScale, 1.25);
+	max-width: 32em;
+
+	// font-style: italic;
+	text-transform: uppercase;
+	font-size: 0.875em;
+	font-size: 0.74em;
+
+	// font-size: em($fontSize/$fontScale);
+	// line-height: pow($fontScale, 1.25);
 
 	color: $black;
 
@@ -48,39 +57,26 @@ figcaption {
 	 *
 	 */
 	&:before {
-		content: "Figure\0000a0" counter(figureOrdinal)".\0000a0";
+		// content: "Figure\0000a0" counter(figureOrdinal)".\0000a0";
 		counter-increment: figureOrdinal;
-		font-variant: small-caps;
-		color: $grey;
+		font-size: 0.85em;
+		text-transform: uppercase;
+		// font-variant: small-caps;
+		color: $luma-50;
 	}
 
-	@include mq($breakpointLap) {
-		font-size: em($fontSizeLap/$fontScaleLap, $fontSizeLap);
-		line-height: pow($fontScaleLap, 1.25);
-	};
+}
+
+.media-video {
+
+	overflow: hidden;
+
+	width: 100%;
+	height: 0;
+	padding-top: 25px; /* Youtube chrome */
+	padding-bottom: 56.25%;
+
+	margin-left: auto;
+	margin-right: auto;
 
 }
-// figure {
-// 	width: 100%;
-// 	display: table;
-// 	margin: 0 0 #{$base-multiplier}em 0;
-// }
-// figure img, figcaption {
-// 	display: block;
-// 	width: 100%;
-// }
-
-// figure img {
-// 	margin:0 0 #{$base-multiplier}em 0;
-// }
-// figcaption {
-// 	font-size:#{14/$base-font-size}em;
-// 	line-height: #{$base-multiplier/(14/18)};
-// 	font-style: italic;
-// }
-// figcaption:before {
-// 	content: "Figure\0000a0" counter(figureOrdinal)".\0000a0";
-// 	counter-increment: figureOrdinal;
-// 	font-variant: small-caps;
-// 	color: $secondary-text-color;
-// }

@@ -60,15 +60,32 @@
 
 </footer> -->
 <footer class="footer">
-  
-  <div class="group">
+
+  <svg class="footer-top"><use xlink:href="#ost"/></svg>
+
+  <div class="container">
+    
+    <div class="group">
     <div class="col">
-      <h2 class="h4">What the heck?</h2>
-      <p>Designer, front-end developer, illustrator, artist, musician, writer, blah blah.</p>
+
+      <h3 class="h3">Side projects</h3>
+      {% include side-projects.html %}
+
+    </div>
+    <div class="col flex-2">
+
+      <h2 class="h2">Who the hell?</h2>
+      <p>Carlos Eriksson is a thoughtful, inventive problem solver with excellent communication skills.</p>
+      <p>He is a designer.</p>
+      <p>Want <a href="/about/">some more self-indulgent dribble?</a></p>
+
     </div>
     <div class="col">
-      <h1 class="h4">Who am I?</h1>
-      <p>For the past 15 years I’ve been crafting engineering experiences that focus on functional and beautiful designs. I’ve had the pleasure of having my work featured on e.g. xbox.com and some of my work is seen by tens of thousands of people on a daily basis.</p>
+
+      <p>
+        <img src="/assets/img/avatar.png" alt="" width="150" height="450">
+      </p>
+
     </div>
   </div>
 
@@ -76,15 +93,18 @@
 
   <div class="group">
     <div class="col">
+
       &copy; Carlos Eriksson. Some rights reserved.
+
     </div>
     <div class="col align-right">
       
+      <a href="/feeds/">Feeds</a>
       <a href="/colophon/">Colophon</a>
       <a href="/sitemap/">Sitemap</a>
-      <a href="/feeds/">Feeds</a>
 
     </div>
   </div>
 
+  </div>
 </footer>

@@ -1,22 +1,16 @@
 /* ==========================================================================
 
 
-   Paragraphs
+   Base.body
 
 
    ========================================================================== */
+body {
 
-p {
+	font-size: percentage($font-size/16) +0%;
+	line-height: $font-leading/$font-size;
+	font-family: $font-family;
 
-	color: $black;
-
-}
-
-.lead {
-
-	font-size: 1.5em;
-	line-height: 1.3554;
-
-	color: $luma-10;
+	background-color: $white;
 
 }

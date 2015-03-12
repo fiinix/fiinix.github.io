@@ -1,9 +1,31 @@
-<nav class="main-navigation" role="navigation">
-	<div class="nav-container">
-		
-		{% for page in site.pages %}
-		{% if page.title %}<a class="" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>{% endif %}
-		{% endfor %}
+<header class="header">
+
+	<div class="container">
+		<div class="group">
+			<div class="col">
+				
+				<a href="/" class="logo">
+				<svg class="icon icon--large"><use xlink:href="#phoenix"/></svg>
+				</a>
+
+			</div>
+			<div class="col">	
+
+				<nav role="navigation">
+				<div class="nav-container">
+
+				{% for page in site.pages %}
+				{% if page.title %}<a class="" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>{% endif %}
+				{% endfor %}
+
+				</div>
+				</nav>
+
+			</div>
+		</div>
 
 	</div>
-</nav>
+
+	<svg class="header-bottom"><use xlink:href="#ost"/></svg>
+	
+</header>

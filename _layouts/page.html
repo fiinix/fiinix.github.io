@@ -1,23 +1,22 @@
 ---
 layout: default
 ---
-<div class="group" role="main">
-   <section class="col--main">
+<div class="container">
+ <div class="group" role="main">
+   <section class="col col--primary">
 
       <h1 class="h2">{{page.title}}</h1>
-      <h2 class="h3">susbitle if any</h2>
 
-      {{content}}
+      {{ content }}
 
    </section>
-   <aside class="col--complementary" role="complementary">
+   <aside class="col col--secondary" role="complementary">
 
     <div class="introduction">
-      <h4>aside stuff</h4>
+      <h4>New here?</h4>
 
-      <p><small>Don’t worry. Just start from <a rel="archives" href="/archive/">the archive</a> and work your way <del>up</del> <del>down</del> <ins>forward</ins>.</small></p>
+      {% include copy__archive.html %}
 
-      <p><small>Sooner or later you’ll end up here again and then you know you’re done.</small></p>
     </div>
     <div class="frequent-topics">
       <h4>Frequent topics</h4>
@@ -28,3 +27,4 @@ layout: default
 
    </aside>
  </div>
+</div>

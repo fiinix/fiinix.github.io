@@ -1,20 +1,27 @@
 ---
 layout: default
 ---
+<div class="container">
 <div class="group" role="main">
-  <section class="col--main">
+  <section class="col col--primary">
 
     <header class="post-header">
-      <h1 class="post-heading">{{ page.title }}</h1>
+      <h1 class="post-heading post-type--{{ page.category }}" data-heading-overlay="{{ page.title | markdownify | strip_html | trim  }}"{% if page.color %} style="color: {{ page.color }};"{% endif %}>{{ page.title | markdownify | strip_html | trim  }}</h1>
 
-      <p class="align-center">{% include date.html type="page" %}</p>
-      <p class="align-center">{% include reading-time.html type="page" %}</p>
+      <div class="group">
+        <div class="col">
+          <p>{% include date.html type="page" %}</p>
+        </div>
+        <div class="col align-right">
+          {% include reading-time.html type="page" %}
+        </div>
+      </div>
 
       <p class="lead">{{ page.excerpt | markdownify | strip_html | trim }}</p>
 
     </header>
 
-    <article class="post-content" lang="en">
+    <article class="post-content post-type--{{ page.category }}" lang="en"{% if page.color %} style="border-color:{{ page.color }} {{ page.color }} {{ page.color2 }} {{ page.color2 }}; color: {{ page.color }};"{% endif %}>
       {{ content }}
     </article>
 
@@ -25,4 +32,5 @@ layout: default
     {% include disqus.html %}
 
   </section>
+</div>
 </div>

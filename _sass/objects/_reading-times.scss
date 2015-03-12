@@ -1,22 +1,17 @@
 /* ==========================================================================
 
 
-   Paragraphs
+   Reading-times
 
 
    ========================================================================== */
 
-p {
 
-	color: $black;
 
-}
+.reading-time {
 
-.lead {
-
-	font-size: 1.5em;
-	line-height: 1.3554;
-
-	color: $luma-10;
+	color: $luma-50;
+	font-size: 0.74em;
+	text-transform: uppercase;
 
 }

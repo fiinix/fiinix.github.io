@@ -5,149 +5,53 @@
 
 
    ========================================================================== */
-.h0, h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
-	font-weight: $headingWeight;
-	font-family: $headingFamily;
-	margin: 0;
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
+
+	font-weight: $heading-weight;
+	font-family: $heading-family;
+
+	color: inherit;
+
 }
-.h0 {
-	font-size: pow($fontScale, 5) +em;
-	line-height: 1;
-	margin-top: ((pow($fontScale, 5)) / 4) * 3 +em;
-	margin-bottom: (pow($fontScale, 5)) / 4 +em;
 
-	@include mq($breakpointLap) {
-		font-size: pow($fontScaleLap, 5) +em;
-		line-height: 1;
-		margin-top: ((pow($fontScaleLap, 5)) / 4) * 3 +em;
-		margin-bottom: (pow($fontScaleLap, 5)) / 4 +em;
-	};
+h1, .h1 {
+
+	font-size: 5.063em;
+	line-height: 1.05;
+
 }
-h1,
-.h1 {
-	font-size: pow($fontScale, 4) +em;
-	line-height: pow($fontScale, 0);
-	margin-top: 0;
-	margin-bottom: (pow($fontScale, 4)) / 4 +em;
 
-	@include mq($breakpointLap) {
-		font-size: pow($fontScaleLap, 4) +em;
-		line-height: pow($fontScaleLap, 0);
-		margin-top: 0;
-		margin-bottom: (pow($fontScaleLap, 4)) / 4 +em;
-	};
+h2, .h2 {
+
+	font-size: 3.375em;
+	line-height: 1.10668;
+
 }
-h2,
-.h2 {
-	font-size: pow($fontScale, 3) +em;
-	line-height: pow($fontScale, 0.25);
-	margin-top: ((pow($fontScale, 3)) / 4) * 3 +em;
-	margin-bottom: (pow($fontScale, 3)) / 4 +em;
 
-	@include mq($breakpointLap) {
-		font-size: pow($fontScaleLap, 3) +em;
-		line-height: pow($fontScaleLap, 0.25);
-		margin-top: ((pow($fontScaleLap, 3)) / 4) * 3 +em;
-		margin-bottom: (pow($fontScaleLap, 3)) / 4 +em;
-	};
+h3, .h3 {
+
+	font-size: 2.25em;
+	line-height: 1.22474;
+
 }
-h3,
-.h3 {
-	/* line-height should be more like 1.05 but is 1.5 */
-	font-size: pow($fontScale, 2) +em;
-	line-height: pow($fontScale, 0.5);
 
-/**
- *
- * An experimental attempt at a typographic scale
- *
- */
-	margin-top: ((pow($fontScale, 2)) / 4) * 3 +em;
-	margin-bottom: (pow($fontScale, 2)) /4 +em;
+h4, .h4 {
 
-	@include mq($breakpointLap) {
-		font-size: pow($fontScaleLap, 2) +em;
-		line-height: pow($fontScaleLap, 0.5);
+	font-size: 1.5em;
+	line-height: 1.3554;
 
-		margin-top: ((pow($fontScaleLap, 2)) / 4) * 3 +em;
-		margin-bottom: (pow($fontScaleLap, 2)) /4 +em;
-	};
 }
-h4,
-.h4 {
-	font-size: pow($fontScale, 1) +em;
-	line-height: pow($fontScale, 0.75);
-	margin-top: ((pow($fontScale, 1)) / 4) * 3 +em;
-	margin-bottom: (pow($fontScale, 1)) / 4 +em;
 
-	@include mq($breakpointLap) {
-		font-size: pow($fontScaleLap, 1) +em;
-		line-height: pow($fontScaleLap, 0.75);
-		margin-top: ((pow($fontScaleLap, 1)) / 4) * 3 +em;
-		margin-bottom: (pow($fontScaleLap, 1)) / 4 +em;
-	};
-}
-h5,
-.h5 {
-	font-size: pow($fontScale, 0) +em;
-	line-height: pow($fontScale, 1);
-	margin-top: ((pow($fontScale, 0)) / 4) * 3 +em;
-	margin-bottom: (pow($fontScale, 0)) / 4 +em;
+h5, .h5 {
 
-	@include mq($breakpointLap) {
-		font-size: pow($fontScaleLap, 0) +em;
-		line-height: pow($fontScaleLap, 1);
-		margin-top: ((pow($fontScaleLap, 0)) / 4) * 3 +em;
-		margin-bottom: (pow($fontScaleLap, 0)) / 4 +em;
-	};
-}
-h6,
-.h6 {
-	font-size: em($fontSize/$fontScale);
-	line-height: pow($fontScale, 1.25);
-	margin-top: em((($fontSize/$fontScale) / 4) * 3);
-	margin-bottom: em(($fontSize/$fontScale) / 4);
+	font-size: 1em;
+	line-height: 1.6;
 
-	@include mq($breakpointLap) {
-		font-size: em($fontSizeLap/$fontScaleLap, $fontSizeLap);
-		line-height: pow($fontScaleLap, 1.25);
-		// margin-top: em((($fontSizeLap/$fontScaleLap, $fontSizeLap) / 4) * 3);
-		margin-bottom: em(($fontSizeLap/$fontScaleLap, $fontSizeLap) / 4);
-	};
 }
-.h7 {
-	font-size: em($fontSize/pow($fontScale, 2));
-	line-height: pow($fontScale, 1.5);
 
-	@include mq($breakpointLap) {
-		font-size: em($fontSizeLap/pow($fontScaleLap, 2), $fontSizeLap);
-		line-height: pow($fontScaleLap, 1.5);
-	};
-	// 18/2.25 10/18
+h6, .h6 {
+
+	font-size: 0.74em;
+	line-height: 2.1622;
+
 }
-// /* 48px */
-// h1 {
-// 	font-size: 2.6667em;
-// 	line-height: 1;
-// 	margin:0 0 1.427em 0;
-// 	margin: 0 0 1.6em 0;
-// 	text-shadow: 4px 3px 0px #fff, 9px 8px 0px rgba(0,0,0,0.12);
-// }
-// .body--is-nightmode h1 {
-// 	text-shadow: 4px 3px 0px #00050a, 9px 8px 0px rgba(255,255,255,0.12);
-// }
-// /* 36px */
-// h2 {
-// 	font-size: 2em;
-// 	line-height: 1.05;
-// 	margin: 1.0329em 0 .3443em 0;
-// 	// margin: #{$base-multiplier}em 0 #{$base-multiplier*.25}em 0;
-// }
-// /* 24px */
-// h3 {
-// 	font-size: 1.3333em;
-// 	font-weight: 500;
-// 	line-height: 1.2135;
-// 	margin: 1.8204em 0 .6068em 0;
-// 	// margin: #{$base-multiplier*1.25}em 0 #{$base-multiplier*.5}em 0; 
-// }

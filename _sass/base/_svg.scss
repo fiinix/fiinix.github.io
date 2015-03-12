@@ -1,22 +1,23 @@
 /* ==========================================================================
 
 
-   Paragraphs
+   SVG
 
 
    ========================================================================== */
 
-p {
 
-	color: $black;
 
-}
 
-.lead {
+svg:not(:root) {
 
-	font-size: 1.5em;
-	line-height: 1.3554;
-
-	color: $luma-10;
+  overflow: hidden;
 
 }
+
+svg {
+
+	// fill: currentColor;
+}
+
+

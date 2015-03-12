@@ -1,15 +1,21 @@
 <div class="flex-group">
 	<div class="col">
+
 		<p>
-	{% if page.previous %}<a href="{{ BASE_PATH }}{{ page.previous.url }}" title="{{ page.previous.title }}" class="pagination__item"><i class="pagination__arrow">&larr;</i> Earlier</a>{% else %}<span class="is-disabled">That&rsquo;s it.</span>{% endif %}
-</p>
+		{% if page.previous %}<a href="{{ BASE_PATH }}{{ page.previous.url }}" title="{{ page.previous.title }}" class="pagination pagination--prev"><svg class="icon"><use xlink:href="#arrow-left" /></svg> Earlier</a>{% else %}<span class="is-disabled">That&rsquo;s it.</span>{% endif %}
+		</p>
+
 	</div>
 	<div class="col align-center">
-		<p><a href="#top" title="Jump to the top of the page">&uarr; Back to top</a></p>
+
+		<p><a href="#top" class="back-to-top" title="Jump to the top of the page"><svg class="icon"><use xlink:href="#arrow-up" /></svg> Back to top</a></p>
+
 	</div>
 	<div class="col align-right">
+
 		<p>
-	{% if page.next %}<a href="{{ BASE_PATH }}{{ page.next.url }}" title="{{ page.next.title }}" class="pagination__item">Forward <i class="pagination__arrow">&rarr;</i></a>{% else %}<span class="is-disabled">To be continued…</span>{% endif %}
-</p>
+		{% if page.next %}<a href="{{ BASE_PATH }}{{ page.next.url }}" title="{{ page.next.title }}" class="pagination pagination--next">Forward <svg class="icon"><use xlink:href="#arrow-right" /></svg></a>{% else %}<span class="is-disabled">To be continued…</span>{% endif %}
+		</p>
+
 	</div>
 </div>

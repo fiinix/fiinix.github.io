@@ -2,47 +2,36 @@
 ## YAML Front Matters to ensure Jekyll understands to parse this file
 ---
 @import "tools/functions";
-// @import "tools/sassy-math";
 
 @import "settings";
 
 @import "generic/box-sizing";
-@import "generic/normalize";
+// @import "generic/normalize";
+@import "generic/minimalize";
 @import "generic/clearfix";
+@import "generic/axiomatic-owl";
 
 @import "tools/mixins";
 @import "tools/polarize";
 
-@import "skeleton/grid";
-@import "skeleton/debug";
-
-@import "effects/animations";
-
-@import "base/selection";
-@import "base/sections";
+@import "base/body";
 @import "base/headings";
-@import "base/elements";
 @import "base/paragraphs";
 @import "base/blockquotes";
 @import "base/figures";
-@import "base/thematic-breaks";
+@import "base/elements";
 @import "base/links";
-@import "base/lists";
+@import "base/svg";
+
+@import "sections/header";
+@import "sections/columns";
+@import "sections/footer";
 
 @import "objects/logo";
-@import "objects/header";
-@import "objects/navigation";
-@import "objects/tags";
-@import "objects/sparkicons";
-@import "objects/buttons";
-@import "objects/timestamps";
-@import "objects/disqus";
-@import "objects/footer";
-@import "objects/page-titles";
+@import "objects/post-heading";
 @import "objects/pull-quotes";
-@import "objects/post-content";
-@import "objects/syntax-highlights";
-
-@import "pages/globals";
-
-@import "auxiliary/alignments";
+@import "objects/iconography";
+@import "objects/tags";
+@import "objects/timestamps";
+@import "objects/reading-times";
+@import "objects/syntax-highlight";

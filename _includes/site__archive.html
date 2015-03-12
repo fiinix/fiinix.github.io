@@ -1,0 +1,40 @@
+<ul class="tree archive-list">
+{%for post in site.posts %}
+{% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
+{% if year == include.year  %}
+<!-- <li> -->
+{% unless post.next %}
+<!-- <ul class="this"> -->
+<li class="archive-list__heading"><h2 class="h4">{{ post.date | date: '%B' }}</h2>
+<ul class="archive-list__group">
+{% else %}
+<!-- {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %} -->
+<!-- {% capture nyear %}{{ post.next.date | date: '%Y' }}{% endcapture %} -->
+{% capture month %}{{ post.date | date: '%B' }}{% endcapture %}
+{% capture nmonth %}{{ post.next.date | date: '%B' }}{% endcapture %}
+<!-- New month -->
+{% if month != nmonth %}
+<!-- </ul> -->
+<li class="archive-list__heading"><h2 class="h4">{{ post.date | date: '%B' }}</h2>
+<ul class="archive-list__group">
+<!-- <ul> -->
+<!-- <ul class="past"> -->
+{% endif %}
+<!-- / New month -->
+{% endunless %}
+<li class="archive-list__item">{% if post.color %}<i style="color:{{ post.color }};"></i>{% endif %}<h3 class="h5"><a href="{{ post.url }}">{{ post.title | markdownify | strip_html | trim }}</a></h3></li>
+
+{% unless post.next %}
+</ul></li>
+{% else %}
+{% capture month %}{{ post.date | date: '%B' }}{% endcapture %}
+{% capture pmonth %}{{ post.previous.date | date: '%B' }}{% endcapture %}
+<!-- New month -->
+{% if month != pmonth %}
+</ul></li>
+{% endif %}
+<!-- / New month -->
+{% endunless %}
+{% endif %}
+{% endfor %}
+</ul>

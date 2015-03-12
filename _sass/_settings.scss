@@ -12,47 +12,53 @@
    ========================================================================== */
 $deviate:						10;
 
-$crimson:						hsl(345,87%,43%);
-// $mint:							#36d894;
-$mint:							hsl(155,67%,53%);
-$mintText:						hsl(155,57%,33%);
+$crimson:						hsl(345, 87%, 43%);
+$solomon:						hsl(41,87%,53%);
+$mint:							hsl(155, 67%, 53%);
+$peppermint:					hsl(155, 67%, 33%);
 
-$primaryColor:					$crimson;
-$secondaryColor:				$mint;
-$tertiaryColor:					hsl(155,77%,30%);
-$accentColor:					desaturate(darken($crimson, $deviate), $deviate);
 
-$test1:							adjust-hue($mint, 15);
-$test2:							adjust-hue($mint, 30);
-$test3:							adjust-hue($mint, 45);
+$primary-color:					$crimson;
+$secondary-color:				$mint;
+$tertiary-color:				$peppermint;
+$accent-color:					$solomon;
+$yellow:						#FFFF4D;
 
 $black:							hsl(0,0%,12%);
 $white:							#F3F3F3;
 
-$darkGrey:						hsl(0,0%,18%);
+$dark-grey:						hsl(0,0%,18%);
 $grey:							hsl(0,0%,60%);
-$lightGrey:						hsl(0,0%,83%);
+$light-grey:					hsl(0,0%,83%);
 
-$debugBg:						rgba(255,0,0,.1);
+$luma-100:						$white;
+$luma-90:						mix($white, $black, 90%);
+$luma-80:						mix($white, $black, 80%);
+$luma-70:						mix($white, $black, 70%);
+$luma-60:						mix($white, $black, 60%);
+$luma-50:						mix($white, $black, 50%);
+$luma-40:						mix($white, $black, 40%);
+$luma-30:						mix($white, $black, 30%);
+$luma-20:						mix($white, $black, 20%);
+$luma-10:						mix($white, $black, 10%);
+$luma-0:						$black;
+
+$debug-bg:						rgba(255,0,0,.1);
 
 
 
 /* Typography
    ========================================================================== */
-$fontSize:						16;
-$fontSizeLap:					18;
+$font-size:						18;
 
-$fontLeading:					24;
-$fontLeadingLap:				28.8;
+$font-leading:					28.8;
 
-$fontScale:						1.25;
-$fontScaleLap:					1.5;
-
-$fontWeight:					400;
-$fontStyle:						normal;
-$fontFamily:					'Merriweather', Georgia, serif;
+$font-weight:					400;
+$font-style:					normal;
+$font-family:					'Lora', Georgia, serif;
 $measure:						66;
 
+$font-constant:					2.03;
 /**
  * Font constant
  *
@@ -60,17 +66,19 @@ $measure:						66;
  * Georgia is e.g. 2.27, I've measured Merriweather at ~2.03
  *
  */
-$fontConstant:					2.03;
+
+$heading-family:				'Cooper Hewitt', sans-serif;
+$heading-weight:				800;
+
+$ui-family:						'Merriweather Sans', sans-serif;
+$ui-weight:						300;
+
+$fixed-family:					Consolas, monospace;
 
 
-$headingFamily:					'Merriweather Sans', sans-serif;
-$headingWeight:					800;
-
-$uiFamily:						$headingFamily;
-$uiWeight:						300;
-
-$fixedFamily:					Consolas, monospace;
-
+/* Paths
+   ========================================================================== */
+$font-path:						"/assets/fonts/";
 
 
 /**
@@ -78,12 +86,12 @@ $fixedFamily:					Consolas, monospace;
  * Transitions
  *
  */
-$easeInOutBack:					cubic-bezier(0.68, -0.55, 0.265, 1.55);
+$ease-in-out-back:				cubic-bezier(0.68, -0.55, 0.265, 1.55);
 
-$transitionPropertyDefault: 	all;
-$transitionDurationDefault:		300ms;
-$transitionTimingDefault:		$easeInOutBack;
-$transitionDelayDefault:		0ms;
+$transition-property-default: 	all;
+$transition-duration-default:	300ms;
+$transition-timing-default:		$ease-in-out-back;
+$transition-delay-default:		0ms;
 
 
 
@@ -92,25 +100,20 @@ $transitionDelayDefault:		0ms;
  * Opinionated breakpoints
  *
  */
-$breakpointWrist:				321;
-$breakpointPalm:				481;
-$breakpointLap:					769;
-$breakpointDesk:				1025;
-$breakpointWall:				1367;
-$breakpointMall:				1921;
+$breakpoint-wrist:				321;
+$breakpoint-palm:				481;
+$breakpoint-lap:				769;
+$breakpoint-desk:				1025;
+$breakpoint-wall:				1367;
+$breakpoint-mall:				1921;
 
 
 $canon:							18;
 
-$canon-margin-left:				1;
-$canon-margin-top:				1;
-$canon-margin-right:			2;
-$canon-margin-bottom:			2;
-
-$canon-margin-left-lap:			2;
-$canon-margin-top-lap:			2;
-$canon-margin-right-lap:		4;
-$canon-margin-bottom-lap:		4;
+$canon-margin-left:				2;
+$canon-margin-top:				2;
+$canon-margin-right:			4;
+$canon-margin-bottom:			4;
 
 $z-layers: (
 	"goku":						9001, 
@@ -132,6 +135,6 @@ $z-layers: (
  * Borders
  *
  */
-$borderWidth:					1;
-$borderStyle:					solid;
-$borderColor:					$lightGrey;
+$border-width:					1;
+$border-style:					solid;
+$border-color:					$light-grey;

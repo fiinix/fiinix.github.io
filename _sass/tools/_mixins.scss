@@ -34,10 +34,10 @@
  *
  */
 @mixin transition(
-	$property: $transitionPropertyDefault,
-	$duration: $transitionDurationDefault,
-	$timing: $transitionTimingDefault,
-	$delay: $transitionDelayDefault) {
+	$property: $transition-property-default,
+	$duration: $transition-duration-default,
+	$timing: $transition-timing-default,
+	$delay: $transition-delay-default) {
 	transition: $property $duration $timing $delay;
 }
 /**

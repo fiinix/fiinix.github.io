@@ -1,69 +1,39 @@
-/**
- * ===========================================================================
- *
- * Elements
- *
- * ===========================================================================
- *
- */
-small {
+/* ==========================================================================
 
-	font-size: .74em;
 
-}
+   Elements
 
-time {
 
-	text-transform: uppercase;
-	color: $grey;
-
-}
+   ========================================================================== */
 
 abbr,
 abbr[title] {
 
-	text-transform: uppercase;
-	letter-spacing: .1em;
-	border-bottom: 1px dotted $grey;
-
-	/* Manually adjusted to mimic a small cap and fall within
-	 * the x-height of the body font */	
-
-	font-size: .74em;
+	letter-spacing: 0.1em;
 
 }
 abbr[title] {
 
 	cursor: help;
+	border-bottom: 1px dotted $luma-50;
+
+}
+.small-caps {
+
+	/* Manually adjusted to mimic a small cap and fall within
+	 * the x-height of the body font */	
+
+	font-size: 0.74em;
+	text-transform: uppercase;
 
 }
 
-em {}
-mark {
-
-	background-color: #FFFF4D;
-
-}
-
-del {
-
-	color: $grey;
-
-}
-ins {
-
-	text-decoration: none;
-	border-bottom: 1px dashed $grey;
-
-}
-
-strong {
-
-}
-
-sub,
-sup {
+sup,
+sub {
   font-size: 0.74em;
+  line-height: 0;
+  position: relative;
+  vertical-align: baseline;
 }
 
 sup {

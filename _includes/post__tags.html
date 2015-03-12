@@ -5,5 +5,5 @@
         {% assign tags_max = site.tags[tag].size %}
     {% endif %}
     {% endfor %}
-    <ul class="inline-list">{% for i in (1..tags_max) reversed %}{% for tag in page.tags %}{% if site.tags[tag].size == i %}<li><a class="tag" title="{{ tag }}" href="{{ BASE_PATH }}{{ site.JB.tags_path }}#{{ tag | replace: ' ', '+' }}">{{ tag }}{% if site.tags[tag].size > 1 %}<span>&nbsp;&times;&nbsp;{{ site.tags[tag].size }}</span>{% endif %}</a>{% unless forloop.last %}{% endunless %}</li>{% endif %}{% endfor %}{% endfor %}</ul>
+    <ul class="inline-list">{% for i in (1..tags_max) reversed %}{% for tag in page.tags %}{% if site.tags[tag].size == i %}<li><a class="tag" title="{{ tag }}" href="/topics/#{{ tag | replace: ' ', '+' }}">{{ tag }}{% if site.tags[tag].size > 1 %}<span>&nbsp;&times;&nbsp;{{ site.tags[tag].size }}</span>{% endif %}</a>{% unless forloop.last %}{% endunless %}</li>{% endif %}{% endfor %}{% endfor %}</ul>
 {% endunless %}
