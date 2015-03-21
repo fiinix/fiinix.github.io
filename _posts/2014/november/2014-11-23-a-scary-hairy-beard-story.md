@@ -25,7 +25,8 @@ excerpt: In which Carlos Eriksson tries to grow a beard for a year and documents
 [Week 14](#week-14---bored-of-the-beard) |
 [Week 15](#week-15---white-all-over-my-face) |
 [Week 16](#week-16---my-sexy-face) |
-[Week 17](#week-17---35-weeks-to-go)
+[Week 17](#week-17---35-weeks-to-go) |
+[Week 18](#week-18---a-beard-abroad)
 
 ####Week 0
 
@@ -251,3 +252,9 @@ I'll leave you to decide.
 "In 35 weeks," is the answer of course. Because 52 weeks is how long I decided to pursue this little endeavour of mine. An whilst my beard is, kind of, growing adequately, I'm very curious to see what will become of my hair.
 
 Hair is meant to grow about 15 cm---6 inches---in a year, so hopefully it won't look completely stupid in November.
+
+###Week 18 - A Beard Abroad
+
+Feeling like my beard needed a vacation, I decided to take it abroad. Which is why this update comes from suprisingly sunny Finland, where I've treated my beard to a nice dose of beer, sauna, more beer and sleeping on an uncomfortable floor which has caused plenty of discomfort for my shoulder.
+
+Or as I'd like to think it nowadays, I'm getting too bloody old for this shit.
