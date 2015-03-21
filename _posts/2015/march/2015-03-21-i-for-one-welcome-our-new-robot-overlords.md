@@ -42,7 +42,7 @@ None of this is made any better, or more reassuring, by the fact that a drone of
 </figure>
 
 <figure>
-	<img class="js-lazy-load" data-original="/assets/posts/2015/march/i-for-one-welcome-our-new-robot-overlords/controlling-the-t600.jpg" alt="Remote controlling the DJI Inspire 1 Quadcopter">
+	<img class="js-lazy-load" data-original="/assets/posts/2015/march/i-for-one-welcome-our-new-robot-overlords/controlling-the-t600.jpg" alt="Remote controlling the DJI Inspire 1 Quadcopter.">
 	<figcaption>Who is really in control? Also, can you spot the drone?</figcaption>
 </figure>
 
