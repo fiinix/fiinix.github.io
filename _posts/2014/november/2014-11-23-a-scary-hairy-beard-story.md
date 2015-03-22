@@ -26,7 +26,8 @@ excerpt: In which Carlos Eriksson tries to grow a beard for a year and documents
 [Week 15](#week-15---white-all-over-my-face) |
 [Week 16](#week-16---my-sexy-face) |
 [Week 17](#week-17---35-weeks-to-go) |
-[Week 18](#week-18---a-beard-abroad)
+[Week 18](#week-18---a-beard-abroad) |
+[Week 19](#week-19---got-me-a-beard)
 
 ####Week 0
 
@@ -255,6 +256,14 @@ Hair is meant to grow about 15 cm---6 inches---in a year, so hopefully it won't 
 
 ###Week 18 - A Beard Abroad
 
-Feeling like my beard needed a vacation, I decided to take it abroad. Which is why this update comes from suprisingly sunny Finland, where I've treated my beard to a nice dose of beer, sauna, more beer and sleeping on an uncomfortable floor which has caused plenty of discomfort for my shoulder.
+Feeling like my beard needed a vacation, I decided to take it abroad. Which is why this update comes from surprisingly sunny Finland, where I've treated my beard to a nice dose of beer, sauna, more beer and sleeping on an uncomfortable floor which has caused plenty of discomfort for my shoulder.
 
 Or as I'd like to think it nowadays, I'm getting too bloody old for this shit.
+
+####Week 19 - Got Me a Beard
+
+I think I need to trim back the moustache a little, every time I open my mouth the moustache sneaks in there.
+
+<figure class="media-video">
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/KlgbKIswpzI" frameborder="0" allowfullscreen></iframe>
+</figure>
