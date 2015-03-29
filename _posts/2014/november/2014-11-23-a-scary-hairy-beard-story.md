@@ -275,5 +275,5 @@ The 20 week mark means it's time for another picture. I have trouble telling the
 
 <figure>
 	<img class="js-lazy-load" data-original="/assets/posts/2014/november/a-scary-hairy-beard-story/carlos-eriksson-beard-growing-progess-week-20.jpg" alt="The beard growth after 20 weeks.">
-	<figcaption>“How YOU doin’?” he said, trying to look sexy and suave despite not having washed his hair for at least a week.</figcaption>
+	<figcaption>I sure hope it will even itself out one day.</figcaption>
 </figure>
