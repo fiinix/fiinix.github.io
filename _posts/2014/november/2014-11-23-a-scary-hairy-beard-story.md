@@ -254,7 +254,7 @@ I'll leave you to decide.
 
 Hair is meant to grow about 15 cm---6 inches---in a year, so hopefully it won't look completely stupid in November.
 
-###Week 18 - A Beard Abroad
+####Week 18 - A Beard Abroad
 
 Feeling like my beard needed a vacation, I decided to take it abroad. Which is why this update comes from surprisingly sunny Finland, where I've treated my beard to a nice dose of beer, sauna, more beer and sleeping on an uncomfortable floor which has caused plenty of discomfort for my shoulder.
 
