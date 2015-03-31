@@ -75,7 +75,7 @@ Basically we're fucked and I need to learn what the fuck a VPN is and how to use
 
 ####Anna Dahlström
 
-The multi-device era is here and it brought with it a whole host of new challenges and problems. Anna talked about it, and how she imagines that the future holds a lot more for voice as an input method.
+The multi-device era is here and it brought with it a whole host of new challenges and problems. [Anna][anna] talked about it, and how she imagines that the future holds a lot more for voice as an input method.
 
 ####Andrew Clarke
 
