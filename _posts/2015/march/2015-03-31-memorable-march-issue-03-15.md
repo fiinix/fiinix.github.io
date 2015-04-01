@@ -77,10 +77,9 @@ And thanks to my wonderful wife we managed to get a couple of pictures---of the 
 	<figcaption>I still haven’t figured out how to get good shots of my tattoo.</figcaption>
 </figure>
 
-
 ###Solar Eclipse
 
-And finally, towards the end of March, the entire stood breathless as the moon took a much anticipated tour in between us and the sun.
+And finally, towards the end of March, the entire world stood breathless as the moon took a much anticipated tour in between us and the sun.
 
 <figure>
 	<img class="js-lazy-load" data-original="/assets/posts/2015/march/memorable-march-issue-03-15/solar-eclipse-2015-by-marcus_and_sue.jpg" alt="The Solar Eclipse of 2015, a beatutiful red-tinted shot ">
