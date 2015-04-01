@@ -9,4 +9,4 @@ All the topics. With their frequency count. Sorted alphabetically---at least as 
 
 And before you ask; No, I don't know why Jekyll puts the very first entry by its own topic at the end. But as soon as I figure it out, I'll get it fixed. It's probably a mistake on my end anyway.
 
-{% include test__tags.html %}
+{% include site__archive__tags.html %}

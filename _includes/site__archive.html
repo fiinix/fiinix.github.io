@@ -1,12 +1,12 @@
-<ul class="tree archive-list">
+<ul class="tree entry-list">
 {%for post in site.posts %}
 {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
 {% if year == include.year  %}
 <!-- <li> -->
 {% unless post.next %}
 <!-- <ul class="this"> -->
-<li class="archive-list__heading"><h2 class="h4">{{ post.date | date: '%B' }}</h2>
-<ul class="archive-list__group">
+<li class="entry-list__heading"><h2 class="h4">{{ post.date | date: '%B' }}</h2>
+<ul class="entry-list__group">
 {% else %}
 <!-- {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %} -->
 <!-- {% capture nyear %}{{ post.next.date | date: '%Y' }}{% endcapture %} -->
@@ -15,14 +15,14 @@
 <!-- New month -->
 {% if month != nmonth %}
 <!-- </ul> -->
-<li class="archive-list__heading"><h2 class="h4">{{ post.date | date: '%B' }}</h2>
-<ul class="archive-list__group">
+<li class="entry-list__heading"><h2 class="h4">{{ post.date | date: '%B' }}</h2>
+<ul class="entry-list__group">
 <!-- <ul> -->
 <!-- <ul class="past"> -->
 {% endif %}
 <!-- / New month -->
 {% endunless %}
-<li class="archive-list__item">{% if post.color %}<i style="color:{{ post.color }};"></i>{% endif %}<h3 class="h5"><a href="{{ post.url }}">{{ post.title | markdownify | strip_html | trim }}</a></h3></li>
+<li class="entry-list__item">{% if post.color %}{% endif %}<h3 class="h5"><a href="{{ post.url }}">{{ post.title | markdownify | strip_html | trim }}</a></h3></li>
 
 {% unless post.next %}
 </ul></li>
