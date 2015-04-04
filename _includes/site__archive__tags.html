@@ -52,7 +52,7 @@
     <h2 class="h4" id="letter-{{ first_letter | downcase }}">{{ first_letter }}</h2>
     <ul class="tag-box inline-list">
     {% endif %}
-    <li><a class="tag" href="#{{ this_word | slugify: 'pretty' }}">{{ this_word | markdownify | strip_html | trim }}{% if site.tags[this_word].size > 1 %}<span>&nbsp;&times;&nbsp;{{ site.tags[this_word].size }}</span>{% endif %}</a></li>
+    <li><a class="tag" href="#{{ this_word | replace: ' ', '+' }}">{{ this_word | markdownify | strip_html | trim }}{% if site.tags[this_word].size > 1 %}<span>&nbsp;&times;&nbsp;{{ site.tags[this_word].size }}</span>{% endif %}</a></li>
   {% endunless %}{% endfor %}
   </ul>
 
@@ -67,7 +67,7 @@
   <div class="group">
     <div class="col">
 
-      <h2 id="{{ this_word  | slugify: 'pretty' }}" class="h4">{{ this_word | markdownify | strip_html | trim }}</h2>
+      <h2 id="{{ this_word | replace: ' ', '+' }}" class="h4">{{ this_word | markdownify | strip_html | trim }}</h2>
 
     </div>
     <div class="col align-right">
