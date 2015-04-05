@@ -28,7 +28,8 @@ excerpt: In which Carlos Eriksson tries to grow a beard for a year and documents
 [Week 17](#week-17---35-weeks-to-go) |
 [Week 18](#week-18---a-beard-abroad) |
 [Week 19](#week-19---got-me-a-beard) |
-[Week 20](#week-20---the-arrival-of-spring)
+[Week 20](#week-20---the-arrival-of-spring) |
+[Week 21](#week-21---bring-on-the-wax)
 
 ####Week 0
 
@@ -277,3 +278,15 @@ The 20 week mark means it's time for another picture. I have trouble telling the
 	<img class="js-lazy-load" data-original="/assets/posts/2014/november/a-scary-hairy-beard-story/carlos-eriksson-beard-growing-progess-week-20.jpg" alt="The beard growth after 20 weeks.">
 	<figcaption>I sure hope it will even itself out one day.</figcaption>
 </figure>
+
+####Week 21 - Bring on the Wax
+
+The time has come, the moustache must be kempt in its unruly ways and only one can still the raging beast within.
+
+His name, is Percy. Percy Nobleman.
+
+Nah, I'm just kidding. I have no idea of the moustache wax from Percy Nobleman is *that good* but I hear good thing---does it still count as hearing when you read it online?---and I'm going to give it a try.
+
+The 'stache will be kempt.
+
+I'll let you know if Percy was up to the task.
