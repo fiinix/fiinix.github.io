@@ -285,8 +285,10 @@ The time has come, the moustache must be kempt in its unruly ways and only one c
 
 His name, is Percy. Percy Nobleman.
 
-Nah, I'm just kidding. I have no idea of the moustache wax from Percy Nobleman is *that good* but I hear good thing---does it still count as hearing when you read it online?---and I'm going to give it a try.
+Nah, I'm just kidding. I have no idea of the [moustache wax from Percy Nobleman][wax] is *that good* but I hear good thing---does it still count as hearing when you read it online?---and I'm going to give it a try.
 
 The 'stache will be kempt.
 
 I'll let you know if Percy was up to the task.
+
+[wax]: http://www.percynobleman.com/product/beard-balm/
