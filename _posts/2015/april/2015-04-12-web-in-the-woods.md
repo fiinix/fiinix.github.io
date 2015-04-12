@@ -22,7 +22,7 @@ I've been thinking about and wanting to give back to the web community ever sinc
 
 Joining [Lucie De Lacy][lucie], [Dan Edwards][dan], [Sally Jenkinson][sally] and [Paul Adam Davis][paul] as well as five on-the-spot lightning speakers, I hope to inspire people---much like other people have inspired me---with my talk.
 
-Titled **Money = Accessibility**, I aim to demonstrate how ignoring accessibility is actually costing you, and your business in lost revenue.
+Titled **Accessibility = Money**, I aim to demonstrate how ignoring accessibility is actually costing you, and your business in lost revenue.
 
 So if you're feeling up for an inspirational conference where instead of crowding a noisy pub, you can enjoy the crackling of burning wood and perhaps some s'mores afterwards, then [get yourself a ticket][event] and I'll see you by the campfire.
 
