@@ -302,7 +302,7 @@ Every bloody week.
 
 God I hate Past Carlos, he's such a dumb-ass.
 
-Which is this week will feature one legitimate reason to shave my stupid beard, which I will proceed to ignore completely;
+Which is why this week I will feature one legitimate reason to shave my stupid beard, which I will then proceed to ignore completely;
 
 > No matter what they say, people think it’s dumb
 >
