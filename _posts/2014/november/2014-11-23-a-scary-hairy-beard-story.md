@@ -29,7 +29,8 @@ excerpt: In which Carlos Eriksson tries to grow a beard for a year and documents
 [Week 18](#week-18---a-beard-abroad) |
 [Week 19](#week-19---got-me-a-beard) |
 [Week 20](#week-20---the-arrival-of-spring) |
-[Week 21](#week-21---bring-on-the-wax)
+[Week 21](#week-21---bring-on-the-wax) |
+[Week 22](#week-22---stupid-beard)
 
 ####Week 0
 
@@ -292,3 +293,17 @@ The 'stache will be kempt.
 I'll let you know if Percy was up to the task.
 
 [wax]: http://www.percynobleman.com/product/beard-balm/
+
+####Week 22 - Stupid Beard
+
+With half an hour to spare before the day is officially no more I'm filled with remorse over Past Carlos for deciding to update this stupid beard journal every week for 52 weeks.
+
+Every bloody week.
+
+God I hate Past Carlos, he's such a dumb-ass.
+
+Which is this week will feature one legitimate reason to shave my stupid beard, which I will proceed to ignore completely;
+
+> No matter what they say, people think it’s dumb
+>
+> "I like your beard," they said because they were being nice and the alternative was “Why the hell would you let pubes surround your mouth?” Everyone thinks your beard is dumb. They’ll never tell you. They value your feelings. I think you’re a twit. <cite><a href="http://www.brobible.com/lifestyle/style/article/legitimate-reasons-to-shave-beard/">Legitimate Reasons to Shave Your Stupid Beard</a>, BroBible</cite>
