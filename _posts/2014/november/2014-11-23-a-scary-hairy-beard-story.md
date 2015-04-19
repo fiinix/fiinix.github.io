@@ -30,7 +30,8 @@ excerpt: In which Carlos Eriksson tries to grow a beard for a year and documents
 [Week 19](#week-19---got-me-a-beard) |
 [Week 20](#week-20---the-arrival-of-spring) |
 [Week 21](#week-21---bring-on-the-wax) |
-[Week 22](#week-22---stupid-beard)
+[Week 22](#week-22---stupid-beard) |
+[Week 23](#week-23---too-tired)
 
 ####Week 0
 
@@ -304,6 +305,10 @@ God I hate Past Carlos, he's such a dumb-ass.
 
 Which is why this week I will feature one legitimate reason to shave my stupid beard, which I will then proceed to ignore completely;
 
-> No matter what they say, people think it’s dumb
+> No matter what they say, people think it’s dumb.
 >
 > "I like your beard," they said because they were being nice and the alternative was “Why the hell would you let pubes surround your mouth?” Everyone thinks your beard is dumb. They’ll never tell you. They value your feelings. I think you’re a twit. <cite><a href="http://www.brobible.com/lifestyle/style/article/legitimate-reasons-to-shave-beard/">Legitimate Reasons to Shave Your Stupid Beard</a>, BroBible</cite>
+
+####Week 23 - Too Tired
+
+I'm sorry, but I'm too tired to write anything this weekend. I'm growing my beard though so that should still count for something.
