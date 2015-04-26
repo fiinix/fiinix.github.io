@@ -31,7 +31,8 @@ excerpt: In which Carlos Eriksson tries to grow a beard for a year and documents
 [Week 20](#week-20---the-arrival-of-spring) |
 [Week 21](#week-21---bring-on-the-wax) |
 [Week 22](#week-22---stupid-beard) |
-[Week 23](#week-23---too-tired)
+[Week 23](#week-23---too-tired) |
+[Week 24](#week-24---Beard 2.0)
 
 ####Week 0
 
@@ -312,3 +313,16 @@ Which is why this week I will feature one legitimate reason to shave my stupid b
 ####Week 23 - Too Tired
 
 I'm sorry, but I'm too tired to write anything this weekend. I'm growing my beard though so that should still count for something.
+
+####Week 24 - Beard 2.0
+
+For the first few months of this beard journey I would look myself in the mirror and not quite recognise the face that stared back at me.
+
+But slowly, as time went by, the face staring back at me begun to look like mine.
+
+And now, I can't imagine what I would look like without a beard which is going to make it very interesting once I shave again. Until them though, here's the progress report for my 24th week.
+
+<figure>
+	<img class="js-lazy-load" data-original="/assets/posts/2014/november/a-scary-hairy-beard-story/carlos-eriksson-beard-growing-progess-week-24.jpg" alt="The beard growth after 24 weeks.">
+	<figcaption></figcaption>
+</figure>
