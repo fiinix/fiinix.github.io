@@ -32,7 +32,7 @@ excerpt: In which Carlos Eriksson tries to grow a beard for a year and documents
 [Week 21](#week-21---bring-on-the-wax) |
 [Week 22](#week-22---stupid-beard) |
 [Week 23](#week-23---too-tired) |
-[Week 24](#week-24---Beard 2.0)
+[Week 24](#week-24---beard-20)
 
 ####Week 0
 
