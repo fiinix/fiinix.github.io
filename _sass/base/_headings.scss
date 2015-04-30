@@ -16,7 +16,8 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 
 h1, .h1 {
 
-	font-size:
+	font-size: 5.063em;
+	line-height: 1.05;
 
 	@include mq($breakpoint-lap) {
 
