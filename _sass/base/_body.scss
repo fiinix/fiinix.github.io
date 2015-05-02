@@ -5,9 +5,14 @@
 
 
    ========================================================================== */
+html {
+	
+	font-size: percentage($font-size/16);
+
+}
 body {
 
-	font-size: percentage($font-size/16) +0%;
+	font-size: 1em;
 	line-height: $font-leading/$font-size;
 	font-family: $font-family;
 

@@ -10,19 +10,21 @@
 
 /* Palette
    ========================================================================== */
+/**
+ * Colour names based on http://chir.ag/projects/name-that-color
+ */
 $deviate:						10;
 
-$crimson:						hsl(345, 87%, 43%);
-$solomon:						hsl(41,87%,53%);
-$mint:							hsl(155, 67%, 53%);
-$peppermint:					hsl(155, 67%, 33%);
+$crimson:						hsl(345, 87%, 43%); /* #cd0e3e */
+$fuel-yellow:					hsl(41,87%,53%); /* #efad1f */
+$shamrock:						hsl(155, 67%, 53%); /* #37d795 */
+$eucalyptus:					hsl(155, 67%, 33%); /* #1c8d5e */
 
 
 $primary-color:					$crimson;
-$secondary-color:				$mint;
-$tertiary-color:				$peppermint;
-$accent-color:					$solomon;
-$yellow:						#FFFF4D;
+$secondary-color:				$shamrock;
+$tertiary-color:				$eucalyptus;
+$accent-color:					$fuel-yellow;
 
 $black:							hsl(0,0%,12%);
 $white:							#F3F3F3;
@@ -45,6 +47,8 @@ $luma-0:						$black;
 
 $debug-bg:						rgba(255,0,0,.1);
 
+$yellow:						#FFFF4D;
+$focus-color:					#5B9DD9;
 
 
 /* Typography

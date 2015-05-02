@@ -33,8 +33,15 @@ $brightness-divisor: $red-magic-number + $green-magic-number + $blue-magic-numbe
 
 	@return 100% * $number / 255;
 }
+
+/* 58% seems better
+ *
+ * Documentation suggests a range between 64 and 72.5
+ */
+
+
 @function contrast($color, $w: $white, $b: $black) {
-	@if brightness($color) < 65% {
+	@if brightness($color) < 58% {
 		@return $w;
 	}
 	@else {
