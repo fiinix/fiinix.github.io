@@ -14,6 +14,11 @@ a {
 	position: relative;
 	text-decoration: none;
 
+	outline: 0.25em solid transparent;
+	outline-offset: 1em;
+
+	@include transition;
+
 	&:visited {
 
 		color: darken($primary-color, $deviate);
@@ -26,10 +31,18 @@ a {
 
 	}
 
-	&:focus,
+	&:focus {
+
+		outline-offset: 0;
+		outline-color: $focus-color;
+		background-color: $focus-color;
+		color: contrast($focus-color);
+
+	}
+
 	&:active {
 
-		
+		transition: none;
 
 	}
 
