@@ -32,7 +32,8 @@ excerpt: In which Carlos Eriksson tries to grow a beard for a year and documents
 [Week 21](#week-21---bring-on-the-wax) |
 [Week 22](#week-22---stupid-beard) |
 [Week 23](#week-23---too-tired) |
-[Week 24](#week-24---beard-20)
+[Week 24](#week-24---beard-20) |
+[Week 25](#week-25---summer-beard)
 
 ####Week 0
 
@@ -325,4 +326,14 @@ And now, I can't imagine what I would look like without a beard which is going t
 <figure>
 	<img class="js-lazy-load" data-original="/assets/posts/2014/november/a-scary-hairy-beard-story/carlos-eriksson-beard-growing-progess-week-24.jpg" alt="The beard growth after 24 weeks.">
 	<figcaption></figcaption>
+</figure>
+
+###Week 25 - Summer Beard
+
+My first and, really, only thought, was that, "Is my beard gonna get really hot this summer? Damn it."
+
+Which wasn't something I had thought about before watching this video.
+
+<figure class="media-video">
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/Uy5iFLIiKBM" frameborder="0" allowfullscreen></iframe>
 </figure>
