@@ -1,0 +1,40 @@
+/* ==========================================================================
+
+
+   Styleguide: Colors
+
+
+   ========================================================================== */
+$colors: (
+
+	Crimson:		$primary-color,
+	Shamrock:		$secondary-color,
+	Eucalyptus:		$tertiary-color,
+	Fuel-Yellow:	$accent-color,
+
+);
+
+@each $name, $color in $colors {
+
+	.sg__#{$color} {
+		
+		background-color: $color;
+		color: contrast($color);
+
+		padding: 0.25em;
+
+		&:before {
+
+			content: "#{$name}";
+
+		}
+
+		&:after {
+
+			content: "#{$color}";
+
+		}
+
+	}
+
+}

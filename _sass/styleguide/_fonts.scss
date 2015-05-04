@@ -1,0 +1,40 @@
+/* ==========================================================================
+
+
+   Styleguide: Fonts
+
+
+   ========================================================================== */
+.sg__font-body {
+
+	&:before {
+
+		content: "Body: ";
+
+	}
+
+	&:after {
+
+		content: "#{$font-family}";
+
+	}
+
+}
+
+
+
+.sg__font-headings {
+
+	&:before {
+
+		content: "Headings: ";
+
+	}
+
+	&:after {
+
+		content: "#{$heading-family}";
+
+	}
+
+}

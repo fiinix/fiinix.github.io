@@ -9,6 +9,12 @@ html {
 	
 	font-size: percentage($font-size/16);
 
+	overflow-x: hidden;
+	
+	/* Keep momentum when scrolling in iOS */
+	overflow-y: scroll; /* Has to be scroll, not auto */
+	-webkit-overflow-scrolling: touch;
+
 }
 body {
 

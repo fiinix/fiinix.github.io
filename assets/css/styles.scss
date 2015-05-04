@@ -18,6 +18,7 @@
 
 @import "base/body";
 @import "base/headings";
+@import "base/horizontal-rules";
 @import "base/paragraphs";
 @import "base/blockquotes";
 @import "base/figures";
@@ -40,3 +41,9 @@
 @import "objects/reading-times";
 @import "objects/syntax-highlight";
 @import "objects/entry-list";
+
+// Heydon's revenge.css, renamed to scrutinize
+@import "tools/scrutinize";
+
+@import "styleguide/colors";
+@import "styleguide/fonts";

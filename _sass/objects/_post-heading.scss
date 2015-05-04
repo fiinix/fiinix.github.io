@@ -32,6 +32,12 @@
 
 	}
 
+	@include mq($breakpoint-lap) {
+
+		// transform: skew(0deg, -7deg);
+
+	};
+
 }
 
 .post-content {
@@ -51,5 +57,11 @@
 .post--new .post-heading {
 
 	color: inherit;
+
+}
+
+.related-post + .related-post {
+
+	margin-top: 0;
 
 }

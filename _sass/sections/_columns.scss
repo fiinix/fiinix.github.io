@@ -7,9 +7,16 @@
    ========================================================================== */
 .container {
 
-	max-width: 66.6666%;
-	margin-left: 11.1111%;
-	margin-right: 22.2222%;
+	margin-left: 1em;
+	margin-right: 1em;	
+
+	@include mq($breakpoint-lap) {
+
+		max-width: 66.6666%;
+		margin-left: 11.1111%;
+		margin-right: 22.2222%;
+
+	};
 
 }
 
@@ -62,6 +69,10 @@
    ========================================================================== */
 .align-right {
 
-	text-align: right;
+	@include mq($breakpoint-lap) {
+
+		text-align: right;
+
+	};
 
 }
