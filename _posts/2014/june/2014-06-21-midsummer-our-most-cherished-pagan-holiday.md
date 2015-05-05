@@ -1,5 +1,5 @@
 ---
-layout: post--special
+layout: post
 title: Midsummer,  Our Most Cherished Pagan Holiday
 color: "#91b716"
 date: 2014-06-22 T 23:45 UTC

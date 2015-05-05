@@ -5,6 +5,8 @@ date: 2014-11-04 T 17:55 UTC
 tags : ["Middle-Earth: Shadow of Mordor", Gaming, Review]
 category: blog
 excerpt: "In which I give a spoiler-free anecdotal review of Middle-Earth: Shadow of Mordor. Spoiler: I really enjoyed it."
+color: "#4a779e"
+color2: "#395c78"
 ---
 He is vengeance. He is the night. He is Bat--- Huh? Oh, right. He is not Batman. He is *some guy* named Talion. Some guy who quite clearly *isn't* Batman.
 
