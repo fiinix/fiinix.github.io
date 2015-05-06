@@ -78,8 +78,15 @@ h4, .h4,
 
 h5, .h5 {
 
-	font-size: 1em;
-	line-height: 1.6;
+	font-size: 0.74em;
+	line-height: 2.1622;
+
+	@include mq($breakpoint-lap) {
+
+		font-size: 1em;
+		line-height: 1.6;
+
+	};
 
 }
 
@@ -87,5 +94,30 @@ h6, .h6 {
 
 	font-size: 0.74em;
 	line-height: 2.1622;
+
+}
+
+.subheading {
+
+	position: relative;
+
+	padding-top: 1.5em;
+	border-top: 0.1111em solid $luma-90;
+
+	&:before {
+
+		content: " ";
+		display: block;
+
+		width: 33.3333%;
+		height: 0.1111em;
+
+		position: absolute;
+		top: -0.1111em;
+		left: 0;
+
+		background-color: $luma-60;
+
+	}
 
 }
