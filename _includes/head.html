@@ -1,14 +1,16 @@
 <head>
 	<meta charset="utf-8">
-	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<title>{% if page.title %}{{ page.title }} | {{ site.title}}{% else %}{{ site.title }}{% endif %}</title>
-	<meta name="viewport" content="width=device-width">
 	<meta name="description" content="{{ site.description }}">
 	<link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+
+	<!-- Force IE to render using latest engine -->
+	<meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
 
 	<!-- Custom CSS -->
 	<link rel="stylesheet" href="{{ "/assets/css/styles.css" | prepend: site.baseurl }}">
 
-	<link href='http://fonts.googleapis.com/css?family=Merriweather:400,400italic|Merriweather+Sans:800,300|Lora:400,400italic' rel='stylesheet' type='text/css'>
+	<link href='http://fonts.googleapis.com/css?family=Merriweather+Sans:800,300|Lora:400,400italic' rel='stylesheet' type='text/css'>
 
 </head>
