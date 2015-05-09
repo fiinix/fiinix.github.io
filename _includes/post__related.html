@@ -1,7 +1,7 @@
 {% for post in site.posts %}
 
 {% if forloop.last == true and anyTagFound == 1 %}
-<h3 class="subheading">Want more like this entry?</h3>
+<h3 class="subheading" id="related-posts">Want more like this entry?</h3>
 {{ returnTags }}
 {% else %}
 
