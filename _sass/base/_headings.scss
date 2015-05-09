@@ -76,7 +76,9 @@ h4, .h4,
 
 }
 
-h5, .h5 {
+h5, .h5,
+.post-content h4,
+.post-content .h4 {
 
 	font-size: 0.74em;
 	line-height: 2.1622;
@@ -90,10 +92,19 @@ h5, .h5 {
 
 }
 
-h6, .h6 {
+h6, .h6,
+.post-content h5,
+.post-content .h5 {
 
 	font-size: 0.74em;
 	line-height: 2.1622;
+
+	@include mq($breakpoint-lap) {
+
+		font-size: 1em;
+		line-height: 1.6;
+
+	};
 
 }
 
