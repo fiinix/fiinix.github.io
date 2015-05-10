@@ -33,9 +33,10 @@ excerpt: In which Carlos Eriksson tries to grow a beard for a year and documents
 [Week 22](#week-22---stupid-beard) |
 [Week 23](#week-23---too-tired) |
 [Week 24](#week-24---beard-20) |
-[Week 25](#week-25---summer-beard)
+[Week 25](#week-25---summer-beard) |
+[Week 26](#week-26---180-days-of-beard)
 
-####Week 0
+##Week 0
 
 The date is 9th of November and I'm bored on a Sunday.
 
@@ -43,13 +44,13 @@ So bored, that I decide to grow a beard for a year. Up until this point in my li
 
 I've also decided to give myself a head start, by not going completely clean shaven. It's not like I've made some masochistic promise to start from zero anyway.
 
-####Week 1 - Itchy Bitchy Tiny Whiny
+##Week 1 - Itchy Bitchy Tiny Whiny
 
 Oh God, this is so fucking itchy. Itchy when I wake up. Itchy when I go to sleep. I sure hope it's doesn't continue like this because that's going to put the grizzly in Grizzly Carlos.
 
 Oh no, the beard puns have already infected my brain.
 
-####Week 2 - Patchy But Promising
+##Week 2 - Patchy But Promising
 
 Well this sucks. Growing sucks. Nobody tells you how much the first weeks sucks.
 
@@ -59,7 +60,7 @@ Here's a joke I found, to cheer myself up.
 
 > Don't listen to the naysayers. Anyone who says your beard makes you look homeless isn't the kind of your person you want in your cardboard box anyway.
 
-####Week 3 - The Length of a Lifetime
+##Week 3 - The Length of a Lifetime
 
 This week was a lot easier than the last one. Maybe I'm growing used to the presence of my beard. Or maybe my sense of self-control has matured to a new level of---
 
@@ -71,7 +72,7 @@ This week was a lot easier than the last one. Maybe I'm growing used to the pres
 	<iframe width="560" height="315" src="//www.youtube.com/embed/loEDsHq06is" frameborder="0" allowfullscreen></iframe>
 </figure>
 
-####Week 4 - Being Beard-man
+##Week 4 - Being Beard-man
 
 The itching has finally subsided for real.
 
@@ -88,7 +89,7 @@ Soon, I'll have to adopt a secret identity so I can go, "Carlos? Who's that? I'm
 	<figcaption>Sssh, don’t tell anyone that I’m Beard-man, I don’t want my arch-nemesis Cleen S Haven to find me.</figcaption>
 </figure>
 
-####Week 5 - Tee Tree Facial Wash
+##Week 5 - Tee Tree Facial Wash
 
 Right, that concludes week 5 and quite frankly, I'm still not sure about this beard thing. I know the plan is to grow my beard for a whole year but I still don't feel like my beard *can* grow enough for me to accomplish that.
 
@@ -98,7 +99,7 @@ Well, I say final but actually I can still change my mind whenever.
 
 On a more positive note though, I've discovered my wife's Tee Tree Facial Wash with Exfoliating action and oh my lord it's awesome. Not just the fact that my beard doesn't smell like food any more but the scrubbing action. Oh, the scrubbing action.
 
-####Week 6 - 46 Weeks To Go
+##Week 6 - 46 Weeks To Go
 
 As I finish week 6 I've decided that I will in fact continue with this adventure.
 
@@ -112,7 +113,7 @@ So unless she's blatantly lying to stroke my ego---which I hope she isn't---that
 	<iframe width="560" height="315" src="//www.youtube.com/embed/bmerE7kLI-Y" frameborder="0" allowfullscreen></iframe>
 </figure>
 
-####Week 7 - Halo Dick
+##Week 7 - Halo Dick
 
 Another week has gone by and as I exit week 7 I'm left with a feeling of surprise as I discover I can now put my own moustache in my mouth.
 
@@ -126,7 +127,7 @@ Until then, enjoy a little bit of Halo Dick.
 	<iframe width="560" height="315" src="//www.youtube.com/embed/JyL-J-piB8o" frameborder="0" allowfullscreen></iframe>
 </figure>
 
-####Week 8 - Where No Beard Has Gone Before
+##Week 8 - Where No Beard Has Gone Before
 
 For the first time since I started this experiment in facial hair growth, I have had to trim down the moustache a bit.
 
@@ -139,13 +140,13 @@ Some hairs were getting so long that they started crawling into my mouth, which 
 	<figcaption>What? Is there something on my face?</figcaption>
 </figure>
 
-####Week 9 - With a Hint of Lemon
+##Week 9 - With a Hint of Lemon
 
 Last week I decided that this is the week I start to actually groom this ish-beard of mine. So first thing Monday morning I ordered a beard and moustache comb---which turned out to be the tiniest comb I've ever seen---and a teeny-weeny, 10 ml, bottle of Sicilian Lemon Beard Oil courtesy of The Bearded Man Company.
 
 After I've run out of oil, which should still last me a good month, I thought I'd make my own instead. Cheaper in the long run and I get complete control over the scent.
 
-####Week 10 - A Man Bun Appears
+##Week 10 - A Man Bun Appears
 
 I don't really have anything interesting to write about this week. My beard keeps growing---too slowly if you ask me---but there's isn't much I can do about that.
 
@@ -155,7 +156,7 @@ For now, I've decided on neither and I'm settling for a disappointed growth inst
 
 On the other hand, this week I tried to tie a little man bun at the back of my head and well... it looked pretty ridiculous, so there's always that.
 
-####Week 11 - When A Man Loves A Beard
+##Week 11 - When A Man Loves A Beard
 
 Try to imagine what it might have sounded like if Percy Sledge had loved a beard, instead of a woman.
 
@@ -195,7 +196,7 @@ I know exactly how he feels<br>
 I am a man<br>
 When a man loves a beard <br>
 
-####Week 12 - A Time-Travelling Beard
+##Week 12 - A Time-Travelling Beard
 
 Right. It's been 12 weeks since I started this hairy, itchy journey of mine and since I've been posting a picture every 4 weeks I thought I could continue that tradition.
 
@@ -208,7 +209,7 @@ For the next month we're going to attempt to recreate the hardship, austerity an
 
 But, because we've decided to cut ourselves some slack I'm keeping the beard. Besides, growing a beard for a year wouldn't be so much fun if I cut it of after 12 weeks.
 
-####Week 13 - The Hogan
+##Week 13 - The Hogan
 
 So, is week 13 the doozy I was expecting?
 
@@ -223,7 +224,7 @@ I'm going for that Jesus-y look but you can call me Carlos Christ.
 	<figcaption>“Gaze into my beard brother,” Hulk repeated time after time.</figcaption>
 </figure>
 
-####Week 14 - Bored of the Beard
+##Week 14 - Bored of the Beard
 
 I'm so bored of this now. Not the beard-growing but the weekly updates---if you can call them that?---where I'm supposed to be insightful about growing a beard. Or something like that, to be honest with you, I'm not entirely sure what I'm supposed to be doing here.
 
@@ -231,7 +232,7 @@ Besides, there's plenty of more eloquent people out there, making videos about t
 
 Is there anything you'd like to me to talk about?
 
-####Week 15 - White All Over My Face
+##Week 15 - White All Over My Face
 
 Even though [we're pretending it's 1943][wartime] and we had agreed to postpone any shrove bun eating until *after* February, my wife still surprised me with making a few buns last Tuesday. Using our rations no less.
 
@@ -241,7 +242,7 @@ Totally worth it.
 
 [wartime]: http://wartimelife.co.uk/
 
-####Week 16 - My Sexy Face
+##Week 16 - My Sexy Face
 
 So, as I finish the 16th week of growing a stupid beard I give you my best attempt at a sexy face. Not a funny one, no, we'll have none of that shit. This is my genuine attempt at a sexy side-stare face. Is it good?
 
@@ -252,7 +253,7 @@ I'll leave you to decide.
 	<figcaption>“How YOU doin’?” he said, trying to look sexy and suave despite not having washed his hair for at least a week.</figcaption>
 </figure>
 
-####Week 17 - 35 Weeks To Go
+##Week 17 - 35 Weeks To Go
 
 "When will this be over?" I ask as if I didn't already know.
 
@@ -260,13 +261,13 @@ I'll leave you to decide.
 
 Hair is meant to grow about 15 cm---6 inches---in a year, so hopefully it won't look completely stupid in November.
 
-####Week 18 - A Beard Abroad
+##Week 18 - A Beard Abroad
 
 Feeling like my beard needed a vacation, I decided to take it abroad. Which is why this update comes from surprisingly sunny Finland, where I've treated my beard to a nice dose of beer, sauna, more beer and sleeping on an uncomfortable floor which has caused plenty of discomfort for my shoulder.
 
 Or as I'd like to think it nowadays, I'm getting too bloody old for this shit.
 
-####Week 19 - Got Me a Beard
+##Week 19 - Got Me a Beard
 
 I think I need to trim back the moustache a little, every time I open my mouth the moustache sneaks in there.
 
@@ -274,7 +275,7 @@ I think I need to trim back the moustache a little, every time I open my mouth t
 	<iframe width="560" height="315" src="https://www.youtube.com/embed/KlgbKIswpzI" frameborder="0" allowfullscreen></iframe>
 </figure>
 
-####Week 20 - The Arrival of Spring
+##Week 20 - The Arrival of Spring
 
 The 20 week mark means it's time for another picture. I have trouble telling the difference to be honest. I've trimmed down the moustache because the moustache-to-mouth ratio was just becoming ridiculous.
 
@@ -283,7 +284,7 @@ The 20 week mark means it's time for another picture. I have trouble telling the
 	<figcaption>I sure hope it will even itself out one day.</figcaption>
 </figure>
 
-####Week 21 - Bring on the Wax
+##Week 21 - Bring on the Wax
 
 The time has come, the moustache must be kempt in its unruly ways and only one can still the raging beast within.
 
@@ -297,7 +298,7 @@ I'll let you know if Percy was up to the task.
 
 [wax]: http://www.percynobleman.com/product/beard-balm/
 
-####Week 22 - Stupid Beard
+##Week 22 - Stupid Beard
 
 With half an hour to spare before the day is officially no more I'm filled with remorse over Past Carlos for deciding to update this stupid beard journal every week for 52 weeks.
 
@@ -311,11 +312,11 @@ Which is why this week I will feature one legitimate reason to shave my stupid b
 >
 > "I like your beard," they said because they were being nice and the alternative was “Why the hell would you let pubes surround your mouth?” Everyone thinks your beard is dumb. They’ll never tell you. They value your feelings. I think you’re a twit. <cite><a href="http://www.brobible.com/lifestyle/style/article/legitimate-reasons-to-shave-beard/">Legitimate Reasons to Shave Your Stupid Beard</a>, BroBible</cite>
 
-####Week 23 - Too Tired
+##Week 23 - Too Tired
 
 I'm sorry, but I'm too tired to write anything this weekend. I'm growing my beard though so that should still count for something.
 
-####Week 24 - Beard 2.0
+##Week 24 - Beard 2.0
 
 For the first few months of this beard journey I would look myself in the mirror and not quite recognise the face that stared back at me.
 
@@ -325,10 +326,10 @@ And now, I can't imagine what I would look like without a beard which is going t
 
 <figure>
 	<img class="js-lazy-load" data-original="/assets/posts/2014/november/a-scary-hairy-beard-story/carlos-eriksson-beard-growing-progess-week-24.jpg" alt="The beard growth after 24 weeks.">
-	<figcaption></figcaption>
+	<figcaption>The inner woodsman emerges.</figcaption>
 </figure>
 
-###Week 25 - Summer Beard
+##Week 25 - Summer Beard
 
 My first and, really, only thought, was that, "Is my beard gonna get really hot this summer? Damn it."
 
@@ -337,3 +338,19 @@ Which wasn't something I had thought about before watching this video.
 <figure class="media-video">
 	<iframe width="560" height="315" src="https://www.youtube.com/embed/Uy5iFLIiKBM" frameborder="0" allowfullscreen></iframe>
 </figure>
+
+##Week 26 - 180 Days of Beard
+
+Drum roll please.
+
+Today is a historic day. A glorious day, one might even say. But then again, those who say that may---but probably not---have a tendency to exaggerate.
+
+Today, as I reach this of most glorious milestone, I am humbled and grateful as I gaze upon this visage of mine.
+
+6 months with the beard that I'm inclined to still refer to as, "a stupid beard". I'd like to say that time flies, but there's been weeks when I've looked at myself and thought, "Why?"
+
+The answer many times been a boring, "Well, you've made it this far."
+
+I have now officially reached the halfway mark of this beard journey and what a journey it has been so far.
+
+Just another 6 months to go then, I guess.
