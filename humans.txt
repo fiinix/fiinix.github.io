@@ -1,0 +1,23 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Carlos Eriksson -- Designer & Developer -- @fiinixdesign
+
+# THANKS
+	
+	Github
+	Jekyll
+    Benjamin Horn -- Friend -- @benjhorn
+
+# TECHNOLOGY COLOPHON
+
+    Standards:
+    HTML5, CSS3, JS, Responsive, Mobile-First
+
+    Components:
+    Jekyll, Sass, jQuery, Normalize.css
+    
+    Software:
+    Sublime Text 2,
