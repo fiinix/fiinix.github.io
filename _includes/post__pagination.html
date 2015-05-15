@@ -2,7 +2,7 @@
 	<div class="col">
 
 		<p>
-		{% if page.previous %}<a href="{{ BASE_PATH }}{{ page.previous.url }}" title="{{ page.previous.title }}" class="pagination pagination--prev"><svg class="icon"><use xlink:href="#arrow-left" /></svg> {{ page.previous.title }}</a>{% else %}<span class="is-disabled">That&rsquo;s it.</span>{% endif %}
+		{% if page.previous %}<a href="{{ BASE_PATH }}{{ page.previous.url }}" title="{{ page.previous.title }}" rel="prev" class="pagination pagination--prev"><svg class="icon"><use xlink:href="#arrow-left" /></svg> {{ page.previous.title }}</a>{% else %}<span class="is-disabled">That&rsquo;s it.</span>{% endif %}
 		</p>
 
 	</div>
@@ -14,7 +14,7 @@
 	<div class="col align-right">
 
 		<p>
-		{% if page.next %}<a href="{{ BASE_PATH }}{{ page.next.url }}" title="{{ page.next.title }}" class="pagination pagination--next">{{ page.next.title }} <svg class="icon"><use xlink:href="#arrow-right" /></svg></a>{% else %}<span class="is-disabled">To be continued…</span>{% endif %}
+		{% if page.next %}<a href="{{ BASE_PATH }}{{ page.next.url }}" title="{{ page.next.title }}" rel="next" class="pagination pagination--next">{{ page.next.title }} <svg class="icon"><use xlink:href="#arrow-right" /></svg></a>{% else %}<span class="is-disabled">To be continued…</span>{% endif %}
 		</p>
 
 	</div>
