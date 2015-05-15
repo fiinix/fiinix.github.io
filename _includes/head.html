@@ -20,4 +20,28 @@
 	<link href="https://plus.google.com/b/108140672535922205457/108140672535922205457" rel="publisher">
 	
 
+	<!-- Facebook -->
+	<meta property="og:title" content="{% if page.title %}{{ page.title }} | {{ site.title}}{% else %}{{ site.title }}{% endif %}"/>
+	<meta property="og:type" content="website" />
+	<meta property="og:url" content="http://carloseriksson.com{{ page.url }}/"/>
+	<meta property="og:image" content="http://carloseriksson.com/{% if page.facebook %}{{ page.facebook }}{% else %}assets/img/facebook-default-image.gif{% endif %}"/>
+	<meta property="og:site_name" content="Carlos Eriksson"/>
+	
+	<meta property="og:description" content="{% if page.excerpt %}{{ page.excerpt | markdownify | strip_html | trim }}{% else %}{{ site.description }}{% endif %}"/>
+
+	<meta property="fb:app_id" content="284734295023080" />
+	<!-- / Facebook -->
+
+	<!-- Twitter -->
+	<meta name="twitter:card" content="summary">
+	<meta name="twitter:url" content="http://carloseriksson.com{{ page.url }}/">
+	<meta name="twitter:title" content="{% if page.title %}{{ page.title }} | {{ site.title}}{% else %}{{ site.title }}{% endif %}"/>
+
+	<meta name="twitter:description" content="{% if page.excerpt %}{{ page.excerpt | markdownify | strip_html | trim }}{% else %}{{ site.description }}{% endif %}"/>
+
+	<meta name="twitter:image" content="http://carloseriksson.com/{% if page.twitter %}{{ page.twitter }}{% else %}assets/twitter-default-image.png{% endif %}"/>
+	<meta name="twitter:creator" content="@fiinixdesign">
+	<meta name="twitter:site" content="@fiinixdesign">
+	<!-- / Twitter -->
+
 </head>
