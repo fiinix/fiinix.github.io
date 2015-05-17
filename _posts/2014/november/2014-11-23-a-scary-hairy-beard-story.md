@@ -34,7 +34,8 @@ excerpt: In which Carlos Eriksson tries to grow a beard for a year and documents
 [Week 23](#week-23---too-tired) |
 [Week 24](#week-24---beard-20) |
 [Week 25](#week-25---summer-beard) |
-[Week 26](#week-26---180-days-of-beard)
+[Week 26](#week-26---180-days-of-beard) |
+[Week 27](#week-27---noodle-bowl)
 
 ##Week 0
 
@@ -354,3 +355,12 @@ The answer many times been a boring, "Well, you've made it this far."
 I have now officially reached the halfway mark of this beard journey and what a journey it has been so far.
 
 Just another 6 months to go then, I guess.
+
+##Week 27 - Noodle Bowl
+
+Someday, someday. And it will be glorious.
+
+<figure>
+	<img class="js-lazy-load" data-original="/assets/posts/2014/november/a-scary-hairy-beard-story/giphy.gif" alt="Using a beard as a noodle bowl.">
+	<figcaption>Noodle bowl baby.</figcaption>
+</figure>
