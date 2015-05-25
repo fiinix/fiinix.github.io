@@ -35,7 +35,8 @@ excerpt: In which Carlos Eriksson tries to grow a beard for a year and documents
 [Week 24](#week-24---beard-20) |
 [Week 25](#week-25---summer-beard) |
 [Week 26](#week-26---180-days-of-beard) |
-[Week 27](#week-27---noodle-bowl)
+[Week 27](#week-27---noodle-bowl) |
+[Week 28](#week-28---hungover-beard)
 
 ##Week 0
 
@@ -364,3 +365,11 @@ Someday, someday. And it will be glorious.
 	<img class="js-lazy-load" data-original="/assets/posts/2014/november/a-scary-hairy-beard-story/giphy.gif" alt="Using a beard as a noodle bowl.">
 	<figcaption>Noodle bowl baby.</figcaption>
 </figure>
+
+##Week 28 - Hungover Beard
+
+So yeah, being hungover isn't very fun in itself. But as it turns out, it's even worse when you have a beard.
+
+Just like whenever you eat something your beard takes a toll charge for things entering your mouth, it also takes a charge for things exiting your mouth.
+
+You probably see where this is going so I'm gonna stop here and leave the rest to your imagination.
