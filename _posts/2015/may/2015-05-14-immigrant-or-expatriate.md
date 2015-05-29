@@ -51,7 +51,7 @@ It didn't take long before we had ourselves some furniture. Second hand furnitur
 	<figcaption>We bought non matching chairs; Sanded, repainted and reupholstered them.</figcaption>
 </figure>
 
-Doing our best to adopt to our new life we tried exploring the British way of life; Getting used to continuously being asked, "You all right mate?", SOMEHITNG and eating things like Blancmange.
+Doing our best to adopt to our new life we tried exploring the British way of life; Getting used to continuously being asked, "You all right mate?", the weather shifting between raining and not to back again within the span of 30 minutes and eating things like Blancmange.
 
 <figure>
 	<img class="js-lazy-load" data-original="/assets/posts/2015/may/immigrant-or-expatriate/lucien-trying-blancmange.jpg" alt="Lucien making a face of displeasure as he tries Blancmange.">
