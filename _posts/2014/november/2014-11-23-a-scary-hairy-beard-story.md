@@ -36,7 +36,8 @@ excerpt: In which Carlos Eriksson tries to grow a beard for a year and documents
 [Week 25](#week-25---summer-beard) |
 [Week 26](#week-26---180-days-of-beard) |
 [Week 27](#week-27---noodle-bowl) |
-[Week 28](#week-28---hungover-beard)
+[Week 28](#week-28---hungover-beard) |
+[Week 29](#week-29---penance-carlos)
 
 ##Week 0
 
@@ -373,3 +374,17 @@ So yeah, being hungover isn't very fun in itself. But as it turns out, it's even
 Just like whenever you eat something your beard takes a toll charge for things entering your mouth, it also takes a charge for things exiting your mouth.
 
 You probably see where this is going so I'm gonna stop here and leave the rest to your imagination.
+
+##Week 29 - Penance Carlos
+
+I realised today that I didn't include a picture of my beard progress last Sunday, even though it was time for it.
+
+Imagine my shame and humiliation when I realised this.
+
+No, really, I want you to imagine it.
+
+Are you imagining it?
+
+Good.
+
+As penance for this oversight, I'm going to make an effort to include a picture every Sunday until Week 32, which is when the next one would be due regardless.
