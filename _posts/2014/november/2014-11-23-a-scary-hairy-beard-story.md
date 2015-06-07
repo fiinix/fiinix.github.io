@@ -37,7 +37,8 @@ excerpt: In which Carlos Eriksson tries to grow a beard for a year and documents
 [Week 26](#week-26---180-days-of-beard) |
 [Week 27](#week-27---noodle-bowl) |
 [Week 28](#week-28---hungover-beard) |
-[Week 29](#week-29---penance-carlos)
+[Week 29](#week-29---penance-carlos) |
+[Week 30](#week-30---lumbersexual)
 
 ##Week 0
 
@@ -388,3 +389,22 @@ Are you imagining it?
 Good.
 
 As penance for this oversight, I'm going to make an effort to include a picture every Sunday until Week 32, which is when the next one would be due regardless.
+
+##Week 30 - Lumbersexual
+
+I would tell you all about how much I suffered, paying my penance by dressing up for the picture below if it hadn't been for the fact that I had enjoyed it more than I probably should have.
+
+So, apparently there's this thing called, "Lumbersexual."
+
+Yeah, I'm not kidding, feel free to do an internet search using your favourite search engine of choice to verify these outrageous claims I'm making.
+
+Don't worry, I'll wait.
+
+Good, you're back. See, I told you.
+
+And now that we have that out of the way: This is my sexy lumberjack face.
+
+<figure>
+	<img class="js-lazy-load" data-original="/assets/posts/2014/november/a-scary-hairy-beard-story/carlos-eriksson-is-lumbersexual-at-30-weeks-of-beard-growth.jpg" alt="Carlos Eriksson dressed as a lumbersexual and posing next to a tree holding a faxe card board axe.">
+	<figcaption>Now there’s phrase you don’t hear especially often.</figcaption>
+</figure>
