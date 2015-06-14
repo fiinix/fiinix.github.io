@@ -38,7 +38,8 @@ excerpt: In which Carlos Eriksson tries to grow a beard for a year and documents
 [Week 27](#week-27---noodle-bowl) |
 [Week 28](#week-28---hungover-beard) |
 [Week 29](#week-29---penance-carlos) |
-[Week 30](#week-30---lumbersexual)
+[Week 30](#week-30---lumbersexual) |
+[Week 31](#week-31---elvis-beardsley)
 
 ##Week 0
 
@@ -408,3 +409,16 @@ And now that we have that out of the way: This is my sexy lumberjack face.
 	<img class="js-lazy-load" data-original="/assets/posts/2014/november/a-scary-hairy-beard-story/carlos-eriksson-is-lumbersexual-at-30-weeks-of-beard-growth.jpg" alt="Carlos Eriksson dressed as a lumbersexual and posing next to a tree holding a faxe card board axe.">
 	<figcaption>Now there’s phrase you don’t hear especially often.</figcaption>
 </figure>
+
+#Week 31 - Elvis Beardsley
+
+From sexy lumberjacks to Elvis Presley impersonations, I'm on fire this week.
+
+"Goosebumps," is the word that comes to mind, to describe my likeness to the late cultural icon more commonly known as, "The King of Rock and Roll."
+
+<figure>
+	<img class="js-lazy-load" data-original="/assets/posts/2014/november/a-scary-hairy-beard-story/carlos-eriksson-as-elvis-beardsley.gif" alt="Carlos Eriksson dresses up his beard to look like Elvis Presley by sticking adhesive wiggly eyes onto his beard.">
+	<figcaption>Let’s rock, everybody, let’s rock. Everybody in the whole cell block, was dancin’ to the Jailhouse Rock.</figcaption>
+</figure>
+
+Mr. Presley is probably turning in his grave as I use his likeness for a cheap joke.
