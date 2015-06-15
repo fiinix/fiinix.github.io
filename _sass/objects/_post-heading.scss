@@ -5,7 +5,8 @@
 
 
    ========================================================================== */
-.post-heading {
+.post-heading,
+.page-heading {
 
 	position: relative;
 
@@ -47,10 +48,23 @@
 
 }
 
+.page-content {
+
+	margin-bottom: 3em;
+
+}
+
 .post-type--professional {
 
 	color: $secondary-color;
 	border-color: $secondary-color $accent-color $accent-color $secondary-color;
+
+}
+
+.post-type--archive {
+
+	color: $luma-10;
+	border-color: $luma-10 $luma-40 $luma-40 $luma-10;
 
 }
 

@@ -17,6 +17,12 @@ layout: default
         </div>
       </div>
 
+      {% if page.category == 'archive' %}
+      <p class="disclaimer">{% include post__archived.html %}</p>
+      {% elsif page.disclaimer || page.discretion %}
+      <p class="disclaimer">{{ page.disclaimer | markdownify | strip_html | trim }}</p>
+      {% endif %}
+
       <p class="lead">{{ page.excerpt | markdownify | strip_html | trim }}</p>
 
     </header>
