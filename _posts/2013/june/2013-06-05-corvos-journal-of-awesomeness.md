@@ -9,7 +9,7 @@ excerpt: "Follow the self-proclaimed awesome adventures of Corvo as he stabs his
 ##Day 1
 People are so going to know how awesome Corvo is when I come back from my journey. I mean sure I'm already the Lord Protector and shit, but now I'm going to get all the other isles to help us with this plague problem as well. I was going to have a scribe with me to document all my heroics but the Royal Spybastard Hiram---what kind of a name is Hiram anyway?---said there was no money in the budget for that, so I'm going to have to keep my own journal of what went down. You know? For when they make an epic movie about the awesome journey that saved Dunwall from the plague. Also, it's not a diary but a journal---very important---diaries are for losers who smell like whale.
 
-> I think I'm going to have Emily read through it first as well, she thinks everything I do is the greatest thing in the world. Can't say I blame her. I'm pretty awesome. I just finished eating some bread and a tin of Pratchett's Jellied Eels and now I'm going to get ready to go.
+I think I'm going to have Emily read through it first as well, she thinks everything I do is the greatest thing in the world. Can't say I blame her. I'm pretty awesome. I just finished eating some bread and a tin of Pratchett's Jellied Eels and now I'm going to get ready to go.
 
 ##Day 2
 So seasick. Stupid Dunwall and their stupid plague. I hate boats.
