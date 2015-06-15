@@ -1,0 +1,35 @@
+/* ==========================================================================
+
+
+   Disclaimer
+
+
+   ========================================================================== */
+.disclaimer {
+
+	font-style: italic;
+	padding: 0.75em 1.5em;
+
+	background-color: $luma-10;
+	color: contrast($luma-10);
+
+	a {
+
+		color: darken($white, $deviate);
+
+
+		&:visited {
+
+			color: darken($white, $deviate*2);
+
+		}
+
+		&:hover {
+
+			color: $white;
+
+		}
+
+	}
+
+}
