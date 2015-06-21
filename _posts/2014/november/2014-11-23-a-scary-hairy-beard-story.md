@@ -411,7 +411,7 @@ And now that we have that out of the way: This is my sexy lumberjack face.
 	<figcaption>Now there’s phrase you don’t hear especially often.</figcaption>
 </figure>
 
-#Week 31 - Elvis Beardsley
+##Week 31 - Elvis Beardsley
 
 From sexy lumberjacks to Elvis Presley impersonations, I'm on fire this week.
 
