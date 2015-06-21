@@ -39,7 +39,8 @@ excerpt: In which Carlos Eriksson tries to grow a beard for a year and documents
 [Week 28](#week-28---hungover-beard) |
 [Week 29](#week-29---penance-carlos) |
 [Week 30](#week-30---lumbersexual) |
-[Week 31](#week-31---elvis-beardsley)
+[Week 31](#week-31---elvis-beardsley) |
+[Week 32](#week-32---midsummer-beard)
 
 ##Week 0
 
@@ -422,3 +423,14 @@ From sexy lumberjacks to Elvis Presley impersonations, I'm on fire this week.
 </figure>
 
 Mr. Presley is probably turning in his grave as I use his likeness for a cheap joke.
+
+##Week 32 - Midsummer Beard
+
+This weekend we celebrated Midsummer---the pagan celebration of summer solstice---and what better picture to epitomize this holiday than this one.
+
+As the expression goes in Swedish, <i lang="sv">Glad midsommar</i>.
+
+<figure>
+	<img class="js-lazy-load" data-original="/assets/posts/2014/november/a-scary-hairy-beard-story/carlos-eriksson-beard-growing-progess-week-32.jpg" alt="The beard growth after 32 weeks.">
+	<figcaption><i lang="sv">Små grodorna, små grodorna är lustiga att se...</i></figcaption>
+</figure>
