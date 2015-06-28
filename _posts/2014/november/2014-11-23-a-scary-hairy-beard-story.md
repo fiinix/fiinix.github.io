@@ -40,7 +40,8 @@ excerpt: In which Carlos Eriksson tries to grow a beard for a year and documents
 [Week 29](#week-29---penance-carlos) |
 [Week 30](#week-30---lumbersexual) |
 [Week 31](#week-31---elvis-beardsley) |
-[Week 32](#week-32---midsummer-beard)
+[Week 32](#week-32---midsummer-beard) |
+[Week 33](#week-33---what-a-guys-facial-hair-means)
 
 ##Week 0
 
@@ -434,3 +435,21 @@ As the expression goes in Swedish, <i lang="sv">Glad midsommar</i>.
 	<img class="js-lazy-load" data-original="/assets/posts/2014/november/a-scary-hairy-beard-story/carlos-eriksson-beard-growing-progess-week-32.jpg" alt="The beard growth after 32 weeks.">
 	<figcaption><i lang="sv">Små grodorna, små grodorna är lustiga att se...</i></figcaption>
 </figure>
+
+##Week 33 - What A Guys Facial Hair Means
+
+As we all know, just like you can tell a lot about a guy from his feet size---yeah, that's a penis joke---you can tell just as much from a guy's beard---like his penis size.
+
+I'm joking, I'm joking.
+
+Of course I'm joking---everyone knows you determine someone's penis size if his index finger is longer than his ring finger.
+
+*Ba dum tss!*
+
+But getting back to guys and their beards---who better to present us with all the different things facial hair means than the always hilarious Jenna Marbles.
+
+<figure class="media-video">
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/GwFg3l29RgM" frameborder="0" allowfullscreen></iframe>
+</figure>
+
+*I made up the finger-to-penis correlation by the way, there's no scientific explanation behind it.*
