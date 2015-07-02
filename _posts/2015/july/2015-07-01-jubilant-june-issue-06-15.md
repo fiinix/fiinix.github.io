@@ -97,7 +97,7 @@ At least that was the idea.
 
 <figure>
 	<img class="js-lazy-load" data-original="/assets/posts/2015/july/jubilant-june-issue-06-15/batman-arkham-knight-at-640x480.jpg" alt="A screen capture of how I tried to Batman: Arkham Knight">
-	<figcaption>I am not bat-asumed.</figcaption>
+	<figcaption>I am not bat-amused.</figcaption>
 </figure>
 
 But it turns out that Rocksteady Studios had a different plan when they neglected to port the <abbr title="personal computer">PC</abbr> version properly, instead relying on Iron Galaxy Studios to do it for them.
