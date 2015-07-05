@@ -41,7 +41,8 @@ excerpt: In which Carlos Eriksson tries to grow a beard for a year and documents
 [Week 30](#week-30---lumbersexual) |
 [Week 31](#week-31---elvis-beardsley) |
 [Week 32](#week-32---midsummer-beard) |
-[Week 33](#week-33---what-a-guys-facial-hair-means)
+[Week 33](#week-33---what-a-guys-facial-hair-means) |
+[Week 34](#week-34---if-beards-were-babies)
 
 ##Week 0
 
@@ -453,3 +454,11 @@ But getting back to guys and their beards---who better to present us with all th
 </figure>
 
 *I made up the finger-to-penis correlation by the way, there's no scientific explanation behind it.*
+
+##Week 34 - If Beards Were Babies
+
+"Can I touch it?" he said with a cautious face.
+
+<figure class="media-video">
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/6TRn5myP4YU" frameborder="0" allowfullscreen></iframe>
+</figure>
