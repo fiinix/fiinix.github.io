@@ -42,7 +42,8 @@ excerpt: In which Carlos Eriksson tries to grow a beard for a year and documents
 [Week 31](#week-31---elvis-beardsley) |
 [Week 32](#week-32---midsummer-beard) |
 [Week 33](#week-33---what-a-guys-facial-hair-means) |
-[Week 34](#week-34---if-beards-were-babies)
+[Week 34](#week-34---if-beards-were-babies) |
+[Week 35](#week-35---penis-beard)
 
 ##Week 0
 
@@ -462,3 +463,13 @@ But getting back to guys and their beards---who better to present us with all th
 <figure class="media-video">
 	<iframe width="560" height="315" src="https://www.youtube.com/embed/6TRn5myP4YU" frameborder="0" allowfullscreen></iframe>
 </figure>
+
+##Week 35 - Penis beard
+
+Did you know?
+
+Some people say that beards are like pubic hair for your face.
+
+Well, they're wrong.
+
+Pubes are like beards for your penis.
