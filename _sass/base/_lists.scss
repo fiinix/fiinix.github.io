@@ -5,7 +5,11 @@
 
 
    ========================================================================== */
+ol,ul,dl {
 
+	color: $black;
+
+}
 
 
 .inline-list {
@@ -17,6 +21,23 @@
 	li {
 
 		display: inline-block;
+		margin-top: 0;
+
+	}
+
+}
+
+
+
+.clean-list {
+
+	list-style-type: none;
+
+	padding-left: 0;
+	margin-bottom: 0;
+
+	li {
+
 		margin-top: 0;
 
 	}
