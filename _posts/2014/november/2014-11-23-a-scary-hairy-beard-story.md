@@ -43,7 +43,8 @@ excerpt: In which Carlos Eriksson tries to grow a beard for a year and documents
 [Week 32](#week-32---midsummer-beard) |
 [Week 33](#week-33---what-a-guys-facial-hair-means) |
 [Week 34](#week-34---if-beards-were-babies) |
-[Week 35](#week-35---penis-beard)
+[Week 35](#week-35---penis-beard) |
+[Week 36](#week-36---queen-charlamaine-e)
 
 ##Week 0
 
@@ -473,3 +474,25 @@ Some people say that beards are like pubic hair for your face.
 Well, they're wrong.
 
 Pubes are like beards for your penis.
+
+##Week 36 - Queen Charlamaine E
+
+Ever wondered what you might look like in different kinds of makeup?
+
+Yeah, me too.
+
+Now, thanks to the wonders of technology and specifically an app called YouCam Makeup you can.
+
+Amazing, isn't it?!
+
+Yeah, I thought so too.
+
+<figure>
+	<img class="js-lazy-load" data-original="/assets/posts/2014/november/a-scary-hairy-beard-story/carlos-eriksson-beard-growing-progess-week-36.jpg" alt="The beard growth after 36 weeks.">
+	<figcaption>You can call me, “Queen Charlamaine E.”</figcaption>
+</figure>
+
+Well, one thing is for certain, if I was a drag queen I would be;
+
+1. Spectacular
+2. Rather be caught dead before looking like the picture above. I'd like to think I have a better sense of style.
