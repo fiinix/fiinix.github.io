@@ -44,7 +44,8 @@ excerpt: In which Carlos Eriksson tries to grow a beard for a year and documents
 [Week 33](#week-33---what-a-guys-facial-hair-means) |
 [Week 34](#week-34---if-beards-were-babies) |
 [Week 35](#week-35---penis-beard) |
-[Week 36](#week-36---queen-charlamaine-e)
+[Week 36](#week-36---queen-charlamaine-e) |
+[Week 37](#week-37---15-weeks-to-go)
 
 ##Week 0
 
@@ -496,3 +497,11 @@ Well, one thing is for certain, if I was a drag queen I would be;
 
 1. Spectacular
 2. Rather be caught dead before looking like the picture above. I'd like to think I have a better sense of style.
+
+##Week 37 - 15 Weeks To Go
+
+With only 15 weeks to go now, I'm beginning to see the end of this journey of mine. A part of me now begins to questions whether I should shave off the beard or keep it once I'm done.
+
+The answer of course is that I don't know but hopefully by November I will.
+
+After 37 weeks though, I can confidently say that I have almost no side burn growth. Which is super-annoying.
