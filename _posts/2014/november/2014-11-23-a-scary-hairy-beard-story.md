@@ -45,7 +45,8 @@ excerpt: In which Carlos Eriksson tries to grow a beard for a year and documents
 [Week 34](#week-34---if-beards-were-babies) |
 [Week 35](#week-35---penis-beard) |
 [Week 36](#week-36---queen-charlamaine-e) |
-[Week 37](#week-37---15-weeks-to-go)
+[Week 37](#week-37---15-weeks-to-go) |
+[Week 38](#week-38---badass-movie-mustaches-and-beards)
 
 ##Week 0
 
@@ -505,3 +506,13 @@ With only 15 weeks to go now, I'm beginning to see the end of this journey of mi
 The answer of course is that I don't know but hopefully by November I will.
 
 After 37 weeks though, I can confidently say that I have almost no side burn growth. Which is super-annoying.
+
+##Week 38 - Badass Movie Mustaches and Beards
+
+My mom's here and I don't have as much time to write about my glorious beard.
+
+Here's some badass mustaches and beards that sadly aren't mine.
+
+<figure class="media-video">
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/cX-pboB2KtA" frameborder="0" allowfullscreen></iframe>
+</figure>
