@@ -46,7 +46,8 @@ excerpt: In which Carlos Eriksson tries to grow a beard for a year and documents
 [Week 35](#week-35---penis-beard) |
 [Week 36](#week-36---queen-charlamaine-e) |
 [Week 37](#week-37---15-weeks-to-go) |
-[Week 38](#week-38---badass-movie-mustaches-and-beards)
+[Week 38](#week-38---badass-movie-mustaches-and-beards) |
+[Week 39](#week-39---fantasies)
 
 ##Week 0
 
@@ -516,3 +517,11 @@ Here's some badass mustaches and beards that sadly aren't mine.
 <figure class="media-video">
 	<iframe width="560" height="315" src="https://www.youtube.com/embed/cX-pboB2KtA" frameborder="0" allowfullscreen></iframe>
 </figure>
+
+##Week 39 - Fantasies
+
+This week has been the first in quite a while where I've walked around and fantasized about shaving my beard. The end is nigh and the great shave awaits.
+
+When I do finally shave I thought I might live-stream it with [Periscope][periscope], because I thought it could be interesting to watch as I go through the various stages of shaving funny mustaches on myself, like a Hitler-mustache.
+
+[periscope]: https://www.periscope.tv/
