@@ -17,3 +17,13 @@
 	margin-top: 1.5em;
 
 }
+
+.post-content,
+.post-preview {
+
+	 * + * {
+
+		margin-top: 0.75em;
+		
+	}
+}
