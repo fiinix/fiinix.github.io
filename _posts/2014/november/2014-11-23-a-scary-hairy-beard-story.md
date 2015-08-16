@@ -47,7 +47,8 @@ excerpt: In which Carlos Eriksson tries to grow a beard for a year and documents
 [Week 36](#week-36---queen-charlamaine-e) |
 [Week 37](#week-37---15-weeks-to-go) |
 [Week 38](#week-38---badass-movie-mustaches-and-beards) |
-[Week 39](#week-39---fantasies)
+[Week 39](#week-39---fantasies) |
+[Week 40](#week-40---carlos-noblemans-beard-wash)
 
 ##Week 0
 
@@ -525,3 +526,14 @@ This week has been the first in quite a while where I've walked around and fanta
 When I do finally shave I thought I might live-stream it with [Periscope][periscope], because I thought it could be interesting to watch as I go through the various stages of shaving funny mustaches on myself, like a Hitler-mustache.
 
 [periscope]: https://www.periscope.tv/
+
+##Week 40 - Carlos Nobleman's Beard Wash
+
+Another 4 weeks have gone by since I last posted a photo of massively masculine beard-growth so it's---you guessed it---time for another photo.
+
+After this one, there's only going to be 2 more photos before the final Week 52 image---which hopefully be a time-lapse.
+
+<figure>
+	<img class="js-lazy-load" data-original="/assets/posts/2014/november/a-scary-hairy-beard-story/carlos-eriksson-beard-growing-progess-week-40.jpg" alt="The beard growth after 40 weeks.">
+	<figcaption>I know, my beard is pretty awesome.</figcaption>
+</figure>
