@@ -48,7 +48,8 @@ excerpt: In which Carlos Eriksson tries to grow a beard for a year and documents
 [Week 37](#week-37---15-weeks-to-go) |
 [Week 38](#week-38---badass-movie-mustaches-and-beards) |
 [Week 39](#week-39---fantasies) |
-[Week 40](#week-40---carlos-noblemans-beard-wash)
+[Week 40](#week-40---carlos-noblemans-beard-wash) |
+[Week 41](#week-41---itchy-bitchy-hairy-scary)
 
 ##Week 0
 
@@ -531,9 +532,23 @@ When I do finally shave I thought I might live-stream it with [Periscope][perisc
 
 Another 4 weeks have gone by since I last posted a photo of massively masculine beard-growth so it's---you guessed it---time for another photo.
 
-After this one, there's only going to be 2 more photos before the final Week 52 image---which hopefully be a time-lapse.
+After this one, there's only going to be 2 more photos before the final Week 52 image---which will hopefully be a time-lapse.
 
 <figure>
 	<img class="js-lazy-load" data-original="/assets/posts/2014/november/a-scary-hairy-beard-story/carlos-eriksson-beard-growing-progess-week-40.jpg" alt="The beard growth after 40 weeks.">
 	<figcaption>I know, my beard is pretty awesome.</figcaption>
 </figure>
+
+##Week 41 - Itchy Bitchy Hairy Scary
+
+Beard dandruff.
+
+It's a real---first world---problem that I'm forced to face more often than I'd like to.
+
+So as my beard has grown, so has my skin problems and let me tell you, it's pretty fucking annoying.
+
+I have a shampoo that's meant to be gentle on the beard, and a comb to brush it with. I try not to scratch it but it's so itchy.
+
+I should probably moisturise my skin as well but I'm not really sure what kind of moisturiser I should have. As I'm sure you can imagine, this is a new territory for me.
+
+And whilst I'm quickly approaching the end of this beard journey I would like my skin underneath to look maintained afterwards.
