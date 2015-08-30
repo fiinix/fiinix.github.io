@@ -49,7 +49,8 @@ excerpt: In which Carlos Eriksson tries to grow a beard for a year and documents
 [Week 38](#week-38---badass-movie-mustaches-and-beards) |
 [Week 39](#week-39---fantasies) |
 [Week 40](#week-40---carlos-noblemans-beard-wash) |
-[Week 41](#week-41---itchy-bitchy-hairy-scary)
+[Week 41](#week-41---itchy-bitchy-hairy-scary) |
+[Week 42](#week-42---10)
 
 ##Week 0
 
@@ -552,3 +553,21 @@ I have a shampoo that's meant to be gentle on the beard, and a comb to brush it 
 I should probably moisturise my skin as well but I'm not really sure what kind of moisturiser I should have. As I'm sure you can imagine, this is a new territory for me.
 
 And whilst I'm quickly approaching the end of this beard journey I would like my skin underneath to look maintained afterwards.
+
+##Week 42 - 10
+
+The official countdown begins now.
+
+With only 10 weeks to go I'm trying to imagine myself without a beard but it's quite difficult, that's how used to it I've gotten.
+
+But, mark my words, the razor blade will come out and the beard is going. And so is the hair.
+
+The hair is going first, because I want to see what I look like with short hair and a beard.
+
+But as part of my shaving process, I really want to try out different beard and moustache styles. And instead of just shaving different styles in one go I want to try them out a little more.
+
+So I plan on spending the last month progressively making my beard smaller by shaving it into different styles, ending it all with a clean shave.
+
+To make it fun for you, yes you, I figured I would post all of the different styles as I try them out which means there's going to be more than just the 2 remaining photos I had originally envisioned.
+s
+I'm still making a time-lapse for week 52 because who doesn't like a time-lapse?
