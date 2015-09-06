@@ -582,3 +582,11 @@ Yesterday was World Beard Day, who knew?
 I, curiously, did most definitely *not* know. If I had known, I might have posted a picture of myself and my beard.
 
 Instead I'm sitting here, deciding between a Van Dyke or a Fu Manchu.
+
+*EDIT* I decided this wasn't enough, so here a video where "Woman Say What They Secretly Thing About Beards."
+
+Enjoy.
+
+<figure class="media-video">
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/JqFUI4d0Veo" frameborder="0" allowfullscreen></iframe>
+<figure>
