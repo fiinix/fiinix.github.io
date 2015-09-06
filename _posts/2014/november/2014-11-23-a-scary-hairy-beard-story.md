@@ -50,7 +50,8 @@ excerpt: In which Carlos Eriksson tries to grow a beard for a year and documents
 [Week 39](#week-39---fantasies) |
 [Week 40](#week-40---carlos-noblemans-beard-wash) |
 [Week 41](#week-41---itchy-bitchy-hairy-scary) |
-[Week 42](#week-42---10)
+[Week 42](#week-42---10) |
+[Week 43](#week-43---9)
 
 ##Week 0
 
@@ -569,5 +570,15 @@ But as part of my shaving process, I really want to try out different beard and 
 So I plan on spending the last month progressively making my beard smaller by shaving it into different styles, ending it all with a clean shave.
 
 To make it fun for you, yes you, I figured I would post all of the different styles as I try them out which means there's going to be more than just the 2 remaining photos I had originally envisioned.
-s
+
 I'm still making a time-lapse for week 52 because who doesn't like a time-lapse?
+
+##Week 43 - 9
+
+The countdown continues.
+
+Yesterday was World Beard Day, who knew?
+
+I, curiously, did most definitely *not* know. If I had known, I might have posted a picture of myself and my beard.
+
+Instead I'm sitting here, deciding between a Van Dyke or a Fu Manchu.
