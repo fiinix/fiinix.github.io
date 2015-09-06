@@ -583,7 +583,9 @@ I, curiously, did most definitely *not* know. If I had known, I might have poste
 
 Instead I'm sitting here, deciding between a Van Dyke or a Fu Manchu.
 
-*EDIT* I decided this wasn't enough, so here a video where "Woman Say What They Secretly Thing About Beards."
+**EDIT**
+
+I decided this wasn't enough, so here a video where "Woman Say What They Secretly Thing About Beards."
 
 Enjoy.
 
