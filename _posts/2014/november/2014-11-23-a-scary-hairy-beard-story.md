@@ -51,7 +51,8 @@ excerpt: In which Carlos Eriksson tries to grow a beard for a year and documents
 [Week 40](#week-40---carlos-noblemans-beard-wash) |
 [Week 41](#week-41---itchy-bitchy-hairy-scary) |
 [Week 42](#week-42---10) |
-[Week 43](#week-43---9)
+[Week 43](#week-43---9) |
+[Week 44](#week-44---8)
 
 ##Week 0
 
@@ -592,3 +593,14 @@ Enjoy.
 <figure class="media-video">
 	<iframe width="560" height="315" src="https://www.youtube.com/embed/JqFUI4d0Veo" frameborder="0" allowfullscreen></iframe>
 <figure>
+
+##Week 44 - 8
+
+After a long weekend of camping in the woods and doing a talk on the cost of ignoring accessibility I'm ridiculously tired. Or, "knackered," as they English might say.
+
+But nonetheless, the countdown continues and with only 8 more weeks to go this is getting---at least for me---as exciting as it was when I first started this beard growing journey.
+
+<figure>
+	<img class="js-lazy-load" data-original="/assets/posts/2014/november/a-scary-hairy-beard-story/carlos-eriksson-beard-growing-progess-week-44.jpg" alt="The beard growth after 44 weeks.">
+	<figcaption>I’m ridiculously tired.</figcaption>
+</figure>
