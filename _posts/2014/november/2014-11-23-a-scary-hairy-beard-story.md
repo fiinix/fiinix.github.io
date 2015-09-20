@@ -52,7 +52,8 @@ excerpt: In which Carlos Eriksson tries to grow a beard for a year and documents
 [Week 41](#week-41---itchy-bitchy-hairy-scary) |
 [Week 42](#week-42---10) |
 [Week 43](#week-43---9) |
-[Week 44](#week-44---8)
+[Week 44](#week-44---8) |
+[Week 45](#week-45---7)
 
 ##Week 0
 
@@ -604,3 +605,17 @@ But nonetheless, the countdown continues and with only 8 more weeks to go this i
 	<img class="js-lazy-load" data-original="/assets/posts/2014/november/a-scary-hairy-beard-story/carlos-eriksson-beard-growing-progess-week-44.jpg" alt="The beard growth after 44 weeks.">
 	<figcaption>I’m ridiculously tired.</figcaption>
 </figure>
+
+##Week 45 - 7
+
+Looking back at the people who have commented on my beard I'm left with a very simple conclusion; Not nearly as many women---as one might think---actually like beards.
+
+Now, you could argue that I should have known this going into this endeavour but I never imagined I would receive as many compliments as I have... from men.
+
+I can't actually remember a single woman, including my wife, stopping just to tell me what an awesome beard I have. But again, plenty of men did.
+
+And don't get me wrong, I've appreciated every single compliment and it's not like this is a cry for more. I just find it fascinating that all the positive attention has been from men.
+
+One woman even said, as she saw my beard for the first time, "What happened to your face?"
+
+Good times.
