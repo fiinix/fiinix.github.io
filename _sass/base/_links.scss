@@ -10,24 +10,34 @@
 
 a {
 
-	color: $primary-color;
 	position: relative;
 	text-decoration: none;
 
 	outline: 0.25em solid transparent;
 	outline-offset: 1em;
 
+	border-bottom: 0.09em solid;
+
 	@include transition;
+
+	&:link {
+
+		color: $primary-color;
+		color: $luma-10;
+
+	}
 
 	&:visited {
 
-		color: darken($primary-color, $deviate);
+		// color: darken($primary-color, $deviate);
+		color: $black;
 
 	}
 
 	&:hover {
-
+		
 		color: lighten($primary-color, $deviate);
+		color: $luma-20;
 
 	}
 
