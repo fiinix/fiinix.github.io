@@ -248,6 +248,20 @@
 (function(G,o,O,g,l){G.GoogleAnalyticsObject=O;G[O]||(G[O]=function(){(G[O].q=G[O].q||[]).push(arguments)});G[O].l=+new Date;g=o.createElement('script'),l=o.scripts[0];g.src='//www.google-analytics.com/analytics.js';l.parentNode.insertBefore(g,l)}(this,document,'ga'));ga('create','UA-37451007-1');ga('send','pageview')
 
 /*
+ * Hotjar
+ *
+ */
+(function(h,o,t,j,a,r){
+    h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+    h._hjSettings={hjid:79075,hjsv:5};
+    a=o.getElementsByTagName('head')[0];
+    r=o.createElement('script');r.async=1;
+    r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+    a.appendChild(r);
+})(window,document,'//static.hotjar.com/c/hotjar-','.js?sv=');
+
+
+/*
  * Initialize
  *
  */
@@ -271,8 +285,24 @@ $(function() {
     var disqusLoaded = false;
     var disqusToggler = $('.js-request-disqus');
 
+    var header = $('.js-header');
+
     // Does it Dijon?
     html.removeClass('no-js').addClass('js');
+
+
+    //Trianglify
+    // var pattern = Trianglify({
+    //     seed: 12,
+    //     width: 1920, 
+    //     height: 180,
+    //     x_colors: palette
+    // });
+    // document.body.appendChild(pattern.svg())
+    // var element = document.getElementById("test");
+    // console.log(header);
+    // header.append(pattern.canvas());
+
 
     //Lazy load images
     lazyImages.lazyload({
@@ -287,7 +317,6 @@ $(function() {
     });
 
     //Disqus loader
-
     function loadDisqus() {
         if(! disqusLoaded) {
             disqusToggler.addClass('is-disabled');
