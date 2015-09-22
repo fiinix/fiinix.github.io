@@ -10,7 +10,7 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 	font-weight: $heading-weight;
 	font-family: $heading-family;
 
-	color: inherit;
+	color: $black;
 
 }
 
@@ -113,7 +113,7 @@ h6, .h6,
 	position: relative;
 
 	padding-top: 1.5em;
-	border-top: 0.1111em solid $luma-90;
+	border-top: 0.1111em solid $luma-80;
 
 	&:before {
 
@@ -127,8 +127,14 @@ h6, .h6,
 		top: -0.1111em;
 		left: 0;
 
-		background-color: $luma-60;
+		background-color: $luma-50;
 
 	}
+
+}
+
+.archive-subheading {
+
+	margin-top: 1.5em;
 
 }
