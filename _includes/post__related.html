@@ -1,7 +1,7 @@
 {% for post in site.posts %}
 
 {% if forloop.last == true and anyTagFound == 1 %}
-<h3 class="subheading" id="related-posts">Want more like this entry?</h3>
+<h3 class="h4 subheading" id="related-posts">Want more like this entry?</h3>
 {{ returnTags }}
 {% else %}
 
@@ -22,7 +22,7 @@
 
     {% assign anyTagFound = 1 %}
 
-      {% capture linkmarkup %} <h4 class="related-post"><a href="{{ post.url }}">{{ post.title  | markdownify | strip_html | trim }}</a></h4> {% endcapture %}
+      {% capture linkmarkup %} <h4 class="h5 related-post"><a href="{{ post.url }}">{{ post.title  | markdownify | strip_html | trim }}</a></h4> {% endcapture %}
       {% assign returnTags = returnTags | append: linkmarkup %}
 
     {% endif %}
