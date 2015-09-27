@@ -53,7 +53,8 @@ excerpt: In which Carlos Eriksson tries to grow a beard for a year and documents
 [Week 42](#week-42---10) |
 [Week 43](#week-43---9) |
 [Week 44](#week-44---8) |
-[Week 45](#week-45---7)
+[Week 45](#week-45---7) |
+[Week 46](#week-46---good-times-goodbye-hair)
 
 ##Week 0
 
@@ -619,3 +620,14 @@ And don't get me wrong, I've appreciated every single compliment and it's not li
 One woman even said, as she saw my beard for the first time, "What happened to your face?"
 
 Good times.
+
+##Week 46 - Good Times, Goodbye Hair
+
+As some of you might have already seen previews in my instagram photos, the hair was the first thing to go.
+
+After that, it was the sideburns---almost non-existent anyway.
+
+<figure>
+	<img class="js-lazy-load" data-original="/assets/posts/2014/november/a-scary-hairy-beard-story/carlos-eriksson-beard-growing-progess-week-46.jpg" alt="The beard growth after 46 weeks.">
+	<figcaption>Oh God, what have I done?</figcaption>
+</figure>
