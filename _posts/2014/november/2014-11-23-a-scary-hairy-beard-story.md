@@ -55,7 +55,8 @@ excerpt: In which Carlos Eriksson tries to grow a beard for a year and documents
 [Week 44](#week-44---8) |
 [Week 45](#week-45---7) |
 [Week 46](#week-46---good-times-goodbye-hair) |
-[Week 47](#week-47---bzzz)
+[Week 47](#week-47---bzzz) |
+[Week 48](#week-48---close-enough)
 
 ##Week 0
 
@@ -642,4 +643,17 @@ This week I'm going for a Van Dyke with connected moustache.
 <figure>
 	<img class="js-lazy-load" data-original="/assets/posts/2014/november/a-scary-hairy-beard-story/carlos-eriksson-beard-growing-progess-week-47.jpg" alt="The beard growth after 47 weeks.">
 	<figcaption>Well, that’s not so bad.</figcaption>
+</figure>
+
+##Week 48 - Close Enough
+
+The took out the scissor and the trimmer and in my mind I was going for a Chin Puff with disconnected Handlebar.
+
+But after looking at it for a solid minute or two I realised that what I actually have is a Chin Puff with a short Fu Manchu.
+
+Close enough.
+
+<figure>
+	<img class="js-lazy-load" data-original="/assets/posts/2014/november/a-scary-hairy-beard-story/carlos-eriksson-beard-growing-progess-week-48.jpg" alt="The beard growth after 48 weeks.">
+	<figcaption>Great Scott what I have done to my face?</figcaption>
 </figure>
