@@ -15,22 +15,24 @@
 	<body>
 
 		<!-- SVG -->
-		{% include icons.svg %}
+		<!-- {% include icons.svg %} -->
 		<!-- / SVG -->
 
-		{% include nav.html %}
+		{% include branding.html %}
 
 		<!-- Wrapper -->
 		<div class="wrapper" id="top">
 
+		{% include nav.html %}
 		{% include header.html %}
 
 			{{ content }}
 
 		{% include footer.html %}
 
-	</div>
-	<!-- /Wrapper -->
-	{% include scripts.html %}
+		</div>
+		<!-- /Wrapper -->
+
+		{% include scripts.html %}
 		</body>
 </html>

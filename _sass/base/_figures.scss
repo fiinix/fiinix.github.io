@@ -12,21 +12,47 @@ figure {
 	margin-top: 4.5em;
 	margin-bottom: 4.5em;
 
-	margin-left: -1em;
-	margin-right: -1em;
+	margin-left: -5.5555vw;
+	margin-right: -11.1111vw;
 
 	position: relative;
 
 	@include mq($breakpoint-lap) {
 
-		margin-left: -4.5em;
+		// margin-left: -4.5em;
+		// margin-right: -4.5em;
+
+		margin-left: -11.1111vw;
 		margin-right: -4.5em;
+
+		// margin-left: -4.5em;
+		// margin-right: -4.5em;
+
+		// margin-left: 0;
+		// margin-right: -16em;
 
 	};
 
 }
 
-figure img { width: 100%; }
+figure img {
+
+	display: inline-block;
+	width: 100%;
+
+	&:not(:only-of-type) {
+		
+		width: calc(50% - 0.5em);
+
+	}
+
+	&:nth-child(2) {
+		
+		margin-left: 1em;
+
+	}
+
+}
 
 figure iframe,
 figure embed {
@@ -42,22 +68,28 @@ figure embed {
 
 figcaption {
 
-	margin-left: (1 / 0.74) +em;
-	margin-right: (1 / 0.74) +em;
+	// margin-left: (1 / 0.74) +em;
+	margin-left: 5.5555vw;
+	margin-right: 11.1111vw;
+
 	margin-top: (1.5 / 0.74) +em;
 
 	// max-width: 32em;
 
 	// text-transform: uppercase;
+	font-family: $font-family;
 	font-size: 0.74em;
+	line-height: 2.16;
 	
 	font-style: italic;
 	color: $luma-20;
 
 	@include mq($breakpoint-lap) {
 
-		margin-left: (4.5 / 0.74) +em;
+		// margin-left: (4.5 / 0.74) +em;
+		margin-left: 11.1111vw;
 		margin-right: (4.5 / 0.74) +em;
+		// margin-right: (4.5 / 0.74) +em;
 
 	};
 

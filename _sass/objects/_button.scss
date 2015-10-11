@@ -1,0 +1,69 @@
+/* ==========================================================================
+
+
+   Button
+
+
+   ========================================================================== */
+
+
+.button {
+
+	display: inline-block;
+
+	background-color: $luma-50;
+	padding: 1em 2em;
+
+	border-radius: .25em;
+
+}
+
+
+
+.button--primary {
+
+	background-color: $primary-color;
+	color: contrast($primary-color);
+
+	&:visited {
+
+		background-color: $primary-color;
+		color: contrast($primary-color);
+
+	}
+
+	&:hover,
+	&:focus,
+	&:active {
+
+		background-color: lighten($primary-color, $deviate);
+		color: contrast(lighten($primary-color, $deviate));
+
+	}
+
+}
+
+
+
+.button--secondary {
+
+	background-color: $tertiary-color;
+	color: contrast($tertiary-color);
+
+	&:visited {
+
+		background-color: $tertiary-color;
+		color: contrast($tertiary-color);
+
+	}
+
+	&:hover,
+	&:focus,
+	&:active {
+
+		background-color: lighten($tertiary-color, $deviate);
+		color: contrast(lighten($tertiary-color, $deviate));
+
+	}
+
+}

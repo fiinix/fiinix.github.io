@@ -44,4 +44,24 @@
 	<meta name="twitter:site" content="@fiinixdesign">
 	<!-- / Twitter -->
 
+	<!-- Trianglify colors -->
+	<script>
+
+	var seedTitle = "{{ page.title }}";
+
+	{% if page.color and page.color2 %}
+	var palette = ['{{ page.color }}', '{{ page.color2 }}'];
+	{% elsif page.color %}
+	var palette = ['{{ page.color }}', 'black'];
+	{% elsif page.category == 'professional' %}
+	var palette = ['#cd0e3e', '#efad1f','#37d795', '#1c8d5e'];
+	{% elsif page.category == 'archive' %}
+	var palette = ['#898989', 'black'];
+	{% else %}
+	var palette = ['#cd0e3e', '#37d795'];
+	{% endif %}
+
+	</script>
+	<!-- / Trianglify colors -->
+
 </head>

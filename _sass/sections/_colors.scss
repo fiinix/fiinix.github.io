@@ -1,0 +1,127 @@
+/* ==========================================================================
+
+
+   Branding colors
+
+
+   ========================================================================== */
+
+
+.colors {
+
+	width: 100%;
+
+	display: flex;
+	flex-direction: column;
+
+	margin: 0;
+
+	&--personal {
+
+		.color {
+
+			&--primary { background-color: $primary-color; }
+			&--secondary { background-color: $crimson-light; }
+			&--tertiary { background-color: $white; }
+			&--accent { background-color: $secondary-color; }
+
+		}
+
+	}
+
+	&--professional {
+
+		// flex-direction: column-reverse;
+
+		.color {
+
+			&--primary { background-color: $tertiary-color; }
+			&--secondary { background-color: $secondary-color; }
+			&--tertiary { background-color: $white; }
+			&--accent { background-color: $primary-color; }
+
+		}
+
+	}
+
+	@include mq($breakpoint-lap) {
+
+		position: absolute;
+		top: 0;
+		right: 0;
+
+		width: auto;
+		height: 100%;
+
+		flex-direction: row-reverse;
+
+		&--professional {
+
+			// flex-direction: row;
+
+		}
+
+	};
+
+}
+
+.color {
+
+	width: 100%;
+	height: 1em;
+
+	margin: 0;
+
+	&--primary {
+
+		height: 1em;
+
+		@include mq($breakpoint-lap) {
+
+				width: 2em;
+				height: 100%;
+
+		};
+
+	}
+
+	&--secondary {
+
+		height: 0.5em;
+
+		@include mq($breakpoint-lap) {
+
+				width: 1em;
+				height: 100%;
+
+		};
+
+	}
+
+	&--tertiary {
+
+		height: 0.2em;
+
+		@include mq($breakpoint-lap) {
+
+				width: 0.5em;
+				height: 100%;
+
+		};
+
+	}
+
+	&--accent {
+
+		height: 0.2em;
+
+		@include mq($breakpoint-lap) {
+
+				width: 0.5em;
+				height: 100%;
+
+		};
+
+	}
+
+}

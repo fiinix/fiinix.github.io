@@ -25,13 +25,17 @@
 @import "base/elements";
 @import "base/links";
 @import "base/lists";
+@import "base/tables";
 @import "base/svg";
 
 @import "sections/header";
+@import "sections/navigation";
+@import "sections/colors";
 @import "sections/columns";
 @import "sections/footer";
 
 @import "objects/logo";
+@import "objects/button";
 @import "objects/font-face";
 @import "objects/post-heading";
 @import "objects/disclaimer";

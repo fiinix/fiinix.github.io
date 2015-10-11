@@ -10,36 +10,31 @@
 
 	position: relative;
 
-	margin-top: 1em;
+	margin-top: 0;
 	margin-bottom: 1em;
-	
-	transform: skew(0deg, -7deg);
 
 	color: $primary-color;
 
-	&:before {
-	
-		content: attr(data-heading-overlay);
-		width: 100%;
-		position: absolute;
-		top: -4px;
-		left: -4px;
+	span {
 
+		// font-size: 2em;
+		// background-color: #4c9cd0;
+		background-color: $primary-color;
 		color: $white;
-		text-shadow:	1px 1px 0 $black,
-						1px -1px 0 $black,
-						-1px 1px $black,
-						-1px -1px $black,
+		display: inline;
+		padding: 0.1em 0.15em;
+		line-height: 1.3;
+
+		// text-transform: uppercase;
+
+		-webkit-box-decoration-break: clone;
+		box-decoration-break: clone;
 
 	}
 
-	@include mq($breakpoint-lap) {
-
-		// transform: skew(0deg, -7deg);
-
-	};
-
 }
+
+
 
 .post-content {
 
@@ -56,17 +51,39 @@
 
 }
 
-.post-type--professional {
+.post-type,
+.page-type {
 
-	color: $secondary-color;
-	border-color: $secondary-color $accent-color $accent-color $secondary-color;
+	&--professional {
+
+		color: $secondary-color;
+
+		/* Inherit border-colors for branding */
+		border-color: $secondary-color $accent-color $accent-color $secondary-color;
+
+		> span,
+		> a > span {
+
+			background-color: $secondary-color;
+
+		}
+
+	}
 
 }
 
 .post-type--archive {
 
 	color: $luma-10;
+
+	/* Inherit border-colors for branding */
 	border-color: $luma-10 $luma-40 $luma-40 $luma-10;
+
+	> span {
+
+		background-color: $luma-10;
+
+	}
 
 }
 
@@ -79,5 +96,11 @@
 .related-post + .related-post {
 
 	margin-top: 0;
+
+}
+
+.post-preview + .post-preview {
+
+	margin-top: 2.25em;
 
 }

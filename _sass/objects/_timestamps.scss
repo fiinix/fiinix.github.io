@@ -10,9 +10,14 @@
 
 .timestamp {
 
-	color: $luma-50;
+	font-weight: $font-weight;
 
 	font-size: 0.74em;
+	line-height: 1.2;
+	letter-spacing: 0.075em;
 	text-transform: uppercase;
+	/* Make the text faux bolder to mimic small-caps because the weight of
+	* this should be similar to the weight of normal lowecase but it isn't */
+	text-shadow: 0 0 0 $black;
 
 }

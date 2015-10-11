@@ -1,5 +1,6 @@
 {% if include.type == "post" %}
-~<span class="reading-time reading-time--post js-reading-time">{% capture truncated_content %}{{ post.content | truncatewords: 250 }}{% endcapture %}{% if post.content != truncated_content %}{{ post.content | number_of_words | append: '.0' | divided_by:180 }}{% else %}1{% endif %}</span> min
+<span class="reading-time reading-time--post">
+~<span class="js-reading-time">{% capture truncated_content %}{{ post.content | truncatewords: 250 }}{% endcapture %}{% if post.content != truncated_content %}{{ post.content | number_of_words | append: '.0' | divided_by:180 }}{% else %}1{% endif %}</span> min</span>
 
 {% elsif include.type == "page" %}
 <div class="reading-time reading-time--page">

@@ -7,16 +7,20 @@
    ========================================================================== */
 .logo {
 
-	color: inherit;
+	// line-height
+	// color: inherit;
+	// flex: 1 0 auto;
+	margin-top: 0;
+	margin-right: auto;
 
 }
 
 .logo svg {
 
-	fill: $primary-color;
+	fill: white;
 	fill-opacity: 0;
 
-	stroke: $primary-color;
+	stroke: white;
 	stroke-width: 12;
 	stroke-linecap: round;
 	stroke-dasharray: 1800;

@@ -6,7 +6,7 @@ layout: default
    <section class="col col--primary">
 
       <header class="page-header">
-      <h1 class="page-heading page-type--{{ page.category }}" data-heading-overlay="{{ page.title | markdownify | strip_html | trim  }}"{% if page.color %} style="color: {{ page.color }};"{% endif %}>{{ page.title | markdownify | strip_html | trim  }}</h1>
+      <h1 class="page-heading page-type--{{ page.category }}" {% if page.color %} style="color: {{ page.color }};"{% endif %}>{{ page.title | markdownify | strip_html | trim  }}</h1>
 
       {% if page.excerpt %}
       <p class="lead">{{ page.excerpt | markdownify | strip_html | trim }}</p>
@@ -21,9 +21,18 @@ layout: default
    </section>
    <aside class="col col--secondary" role="complementary">
 
-    <!-- {% include copy__author.html %} -->
-    {% include copy__mvp.html %}
-    {% include site__tags.html %}
+    <ul class="clean-list">
+      <li><a href="/about">About me</a></li>
+      <li><a href="/speaking">Speaking</a></li>
+      <li><a href="/writing">Writing</a></li>
+    </ul>
+    <hr>
+    <ul class="clean-list">
+      <li><a href="/colophon">Colophon</a></li>
+      <li><a href="/styleguide">Styleguide</a></li>
+      <li><a href="/sitemap">Sitemap</a></li>
+      <li><a href="https://github.com/fiinix/fiinix.github.io">Source</a></li>
+    </ul>
 
    </aside>
  </div>

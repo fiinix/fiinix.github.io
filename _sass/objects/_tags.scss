@@ -10,73 +10,106 @@
 
 .tag {
 
-	border: 0;
+	background-image: none;
 
 	display: inline-block;
 	white-space: nowrap;
-	position: relative;
 
-	font-weight: $ui-weight;
-	font-family: $ui-family;
-	/* 16/1.25 = 12.8/16 = 0.8 */
-	font-size: .74em;
+	font-weight: $font-weight;
 
-	// padding: em($font-size/pow($font-scale-, 2)) em($font-size/pow($font-scale-, 1));
-	padding: (0.5 / 0.74) +em (0.75 / 0.74) +em;
-	margin: 0 3px 3px 0;
+	font-size: 0.74em;
+	line-height: 1.2;
+	letter-spacing: 0.075em;
+	text-transform: uppercase;
+	/* Make the text faux bolder to mimic small-caps because the weight of
+	* this should be similar to the weight of normal lowecase but it isn't */
+	text-shadow: 0 0 0 $black;
 
-	background-color: transparent;
-	color: contrast($luma-30);
+	padding: 0.17em 0.51em;
+	margin: 0 0.51em 0 0;
 
-	&:before {
-		content: " ";
-		display: block;
-		width: 100%;
-		height: 100%;
+	border-radius: 0.17em;
 
-		position: absolute;
-		top: 0;
-		left: 0;
+	background-color: $luma-90;
 
-		background-color: $luma-30;
-		transform-origin: center center;
-		transform: skew(5deg, 1deg);
-
-		backface-visibility: hidden;
-
-		z-index: -1;
-
-		// @include transition($duration: 150ms, $timing: ease-in-out);
-	}
-
-	&:visited {
-
-		color: contrast($luma-90);
-
-		&:before {
-
-			background-color: $luma-90;
-
-		}	
-		
-	}
-
-	&:hover,
-	&:focus,
-	&:active {
-
-		color: $white;
-		border: 0;
-
-		&:before {
-			background-color: $primary-color;
-			animation: wobble--tag 300ms ease-in-out;
-		}
-
-		background-image: none;
-
-	}
-
-	@include transition($duration: 150ms, $timing: ease-in-out);
-	
 }
+
+
+
+// .tag {
+
+// 	border: 0;
+
+// 	display: inline-block;
+// 	white-space: nowrap;
+// 	position: relative;
+
+// 	font-weight: $ui-weight;
+// 	font-family: $ui-family;
+// 	/* 16/1.25 = 12.8/16 = 0.8 */
+// 	font-size: .74em;
+
+// 	// padding: em($font-size/pow($font-scale-, 2)) em($font-size/pow($font-scale-, 1));
+// 	padding: (0.5 / 0.74) +em (0.75 / 0.74) +em;
+// 	margin: 0 3px 3px 0;
+
+// 	background-color: transparent;
+
+// 	&:before {
+// 		content: " ";
+// 		display: block;
+// 		width: 100%;
+// 		height: 100%;
+
+// 		position: absolute;
+// 		top: 0;
+// 		left: 0;
+
+// 		background-color: $luma-30;
+// 		transform-origin: center center;
+// 		transform: skew(5deg, 1deg);
+
+// 		backface-visibility: hidden;
+
+// 		z-index: -1;
+
+// 		// @include transition($duration: 150ms, $timing: ease-in-out);
+// 	}
+
+// 	&:link {
+
+// 		color: contrast($luma-30);
+
+// 	}
+
+// 	&:visited {
+
+// 		color: contrast($luma-90);
+
+// 		&:before {
+
+// 			background-color: $luma-90;
+
+// 		}	
+		
+// 	}
+
+// 	&:hover,
+// 	&:focus,
+// 	&:active {
+
+// 		color: $white;
+// 		border: 0;
+
+// 		&:before {
+// 			background-color: $primary-color;
+// 			animation: wobble--tag 300ms ease-in-out;
+// 		}
+
+// 		background-image: none;
+
+// 	}
+
+// 	@include transition($duration: 150ms, $timing: ease-in-out);
+	
+// }

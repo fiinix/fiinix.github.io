@@ -10,27 +10,53 @@
 
 a {
 
+	// display: inline-block;
+
 	position: relative;
 	text-decoration: none;
 
-	outline: 0.25em solid transparent;
-	outline-offset: 1em;
+	// outline: 0.25em solid transparent;
+	// outline-offset: 1em;
 
-	border-bottom: 0.09em solid;
+	// border-bottom: 0.09em solid;
 
-	@include transition;
+	// background-image: linear-gradient(to bottom, transparent 89%, $black 89%, $black 93%, transparent 93%);
 
-	&:link {
+	background-image: linear-gradient(to bottom, $link-color-underline 100%, $link-color-underline 100%);
+    background-position: 0 100%;
+    background-repeat: repeat-x;
+    background-size: 0.1111em 0.1111em;
 
-		color: $primary-color;
-		color: $luma-10;
+	// color: $primary-color;
+	// color: $luma-10;
+	color: $link-color;
+
+	@include transition($timing: ease-in-out, $duration: 150ms);
+
+	// &:link {
+
+	// 	color: $primary-color;
+	// 	color: $luma-10;
+
+	// }
+
+	&:before {
+
+		// content: " ";
+		// display: block;
+
+		// position: absolute;
+		// z-index:
 
 	}
 
 	&:visited {
 
 		// color: darken($primary-color, $deviate);
-		color: $black;
+		// color: $black;
+		// background-color: $black;
+		// background-image: none !important;
+		color: $link-color-visited;
 
 	}
 
@@ -39,14 +65,22 @@ a {
 		color: lighten($primary-color, $deviate);
 		color: $luma-20;
 
+		// background-image: linear-gradient(to bottom, transparent 12%, $black 12%, $black 93%, transparent 93%);
+		background-image: linear-gradient(to bottom, $black 100%, $black 100%);
+		background-position: 0 -100%;
+		background-size: 1.5em 1.5em;
+
+		background-color: $black;
+		color: $white;
+
 	}
 
 	&:focus {
 
-		outline-offset: 0;
-		outline-color: $focus-color;
-		background-color: $focus-color;
-		color: contrast($focus-color);
+		// outline-offset: 0;
+		// outline-color: $focus-color;
+		// background-color: $focus-color;
+		// color: contrast($focus-color);
 
 	}
 

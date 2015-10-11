@@ -9,6 +9,8 @@
 	{% else %}{{ post.date | date: "%-d %b" }}.
 	{% endcase %}
 </time>
+{% elsif include.type == "listing" %}
+<time class="timestamp timestamp--listing" datetime="{{ post.date }}">{{ post.date | date: "%-d %B %Y" }},</time>
 {% elsif include.type == "topic" %}
 <time class="timestamp timestamp--topic" datetime="{{ post.date }}">
 	{% assign m = post.date | date: "%B" %}

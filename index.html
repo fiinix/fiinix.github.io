@@ -1,72 +1,33 @@
 ---
 layout: default
 ---
-
-<!-- <div class="home">
-
-  <h1>Oh hey,</h1>
-
-  <ul class="posts">
-    {% for post in site.posts %}
-      <li>
-        <time datetime="{{ post.date }}">{{ post.date | date: "%b %-d, %Y" }}</time>
-        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-      </li>
-    {% endfor %}
-  </ul>
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-
-</div>
- -->
 <div class="container">
  <div class="group" role="main">
    <section class="col col--primary">
 
-      <!-- <p class="h0">Heading zero</p>
-      <h1>Heading one</h1>
-      <h2>Heading two</h2>
-      <h3>Heading three</h3>
-      <h4>Heading four</h4>
-      <h5>Heading five</h5>
-      <h6>Heading six</h6>
-      <p class="h7">Heading seven</p> -->
+      <h1 class="h2">I&rsquo;m a designer; Sometimes websites, sometimes not.</h1>
 
-      
-
-
-      <h1 class="h2">Hey, I’m Carlos Eriksson.</h1>
-      <h2 class="h3">Designer, front-end developer, illustrator, artist, musician, writer, blah blah.</h2>
-    
-      <p>For the past 15 years I’ve been <del>crafting</del> <ins>engineering</ins> experiences that focus on functional and beautiful designs. I’ve had the pleasure of having my work featured on e.g. xbox.com and some of my work is seen by tens of thousands of people on a daily basis.</p>
       <h2 class="h4">Recent entries</h2>
 
-      {% for post in site.posts limit:5 %}
-      <article class="post-preview">
 
-      <h3 class="h3"><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title | markdownify | strip_html | trim  }}</a></h3>
-      <p>{% include date.html type="post" %}{{ post.excerpt | markdownify | strip_html | trim }}</p>
-      <p class="align-right">
-        <a href="{{ BASE_PATH }}{{ post.url }}" title="Read &ldquo;{{ post.title }}&rdquo;">[{% include reading-time.html type="post" %}]</a>
-      </p>
-    </article>
-    {% endfor %}
+      {% for post in site.posts limit:5 %}
+        <article class="post-preview">
+        {% include date.html type="listing" %} {% include reading-time.html type="post" %}
+        <h3 class="h3 post-heading no-margin post-type--{{ post.category }}"><a class="post-link" href="{{ post.url | prepend: site.baseurl }}"><span {% if post.color %} style="color: white; background-color: {{ post.color }};"{% endif %} >{{ post.title | markdownify | strip_html | trim  }}</span></a></h3>
+        <p>{{ post.excerpt | markdownify | strip_html | trim }}</p>
+        <!-- <p class="align-right">
+          <a href="{{ BASE_PATH }}{{ post.url }}" title="Read &ldquo;{{ post.title }}&rdquo;">[{% include reading-time.html type="post" %}]</a>
+        </p> -->
+        </article>
+      {% endfor %}
+
 
    </section>
    <aside class="col col--secondary" role="complementary">
 
-    <div class="introduction">
-      <h4>New here?</h4>
-
-      {% include copy__archive.html %}
-
-    </div>
-    <div class="frequent-topics">
-      <h4>Frequent topics</h4>
-
-      {% include site__tags.html %}
-
-    </div>
+    <!-- {% include copy__author.html %} -->
+    {% include copy__mvp.html %}
+    {% include site__tags.html %}
 
    </aside>
  </div>

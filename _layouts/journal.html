@@ -6,7 +6,7 @@ layout: default
    <section class="col col--primary">
 
       <header class="page-header">
-      <h1 class="page-heading page-type--{{ page.category }}" data-heading-overlay="{{ page.title | markdownify | strip_html | trim  }}"{% if page.color %} style="color: {{ page.color }};"{% endif %}>{{ page.title | markdownify | strip_html | trim  }}</h1>
+      <h1 class="page-heading page-type--{{ page.category }}" {% if page.color %} style="color: {{ page.color }};"{% endif %}>{{ page.title | markdownify | strip_html | trim  }}</h1>
 
       {% if page.excerpt %}
       <p class="lead">{{ page.excerpt | markdownify | strip_html | trim }}</p>
@@ -21,9 +21,11 @@ layout: default
    </section>
    <aside class="col col--secondary" role="complementary">
 
-    <!-- {% include copy__author.html %} -->
-    {% include copy__mvp.html %}
-    {% include site__tags.html %}
+    <ul class="clean-list">
+      <li><a href="/archive">Archive</a> ({{ site.posts | size }})</li>
+      <li><a href="/topics">Topics</a></li>
+      <li><a href="/feed.xml">Subscribe (RSS)</a></li>
+    </ul>
 
    </aside>
  </div>

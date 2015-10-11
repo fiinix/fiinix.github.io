@@ -25,6 +25,7 @@ $fuel-yellow:					hsl(41,87%,53%); /* #efad1f */
 $shamrock:						hsl(155, 67%, 53%); /* #37d795 */
 $eucalyptus:					hsl(155, 67%, 33%); /* #1c8d5e */
 
+$crimson-light:					hsl(345, 97%, 58%); /* #FC2C60 */
 
 $primary-color:					$crimson;
 $secondary-color:				$shamrock;
@@ -32,7 +33,7 @@ $tertiary-color:				$eucalyptus;
 $accent-color:					$fuel-yellow;
 
 $black:							hsl(0,0%,12%);
-$white:							#F3F3F3;
+$white:							hsl(0,0%,96%);
 
 $dark-grey:						hsl(0,0%,18%);
 $grey:							hsl(0,0%,60%);
@@ -54,6 +55,11 @@ $debug-bg:						rgba(255,0,0,.1);
 
 $yellow:						#FFFF4D;
 $focus-color:					#5B9DD9;
+
+$link-color:					$black;
+$link-color-visited:			hsl(0,0%,32%);
+$link-color-underline:			hsl(0,0%,42%);
+// $link-color-hover:				red;
 
 
 /* Typography
@@ -147,3 +153,5 @@ $z-layers: (
 $border-width:					1;
 $border-style:					solid;
 $border-color:					$light-grey;
+
+$icon-new-window: "<svg xmlns='http://www.w3.org/2000/svg' fill='grey' viewBox='0 0 10 10'><g><polygon points='0,1 0,10 7,10 7,7 6,7 6,9 1,9 1,2 2,2 2,1 '/><polygon points='4,0 10,0 10,6 9,6 9,2 6,5 5,4 8,1 4,1 '/></g></svg>"; 
