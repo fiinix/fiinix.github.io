@@ -29,7 +29,7 @@
             skip_invisible  : true,
             appear          : null,
             load            : null,
-            placeholder     : "image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJAQMAAAAB5D5xAAAABGdBTUEAALGPC/xhBQAAAANQTFRF////p8QbyAAAAAtJREFUCNdjYMAJAAAbAAFSROSpAAAAAElFTkSuQmCC"
+            placeholder     : "data:image/gif;base64,R0lGODlhEAAJAPAAAPX19QAAACwAAAAAEAAJAEACCoSPqcvtD6OclBUAOw=="
         };
 
         function update() {
