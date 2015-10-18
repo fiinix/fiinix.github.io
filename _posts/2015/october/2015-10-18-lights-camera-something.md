@@ -30,7 +30,7 @@ I recently got the opportunity to play around with the 5D and the 600D and whils
 
 So I kept researching and bothering my friends and it wasn't until a few weeks ago when I went down to the beach for a friends birthday celebration that I finally found a camera that I instantly fell in love with.
 
-The Canon EOS 100D, an upper-entry level crop-frame <abbr class="small-caps">DSLR</abbr> described as the "world's smallest and lightest DSLR camera" feels very similar to the 600D but with an upgraded DIGIC 5 image processor instead of DIGIC 4 and is a substantially 157g lighter.
+The Canon EOS 100D, an upper-entry level crop-frame <abbr class="small-caps">DSLR</abbr> described as the "world's smallest and lightest DSLR camera" feels very similar to the 600D but with an upgraded DIGIC 5 image processor instead of DIGIC 4 and is a substantial 157g lighter.
 
 The 100D has a <abbr title="Complementary metal–oxide–semiconductor" class="small-caps">CMOS</abbr> <abbr title="Advanced Photo System type-C" class="small-caps">APS-C</abbr> 22.3 x 14.9 mm (1.6x crop factor) sensor, 9 point Hybrid CMOS AF II and a E-TTL II automatic built-in pop-up flash.
 
