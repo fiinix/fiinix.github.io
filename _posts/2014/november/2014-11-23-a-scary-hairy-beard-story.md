@@ -57,6 +57,7 @@ excerpt: In which Carlos Eriksson tries to grow a beard for a year and documents
 [Week 46](#week-46---good-times-goodbye-hair) |
 [Week 47](#week-47---bzzz) |
 [Week 48](#week-48---close-enough)
+[Week 49](#week-49---in-honour-of-zappa)
 
 ##Week 0
 
@@ -656,4 +657,15 @@ Close enough.
 <figure>
 	<img class="js-lazy-load" data-original="/assets/posts/2014/november/a-scary-hairy-beard-story/carlos-eriksson-beard-growing-progess-week-48.jpg" alt="The beard growth after 48 weeks.">
 	<figcaption>Great Scott what I have done to my face?</figcaption>
+</figure>
+
+##Week 49 - In Honour of Zappa
+
+Realising my error last week it only took me another two minutes to take the scissor out and turn my Fu Manchu into a disconnected Handlebar. And everything felt right with the world again.
+
+But that was last week and today we're moving on to the next thing on the list; The Zappa, named after the man who wore it better than I ever will. Frank you beautiful bastard.
+
+<figure>
+	<img class="js-lazy-load" data-original="/assets/posts/2014/november/a-scary-hairy-beard-story/carlos-eriksson-beard-growing-progess-week-49.jpg" alt="The beard growth after 49 weeks.">
+	<figcaption>Rest in peace you eccentric genius.</figcaption>
 </figure>
