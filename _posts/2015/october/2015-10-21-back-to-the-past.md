@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Back to the Past"
-date: 2015-10-21 T 16:29 UTC
+date: 2015-10-21 T 16:29 UTC-1
 tags : ["Web Design", "Back to the Future"]
 category: professional
 excerpt: "In which I travel to the past to see what carloseriksson.com looked like 12 years ago, to the present to look at where things are now and to the future to talk about what's just over the horizon."
