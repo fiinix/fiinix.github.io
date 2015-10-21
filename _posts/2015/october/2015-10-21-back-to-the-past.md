@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Back to the Past"
-date: 2015-10-21 T 16:29 UTC-1
+date: 2015-10-21 T 16:29 UTC
 tags : ["Web Design", "Back to the Future"]
 category: professional
 excerpt: "In which I travel to the past to see what carloseriksson.com looked like 12 years ago, to the present to look at where things are now and to the future to talk about what's just over the horizon."
@@ -108,7 +108,7 @@ The time had come for the Fiinix moniker to retire and give way to Carlos Erikss
 
 Understanding the importance of typography I got obsessed with vertical rhythm and having every line of text adhering to a strict baseline.
 
-Unfortunately, you can't have a strict baseline and headings with good line-heights (leadings). In the end, I have up on this particular experiment and chose to let text sizes and readability dictate the line-heights for headings instead of forcing it to conform to divisions of the baseline---which always ended up looking disjointed.
+Unfortunately, you can't have a strict baseline and headings with good line-heights (leadings). In the end, I gave up on this particular experiment and chose to let text sizes and readability dictate the line-heights for headings instead of forcing it to conform to divisions of the baseline---which always ended up looking disjointed.
 
 Wanting to stay close to the colours of the previous version I took the Dark Pink and evolved it into a Flamingo Red, which didn't end up staying anyway.
 
