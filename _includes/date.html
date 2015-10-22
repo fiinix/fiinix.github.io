@@ -24,7 +24,7 @@
 	{% endcase %}
 </time>
 {% elsif include.type == "page" %}
-<time class="timestamp timestamp--page" datetime="{{ page.date }}">{{ page.date | date: "%-d %B %Y" }}</time>
+<time class="timestamp timestamp--page" datetime="{{ page.date }}">{{ page.date | date: "%-d %B %Y" }},</time>
 {% else %}
 No date.type set
 {% endif %}
