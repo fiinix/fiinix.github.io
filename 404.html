@@ -1,41 +1,43 @@
 ---
-layout: default
+layout: "404"
 ---
 
-<!-- <div class="home">
-
-  <h1>Oh hey,</h1>
-
-  <ul class="posts">
-    {% for post in site.posts %}
-      <li>
-        <time datetime="{{ post.date }}">{{ post.date | date: "%b %-d, %Y" }}</time>
-        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-      </li>
-    {% endfor %}
-  </ul>
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-
-</div>
- -->
 <div class="container">
  <div class="group" role="main">
    <section class="col col--primary">
 
-  <h1>Not found</h1>
+  <h1 class="post-heading post-type--professional">Helvete!*</h1>
 
-  <p>Well, this is awkward. I really couldn't fucking find the page you were looking for.</p>
+  <p class="lead">Ooops. Something went wrong. You&rsquo;re not sure what&mdash;was it you? Was it the website? What do you do now?</p>
 
-  <p>Technically this is a <abbr title="Hypertext Transfer Protocol" class="small-caps">HTTP</abbr> standard response code indicating that the client was able to communicate with a given server, but the server could not find what was requested.</p>
+  <p>Well, this is awkward but whatever page you were looking for isn&rsquo;t here any more.</p>
 
-  <p>Practically it means that I fucked something up. See, sometimes I change the permalink settings and when I do, things that used to be in one place, isn't anymore.</p>
+  <p><a href="http://www.twitter.com/fiinixdesign" class="button button--secondary">Tell me about this missing page</a></p>
+
+  <p>The technical explanation—if you&rsquo;re curious—is that 404 occurred, which is a <abbr title="Hypertext Transfer Protocol" class="small-caps">HTTP</abbr> standard response code indicating that the client was able to communicate with a given server, but the server couldn&rsquo;t find what was requested.</p>
+
+  <p>Practically it means I&rsquo;ve messed something up. See, sometimes I change things and when I do, things that used to be in one place, isn&rsquo;t any more.</p>
+
+  <p>
+    <em>* Helvete is a Swedish word originating from Old Norse <i>helvíti</i> meaning, in its most modern form, Hell.</em>
+  </p>
+
+<h2 class="h4">Recent entries</h2>
+
+{% for post in site.posts limit:3 %}
+<article class="post-preview">
+{% include date.html type="listing" %}{% include reading-time.html type="post" %}
+<h3 class="h3 post-heading no-margin post-type--{{ post.category }}"><a class="post-link" href="{{ post.url | prepend: site.baseurl }}"><span {% if post.color %} style="color: white; background-color: {{ post.color }};"{% endif %} >{{ post.title | markdownify | strip_html | trim  }}</span></a></h3>
+<p>{{ post.excerpt | markdownify | strip_html | trim }}</p>
+</article>
+{% endfor %}
+
 
    </section>
-   <aside class="col col--secondary" role="complementary">
+   <!-- <aside class="col col--secondary" role="complementary">
 
     <img src="/assets/img/avatar-404.png" alt="Naked Carlos Illustration">
 
-   </aside>
+   </aside> -->
  </div>
 </div>

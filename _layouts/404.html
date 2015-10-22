@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+
+	{% include head.html %}
+
+	<body>
+
+		<!-- SVG -->
+			<!-- {% include icons.svg %} -->
+		<!-- / SVG -->
+
+		{% include branding.html %}
+
+		<!-- Wrapper --> 
+		<div class="wrapper" id="top" style="background-image:url(/assets/img/neo-take-the-red-pill.jpg); background-position: 95% 12.5%; background-repeat: no-repeat;">
+
+		{% include nav.html %}
+		{% include header.html %}
+
+			{{ content }}
+
+		{% include footer.html %}
+
+		</div>
+		<!-- /Wrapper -->
+
+		{% include scripts.html %}
+		</body>
+</html>
