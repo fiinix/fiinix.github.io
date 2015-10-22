@@ -13,8 +13,9 @@
 
 	background-color: $luma-50;
 	padding: 1em 2em;
+	text-align: center;
 
-	border-radius: .25em;
+	border-radius: 0.66em;
 
 }
 
@@ -47,6 +48,31 @@
 
 .button--secondary {
 
+	background-color: $secondary-color;
+	color: contrast($secondary-color);
+
+	&:visited {
+
+		background-color: $secondary-color;
+		color: contrast($secondary-color);
+
+	}
+
+	&:hover,
+	&:focus,
+	&:active {
+
+		background-color: lighten($secondary-color, $deviate);
+		color: contrast(lighten($secondary-color, $deviate));
+
+	}
+
+}
+
+
+
+.button--tertiary {
+
 	background-color: $tertiary-color;
 	color: contrast($tertiary-color);
 
@@ -63,6 +89,31 @@
 
 		background-color: lighten($tertiary-color, $deviate);
 		color: contrast(lighten($tertiary-color, $deviate));
+
+	}
+
+}
+
+
+
+.button--accent {
+
+	background-color: $accent-color;
+	color: contrast($accent-color);
+
+	&:visited {
+
+		background-color: $accent-color;
+		color: contrast($accent-color);
+
+	}
+
+	&:hover,
+	&:focus,
+	&:active {
+
+		background-color: lighten($accent-color, $deviate);
+		color: contrast(lighten($accent-color, $deviate));
 
 	}
 
