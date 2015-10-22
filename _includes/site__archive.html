@@ -22,7 +22,7 @@
 {% endif %}
 <!-- / New month -->
 {% endunless %}
-<li class="">{% if post.color %}{% endif %}<h3 class="h3 related-post"><a href="{{ post.url }}">{{ post.title | markdownify | strip_html | trim }}</a></h3></li>
+<li class="">{% if post.color %}{% endif %}<h3 class="h3"><a href="{{ post.url }}">{{ post.title | markdownify | strip_html | trim  }}</a></h3></li>
 
 {% unless post.next %}
 </ul></li>
