@@ -1,11 +1,9 @@
 {% if include.type == "post" %}
 <span class="reading-time reading-time--post">
-~<span class="js-reading-time">{% capture truncated_content %}{{ post.content | truncatewords: 250 }}{% endcapture %}{% if post.content != truncated_content %}{{ post.content | number_of_words | append: '.0' | divided_by:180 }}{% else %}1{% endif %}</span> min</span>
-
+~<span class="js-reading-time">{% capture truncated_content %}{{ post.content | truncatewords: 250 }}{% endcapture %}{% if post.content != truncated_content %}{{ post.content | number_of_words | append: '.0' | divided_by:180 }}</span> minutes{% else %}1</span> minute{% endif %}</span>
 {% elsif include.type == "page" %}
-<div class="reading-time reading-time--page">
-~<span class="js-reading-time">{% capture truncated_content %}{{ page.content | truncatewords: 250 }}{% endcapture %}{% if page.content != truncated_content %}{{ page.content | number_of_words | append: '.0' | divided_by:180 }}</span> minutes of your time{% else %}1</span> minute of your time{% endif %}</div>
-
+<span class="reading-time reading-time--page">
+~<span class="js-reading-time">{% capture truncated_content %}{{ page.content | truncatewords: 250 }}{% endcapture %}{% if page.content != truncated_content %}{{ page.content | number_of_words | append: '.0' | divided_by:180 }}</span> minutes{% else %}1</span> minute{% endif %}</span>
 {% else %}
 <div>The type variable for reading-time has not been set</div>
 {% endif %}
