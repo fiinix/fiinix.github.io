@@ -22,7 +22,7 @@ p {
 
 }
 
-.post-content p:last-of-type:after {
+.post-content > p:last-of-type:after {
 
 	content: " ";
 	display: inline-block;
