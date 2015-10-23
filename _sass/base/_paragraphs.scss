@@ -21,3 +21,17 @@ p {
 	color: $luma-10;
 
 }
+
+.post-content p:last-of-type:after {
+
+	content: " ";
+	display: inline-block;
+
+	width: 0.5555em;
+	height: 0.5555em;
+	border-top: 0.5555em solid;
+	border-top-color: inherit;
+
+	margin-left: 0.2777em;
+
+}
