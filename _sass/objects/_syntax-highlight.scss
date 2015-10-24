@@ -39,6 +39,12 @@ code {
 
 }
 
+*:not(.highlight) pre {
+
+	color: $black;
+
+}
+
 /* Scope code to only apply to inline code tags
    ========================================================================== */
 p code {
