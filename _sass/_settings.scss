@@ -55,6 +55,7 @@ $debug-bg:						rgba(255,0,0,.1);
 
 $yellow:						#FFFF4D;
 $focus-color:					#5B9DD9;
+$mark-bg-color:					$fuel-yellow;
 
 $link-color:					$black;
 $link-color-visited:			hsl(0,0%,32%);
@@ -66,7 +67,7 @@ $link-color-underline:			hsl(0,0%,42%);
    ========================================================================== */
 $font-size:						18;
 
-$font-leading:					28.8;
+$font-leading:					27;
 
 $font-weight:					400;
 $font-style:					normal;
@@ -85,8 +86,8 @@ $font-constant:					2.03;
 $heading-family:				'Cooper Hewitt', Helvetica, Arial, sans-serif;
 $heading-weight:				800;
 
-$ui-family:						'Merriweather Sans', sans-serif;
-$ui-weight:						300;
+$ui-family:						'Arial', sans-serif;
+$ui-weight:						400;
 
 $fixed-family:					Consolas, monospace;
 
