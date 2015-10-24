@@ -49,7 +49,7 @@
     {% else %}
     {% capture prev_letter %}{{ first_letter }}{% endcapture %}
     </ul>
-    <h2 class="h4" id="letter-{{ first_letter | downcase }}">{{ first_letter }}</h2>
+    <h2 class="h3" id="letter-{{ first_letter | downcase }}">{{ first_letter }}</h2>
     <ul class="tag-box inline-list">
     {% endif %}
     <li><a class="tag" href="#{{ this_word | replace: ' ', '+' }}">{{ this_word | markdownify | strip_html | trim }}{% if site.tags[this_word].size > 1 %}<span>&nbsp;&times;&nbsp;{{ site.tags[this_word].size }}</span>{% endif %}</a></li>
@@ -81,7 +81,7 @@
     {% for post in site.tags[this_word] %}{% if post.title != null %}
 
     <li class="entry-list__item">
-      {% if post.color %}{% endif %}<h3 class="h5 display-inline"><a href="{{ post.url }}">{{ post.title | markdownify | strip_html | trim }}</a></h3>
+      {% if post.color %}{% endif %}<h3 class="h3 display-inline"><a href="{{ post.url }}">{{ post.title | markdownify | strip_html | trim }}</a></h3>
     </li>
     {% endif %}{% endfor %}
   </ul>
