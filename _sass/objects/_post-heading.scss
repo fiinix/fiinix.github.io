@@ -54,7 +54,8 @@
 .post-type,
 .page-type {
 
-	&--professional {
+	&--professional,
+	&--content {
 
 		color: $secondary-color;
 
@@ -99,7 +100,8 @@
 
 }
 
-.post-preview + .post-preview {
+.post-preview + .post-preview,
+.summary + .summary {
 
 	margin-top: 2.25em;
 
