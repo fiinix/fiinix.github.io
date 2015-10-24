@@ -18,11 +18,120 @@ ul {
 
 }
 
+ol {
+
+	list-style: none;
+	padding-left: 0;
+	counter-reset: orderedList;
+
+	ol {
+
+		counter-reset: orderedList;
+		margin-top: 0;
+
+	}
+
+}
+
+ol li {
+
+	// display: table-row;
+	position: relative;
+
+	&:before {
+	
+		display: block;
+
+		width: 3em;
+
+		position: absolute;
+		top: 0.37em;
+		left: -3.5em;
+		
+		/* Manually adjusted to mimic a small cap and fall within
+		* the x-height of the body font */	
+
+		font-size: 0.74em;
+		letter-spacing: 0.075em;
+		text-transform: uppercase;
+		/* Make the text faux bolder to mimic small-caps because the weight of
+		* this should be similar to the weight of normal lowecase but it isn't */
+		text-shadow: 0 0 0 $black;
+
+		counter-increment: orderedList;
+		content: counters(orderedList, ".") ".";
+		text-align: right;
+		// padding-right: 0.75em;
+
+	}
+
+	&:after {
+
+		content: " ";
+		display: block;
+		margin-bottom: 0.5em;
+
+	}
+
+}
+
+
+
+// ul,
+// ol,
+// dl {
+//     padding-left: 0;
+//     margin-top: 0;
+//     margin-bottom: 0
+// }
+// ul {
+//     list-style: square
+// }
+// ul li {
+//     display: table-row
+// }
+// ul li:before {
+//     vertical-align: baseline !important;
+//     display: table-cell !important;
+//     color: #8b8b8b;
+//     padding-right: 0.75em
+// }
+// ul li:after {
+//     content: " ";
+//     display: block;
+//     margin-bottom: 0em
+// }
+// ol {
+//     list-style: none;
+//     counter-reset: orderedList
+// }
+// ol li {
+//     display: table-row
+// }
+// ol li:before {
+//     display: table-cell;
+//     counter-increment: orderedList;
+//     content: counters(orderedList, ".") ".";
+//     text-align: right;
+//     padding-right: 0.75em
+// }
+// ol li:after {
+//     content: " ";
+//     display: block;
+//     margin-bottom: 0.5em
+// }
+// ol ol {
+//     counter-reset: orderedList;
+//     margin-top: 0.5em
+// }
+
+
 
 .inline-list {
 
+	list-style-type: none;
+
 	padding-left: 0;
-	// margin-top: 0;
 	margin-bottom: 0;
 
 	li {
