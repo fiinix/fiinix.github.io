@@ -2,25 +2,28 @@
 layout: default
 ---
 <div class="container">
-<div class="group" role="main">
-  <section class="col col--primary">
 
-    <header class="post-header">
+  <div class="group">
+    <div class="col col--primary">
+      
       <h1 class="h2 post-heading post-type--{{ page.category }}"{% if page.color %} style="color: {{ page.color }};"{% endif %}>
         <span {% if page.color %} style="background-color: {{ page.color }};"{% endif %} >{{ page.title | markdownify | strip_html | trim  }}</span></h1>
 
-      <!-- <p>{% include date.html type="page" %}</p> -->
-      <!-- {% include reading-time.html type="page" %} -->
+        <p>{% include date.html type="page" %} {% include reading-time.html type="page" %}
 
-      {% if page.category == 'archive' %}
+    </div>
+  </div>
+
+<div class="group" role="main">
+  <section class="col col--primary">
+
+    {% if page.category == 'archive' %}
       <p class="disclaimer">{% include post__archived.html %}</p>
       {% elsif page.disclaimer || page.discretion %}
       <p class="disclaimer">{{ page.disclaimer | markdownify | strip_html | trim }}</p>
       {% endif %}
 
       <p class="lead">{{ page.excerpt | markdownify | strip_html | trim }}</p>
-
-    </header>
 
     <article class="post-content post-type--{{ page.category }}" lang="en"{% if page.color %} style="border-color:{{ page.color }} {{ page.color }} {{ page.color2 }} {{ page.color2 }}; color: {{ page.color }};"{% endif %}>
       {{ content }}
