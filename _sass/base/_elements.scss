@@ -42,6 +42,8 @@ small {
 
 .small-caps {
 
+  color: $black;
+
 	/* Manually adjusted to mimic a small cap and fall within
 	 * the x-height of the body font */	
 
@@ -66,6 +68,8 @@ sub {
 mark {
 
   // background-color: #FFFF4D;
+  background-color: rgba($mark-bg-color, 0.5);
+  font-style: italic;
 
 }
 
