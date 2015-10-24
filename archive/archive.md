@@ -54,12 +54,14 @@ I have 83 entries in need of migration from this year.
 
 ##2009
 
-My favourite entry has got to be one of my live performances from Night of Arts, specifically [Part III & IV, “Into The Night” And “Made of Glass”][glass]. Let's be honest though, most of the other entries are quite terrible.
+I have 34 entries in need of migration from this year.
+
+<!-- My favourite entry has got to be one of my live performances from Night of Arts, specifically [Part III & IV, “Into The Night” And “Made of Glass”][glass]. Let's be honest though, most of the other entries are quite terrible.
 
 [See all the entries from 2009][2009].
 
 [glass]: /blog/part-iii-and-iv-into-the-night-and-made-of-glass
-[2009]: /archive/2009
+[2009]: /archive/2009 -->
 
 ##2008
 
