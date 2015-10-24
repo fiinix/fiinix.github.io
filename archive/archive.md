@@ -4,7 +4,7 @@ title: Archive
 permalink: /archive/
 excerpt: "Like the mythical Elephants' graveyard, this is where all my Journal entries come for their final rest."
 ---
-As each years comes to a close I summarise them here, include my favourite entry from that year and link to a list of all the entries.
+As each year comes to its close I summarise it here, include my favourite entry and give you a list of all the entries.
 
 I'm also migrating all the entries from my old Blogger+Blogspot account and [the migration progress][reclaimer] is publicly available on a Trello board.
 
@@ -13,7 +13,7 @@ I'm also migrating all the entries from my old Blogger+Blogspot account and [the
 
 ##2015
 
-The year that hasn't reached an introspective status yet.
+*The year that hasn't reached an introspective status yet.*
 
 [See all the entries from 2015 so far][2015].
 
@@ -21,24 +21,32 @@ The year that hasn't reached an introspective status yet.
 
 ##2014
 
-The year [started out pretty badly][lupus], but thankfully got progressively better as time went by.
+Memorable events include; [Lucien getting seriously ill][lupus], [a 24 h board game marathon][board], [going to my first Comic Con][comic], [turning 30][thirty], [getting a new jobs][job], [growing a beard for a year][beard] and [hunting for the perfect Christmas tree][tree].
 
-My favourite entry is definitely [A Letter from the Promised Land][promised-land], where I pretend to be a turn of the 20th century immigrant who is writing home to the family and friends he has left behind for a brighter future in the new world.
+But my favourite entry is [A Letter from the Promised Land][promised-land], where I pretend to be a turn of the 20th century immigrant who is writing home to the family and friends he has left behind for a brighter future in the new world.
 
 [See all the entries from 2014][2014].
 
-[promised-land]: /blog/a-letter-from-the-promised-land/
 [lupus]: /blog/at-least-it-wasnt-lupus-part-1/
+[board]: /blog/no-sleep-for-i-am-the-werewolf/
+[comic]: /blog/carlos-goes-mcm-london-comic-con/
+[thirty]: /blog/30-things-ive-learned-in-30-years/
+[job]: /blog/notice-of-termination/
+[beard]: /blog/a-scary-hairy-beard-story/
+[tree]: /blog/a-21st-century-hunt-for-the-perfect-christmas-tree/
+[promised-land]: /blog/a-letter-from-the-promised-land/
 [2014]: /archive/2014
 
 ##2013
 
-Between releasing a game called Monorun and designing a Hanna-Barbera character, I finally started catching up with all the games I had on my to-play list.
+I have 106 entries in need of migration from this year.
+
+<!-- Between releasing a game called Monorun and designing a Hanna-Barbera character, I finally started catching up with all the games I had on my to-play list.
 
 Favourite entry from this year? Maybe, [The Worst Assassin in the World][assassin], where I recount my failures playing Hitman: Absolution. I still get a nice chuckle from that one.
 
 [assassin]: /blog/the-worst-assassin-in-the-world/
-[2013]: /archive/2013
+[2013]: /archive/2013 -->
 
 ##2012
 
