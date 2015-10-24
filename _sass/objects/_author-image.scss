@@ -23,12 +23,12 @@
 	margin-top: 0;
 	margin-bottom: 1.5em;
 
-	-webkit-clip-path: polygon(50% 0%, 96% 22%, 90% 64%, 37% 93%, 12% 78%, 6% 23%);
-	clip-path: polygon(50% 0%, 96% 22%, 90% 64%, 37% 93%, 12% 78%, 6% 23%);
+	// -webkit-clip-path: polygon(50% 0%, 96% 22%, 90% 64%, 37% 93%, 12% 78%, 6% 23%);
+	// clip-path: polygon(50% 0%, 96% 22%, 90% 64%, 37% 93%, 12% 78%, 6% 23%);
 
 	&:hover {
 
-		animation: morph 500ms $ease-in-out-back 0ms;
+		// animation: morph 500ms $ease-in-out-back 0ms;
 
 	}
 
