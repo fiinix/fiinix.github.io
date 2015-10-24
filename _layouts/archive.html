@@ -2,17 +2,21 @@
 layout: default
 ---
 <div class="container">
+
+  <div class="group">
+    <div class="col col--primary">
+      
+      <h1 class="page-heading page-type--{{ page.category }}" {% if page.color %} style="color: {{ page.color }};"{% endif %}>{{ page.title | markdownify | strip_html | trim  }}</h1>
+
+    </div>
+  </div>
+
  <div class="group" role="main">
    <section class="col col--primary">
 
-      <header class="page-header">
-      <h1 class="page-heading page-type--{{ page.category }}" data-heading-overlay="{{ page.title | markdownify | strip_html | trim  }}"{% if page.color %} style="color: {{ page.color }};"{% endif %}>{{ page.title | markdownify | strip_html | trim  }}</h1>
-
-      {% if page.excerpt %}
+    {% if page.excerpt %}
       <p class="lead">{{ page.excerpt | markdownify | strip_html | trim }}</p>
-      {% endif %}
-
-    </header>
+    {% endif %}
 
     <article class="page-content page-type--{{ page.category }}" lang="en"{% if page.color %} style="border-color:{{ page.color }} {{ page.color }} {{ page.color2 }} {{ page.color2 }}; color: {{ page.color }};"{% endif %}>
       {{ content }}
@@ -21,9 +25,27 @@ layout: default
    </section>
    <aside class="col col--secondary" role="complementary">
 
-    <!-- {% include copy__author.html %} -->
-    <!-- {% include copy__mvp.html %} -->
-    <!-- {% include site__tags.html %} -->
+    <ul class="clean-list">
+      <li><a href="/archive">Archive</a> ({{ site.posts | size }})</li>
+      <li><a href="/topics">Topics</a></li>
+      <li><a href="/feed.xml">Subscribe (RSS)</a></li>
+    </ul>
+
+    <h2 class="h4 subheading">By year</h2>
+
+    <ul class="clean-list">
+{% assign counter = 0 %}
+{% for post in site.posts %}
+{% assign thisyear = post.date | date: "%Y" %}
+{% assign prevyear = post.previous.date | date: "%Y" %}
+{% assign counter = counter | plus: 1 %}
+{% if thisyear != prevyear %}
+<li><a href="/archive/{{ post.date | date:"%Y" }}">{{ thisyear }}</a> ({{ counter }})</li>
+{% assign counter = 0 %}
+{% endif %}
+{% endfor %}
+    </ul>
+
 
    </aside>
  </div>
