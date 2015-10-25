@@ -25,7 +25,7 @@
 <li class="post">{% if post.color %}{% endif %}<h3 class="h4"><a href="{{ post.url }}">{{ post.title | markdownify | strip_html | trim  }}</a></h3></li>
 
 {% unless post.next %}
-</ul></li>
+</ul>
 {% else %}
 {% capture month %}{{ post.date | date: '%B' }}{% endcapture %}
 {% capture pmonth %}{{ post.previous.date | date: '%B' }}{% endcapture %}
