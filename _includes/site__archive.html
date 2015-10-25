@@ -5,7 +5,7 @@
 <!-- <li> -->
 {% unless post.next %}
 <!-- <ul class="this"> -->
-<li class=""><h2 class="h4 subheading archive-subheading">{{ post.date | date: '%B' }}</h2>
+<li class=""><h2 class="h5 subheading archive-subheading">{{ post.date | date: '%B' }}</h2>
 <ul class="clean-list">
 {% else %}
 <!-- {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %} -->
@@ -15,14 +15,14 @@
 <!-- New month -->
 {% if month != nmonth %}
 <!-- </ul> -->
-<li class=""><h2 class="h4 subheading archive-subheading">{{ post.date | date: '%B' }}</h2>
+<li class=""><h2 class="h5 subheading archive-subheading">{{ post.date | date: '%B' }}</h2>
 <ul class="clean-list">
 <!-- <ul> -->
 <!-- <ul class="past"> -->
 {% endif %}
 <!-- / New month -->
 {% endunless %}
-<li class="">{% if post.color %}{% endif %}<h3 class="h3"><a href="{{ post.url }}">{{ post.title | markdownify | strip_html | trim  }}</a></h3></li>
+<li class="">{% if post.color %}{% endif %}<h3 class="h4"><a href="{{ post.url }}">{{ post.title | markdownify | strip_html | trim  }}</a></h3></li>
 
 {% unless post.next %}
 </ul></li>
