@@ -56,8 +56,9 @@ excerpt: In which Carlos Eriksson tries to grow a beard for a year and documents
 [Week 45](#week-45---7) |
 [Week 46](#week-46---good-times-goodbye-hair) |
 [Week 47](#week-47---bzzz) |
-[Week 48](#week-48---close-enough)
-[Week 49](#week-49---in-honour-of-zappa)
+[Week 48](#week-48---close-enough) |
+[Week 49](#week-49---in-honour-of-zappa) |
+[Week 50](#week-50---policemen-and-paedophiles)
 
 ##Week 0
 
@@ -668,4 +669,15 @@ But that was last week and today we're moving on to the next thing on the list; 
 <figure>
 	<img class="js-lazy-load" data-original="/assets/posts/2014/november/a-scary-hairy-beard-story/carlos-eriksson-beard-growing-progess-week-49.jpg" alt="The beard growth after 49 weeks.">
 	<figcaption>Rest in peace you eccentric genius.</figcaption>
+</figure>
+
+##Week 50 - Policemen And Paedophiles
+
+What are we left with, if we remove the Soul Patch and trim away the hanging bits of the moustache?
+
+The Copstash Standard of course, made famous by law enforcement officers and men with candy.
+
+<figure>
+	<img class="js-lazy-load" data-original="/assets/posts/2014/november/a-scary-hairy-beard-story/carlos-eriksson-beard-growing-progess-week-50.jpg" alt="The beard growth after 50 weeks.">
+	<figcaption>Do you know why I pulled you over, son? Because I have candy.</figcaption>
 </figure>
