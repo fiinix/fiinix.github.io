@@ -6,6 +6,8 @@ tags : ["Quantified Self", Moves, Jawbone UP24, Wearables, Health]
 category: personal
 excerpt: "In which we I begin to quantify myself and we take a look at all the places I've been in the last year, thanks to the ever-present and watchful eye of Big Brother."
 color: "#1177e3"
+color2: "#001C45"
+color3: "#CCC"
 ---
 Last year I installed an inconspicuous little app called [Moves][moves]. An app that tracks your everyday life and exercise by recording any walking, cycling and running you do.
 

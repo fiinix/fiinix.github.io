@@ -6,6 +6,8 @@ tags : [Accessibility, Conference, "Web in the Woods", Camping]
 category: professional
 excerpt: In which I talk about talking. In the woods. With a fire and everything.
 color: "#2E8B57"
+color2: "#F79337"
+color3: "#C2442F"
 ---
 Announcement time!
 
