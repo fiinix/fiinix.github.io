@@ -4,7 +4,7 @@ title: "Significant September, Issue 09/15"
 date: 2015-10-08 T 18:00 UTC
 tags : ["Keeping Up with the Erikssons", Beard, Web in the Woods, "Dicken's World", Family]
 category: personal
-excerpt: "In which we finally go to Dicken's World, I camp in the woods and speak at my first conference and the hair goes."
+excerpt: "In this month’s issue of Keeping Up With the Erikssons: We finally go to Dicken's World, I camp in the woods and speak at my first conference and the hair goes."
 ---
 
 Another month flew by so quickly that it took me almost a week into October, when Benjamin asked me, "Where's the monthly post?" before I realised that I had completely forgotten to write about September.

@@ -168,7 +168,7 @@ The only large installation they had was St. Pancras Station, which concealed an
 </figure>
 
 <figure>
-	<img class="js-lazy-load" data-original="/assets/posts/2015/september/jolly-july-and-amusing-august-issue-07-08-15/maidstone-museum-st-pancras-station-clock-tower.jpg" alt="St. Pancras Station recreated using Lego.">
+	<img class="js-lazy-load" data-original="/assets/posts/2015/september/jolly-july-and-amusing-august-issue-07-08-15/maidstone-museum-st-pancras-station-clock-tower.jpg" alt="St. Pancras Station clock tower recreated using Lego.">
 	<figcaption>St. Pancras Station was actually pretty impressive.</figcaption>
 </figure>
 
