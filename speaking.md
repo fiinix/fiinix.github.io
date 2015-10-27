@@ -6,11 +6,11 @@ permalink: /speaking/
 excerpt: "I frequently enjoy listening to the sound of my own voice and apparently, so do other people. Fancy that."
 ---
 
-If you want to hire me to talk at your upcoming event, don&rsquo;t hesitate to contact me.
+I would love to do more talks and if you want to hire me to talk at your upcoming event, don&rsquo;t hesitate to <a href="https://twitter.com/fiinixdesign">contact me</a>.
 
-<a href="https://twitter.com/fiinixdesign" class="button button--secondary">Get in touch</a>
+<hr>
 
-<h2 class="h4 subheading">Upcoming talks</h2>
+<!-- <h2 class="h4 subheading">Upcoming talks</h2> -->
 
 <div class="summary">
 	<time datetime="2015-12-03 19:00:00 GMT" class="timestamp timestamp--listing">3 December 2015</time>
@@ -20,7 +20,7 @@ If you want to hire me to talk at your upcoming event, don&rsquo;t hesitate to c
 </div>
 
 
-<h2 class="h4 subheading">Past talks</h2>
+<!-- <h2 class="h4 subheading">Past talks</h2> -->
 
 
 <div class="summary">
@@ -30,7 +30,7 @@ If you want to hire me to talk at your upcoming event, don&rsquo;t hesitate to c
 
 	<p><a href="http://carloseriksson.com/greedforgood">The slides from Accessibility = Money are available online</a>, but they only serve to enhance the points I make throughout my talk.</p>
 
-	<p>Here's what the wonderful Dan Edwards had to say about my talk:</p>
+	<p>Here&rsquo;s what the wonderful Dan Edwards had to say about my talk:</p>
 
 	<blockquote>
 		<p>Carlos delivered an excellent talk on how accessibility can equate to a larger increase in company turnover using a combination of witty humor [sic] and facts around how business owners are missing a trick when it comes to building with accessibility in mind. <cite><a href="https://twitter.com/de">Dan Edwards</a></cite></p>
