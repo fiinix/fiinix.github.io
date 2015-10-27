@@ -57,15 +57,15 @@
 	&--professional,
 	&--content {
 
-		color: $secondary-color;
+		color: $tertiary-color;
 
 		/* Inherit border-colors for branding */
-		border-color: $secondary-color $accent-color $accent-color $secondary-color;
+		border-color: $tertiary-color $accent-color $accent-color $tertiary-color;
 
 		> span,
 		> a > span {
 
-			background-color: $secondary-color;
+			background-color: $tertiary-color;
 
 		}
 

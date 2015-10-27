@@ -18,8 +18,8 @@ html {
 }
 body {
 
-	font-size: 1em;
-	line-height: 1.35;
+	font-size: 100%;
+	line-height: 1.3554;
 	font-family: $font-family;
 
 	background-color: $white;
@@ -30,6 +30,12 @@ body {
 	@include mq($breakpoint-lap) {
 
 		line-height: $font-leading/$font-size;
+
+	};
+
+	@include mq($breakpoint-mall) {
+
+		font-size: 120%;
 
 	};
 

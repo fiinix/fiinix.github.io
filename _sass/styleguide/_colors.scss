@@ -5,35 +5,58 @@
 
 
    ========================================================================== */
-$colors: (
 
-	Crimson:		$primary-color,
-	Shamrock:		$secondary-color,
-	Eucalyptus:		$tertiary-color,
-	Fuel-Yellow:	$accent-color,
+.sg__swatches {
 
-);
+	display: flex;
+	flex-direction: row;
 
-@each $name, $color in $colors {
+}
 
-	.sg__#{$color} {
-		
-		background-color: $color;
-		color: contrast($color);
+.sg__swatch {
 
-		padding: 0.25em;
+	margin-top: 0;
 
-		&:before {
+	border: 1px solid $luma-90;
+	flex: 1 0 auto;
+	margin-bottom: 1.5em;
+	padding-top: 7em;
+	min-width: 24%;
 
-			content: "#{$name}";
+	&__label {
 
-		}
+		background-color: white;
+		border-top: 1px solid $luma-90;
+		color: $black;
+		padding: 0.75em;
 
-		&:after {
+	}
 
-			content: "#{$color}";
+}
 
-		}
+.bg {
+
+	&--primary {
+
+		background-color: $primary-color;
+
+	}
+
+	&--secondary {
+
+		background-color: $secondary-color;
+
+	}
+
+	&--tertiary {
+
+		background-color: $tertiary-color;
+
+	}
+
+	&--accent {
+
+		background-color: $accent-color;
 
 	}
 
