@@ -42,7 +42,7 @@ In the end we all got there even though some of us had to forgo their original p
 
 <figure>
 	<img class="js-lazy-load" data-original="/assets/posts/2015/october/this-is-halloween/carlos-eriksson-halloween-greetings-2015.jpg" alt="6 Jack O'Lanterns illuminated from the candles inside them and a Happy Halloween greeting from the Eriksson family.">
-	<figcaption>My favourite this year is Rebecka's castle and spooky face with uses negative space in a way I had never even considered.</figcaption>
+	<figcaption>My favourite this year is Rebecka's castle and spooky face which uses negative space in a way I had never even considered.</figcaption>
 </figure>
 
 I'll leave you now, with this poem I just made up. Inspired by Vincent Price's narration in [Michael Jackson's Thriller][thriller].
