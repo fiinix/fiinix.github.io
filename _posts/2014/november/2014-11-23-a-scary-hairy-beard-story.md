@@ -3,7 +3,7 @@ layout: post
 title: "A Scary, Hairy Beard Story"
 date: 2014-11-23 T 16:30 UTC
 tags : [Beard]
-category: blog
+category: personal
 excerpt: In which Carlos Eriksson tries to grow a beard for a year and documents his journey, week by itchy week.
 ---
 *Feel free to bookmark this entry to easily return to it, it will be updated every Sunday.*
@@ -58,7 +58,8 @@ excerpt: In which Carlos Eriksson tries to grow a beard for a year and documents
 [Week 47](#week-47---bzzz) |
 [Week 48](#week-48---close-enough) |
 [Week 49](#week-49---in-honour-of-zappa) |
-[Week 50](#week-50---policemen-and-paedophiles)
+[Week 50](#week-50---policemen-and-paedophiles) |
+[Week 51](#week-51---it-was-bound-to-happen)
 
 ##Week 0
 
@@ -680,4 +681,21 @@ The Copstash Standard of course, made famous by law enforcement officers and men
 <figure>
 	<img class="js-lazy-load" data-original="/assets/posts/2014/november/a-scary-hairy-beard-story/carlos-eriksson-beard-growing-progess-week-50.jpg" alt="The beard growth after 50 weeks.">
 	<figcaption>Do you know why I pulled you over, son? Because I have candy.</figcaption>
+</figure>
+
+##Week 51 - It Was Bound To Happen
+
+There's only so many places you can go after the Copstash Standard.
+
+It's either the Pencil moustache, <abbr title="also known as" class="small-caps">AKA</abbr> the John Waters or the Toothbrush moustache, <abbr class="small-caps">AKA</abbr> the Hitler.
+
+I doubt any man has ever shaved away their moustache without trying on the infamous Toothbrush moustache for size. And in that respect I'm no different than anyone else.
+
+We're almost at the end of my journey now. Next week isn't going to be with a photo of a silly moustache at all but instead a time-lapse showing the entire journey I've made.
+
+After that, that's it though.
+
+<figure>
+	<img class="js-lazy-load" data-original="/assets/posts/2014/november/a-scary-hairy-beard-story/carlos-eriksson-beard-growing-progess-week-51.jpg" alt="The beard growth after 51 weeks.">
+	<figcaption>Männer Abgeordnete des Deutschen Reichstages!</figcaption>
 </figure>
