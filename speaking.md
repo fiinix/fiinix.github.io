@@ -6,21 +6,18 @@ permalink: /speaking/
 excerpt: "I frequently enjoy listening to the sound of my own voice and apparently, so do other people. Fancy that."
 ---
 
-I would love to do more talks and if you want to hire me to talk at your upcoming event, don&rsquo;t hesitate to <a href="https://twitter.com/fiinixdesign">contact me</a>.
+I would love to do more public speaking and if you want to hire me to talk at your upcoming event, don&rsquo;t hesitate to <a href="https://twitter.com/fiinixdesign">contact me</a>.
 
 <hr>
 
-<!-- <h2 class="h4 subheading">Upcoming talks</h2> -->
 
 <div class="summary">
 	<time datetime="2015-12-03 19:00:00 GMT" class="timestamp timestamp--listing">3 December 2015</time>
 
-	<h3 class="h3 no-margin"><a href="http://codeharbour.co.uk/">codeHarbour</a></h3>
+	<h3 class="h3 no-margin"><a href="http://codeharbour.co.uk/">codeHarbour on Tour!</a></h3>
 	<p>codeHarbour is a web focused meetup group in southern Kent. Every month they meet to share ideas, stories and techniques around design and development of websites and web apps.</p>
 </div>
 
-
-<!-- <h2 class="h4 subheading">Past talks</h2> -->
 
 
 <div class="summary">
