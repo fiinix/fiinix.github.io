@@ -4,9 +4,15 @@ title: "A Scary, Hairy Beard Story"
 date: 2014-11-23 T 16:30 UTC
 tags : [Beard]
 category: personal
-excerpt: In which Carlos Eriksson tries to grow a beard for a year and documents his journey, week by itchy week.
+excerpt: In which Carlos Eriksson grows a beard for an entire year and documents his journey, week by itchy week.
 ---
-*Feel free to bookmark this entry to easily return to it, it will be updated every Sunday.*
+*The beard journey has ended.*
+
+Between 9th November 2014 to 8th November 2015 I decided to let both my hair and beard grow out.
+
+It was quite a journey, from itching and beard dandruff to more itching and hair in my mouth, I discovered first hand that to keep a beard requires more maintenance than I had expected. I bought equipment like a fancy Italian scissor and oils and shampoos, all in the spirit of keeping my beard nice.
+
+And whilst my journey may have ended you can still read it from start to finish. Every four weeks I posted a progress photo with a time-lapse crowning the final week.
 
 [Start](#week-0) |
 [Week 1](#week-1---itchy-bitchy-tiny-whiny) |
@@ -59,9 +65,10 @@ excerpt: In which Carlos Eriksson tries to grow a beard for a year and documents
 [Week 48](#week-48---close-enough) |
 [Week 49](#week-49---in-honour-of-zappa) |
 [Week 50](#week-50---policemen-and-paedophiles) |
-[Week 51](#week-51---it-was-bound-to-happen)
+[Week 51](#week-51---it-was-bound-to-happen) |
+[Week 52](#week-52---the-end)
 
-##Week 0
+##Start
 
 The date is 9th of November and I'm bored on a Sunday.
 
@@ -698,4 +705,28 @@ After that, that's it though.
 <figure>
 	<img class="js-lazy-load" data-original="/assets/posts/2014/november/a-scary-hairy-beard-story/carlos-eriksson-beard-growing-progess-week-51.jpg" alt="The beard growth after 51 weeks.">
 	<figcaption>Männer Abgeordnete des Deutschen Reichstages!</figcaption>
+</figure>
+
+##Week 52 - The End
+
+It has been quite a journey; From itching and beard dandruff to more itching and hair in my mouth, I have discovered first hand that keeping a beard requires more maintenance than I would had expected.
+
+I've bought equipment like fancy Italian scissors and oils and shampoos, all in the spirit of keeping my beard nice.
+
+Towards the end, as was always the plan, I've had some fun with my facial hair, shaving it off progressively and giving myself a good month to get used to what my face looks like again in the process.
+
+Would I ever have a beard again?
+
+Maybe.
+
+But if I did, I think I would keep it somewhere between a 12 and 16 week length because I liked how that looked and felt the most.
+
+I would leave you with some parting words of wisdom but Present Carlos, whilst not as stupid as Past Carlos, knows he still has much to learn.
+
+Which means, I guess, this is the end. All that's left now is the time lapse I promised. Enjoy!
+
+The end.
+
+<figure class="media-video">
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/OjVykZ6j6mw" frameborder="0" allowfullscreen></iframe>
 </figure>
