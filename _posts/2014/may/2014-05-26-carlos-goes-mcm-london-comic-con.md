@@ -1,5 +1,5 @@
 ---
-layout: post--special
+layout: post
 title: Carlos Goes to MCM London Comic Con
 color: "#e56323"
 date: 2014-05-26 T 18:40 UTC

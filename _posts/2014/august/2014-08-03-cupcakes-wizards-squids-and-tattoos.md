@@ -4,7 +4,7 @@ title: "Cupcakes, Wizards, Squids and Tattoos"
 date: 2014-08-03 T 22:00 UTC
 tags : [Job, Tattoo, Cupcakes, Baking]
 category: blog
-excerpt: In which I mangle and molest two company names for the sole purpose of getting a not-particularly-funny title out of it.
+excerpt: "In which I mangle and molest two company names for the sole purpose of getting a not-particularly-funny title out of it."
 ---
 I think that title should be a white card in the party game [Cards Against Humanity][cah].
 
@@ -72,5 +72,5 @@ Although far from complete, my pinstriped groom and his bride is a very good sta
 [sitewizard]: http://sitewizard.co.uk/
 [squiders]: http://www.squiders.com/
 [wizard]: https://www.youtube.com/watch?v=GPfMPkbvBwY
-[tattoo]: {% post_url 2014/april/2014-04-26-getting-inked-again %}
+[tattoo]: /blog/getting-inked-again
 [steve]: http://www.stainlesssteves.co.uk/

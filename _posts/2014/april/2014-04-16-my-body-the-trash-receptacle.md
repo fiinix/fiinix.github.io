@@ -1,10 +1,10 @@
 ---
-layout: post--special
+layout: post
 title: "My Body: The Trash Receptacle"
 color: "#990808"
 date: 2014-04-16 T 22:51 UTC
 tags : [Health, On Turning Thirty]
-discretion: true
+disclaimer: "Warning: The following post contains mature content that may not be suitable for the sensitive reader. Viewer discretion is advised."
 category: blog
 excerpt: Slowly and surely my lifestyle has gone from “Unlikely to make it to 20” to “Coronary Heart Disease in mid-forties” and finally to “Might make to 77.”
 tile: "/assets/posts/2014/april/my-body-the-trash-receptacle/tile.png"

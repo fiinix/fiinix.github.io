@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Magnificent May, Issue 05/15"
-date: 2015-05-31 T 16:30 UTC
+date: 2015-05-31 T 15:15 UTC
 tags : ["Keeping Up with the Erikssons", "Comic Con", Tattoo, Beard, Pokemon, Beer, "Back to the Future", Cosplay, Pictures, "Batman: Arkham Knight"]
 category: personal
 excerpt: "In this month's issue of Keeping Up With the Erikssons: I finally finish my sleeve tattoo, reach the halfway mark of my beard journey, go to Comic Con for a third time and start drinking better beer."
@@ -109,6 +109,8 @@ And one thing I've wanted to try since moving to the <abbr title="United Kingdom
 	<img class="js-lazy-load" data-original="/assets/posts/2015/may/magnificent-may-issue-05-15/unboxing-the-first-delivery-from-beerbods.jpg" alt="Unboxing the first delivery from Beerbods">
 	<figcaption>The first beer, Lymestone’s Ein Stein, was not my kind of beer but I still enjoyed the experience.</figcaption>
 </figure>
+
+Every 12 weeks, they send you a box of different beers and every Thursday everyone gets together online and drink the same beer, sharing thoughts and opinions.
 
 Which is why I now have 12---11 at the time of writing---weeks worth of beers and look forward to trying them all.
 

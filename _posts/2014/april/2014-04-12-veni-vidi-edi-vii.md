@@ -1,5 +1,5 @@
 ---
-layout: post--special
+layout: post
 title: Veni, Vidi, Edi Vii
 color: "#00a88c"
 date: 2014-04-12 T 12:42 UTC

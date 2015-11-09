@@ -53,7 +53,7 @@ Curiously, if you believe a certain study than I should apparently be aiming for
 
 > A study, by University College London, suggests that a healthy diet should include 10 portions of fruit and vegetables a day, with a majority of those portions consisting of vegetables, which was found to be four times healthier than fruit. <cite><a href="http://jech.bmj.com/content/early/2014/03/03/jech-2013-203500.short?g=w_jech_ahead_tab">Fruit and vegetable consumption and all-cause, cancer and CVD mortality: analysis of Health Survey for England data</a>, Journal of Epidemiology & Community Health</cite>
 
-It wasn't long before I found myself exercising for the first time on my life and, to be honest, kind of enjoying it.
+It wasn't long before I found myself exercising for the first time in my life and, to be honest, kind of enjoying it.
 
 *Yeah, I know. The things Past Carlos would have to say about this.*
 
@@ -93,5 +93,5 @@ By the way, if there's any yoga practitioner reading this I would genuinely love
 
 You give me advise and we'll forget all about the bird shit incident, okay?
 
-[prev]: /blog/my-body-the-trash-receptacle/
-[smoking]: /blog/800-days-of-breathing/
+[prev]: {% post_url 2014/april/2014-04-16-my-body-the-trash-receptacle %}
+[smoking]: {% post_url 2014/december/2014-12-02-800-days-of-breathing %}

@@ -40,11 +40,14 @@ I'm glad you asked---let's pretend you did.
 
 One of the cards---i.e. tasks---I've set up on Trello, is to move over and archive all the entries from [fiinixdesign.blogspot.co.uk][blog] here.
 
-Until I've moved over all of it though, I'm keeping the blog alive for posterity
+Until I've moved over all of it though, I'm keeping the blog alive for posterity.
 
-But with 382 entries left, I've got quite a lot of work ahead of me. I'm looking into ways of automating it but even the best tools will require manual tidying up.
+But with 382 entries left at the time of writing, I've got quite a lot of work ahead of me. I'm looking into ways of automating it but even the best tools will require manual tidying up.
+
+And because I like naming things I've decided to call this [The Reclaimer][reclaimer].
 
 
 [blogspot]: http://fiinixdesign.blogspot.co.uk/
 [trello]: https://trello.com/b/zEdO8nv9/carloseriksson-com
 [blog]: http://fiinixdesign.blogspot.co.uk/
+[reclaimer]: https://trello.com/c/BNMKDXQB

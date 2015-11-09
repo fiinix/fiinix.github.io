@@ -12,7 +12,7 @@ Reflecting back on the past month, I feel like it had barely started before it w
 
 I suppose some months are just like that.
 
-###Surprise Motherfucker!
+##Surprise Motherfucker!
 
 Mr. Cruise was turning 30 this month and after seeing that another very dear friend of ours was having her birthday party the same weekend, I thought, "What if we---Rebecka, Lucien and me---would hop on a plane in secrecy and pay everyone a surprise visit?"
 
@@ -36,7 +36,7 @@ He almost ruined all of it by deciding to leave work an hour early but with a li
 	<figcaption>Like a flashback to ten years ago.</figcaption>
 </figure>
 
-###The Family Tree
+##The Family Tree
 
 During our weekend in Finland I had also made plans to take Lucien to meet his great-grandparents from my side because they hadn't seen him in quite a while---I can't remember the last time they met.
 
@@ -55,7 +55,7 @@ But a guy in southern Finland, who I imagine is possibly a distant relative of m
 
 At some point I would like to sit down and continue the work he's done, building it from Lucien's point of view so that when he gets older and wants---if he does---to explore his past, he'll have wealth of information to find.
 
-###Session \#4
+##Session \#4
 
 And as usual, as this point it wouldn't be a monthly update if I didn't continue on the sleeve tattoo.
 
@@ -77,7 +77,7 @@ And thanks to my wonderful wife we managed to get a couple of pictures---of the 
 	<figcaption>I still haven’t figured out how to get good shots of my tattoo.</figcaption>
 </figure>
 
-###Solar Eclipse
+##Solar Eclipse
 
 And finally, towards the end of March, the entire world stood breathless as the moon took a much anticipated tour in between us and the sun.
 

@@ -1,5 +1,5 @@
 ---
-layout: post--special
+layout: post
 title: The Epic Rivalry Continues
 color: "#014D8F"
 date: 2014-05-10 T 16:05 UTC

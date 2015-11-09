@@ -8,13 +8,13 @@ excerpt: It's been too long since I've had some rye bread and left with few opti
 facebook: "assets/posts/2014/june/my-kingdom-for-a-rye-bread/facebook-og-image.jpg"
 twitter: "assets/posts/2014/june/my-kingdom-for-a-rye-bread/twitter-image.jpg"
 ---
-As someone who grew up eating many kilos of rye crispbread---*knäckebröd*---every year I've always been very fond of it, despite eating less as I've grown older.
+As someone who grew up eating many kilos of rye crispbread---<i lang="sv">knäckebröd</i>---every year I've always been very fond of it, despite eating less as I've grown older.
 
 But then we moved the <abbr title="United Kingdom">UK</abbr> and suddenly---much like porridge---I find myself craving this simple thing I've taken for granted for years.
 
 Now, you could argue---and you should---that I could simply go to my local store and pick up some RYVITA® Dark Rye Crispbread but if I always bought things rather than make them when presented with both options, there wouldn't be much to write about, now would there?
 
-I've already mentioned my desire to bake my own rye bread, a desire that's grown from the lacking geographical availability of my favourite bread of all time, Vaasan Ruispalat.
+I've already mentioned my desire to bake my own rye bread, a desire that's grown from the lacking geographical availability of my favourite bread of all time, <i lang="fi">Vaasan Ruispalat</i>.
 
 <div>
 <figure>
@@ -25,7 +25,7 @@ I've already mentioned my desire to bake my own rye bread, a desire that's grown
 
 But I still haven't figured out, or even found a decent recipe, for how to bake these which means I'm still in the research stage and will most likely stay there for some time.
 
-But in the meantime I was struck by the desire to have some crisp ryebread and "this should require quite as much research", I thought to myself.
+But in the meantime I was struck by the desire to have some rye crispbread and "this should require quite as much research", I thought to myself.
 
 A quick internet search later I found a guy called [Nigel Slater][nigel] who, taking inspiration from the market in Stockholm, had created a very *very* simple recipe for rye crispbread that looked to be to my liking.
 

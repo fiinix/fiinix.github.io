@@ -4,7 +4,7 @@ title: "Jubilant June, Issue 06/15"
 date: 2015-07-01 T 23:15 UTC
 tags : ["Keeping Up with the Erikssons", "Batman: Arkham Knight", Tattoo, Midsummer, Kent Digital Awards, Birthday]
 category: personal
-excerpt: "	In this month’s issue of Keeping Up With the Erikssons: I have another one of those pesky birthdays, attend the Kent Digital Awards, celebrate Midsummer, try to play Batman: Arkham Knight and get a secret tattoo."
+excerpt: "In this month’s issue of Keeping Up With the Erikssons: I have another one of those pesky birthdays, attend the Kent Digital Awards, celebrate Midsummer, try to play Batman: Arkham Knight and get a secret tattoo."
 ---
 
 Whilst I got around to quite a lot of things this month, some didn't seem fitting for Keeping Up with the Erikssons.

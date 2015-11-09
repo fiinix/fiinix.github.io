@@ -4,7 +4,7 @@ title: Getting Inked Again
 date: 2014-04-26 T 21:00 UTC
 tags : [The Abominable Weekly Update, Tattoo, Burgers, BBQ]
 category: blog
-excerpt: Oooh, what's this? Another post? An Abominable Weekly Update? Well it's about time. Feast your eyes on a little of this and a little of that.
+excerpt: "Oooh, what's this? Another post? An Abominable Weekly Update? Well it's about time. Feast your eyes on a little of this and a little of that."
 ---
 Last Tuesday when the rest of the Western world went back to work, I took my sweet time waking up by making myself a fresh cup of coffee---it was delicious---and watching the new [Son of Batman][sob]---it was mostly okay.
 
@@ -66,5 +66,5 @@ That's all for this week. Like I said, I played a lot of games but at least I go
 
 [sob]: http://en.wikipedia.org/wiki/Son_of_Batman
 [skin]: http://www.skinflixtattooz.co.uk/
-[blog]: /three-joys-and-a-disappointment
+[blog]: /blog/three-joys-and-a-disappointment
 [nirvana]: http://en.wikipedia.org/wiki/Nirvana

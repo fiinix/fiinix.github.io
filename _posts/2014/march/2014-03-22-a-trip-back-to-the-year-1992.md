@@ -1,5 +1,5 @@
 ---
-layout: post--special
+layout: post
 title: A Trip Back to the Year 1992
 color: "#608900"
 date: 2014-03-22
