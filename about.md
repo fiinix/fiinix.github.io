@@ -3,7 +3,7 @@ layout: about
 title: About
 category: content
 permalink: /about/
-excerpt: "I'm a multilingual designer and frontend developer who believes accessibility can exist in the heart of form and function, without compromising either."
+excerpt: "I'm a multilingual designer and frontend developer who knows that accessibility can exist in the heart of form and function, without compromising either."
 ---
 I've been making experiences that focus on functional and beautiful designs for the past 10+ years.
 
