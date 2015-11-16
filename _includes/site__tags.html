@@ -1,6 +1,6 @@
 <div class="frequent-topics">
 
-<h2 class="h4 subheading">Frequent topics</h2>
+<h2 class="h4">Frequent topics</h2>
 
 {% assign tags_max = 0 %}
 {% for tag in site.tags %}
@@ -8,5 +8,5 @@
 {% assign tags_max = tag[1].size %}
 {% endif %}
 {% endfor %}
-<ul class="inline-list">{% for i in (3..tags_max) reversed %}{% for tag in site.tags %}{% if tag[1].size == i %}<li><a href="/topics/#{{ tag[0] |cgi_escape }}" class="tag" rel="tag" title="{{ tag[0] | markdownify | strip_html | trim }}" data-count="{{ tag[1].size }}">{{ tag[0] | markdownify | strip_html | trim }}</a>{% unless forloop.last %}{% endunless %}</li>{% endif %}{% endfor %}{% endfor %}</ul>
+<ul class="inline-list">{% for i in (3..tags_max) reversed %}{% for tag in site.tags %}{% if tag[1].size == i %}<li><a href="/topics/#{{ tag[0] |cgi_escape }}" class="tag" rel="tag" data-count="{{ tag[1].size }}">{{ tag[0] | markdownify | strip_html | trim }} &times; {{ tag[1].size }}</a>{% unless forloop.last %}{% endunless %}</li>{% endif %}{% endfor %}{% endfor %}</ul>
 </div>
