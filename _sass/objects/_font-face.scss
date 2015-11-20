@@ -7,7 +7,25 @@
    ========================================================================== */
 @font-face {
 	font-family: 'Cooper Hewitt';
-	src: url('#{$font-path}cooperhewitt-heavy.woff') format('woff');
+	src: url('#{$font-path}cooperhewitt-heavy-subset.woff') format('woff');
 	font-style: normal;
 	font-weight: 800;
+}
+@font-face {
+	font-family: 'Lora';
+	src: url('#{$font-path}lora-regular.woff') format('woff');
+	font-style: normal;
+	font-weight: 400;
+}
+@font-face {
+	font-family: 'Lora';
+	src: url('#{$font-path}lora-italic.woff') format('woff');
+	font-style: italic;
+	font-weight: 400;
+}
+@font-face {
+	font-family: 'Lora';
+	src: url('#{$font-path}lora-bold.woff') format('woff');
+	font-style: normal;
+	font-weight: 700;
 }
