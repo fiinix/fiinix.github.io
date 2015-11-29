@@ -21,15 +21,14 @@
 	
 
 	<!-- Facebook -->
+	<meta property="fb:app_id" content="920722924680311" />
 	<meta property="og:title" content="{% if page.title %}{{ page.title }} | {{ site.title}}{% else %}{{ site.title }}{% endif %}"/>
-	<meta property="og:type" content="website" />
+	<meta property="og:type" content="{% if page.title %}{{ article }} | {{ site.title}}{% else %}{{ website }}{% endif %}" />
 	<meta property="og:url" content="http://carloseriksson.com{{ page.url }}"/>
 	<meta property="og:image" content="http://carloseriksson.com/{% if page.facebook %}{{ page.facebook }}{% else %}assets/img/facebook-default-image.gif{% endif %}"/>
 	<meta property="og:site_name" content="Carlos Eriksson"/>
 	
 	<meta property="og:description" content="{% if page.excerpt %}{{ page.excerpt | markdownify | strip_html | trim }}{% else %}{{ site.description }}{% endif %}"/>
-
-	<meta property="fb:app_id" content="284734295023080" />
 	<!-- / Facebook -->
 
 	<!-- Twitter -->
