@@ -5,6 +5,7 @@ category: content
 permalink: /writing/
 excerpt: "Aside for keeping an online journal for the past seven, going on eight years, I sometimes have the honour of writing elsewhere."
 ---
+I enjoy telling stories that enlighten and inspire and I would love to write more of them.
 
 Are you interested in having me write something for your publication, online or otherwise? Don&rsquo;t hesitate to <a href="https://twitter.com/fiinixdesign">contact me</a>.
 

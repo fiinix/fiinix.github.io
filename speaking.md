@@ -5,8 +5,9 @@ category: content
 permalink: /speaking/
 excerpt: "I frequently enjoy listening to the sound of my own voice and apparently, so do other people. Fancy that."
 ---
+I&rsquo;ve recently taken up public speaking and I&rsquo;m really enjoying sharing everything I&rsquo;ve learned over the years.
 
-I would love to do more public speaking and if you want to hire me to talk at your upcoming event, don&rsquo;t hesitate to <a href="https://twitter.com/fiinixdesign">contact me</a>.
+If you want to hire me to talk at your upcoming event, don&rsquo;t hesitate to <a href="https://twitter.com/fiinixdesign">contact me</a>.
 
 <hr>
 
