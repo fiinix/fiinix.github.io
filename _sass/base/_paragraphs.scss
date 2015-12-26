@@ -25,6 +25,7 @@ p {
 .post-content > p:last-of-type:after {
 
 	content: " ";
+	// color: inherit;
 	display: inline-block;
 
 	width: 0.5em;

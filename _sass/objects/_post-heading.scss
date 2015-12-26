@@ -10,7 +10,7 @@
 
 	position: relative;
 
-	margin-top: 0;
+	margin-top: 0.25em;
 	margin-bottom: 1em;
 
 	color: $primary-color;
@@ -29,6 +29,12 @@
 
 		-webkit-box-decoration-break: clone;
 		box-decoration-break: clone;
+
+	}
+
+	.post-preview & {
+
+		margin-bottom: 0;
 
 	}
 
@@ -105,5 +111,20 @@
 .article-preview + .article-preview {
 
 	margin-top: 2.25em;
+
+}
+
+.back-to-top {
+
+	display: inline-block;
+
+	position: absolute;
+	top: 0;
+	right: 0;
+
+	background-color: $luma-80;
+	color: contrast($luma-80);
+
+	padding: 0.5em;
 
 }
