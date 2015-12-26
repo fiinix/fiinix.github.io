@@ -20,7 +20,7 @@ But I really shouldn't complain. So I won't. Instead I will make a gingerbread c
 	<figcaption>I never remember how much cookies we end up with.</figcaption>
 </figure>
 
-Baking the gingerbread cookies was of course only a small part in the Christmas feast. Other delicious things on the menu included a large roasted goose---we've always wanted to try goose---freshly baked bread, roasted vegetables and Rebecka's delightful re-invention of the British Christmas Pudding---the secret is that isn't doesn't contain any fruits or raisins.
+Baking the gingerbread cookies was of course only a small part in the Christmas feast. Other delicious things on the menu included a large roasted goose---we've always wanted to try goose---freshly baked bread, roasted vegetables and Rebecka's delightful re-invention of the British Christmas Pudding---the secret is that doesn't contain any fruits or raisins.
 
 <figure>
 	<img class="js-lazy-load" data-original="/assets/posts/2015/december/wishing-you-a-merry-christmas/rebecka-fixing-her-hair.jpg" alt="Rebecka and her reflection as she fixes her hair in preparation for our Christmas feast.">
