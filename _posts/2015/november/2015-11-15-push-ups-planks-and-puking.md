@@ -59,7 +59,7 @@ But rather than pretending that everything has been awesome, I want to tell you 
 
 Now I don't have a habit of weighing myself---nothing good ever comes of it---and we don't even own a bathroom scale. Which means, the only time I would weight myself is when we go back to Finland, where my mom has a scale in her bathroom---
 
-*Yeah, it's a convoluted and complicated as it sounds.*
+*Yeah, it's as convoluted and complicated as it sounds.*
 
 ---This of course means that I have very little data on how my weight has changed since I started exercising.
 

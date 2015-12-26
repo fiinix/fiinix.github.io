@@ -2,7 +2,7 @@
 layout: post
 title: "Outstanding October, Issue 10/15"
 date: 2015-11-01 T 16:00 UTC
-tags : ["Keeping Up with the Erikssons", Marvel, "Avengers: Age of Ultron", Ant-Man, Movies, Camera, "Canon 100D", Writing, "net Magazine", Squiders, Zombies, Pictures, Halloween, Leeds Castle, Harry Potter, Accessibility]
+tags : ["Keeping Up with the Erikssons", Marvel, "Avengers: Age of Ultron", Ant-Man, Movies, Camera, "Canon 100D", Writing, "Net Magazine", Squiders, Zombies, Pictures, Halloween, Leeds Castle, Harry Potter, Accessibility]
 category: personal
 excerpt: "In this month’s issue of Keeping Up With the Erikssons: I head down to Camber Sands for a weekend, Lucien and I catch up with all the Marvel film, I get a camera and become a published writer, the new Squiders.com website goes live and we celebrate Halloween."
 ---
