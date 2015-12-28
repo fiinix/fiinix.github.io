@@ -5,7 +5,11 @@ layout: default
  <div class="group" role="main">
    <section class="col col--primary">
 
-      <h1 class="h2">I&rsquo;m a designer; Sometimes websites, sometimes not.</h1>
+      <h1 class="h1 page-heading">Bonjour</h1>
+
+      <p class="lead">I&rsquo;m a designer; Sometimes websites, sometimes not.</p>
+
+      <!-- <h1 class="h2">I&rsquo;m a designer; Sometimes websites, sometimes not.</h1> -->
 
       <h2 class="h4">Recent entries</h2>
 
@@ -13,7 +17,7 @@ layout: default
       {% for post in site.posts limit:5 %}
         <article class="post-preview">
         {% include date.html type="listing" %} {% include reading-time.html type="post" %}
-        <h3 class="h3 post-heading no-margin post-type--{{ post.category }}"><a class="post-link" href="{{ post.url | prepend: site.baseurl }}"><span {% if post.color %} style="color: white; background-color: {{ post.color }};"{% endif %} >{{ post.title | markdownify | strip_html | trim  }}</span></a></h3>
+        <h3 class="h3 post-heading post-type--{{ post.category }}"><a class="post-link" href="{{ post.url | prepend: site.baseurl }}"><span {% if post.color %} style="color: white; background-color: {{ post.color }};"{% endif %} >{{ post.title | markdownify | strip_html | trim  }}</span></a></h3>
         <p>{{ post.excerpt | markdownify | strip_html | trim }}</p>
         <!-- <p class="align-right">
           <a href="{{ BASE_PATH }}{{ post.url }}" title="Read &ldquo;{{ post.title }}&rdquo;">[{% include reading-time.html type="post" %}]</a>
@@ -26,6 +30,7 @@ layout: default
    <aside class="col col--secondary" role="complementary">
 
     {% include copy__author.html %}
+    <hr>
     <!-- {% include copy__mvp.html %} -->
     {% include site__tags.html %}
 
