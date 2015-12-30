@@ -24,7 +24,7 @@ After my first talk at [Web in the Woods][finn] and all the wonderful, both posi
 
 So when Wesley and Keith approached me---both of them having attended Web in the Woods---asking if I wanted to talk at their event codeHarbour on Tour! I was of course delighted.
 
-I preparation for it also dawned on me that thanks to the new camera I could record my talk, partly to show to you and partly so I could observe myself and get better at talking.
+In preparation for it also dawned on me that thanks to the new camera I could record my talk, partly to show to you and partly so I could observe myself and get better at talking.
 
 So I did.
 
