@@ -11,12 +11,28 @@ I'm also migrating all the entries from my old Blogger+Blogspot account and [the
 [archive]: https://trello.com/c/eHBiNXt3
 [reclaimer]: https://trello.com/c/BNMKDXQB
 
+##2016
+
+*The year that hasn’t reached an introspective status yet.*
+
+[See all the entries from 2016 so far][2016].
+
+[2016]: /archive/2016
+
 ##2015
 
-*The year that hasn't reached an introspective status yet.*
+Memorable event include; [starting to exercise][exercise], [becoming a zombie for a day][zombie], [speaking at my first conference][webinthewoods], [becoming a published writer][netmag], [completing the year-long beard journey][beard] and [toasting to the ten terrific years][tenyears] spent with Rebecka.
 
-[See all the entries from 2015 so far][2015].
+But my favourite entry is [Back to the Past][backpast], where in honour of Marty McFly's arrival in the future, I wander through the past 12 years of web design for carloseriksson.com and look at the different, sometimes bad, design decisions I have made throughout the years.
 
+[See all the entries from 2015][2015].
+
+[exercise]: /blog/exercising-the-demons
+[zombie]: /blog/beards-brains-and-beauty
+[webinthewoods]: /blog/a-finn-in-the-forest-part-ii
+[netmag]: /blog/outstanding-october-issue-10-15/#net-magazine
+[tenyears]: /blog/a-toast-to-ten-terrific-years
+[backpast]: /blog/back-to-the-past
 [2015]: /archive/2015
 
 ##2014
@@ -62,17 +78,22 @@ I have 83 entries in need of migration from this year.
 
 ##2009
 
-I have 34 entries in need of migration from this year.
+Memorable events include; [creating sculpted dolls][dolls], a horrible [bucket list][bucket], [performing covers and my own material at Night of Arts][nightart], [getting a third tattoo][tattoo3] and [designing an T-shirt for Xbox.com][xbox].
 
-<!-- My favourite entry has got to be one of my live performances from Night of Arts, specifically [Part III & IV, “Into The Night” And “Made of Glass”][glass]. Let's be honest though, most of the other entries are quite terrible.
+But my favourite entry has got to be one of my live performances from Night of Arts, specifically [Part III & IV, “Into The Night” And “Made of Glass”][glass].
 
 [See all the entries from 2009][2009].
 
+[dolls]: /blog/more-glorious-shots-of-dolls
+[bucket]: /blog/things-to-do-whilst-im-still-alive
+[nightart]: /blog/part-i-leap-of-faith
+[tattoo3]: /blog/tattoo-no-3
+[xbox]: /blog/my-xbox-my-way-runner-up
 [glass]: /blog/part-iii-and-iv-into-the-night-and-made-of-glass
-[2009]: /archive/2009 -->
+[2009]: /archive/2009
 
 ##2008
 
-The first year. The year with [one measly entry][one].
+The first year. The year with [one measly entry][one]. Mostly kept here for posterity.
 
 [one]: /blog/post-no-1
