@@ -2,7 +2,7 @@
 layout: post
 title: "Dramatic December, Issue 12/15"
 date: 2015-12-30 T 23:30 UTC
-tags : ["Keeping Up with the Erikssons", Conference, Christmas, codeHarbour, "Star Wars Episode VII: The Force Awakens", "Star Wars", Finland, "Dickensian Festival", Rochester]
+tags : ["Keeping Up with the Erikssons", Conference, Christmas, CodeHarbour, "Star Wars Episode VII: The Force Awakens", "Star Wars", Finland, "Dickensian Festival", Rochester]
 category: personal
 excerpt: "In this month’s issue of Keeping Up With the Erikssons: I speak at another conference (even recording it), we go to our traditional Dickensian Christmas, two of my friends from Finland come for a visit and Lucien and I watch the new Star Wars film (spoiler-free)."
 ---
