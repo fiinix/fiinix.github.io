@@ -17,7 +17,7 @@ The type is set in Lora by [Cyreal][cyreal] for body copy and Cooper Hewitt by [
 
 This website is built with [Jekyll][jekyll], a ‘blog aware, static site generator’, and hosted on [GitHub Pages][source]. The source code is version controlled with Git and stored on GitHub.
 
-The evolution this website is an experiment in iterating and building something out in the open, which is why its progress is available on a [public Trello board][trello].
+The evolution of this website is an experiment in iterating and building something out in the open, which is why its progress is available on a [public Trello board][trello].
 
 All the pages are given semantic meaning with <abbr title="HyperText Markup Language" class="small-caps">HTML5</abbr> and the aesthetics are controlled by <abbr title="Cascading Style Sheets" class="small-caps">CSS</abbr>.
 
