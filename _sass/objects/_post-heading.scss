@@ -30,6 +30,8 @@
 		-webkit-box-decoration-break: clone;
 		box-decoration-break: clone;
 
+		box-shadow: -3em 0 0 $primary-color;
+
 	}
 
 	.post-preview & {
@@ -37,6 +39,32 @@
 		margin-bottom: 0;
 
 	}
+
+	&:before {
+
+		// content: attr(data-heading);
+		font-size: 5.063em;
+		line-height: 1.05;
+
+		position: absolute;
+		top: 0;
+		left: 0;
+
+		white-space: nowrap;
+
+		transform: translate(-1em, -1em);
+
+		opacity: 0.2;
+
+		z-index: -1;
+
+	}
+
+}
+
+.post-preview .post-heading span {
+
+	box-shadow: none;
 
 }
 
@@ -72,6 +100,7 @@
 		> a > span {
 
 			background-color: $tertiary-color;
+			box-shadow: -3em 0 0 $tertiary-color;
 
 		}
 
@@ -89,6 +118,7 @@
 	> span {
 
 		background-color: $luma-10;
+		box-shadow: -3em 0 0 $luma-10;
 
 	}
 
