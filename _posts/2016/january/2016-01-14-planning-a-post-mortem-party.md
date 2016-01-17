@@ -4,6 +4,7 @@ title: "Planning a Post-Mortem Party"
 date: 2016-01-14 T 21:00 UTC
 tags : [Mortality, Death, Health, David Bowie, Alan Rickman, Lemmy Kilmister, "Bios Urn", Recycle]
 category: personal
+disclaimer: "Trigger warning: The following entry talks about Death and/or dying." 
 excerpt: "In which Death reminds all us about our fragile human-condition and I decide to make plans for my eventual demise."
 color: "#3d4520"
 color2: "#b92f3c"
