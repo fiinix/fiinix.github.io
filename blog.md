@@ -19,5 +19,5 @@ excerpt: "I've kept an online journal for the past seven, going on eight years, 
 <h3 class="h4 subheading" id="more-posts">Haven&rsquo;t had enough yet?</h3>
 
 <p>
-	You&rsquo;ll find all {{ site.posts | size }} entries in <a href="/archive">the archive</a>.
+	You&rsquo;ll find all {{ site.posts | size }} entries, across {{ site.tags | size}} topics in <a href="/archive">the archive</a>.
 </p>
