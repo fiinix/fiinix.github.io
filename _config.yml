@@ -12,6 +12,10 @@ markdown: kramdown
 highlighter: pygments
 permalink: /blog/:title
 
+# Gems
+gems:
+  - jekyll-redirect-from
+
 # Sass settings
 sass:
     style:  compressed  # nested|expanded|compact|compressed
