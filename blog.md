@@ -1,7 +1,8 @@
 ---
 layout: journal
 title: Journal
-permalink: /journal/
+permalink: /blog/
+redirect_from: "/journal/"
 excerpt: "I've kept an online journal for the past seven, going on eight years, writing about things that excite, annoy and fascinate me."
 ---
 <!-- <h2 class="h4">Recent entries</h2> -->
