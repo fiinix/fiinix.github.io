@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Jaded January, Issue 01/16"
-date: 2016-01-31 T 21:00 UTC
+date: 2016-01-31 T 19:00 UTC
 tags : ["Keeping Up with the Erikssons", "Fallout 4", "R&R", Book, Copywriting, Mark Shaw, Review]
 category: personal
-excerpt: "In this month’s issue of Keeping Up With the Erikssons: We get some well earned R&R, I'm fed up with Fallout and I finish this month's challenge by getting a head start on next month's challenge; Reading."
+excerpt: "In this month’s issue of Keeping Up With the Erikssons: We get some well earned R&R, I'm fed up with Fallout 4 and I finish this month's challenge by getting a head start on next month's challenge; Reading."
 ---
 I suspect this is going to be one of the shortest Keeping Up with the Erikssons as we spent most of the month resting, which means there's not as much to talk about this month.
 
