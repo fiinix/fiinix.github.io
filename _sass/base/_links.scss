@@ -10,65 +10,20 @@
 
 a {
 
-	// display: inline-block;
-
 	position: relative;
 	text-decoration: none;
-
-	// outline: 0.25em solid transparent;
-	// outline-offset: 1em;
-
-	// border-bottom: 0.09em solid;
-
-	// background-image: linear-gradient(to bottom, transparent 89%, $black 89%, $black 93%, transparent 93%);
-
-	// text-shadow:	0 0.03em $white,
-	// 				0 -0.03em $white,
-	// 				0.06em 0 $white,
-	// 				0 -0.06em $white,
-	// 				0.03em 0 $white,
-	// 				-0.03em 0 $white,
-	// 				0.06em 0 $white,
-	// 				-0.06em 0 $white,
-	// 				0.09em 0 $white,
-	// 				-0.09em 0 $white;
 
 	background-image: linear-gradient(to bottom, $link-color-underline 100%, $link-color-underline 100%);
     background-position: 0 100%;
     background-repeat: repeat-x;
     background-size: 0.1111em 0.1111em;
 
-    // padding: 0 0.2222em;
-
-	// color: $primary-color;
-	// color: $luma-10;
 	color: $link-color;
 
 	@include transition($timing: ease-in-out, $duration: 150ms);
 
-	// &:link {
-
-	// 	color: $primary-color;
-	// 	color: $luma-10;
-
-	// }
-
-	&:before {
-
-		// content: " ";
-		// display: block;
-
-		// position: absolute;
-		// z-index:
-
-	}
-
 	&:visited {
 
-		// color: darken($primary-color, $deviate);
-		// color: $black;
-		// background-color: $black;
-		// background-image: none !important;
 		color: $link-color-visited;
 
 	}
@@ -92,18 +47,19 @@ a {
 
 	}
 
-	&:focus {
+}
 
-		// outline-offset: 0;
-		// outline-color: $focus-color;
-		// background-color: $focus-color;
-		// color: contrast($focus-color);
+.link--tertiary {
 
-	}
+	background-image: linear-gradient(to bottom, $tertiary-color 100%, $tertiary-color 100%);
+	background-size: 0.2222em 0.2222em;
 
+	&:hover,
+	&:focus,
 	&:active {
-
-		// transition: none;
+		
+		background-image: linear-gradient(to bottom, $tertiary-color 100%, $tertiary-color 100%);
+		background-size: 0.3333em 0.3333em;
 
 	}
 

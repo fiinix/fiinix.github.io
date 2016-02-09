@@ -100,3 +100,17 @@ ins {
   // border-bottom: 1px dashed $luma-50;
 
 }
+
+// Override default abbr styling
+.discrete {
+
+  border: 0 !important;
+
+  &:before,
+  &:after {
+  
+    content: none !important;
+
+  }
+
+}
