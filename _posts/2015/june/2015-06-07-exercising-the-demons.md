@@ -93,5 +93,5 @@ By the way, if there's any yoga practitioner reading this I would genuinely love
 
 You give me advise and we'll forget all about the bird shit incident, okay?
 
-[prev]: {% post_url 2014/april/2014-04-16-my-body-the-trash-receptacle %}
-[smoking]: {% post_url 2014/december/2014-12-02-800-days-of-breathing %}
+[prev]: /blog/my-body-the-trash-receptacle
+[smoking]: /blog/800-days-of-breathing
