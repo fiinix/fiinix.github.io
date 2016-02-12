@@ -12,7 +12,7 @@ At the same time, I had already written most of what I had originally envisioned
 
 Because there’s no distinct “Yes, this is where it started”, I’ll just start from the day Lucien showed the first of the many symptoms that were to follow.
 
-##25th of December, Christmas Day
+## 25th of December, Christmas Day
 
 On Christmas Day we all sat down to eat supper but Lucien seemed more irritable and tired than usual, not wanting any food. He went to sleep without having eaten, which wasn’t much cause to alarm as he tends to do that, when he’s coming down with something like the flu. His eyes seemed a bit red, maybe it’s Conjunctivitis.
 
@@ -22,11 +22,11 @@ The next few days his fever kept going up and we kept giving some Paracetamol to
 
 We didn’t really do much else these days and soon enough it was weekend. We had thought about calling our GP on Friday to get him checked up but since he was only on his second day of fever we didn’t.
 
-##29th of December
+## 29th of December
 
 Sunday things took a turn for the worse as he started complaining that he couldn’t move his head and that it hurts. At this point we noticed that his cervical lymph nodes are swollen and we conclude that we’re definitely calling his GP tomorrow.
 
-##30th of December
+## 30th of December
 
 In the morning, as I walked to work, I called to book a same-day appointment for him and got one at their—further away—health station. I called my wife, Rebecka, to tell her about this and found out that she was feeling ill as well and wouldn’t be able to take him to the—further away—health station so we agreed that I would take him instead. Talking to a co-worker I told him how Rebecka was also feeling bad and we reassuringly joked that “At least that means it’s not cancer or something autoimmune.”, since it seemed like Rebecka had gotten whatever Lucien was having.
 
@@ -51,7 +51,7 @@ His temperature gets measured, I can remember that I think it’s quite high and
 	<figcaption>At least he got to wear this Spiderman shirt.</figcaption>
 </figure>
 
-##31st of December, New Year’s Eve
+## 31st of December, New Year’s Eve
 
 After an insufficient night’s sleep—we were both exhausted but they kept waking him, who in turn woke me, to give him various medications—we wake up in at Tunbridge Wells Hospital. This one so big that it has its own Costa Coffee—Thank [deity] for that—on the ground floor.
 
@@ -69,13 +69,13 @@ As the rest of the world celebrates the passing of another year, we don’t cele
 	<iframe width="560" height="315" src="https://www.youtube.com/embed/KqAl45h89R4" frameborder="0" allowfullscreen></iframe>
 </figure>
 
-##1st of January, New Year’s Day
+## 1st of January, New Year’s Day
 
 Another night with unsatisfactory sleep but at least I don’t wake up with a migraine. Lucien appears to have a bit more energy as he requests toast when asked if he wants anything for breakfast. But he only eats a quarter of a slide. The DVD player built into the big fancy TV doesn’t want to read most discs but I get Toy Story—the fifth or sixth watching at this point—to work again.
 
 Knowing I need to stay strong—even though I’m just terrified—I go to the downstairs cafeteria to eat lunch. I have found that it’s important to stay well-fed in situations like these. Whether you want to eat or not.
 
-##2nd of January
+## 2nd of January
 
 Lucien’s second day of being considerably more miserable than before, the doctors decide that he probably has Kawasaki disease. I find the lack of self-assurance reassuring. He’s on his 8th day of fever. They say that they will start the treatment later today. I feel like I can exhale a bit.
 
@@ -83,7 +83,7 @@ They put a new IV into his right hand before removing the left one. He cries jus
 
 The treatment takes longer than I expect it to but I feel like we both get a “good” night’s sleep for the first time in a while.
 
-##3rd of January
+## 3rd of January
 
 He somehow seems better, more himself. The treatment seems to have worked. The doctors say that there’s still complications that can arise as a consequence of Kawasaki disease, which means a visit to another hospital—later on—in London to look at his heart but other than that, he is getting discharged today. I try to figure out how to get home from here and settle on trying our luck with an hour on a bus. Lucien wants to finish watching Deal or No Deal before we leave, I let him.
 

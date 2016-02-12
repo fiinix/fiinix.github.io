@@ -24,13 +24,13 @@ But obviously the UP24 has been discontinued so I couldn't get that any more. Lo
 	<figcaption>Looking at both of them I must confess that I prefer the design of the UP3. You can also see the effects of the rubber stretching on the UP24 as it overlaps its own ends more than it should.</figcaption>
 </figure>
 
-##The Jawbone UP3
+## The Jawbone UP3
 
 The two biggest selling points for me was the heart tracking and advanced sleep tracking---and thanks to a [recent firmware update][jawbone] the heart tracking has been vastly improved and increased from its initial once-a-day tracking of your Resting Heart Rate to include recurring tracking of your Passive Heart Rate as well.
 
 I also wanted to track my sleep in more detail and was hoping its inclusion of <abbr title="Rapid eye movement" class="small-caps">REM</abbr> sleep tracking would give me more insight into my sleeping patterns.
 
-###Aesthetics
+### Aesthetics
 
 I loved the design of the UP24 because unlike many of its competitors---I'm looking at you Fitbit CHARGE HR---Jawbone puts as much effort into the aesthetic design of their trackers as they do to the technical aspects.
 
@@ -38,7 +38,7 @@ Again, we have Yves Béhar to thank for this and I applaud the designs he and hi
 
 For someone who wants a tracker that---however stupid it sounds---*doesn't* look like a tracker, Jawbone is really the only ones offering me any kind of selection.
 
-###Technology
+### Technology
 
 Moore's law tells us that technology will continue to either get faster or smaller yet somehow---because I'm stupid and don't know how stuff works---I'm surprised every time it does.
 
@@ -71,7 +71,7 @@ And I'm hoping they'll somehow manage to squeeze more out of it via their magica
 
 There's no display to speak of---unless you count their three discreet icons, and I don't---which might be a deal breaker for you. For me, it was a deal sealer as I really didn't want anything with a screen.
 
-###Price
+### Price
 
 Priced at £129.99 I feel a little hypocritical in talking too much about its price since I paid about £50 less for mine.
 
@@ -79,7 +79,7 @@ And whilst both the Fitbit CHARGE HR and the Garmin vívosmart® HR are £10 che
 
 As far as fitness trackers goes the UP3 seems to place itself amongst its peers without standing out as being neither the cheapest or the most expensive.
 
-###Verdict
+### Verdict
 
 In the end I'm a little perplexed about the UP3. I think the design is beautiful and applaud their efforts into cramming all this stuff into a slim 29 g package. But knowing about its massive delay---they had trouble waterproofing it, settling for splash proofing it in the end---combined with its somewhat arrogant smart calibration---which is questionable---makes me wonder if they haven't created problem the UP24 had already solved.
 

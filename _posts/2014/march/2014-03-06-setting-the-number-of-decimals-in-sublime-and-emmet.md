@@ -24,7 +24,7 @@ The first time I encountered this problem I ended up spending quite a lot of tim
 
 But to make an already long story significantly shorter, using only the faintest memory of a function called “prettify” and GREP I managed to find the file I had changed the first time around. And because I would curse myself should I ever repeat this mistake again, I decided that I should write down the instructions.
 
-##Setting the number of decimals
+## Setting the number of decimals
 
 You could of course change it to as many decimals as you like but---for now---I’ve settled on 4 decimals instead of the default 2, because it feels like a happy compromise between precision and readability.
 

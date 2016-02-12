@@ -6,21 +6,21 @@ tags : [Dishonored, Gaming, Humour]
 category: archive
 excerpt: "Follow the self-proclaimed awesome adventures of Corvo as he stabs his way through Dunwall, seeking revenge for those who dissed his honour in Dishonored, a stealth action adventure game originally released in 2012, that I just got to on my to-play list."
 ---
-##Day 1
+## Day 1
 People are so going to know how awesome Corvo is when I come back from my journey. I mean sure I'm already the Lord Protector and shit, but now I'm going to get all the other isles to help us with this plague problem as well. I was going to have a scribe with me to document all my heroics but the Royal Spybastard Hiram---what kind of a name is Hiram anyway?---said there was no money in the budget for that, so I'm going to have to keep my own journal of what went down. You know? For when they make an epic movie about the awesome journey that saved Dunwall from the plague. Also, it's not a diary but a journal---very important---diaries are for losers who smell like whale.
 
 I think I'm going to have Emily read through it first as well, she thinks everything I do is the greatest thing in the world. Can't say I blame her. I'm pretty awesome. I just finished eating some bread and a tin of Pratchett's Jellied Eels and now I'm going to get ready to go.
 
-##Day 2
+## Day 2
 So seasick. Stupid Dunwall and their stupid plague. I hate boats.
 
-##Day 5
+## Day 5
 Tried eating some Potted Whale Meat today. Stupid whale meat wouldn't stay down. Are we there yet?
 
-##Day 10
+## Day 10
 Stupid isles with their stupid plague fears. Those meetings didn't really go as well as I had hoped. I can't wait to get back home so I can tell Jessamine about their stupid “for their safety” decisions. I know I'm going to be a couple of days early, so I hope Jessamine and Emily have managed to organise a party in my honour anyway. I still have this totally pointless letter to give to Jessamine. Hopefully we can have cake first. I hope I don't have to see that douchebag Spybastard Hiram though. I really don't get what his problem is but I can still remember his creepy grin as I left Dunwall. Way to be a partypooper dude.
 
-##Day 198
+## Day 198
 Umm. So yeah. It's been a “few days” since I wrote anything. A lot of stuff kind of happened on that day that I returned. The short version goes a little something like this. Jessamine is dead. Like stabbed to death, dead. And some weirdo assassins kidnapped Emily.
 
 Longer version. I went to deliver the letter to Jessamine and “Boom!”, some weirdo assassins show up but I like totally kill them all. But then some more show up and one of them made me like float in the air with his hand and I can't do anything. And then they stab Jessamine right in front of me, take Emily and “Poof!” they are gone.
@@ -37,7 +37,7 @@ Besides, the Loyalists have this inventor guy named Pietro or something, that ma
 
 Actually---on second thought---since I'm still kind of wanted for the assassination of the Empress, that might not be the best idea.
 
-##Day 199
+## Day 199
 Woah, I had like the weirdest fucking dream last night. Some guy calling himself “The Outsider”---talk about lame superhero name---came to me in my dreams and told me that I was chosen or something blah blah I don't know, I kind of zoned out there in the middle. And then he told me he was going to give me superpowers. But then he also gives me this really gross human heart that is still beating. It was so disgusting.
 
 Then get this! When I woke up this morning I had a human heart in my bed. It was so gross I puked a little in my mouth. Whenever I hold the heart, it starts beating and then it shows me to these weird whale bone thingys. At first I was like “WTF?”, but I'm cool now because they seem to give me like more powers or something.
@@ -66,7 +66,7 @@ Anyway so yeah. Sneaky sneaky, switched your drink and “Boom!” your dead. I 
 
 How awesome am I? Pretty awesome, that's how.
 
-##Day 200
+## Day 200
 No weird dreams this time. Admiral Yes-Sir and his new sidekick Martin want me urgently for some reason so I'm going to go downstairs and see what that's all about. They better not want me to go somewhere before I've had my breakfast.
 
 ***
@@ -92,5 +92,5 @@ Anyway. It's been a long day today, and I'm really tired. Tomorrow I'm going to 
 
 ***
 
-##Day 201
+## Day 201
 Corvo just gave this diary to me and told me to keep it safe and write in it daily. Although I'm happy he rescued me, I'm also worried, he's clearly not taking my mother's death as well as I had thought. His behaviour aside, that disturbing mask he's wearing isn't doing much for the image of his mental health either. I fear he's becoming a liability. 

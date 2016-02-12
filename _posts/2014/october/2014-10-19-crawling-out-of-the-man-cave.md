@@ -6,7 +6,7 @@ tags : [Personal, Man Cave, Feminism]
 category: blog
 excerpt: In which I reveal some of my emotional baggage and talk about the long journey ahead before becoming the husband and father I'd like to be.
 ---
-##The road already taken
+## The road already taken
 
 When I was about 3 years old, my father left/was kicked out by my mother who had had enough of his irresponsible nature. Whilst he was---apparently---very emotionally available, he was too unreliable and she needed someone who could support us.
 
@@ -38,7 +38,7 @@ A drunk with 5 children from 3 different relationships, but no family.
 
 
 
-##Paus, breath & reflect
+## Paus, breath & reflect
 
 
 
@@ -66,7 +66,7 @@ But it's a long fucking journey to get to where I want to be. I have a lot of gh
 
 
 
-##The long, long road ahead
+## The long, long road ahead
 
 
 "Where do I start?" I ask myself every now and then, hoping someone will emerge from the depths of Disneyland with a magical potion to make it all easier. Of course, no one ever does because it's never easy.

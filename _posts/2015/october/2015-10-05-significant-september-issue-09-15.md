@@ -11,7 +11,7 @@ Another month flew by so quickly that it took me almost a week into October, whe
 
 Let's get that taken care of, shall we?
 
-##Dicken's World
+## Dicken's World
 
 Whilst Lucien had his list of places he wanted to go, Rebecka also had hers.
 
@@ -39,13 +39,13 @@ I can highly recommend Dicken's World, even to those with little interest in his
 
 I left Dicken's World feeling like they could easily expand on the whole concept they have and make it even bigger, that's how good and how much potential it has.
 
-##Web in the Woods
+## Web in the Woods
 
 In September I spoke at my first conference, [Web in the Woods][web], but since I've written about it extensively I'm not going to do it much more here. If you're intersted in my preparations, and reviewing of pretty much everything I took with me, you can read all about it in [A Finn in the Forest, Part I][finn1].
 
 As for the conference itself, which went really well, I've written about it in [A Finn in the Forest, Part II][finn2].
 
-##Just a little from the sides
+## Just a little from the sides
 
 So. After letting both my beard and hair grow, the time had come for the latter to become significantly shorter.
 

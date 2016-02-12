@@ -8,7 +8,7 @@ excerpt: From watching dancers with bell pads on their shins and building Lego m
 ---
 Somehow the expression "No rest for the wicked" comes to mind, despite the fact that it doesn't really have *anything* to do with all the stuff we got up to this 3-day weekend.
 
-##Saturday
+## Saturday
 
 On Saturday we attended the [Sweeps Festival][sweeps] in [Rochester][rochester], were we---and lots of other people---enjoyed wild boar burgers, ales, live folk music and displays with Morris dancers.
 
@@ -38,7 +38,7 @@ Lucien, on the other hand, wanted to ride on the merry-go-rounds and who were we
 
 At this point we were getting quite tired and decided to start heading home for the day, especially seeing as we already had plans for Sunday.
 
-##Sunday
+## Sunday
 
 On Sunday, we had a Birthday party to attend but since it wasn't until late in the afternoon, Lucien and I ended up spending most of the day---and a little bit of Monday morning---building our contribution to Lego's [Spring Fever Build Challenge "Build Green"][spring].
 
@@ -63,7 +63,7 @@ But I'll tell you this much, the Portuguese know how to throw a birthday party t
 
 A glass, or three, of [Aguardiente][booze]---a 50% <abbr title="alcohol by volume">AVB</abbr> spirit made from sugarcane---is a much better idea than it sounds.
 
-##Monday
+## Monday
 
 And finally, Monday. The day when I realised two things;
 

@@ -18,7 +18,7 @@ You know what? I'm getting ahead of myself.
 
 Let's start from the beginning.
 
-##I love morning flights
+## I love morning flights
 
 Having calculated that I would actually save more money---and my sanity as an added bonus---I ordered a airport transfer taxi, which would arrive at 04:30.
 
@@ -45,7 +45,7 @@ Imagine my surprise when seating myself aboard Finnair's modern plane, fitted wi
 
 Finnair is amazing.
 
-##Putting things in my mouth
+## Putting things in my mouth
 
 Upon arrival I was greeted by my mom, who had offered to take me out for a pizza. She had asked me if there was anything particular I wanted, to which I had replied ["Kotipizza"][kotipizza].
 
@@ -70,7 +70,7 @@ I had a great time and even managed to add a few more ales to my spreadsheet, ev
 
 I also had the good fortune of trying an ale that is now officially one of the most disgusting ales I've ever had, a Belgian Trappist beer called [À la Chimay Bleue][chimay].
 
-##Sunday, a day for hangovers
+## Sunday, a day for hangovers
 
 Now, I should confess. I get very hungover. Very very easily.
 
@@ -78,7 +78,7 @@ At least when drinking beer, vodka and spirits always seem to have a less detrim
 
 Which came in handy as I hung out with my mom, siblings and brother-in-law for most of Sunday.
 
-##A kosher flight home
+## A kosher flight home
 
 Monday morning. I took my sweet time getting up. My flight wasn't leaving until 17:55, giving me plenty of time to have breakfast and hang out with my mom before heading out to catch up with my grandparents before I leave.
 

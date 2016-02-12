@@ -8,7 +8,7 @@ excerpt: "In which I mangle and molest two company names for the sole purpose of
 ---
 I think that title should be a white card in the party game [Cards Against Humanity][cah].
 
-##Cupcakes
+## Cupcakes
 
 Remember all those [cupcakes I baked last year][cupcakes]? What started out as a way to alleviate boredom and still my insatiable appetite---pun intended---to try new things, turned into 7 spectastacularly---If Shakespeare could make up words, then so can I---different cupcakes, much to the delight of my co-workers.
 
@@ -31,7 +31,7 @@ Cue the---
 
 I suppose it's good to know that I have an alternative career to fall back on if this *web design thing* doesn't pan out.
 
-##From wizards to squids
+## From wizards to squids
 
 As my last week at [Sitewizard Ltd][sitewizard] drew to its close I started reflecting more and more on whether or not I *had actually* learned anything during my time there. The answer was, of course, yes. Yes I have. I would be a narcissist to think otherwise.
 
@@ -50,7 +50,7 @@ Kris and Jo---from Squiders---had invited me out, so we could get to know each o
 
 It's a good thing I've already gotten the job.
 
-##Tattoos
+## Tattoos
 
 And in other news I've also *finally gotten started* on my next and final tattoo. My two main characters will have, hopefully, by the end of the year, grown into the sleeve tattoo that will cover my entire right arm.
 

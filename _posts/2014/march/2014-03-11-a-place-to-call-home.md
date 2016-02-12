@@ -12,7 +12,7 @@ Give it a little time and elbow grease and I'll get this heap to look like somet
 
 ***
 
-##A year later
+## A year later
 
 Those two measly paragraphs above is all I wrote over a year ago as I blatantly launched carloseriksson.com, moving my journal from [the old Blogger+Blogspot combo][blogspot] I had been enduring for the past 7 or so years, to a brand spanking new Github+Jekyll combo.
 
@@ -34,7 +34,7 @@ Looking around, you can see from the state of the website and that [Trello board
 
 And I'm okay with that.
 
-##What about the old blog?
+## What about the old blog?
 
 I'm glad you asked---let's pretend you did.
 

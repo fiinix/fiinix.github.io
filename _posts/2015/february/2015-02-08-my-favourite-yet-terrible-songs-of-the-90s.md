@@ -31,61 +31,61 @@ Anyway, here we go.
 	<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLizPUDnkGfiRGQ0ZQo4jPxeRDo5NtbzyI" frameborder="0" allowfullscreen></iframe>
 </figure>
 
-###1990
+### 1990
 
 Bad English - Price of Love, **Embarrassing**
 
 Roxette - It Must Have Been Love, **Good**
 
-###1991
+### 1991
 
 Firehouse - Love of a Lifetime, **Embarrassing**
 
 Bryan Adams - Everything I Do (I Do It For You), **Good**
 
-###1992
+### 1992
 
 Color Me Badd - All 4 Love, **Embarrassing**
 
 Guns N' Roses - November Rain, **Good**
 
-###1993
+### 1993
 
 Silk - Freak Me, **Embarrassing**
 
 Bon Jovi - Bed of Roses, **Good**
 
-###1994
+### 1994
 
 All-4-One - I Swear, **Embarrassing**
 
 Aerosmith - Crazy, **Good**
 
-###1995
+### 1995
 
 Jamie Walters - Hold On, **Embarrassing**
 
 Seal - Kiss From a Rose, **Good**
 
-###1996
+### 1996
 
 George Michael - Fastlove, **Embarrassing**
 
 2Pac - California Love, **Good**
 
-###1997
+### 1997
 
 Savage Garden - I Want You, **Embarrassing**
 
 Puff Daddy and Faith Evans - I'll Be Missing You, **Good**
 
-###1998
+### 1998
 
 Five - When The Lights Go Out, **Embarrassing**
 
 Backstreet Boys - Everybody (Backstreet's Back), **Good**
 
-###1999
+### 1999
 
 Enrique Iglesias - Bailamos, **Embarrassing**
 

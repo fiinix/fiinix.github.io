@@ -40,14 +40,14 @@ Which is how we segue into the first of the top 7 important things about midsumm
 	<figcaption>A midsummer bonfire in Finland. Original photograph by Ralf Roletschek.</figcaption>
 </figure>
 
-##7. The Bonfire
+## 7. The Bonfire
 Man make fire. Then man burn self on fire. Man stupid. Fire stupid.
 
 The bonfire, having its origin as a means of scaring away evil spirits, is a flourishing midsummer tradition in Finland as families, relatives and most everyone else come together to collectively gather the materials required for creating a large bonfire. Once completed, the bonfires are set alight on midsummer, shining their light across fields and beaches.
 
 There's a Finnish tongue-twister that nicely sums it up whilst also illustrating how ridiculously difficult Finnish can be to learn, and it goes; *Kokoo kokoon koko kokko!*, which translates to *Gather up a full bonfire!*
 
-##6. The Folk Magic
+## 6. The Folk Magic
 Few traditions have lived on so long as that of the superstition that the act of gathering flowers can be exchanged for premonitions of the future.
 
 > An unmarried woman will collect seven different flowers and places them under her pillow to dream of her future husband.
@@ -63,13 +63,13 @@ You're probably seeing a theme here, right?
 </figure>
 </div>
 
-##5. The Birch
+## 5. The Birch
 
 The birch tree---national tree of Finland---is an important element of midsummer where by placing branches from birch trees on both sides of the front door you welcome visitors of all ages.
 
 The branches of birch trees are also used for beating yourself and your friends when you use a sauna which is much more pleasant than it sounds.
 
-##4. The Food
+## 4. The Food
 
 A typical Midsummer menu features different kinds of [pickled herring][herring], boiled new potatoes with fresh dill, soured cream and chives. This is often followed by a grilled dish of some kind, such as spare rib or salmon, and for dessert the first strawberries of summer, with cream.
 
@@ -77,7 +77,7 @@ But seeing as pickled herring is bit tricky to get a hold of, especially since I
 
 And for dessert we had local strawberries with Rebecka's freshly baked *[Drömmar][dreams]*---a small shortbread type biscuits that melt in your mouth.
 
-##3. The Snapsvisa
+## 3. The Snapsvisa
 
 A typical snapsvisa is a short, vigorous song; its lyrics usually tell of the delicacy and glory of the drink, or of the singer’s craving for snaps. Snapsvisor are short, bright, and easy to learn.
 
@@ -101,7 +101,7 @@ Of course, no snapvisa would be complete without the alcohol itself and since th
 
 I bought a bottle of Smirnoff vodka and infused it with anise stars, fennel- and cumin seeds and put it in the freezer, taking it out hourly and shaking it vigorously. Usually, you're supped to let it infuse for a day in room temperature but I didn't have time for that. But despite my impatience the snaps was awesome.
 
-##2. The Maypole
+## 2. The Maypole
 
 No self-respecting midsummer celebrant would be caught dead without a maypole, or midsummer pole, its importance can be traced back to Germanic paganism of Iron Age and early Medieval times and although the tradition has survived Christianisation, its original meaning has sadly been lost.
 
@@ -116,7 +116,7 @@ The midsummer pole carries with it traditional ring dances, mostly in the form o
 
 In our case, a miniature midsummer pole had to suffice as we weren't sure how the neighbours would react to a big-ass midsummer pole in the communal garden which sadly meant no dancing around it. Maybe next year.
 
-##1. The Family and Friends
+## 1. The Family and Friends
 Finally, when it all comes down to it, the most important thing about midsummer is spending time together with family and friends.
 
 Because, after all the bonfires have burned down, the folk magic is tapped out, birch branches broken by the beatings, all the food has been eaten, snapsvisor have been sung along with all the alcohol that followed and the midsummer poles have been danced around. After all of that, what do you have left, if not family and friends.

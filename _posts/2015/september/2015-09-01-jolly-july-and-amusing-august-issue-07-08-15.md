@@ -16,11 +16,11 @@ And then faster than can you say, "Supercalifragilisticexpialidocious," the last
 
 So hold on to your butts---and tighten that sphincter of yours---and get ready for two whole months worth of events in this month's double issue of Keeping Up With the Erikssons.
 
-##Jolly July
+## Jolly July
 
 Take a moment and join me as we travel back in time, all the way back to yestermonth, when the weather was still nice, my beard was growing and you could get a hat for 10 shillings and a sixpence---except for that last one.
 
-###7 years and counting
+### 7 years and counting
 
 As another year goes by Lucien goes from 6 to 7 and unlike my birthday, Lucien really wanted to celebrate his.
 
@@ -35,7 +35,7 @@ Lucien wanted to have a zoo-themed birthday party this year, where the guests wo
 
 And that's the only pictures I have because I tried to enjoy the birthday party as much as possible and as a result I got no other photos at all.
 
-###Battling my brother
+### Battling my brother
 
 One day---out of the blue---my brother Christian decided to send me a Dubsmash video.
 
@@ -69,7 +69,7 @@ At which point I had to bring my A-game, after all, he had just called me, "Lame
 
 I think it's fair to say that I won this battle but the war rages on. Bring it, brother.
 
-###A visit from <i lang="sv">fammo</i>
+### A visit from <i lang="sv">fammo</i>
 
 My mom, Lucien's grandmother---or <i lang="sv">fammo</i> as he calls her---came to visit for an extended weekend.
 
@@ -109,7 +109,7 @@ Time flew by and soon she had to return back to Finland.
 
 But not before I had her join us as an enthusiastic participant in another super-scientific study of mine.
 
-###In the spirit of science
+### In the spirit of science
 
 During my mom's visit I had made plans for of us to partake in some of the beverages that the <abbr title="United Kingdom" class="small-caps">UK</abbr> has to offer.
 
@@ -117,11 +117,11 @@ As a sneak preview I can tell you that we found most of the beverages to be quit
 
 But I haven't quite finished writing about it yet so you'll have to look forward to the entry titled The Great British Beverage Off.
 
-##Amusing August
+## Amusing August
 
 That was July, next up we have the month that follows it, August. Let's carry on shall we, dear reader?
 
-###Beards, Brains and Beauty
+### Beards, Brains and Beauty
 
 The [Squiders website][squiders] has served its purpose and the once, quite unique video, that has graced its Home page is now everyday and mundane. Because let's face it, every design agency nowadays has a video on its Home page.
 
@@ -133,7 +133,7 @@ If you're squeamish to the sight of blood, even the fake kind, consider yourself
 
 [Read all about my experience as a zombie in the entry Beards, Brains and Beauty][beards].
 
-###Brick City
+### Brick City
 
 During Lucien's summer holiday he had written himself a list of things he wanted to do, including things like going to LEGOLAND® at The Windsor Resort---which we're still going to go to one of these days.
 
@@ -172,7 +172,7 @@ The only large installation they had was St. Pancras Station, which concealed an
 	<figcaption>St. Pancras Station was actually pretty impressive.</figcaption>
 </figure>
 
-###Selfies with monkeys
+### Selfies with monkeys
 
 Another thing on Lucien's list was the [National History Museum][nhm], featured in one of his favourite films [Night at the Museum: Secret of the Tomb][night], he was eager to meet the exhibits that come to life.
 

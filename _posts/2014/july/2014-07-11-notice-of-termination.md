@@ -24,7 +24,7 @@ When I said, "nothing interesting," I actually meant, "nothing I could really ta
 
 Now, my notice has been handed in and my current co-workers have all been told and I suppose the only thing left is to tell the world. And by the "world" I of course mean "you".
 
-##Turning Over a New Leaf
+## Turning Over a New Leaf
 
 Last Friday I handed in my notice of termination of employment.
 
@@ -51,7 +51,7 @@ Of course not. I'm going to keep making websites because websites are awesome.
 
 But there you have it, by this time next month I will have joined the wonderful people at [Squiders][squiders].
 
-##A Rainy Night on Drury Lane
+## A Rainy Night on Drury Lane
 
 After an 8 month delay I've finally completed the manuscript for A Rainy Night on Drury Lane. This means as soon as I finish designing the actual ebook and cover, I will be the proud, self-published author of a novella.
 

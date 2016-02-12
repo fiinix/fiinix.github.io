@@ -43,7 +43,7 @@ Being able to track how and where I've been for a whole year was fascinating and
 
 You can probably see where this is going.
 
-##The Quantified Self
+## The Quantified Self
 
 The more I thought about it, the more I wanted to "quantify" myself. Not to start living healthier or to exercise more---maybe I'll get to that later---but mostly just to see how healthy I am.
 

@@ -19,7 +19,7 @@ Other events, like attending my very first cricket game has grown so much that i
 
 In the end, these are the events that made the cut---if you want to think of it that way.
 
-##Turning 31
+## Turning 31
 
 I, of course, turned 31 but before you get your hopes up, no, I actually decided against having a cake this year. Last year's fire hazard of a cake still brings a smile to my face---which is all I wanted anyway---and the thought of a sugar-laden cake just didn't do anything for me this year.
 
@@ -44,7 +44,7 @@ The game doesn't work on multi-core Windows 7 machine---i.e. it crashes constant
 
 But despite these nags---and other a few other---I still love Fallout 3 as much as I did the day it was released.
 
-##Kent Digital Awards
+## Kent Digital Awards
 
 Oh, would you look at that, it's award-winning Designer and Front-end developer Carlos Eriksson.
 
@@ -76,7 +76,7 @@ Still though, congratulations to us. *And to everyone else who won awards that e
 
 *Well, except all of you who lost. You guys suck.*
 
-##Midsummer
+## Midsummer
 
 No June would be complete without a little pagan celebration in honour of the summer solstice.
 
@@ -89,7 +89,7 @@ We had fun and I'll leave you with the funnies picture of the evening, courtesy 
 	<figcaption>Gaze into my eyes and lose your soul forever.</figcaption>
 </figure>
 
-##Batman: Arkham Knight
+## Batman: Arkham Knight
 
 I'm sure you all aware of my love of all things Batman---[I mention it every now and then][batman]---so it should as no surprise that in honour of the release of Batman: Arkham Knight, I decided to take the afternoon off from work and play it.
 
@@ -121,7 +121,7 @@ Now publisher Warner Bros. has issued an official apology and officially suspend
 
 I wait, batappointed, until they have fixed because I can't actually play it in its current form.
 
-##Tattoo, again?
+## Tattoo, again?
 
 Remember last month when I told you that I was finally done with the tattoo?
 

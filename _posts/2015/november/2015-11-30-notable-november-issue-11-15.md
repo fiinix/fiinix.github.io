@@ -12,7 +12,7 @@ We're already a week into December and you've now kept up with the Erikssons for
 
 In some ways it's like your a part of the family now. But don't get too excited because I'm still not getting you anything for Christmas.
 
-##Guy Fawkes Night
+## Guy Fawkes Night
 
 It used to be called Guy Fawkes Night. Then it was Bonfire Night. And now---to my disappointment at least----it's just Firework Night.
 
@@ -50,7 +50,7 @@ For Lucien though, this evening was only about blowing stuff up, because he had 
 	<figcaption>Fizz, Whoosh, Boom, Bang!</figcaption>
 </figure>
 
-##Ten years younger
+## Ten years younger
 
 After [letting my beard and hair grow][beard] for a year, the time had finally come to get my hair cut. And my beard shaved.
 
@@ -67,7 +67,7 @@ To my slight frustration, I also have to show ID when I buy beer again.
 
 If you're impatient and don't feel like reading a 25 minute long entry, you can just [check out the final time lapse][timelapse] instead, where I've essentially condensed one year into one and a half minutes---set to cheesy music I love.
 
-##Fallout 4
+## Fallout 4
 
 One had been looking forward to the release of Fallout 4 ever since their teaser website back in June, later confirmed at the <abbr title="Electronic Entertainment Expo">E3</abbr>.
 
@@ -100,7 +100,7 @@ I'm now about 30+ hours in, having explored a fraction of the Boston Wasteland a
 
 My only disappointment right now is that some asshole---arsehole for my British readers---has stolen my Power Armor and wandered away with it. I don't know where it is and I'm going to have to scavenge the Wasteland for a new one.
 
-##Ampersand Conf
+## Ampersand Conf
 
 Taking an early morning train down to Brighton I attended [Ampersand Conf][ampersand], an inspiring one-day event for web designers and type enthusiasts.
 
@@ -114,7 +114,7 @@ I had my camera with me and took a few photos but I'm not particularly pleased w
 
 In fact, see if you can find me in [one of Marc Thiele's shots][marc].
 
-##10:50 From Victoria
+## 10:50 From Victoria
 
 There's currently 137 recognised micropubs in the <abbr title="United Kingdom" class="small-caps">UK</abbr>.
 
@@ -135,7 +135,7 @@ A micropub, as defined by the Micropub Assocication, is;
 
 Run by an Englishman, an Irishman and a German, all three are supposed to be retired but have instead decided to not be. Wanting to create a watering hole where people can come for a drink and be free from music, television and lager beers they built themselves a little micropub.
 
-##Little Christmas
+## Little Christmas
 
 And finally, just before the end of November, we invited a couple of friends over and celebrated <i lang="sv">lillajul</i> (Little Christmas) by having a nice pulled pork dinner, some beer and wine and doing some arts and crafts.
 

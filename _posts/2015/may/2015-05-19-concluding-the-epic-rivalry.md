@@ -21,7 +21,7 @@ So, having said all of that, let's get on with the show.
 
 First up, in 10th place...
 
-##United Kingdom
+## United Kingdom
 
 [Electro Velvet and their Still In Love With You][uk] manages to sway me---but barely---getting them 1 measly point, but will it be enough for <abbr title="United Kingdom" class="small-caps">UK</abbr> to win the rivalry---that I've made up---between them and Finland?
 
@@ -32,7 +32,7 @@ Despite its negative reception, I actually think it's an okay song. Both singers
 	<figcaption>The one that avoids human contact at all costs.</figcaption>
 </figure>
 
-##F.Y.R. Macedonia
+## F.Y.R. Macedonia
 [Daniel Kajmakoski and his Autumn Leaves][macedonia] starts out as your everyday bland piano ballad and well, picks up a little as it reaches the pre-chorus but never really becomes anything more than a so-so piano ballad. Still, it's better than many other so well done, I suppose, Macedonia here's your 2 points.
 
 <figure>
@@ -40,7 +40,7 @@ Despite its negative reception, I actually think it's an okay song. Both singers
 	<figcaption>The one that’s affected by gravity.</figcaption>
 </figure>
 
-##Czech Republic
+## Czech Republic
 
 [Marta Jandová and Václav Noid Bárta and their Hope Never Dies][czech] gets my 3 points. Sure, Marta is decent but what seals the deal is Václav, the tattooed bear-man with diastema, and his glorious voice.
 
@@ -49,7 +49,7 @@ Despite its negative reception, I actually think it's an okay song. Both singers
 	<figcaption>The one with the combustible muscular organ.</figcaption>
 </figure>
 
-##Switzerland
+## Switzerland
 
 [Mélanie René with her Time To Shine][switzerland] gets my 4 points. Is it a great song? Not really, but I like it. It's catchy, quite good and Mélanie sings it well.
 
@@ -58,7 +58,7 @@ Despite its negative reception, I actually think it's an okay song. Both singers
 	<figcaption>The one vaguely dressed as a Native American, for some reason.</figcaption>
 </figure>
 
-##Latvia
+## Latvia
 
 [Aminata sings Love Injected][latvia] and gets 5 points for her troubles. This is the first song that I'm---sort of---genuinely liking a bit. Yeah, I'm sorry <abbr class="small-caps">UK</abbr> but your song just wasn't good enough. Aminata has an excellent voice that carries this song far.
 
@@ -67,7 +67,7 @@ Despite its negative reception, I actually think it's an okay song. Both singers
 	<figcaption>The one with the weird method to replenish energy.</figcaption>
 </figure>
 
-##Iceland
+## Iceland
 
 [Maria Olafs is Unbroken][iceland] in an abandoned factory. This one reminds me of Denmark's winner a couple of years ago. But then again I suppose any barefooted Scandinavian girl will have that effect on me. *As far as I'm concerned Iceland, you're totally a part of Scandinavia*. Here's your 6 points.
 
@@ -76,7 +76,7 @@ Despite its negative reception, I actually think it's an okay song. Both singers
 	<figcaption>The one that’s cautious about moving forward.</figcaption>
 </figure>
 
-##Azerbaijan
+## Azerbaijan
 
 [Elnur Huseynov and his Hour Of The Wolf][azerbaijan] swoops in and captures 7 points. Elnur and his falsetto extraordinare shines at the crescendo and I feel compelled to actually listen to it again.
 
@@ -108,7 +108,7 @@ Which means, the <abbr class="small-caps">UK</abbr> wins this round and gets a p
 
 Moving onwards though, in third place:
 
-##Estonia
+## Estonia
 
 [Elina Born & Stig Rästa with their Goodbye To Yesterday][estonia] gets a well earned 8 points. A good and catchy song with a duo that complement each other great.
 
@@ -119,7 +119,7 @@ Moving onwards though, in third place:
 
 In second place:
 
-##Italy
+## Italy
 
 [Il Volo sings about a Grande Amore][italy] and aside for the, "Great Love," part I don't understand a word of it. But you know what? I don't care 'cos it's awesome. Here's 10 points Italy, for your adorable boy-children with their beautiful voices.
 
@@ -134,7 +134,7 @@ Which means we have now reached the ending, the final 12 points. Who will receiv
 
 This year's Eurovision winner--according to a stranger on the internet that doesn't actually follow Eurovision *that much*---is...
 
-##Norway
+## Norway
 
 [Mørland & Debrah Scarlett sing A Monster Like Me][norway] and it's haunting. Their voices harmonise in a way that gives me goosebumps. The song manages to be both creepy and beautiful all in one go.
 

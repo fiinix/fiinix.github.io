@@ -8,7 +8,7 @@ excerpt: "In this month’s issue of Keeping Up With the Erikssons: I head down 
 ---
 
 
-##Beach Haven, Camber Sands
+## Beach Haven, Camber Sands
 
 The first weekend in October was Steve's birthday and for his big 30th celebration he had booked a designer house called [Beach Haven][haven]. A majestic house which apparently has been featured in Grand Designs and other magazines. Able to accommodate 10 people, amongst its many features include 5 bedrooms, 3 bathrooms and 2 kettles---the British take their tea seriously.
 
@@ -39,7 +39,7 @@ All in all, a quite wonderful weekend with barbecuing, board gaming and birthday
 
 And I even managed to pick up a few seashells as souvenirs for Lucien and Rebecka, who had spent the entire weekend at home doing absolutely nothing and loving it.
 
-##Catching up with Marvel
+## Catching up with Marvel
 
 Our beloved friend Amanda has recently moved to the <abbr title="United Kingdom" class="small-caps">UK</abbr> and is currently living in Sheffield.
 
@@ -61,13 +61,13 @@ And now, since we've completed Phase 2 we're going to have to wait, like everyon
 
 By my counts, Lucien is going to be 11 years old before Marvel has finished their, so far announced, multi-year spanning film saga.
 
-##Getting a camera
+## Getting a camera
 
 After a lot of researching and agonising about mega-pixels here and crop factors there, I finally decided what camera to get. You can read all about it in [Lights, Camera, Something!][camera] where I go into more details about my priorities and some of the other cameras I looked at.
 
 So far I'm very happy with my choice but need to get a bag to carry it in as soon as possible so that I can start bringing it with me when I go places as well.
 
-##Net magazine
+## Net magazine
 
 Last month, whilst I was busy getting ready for camping and preparing my talk in the woods I was also approached by Oliver Lindberg, editor of [net magazine][net].
 
@@ -89,7 +89,7 @@ Cutting down my 45 minutes talk about accessibility into a 400 word article prov
 
 I'm going to take another look at the term and conditions to see if I'm allowed to re-publish the article here---I would really like to. But until I do, go and [pick up a copy of the December issue of net magazine][netmag] to read, amongst many other things, my article The Cost of Accessibility.
 
-##The zombies are (a)live
+## The zombies are (a)live
 
 Last Thursday Kris decided, just in time for Halloween, to launch the new and much improved [squiders.com][squiders].
 
@@ -111,7 +111,7 @@ With the launch of the new website we also published another article of mine. I 
 
 And you can read [When Every Second Counts][everysecond] right away.
 
-##Halloween
+## Halloween
 
 We celebrated our 4th Halloween in the <abbr class="small-caps">UK</abbr> this year and did our, by now, [usual pumpkin carving][pumpkin].
 

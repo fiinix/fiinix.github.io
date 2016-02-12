@@ -68,7 +68,7 @@ I justify my weekly bloody steak by thinking that in 5-10 years time no one will
 
 But really, it just means I'm a part of the problem instead of the solution. For now.
 
-##Beard
+## Beard
 
 It was also during my mom's stay that I decided to start growing a beard, which as I've already written about in [And They All Cheered as He Appeared with a Beard][beard]. And you can of course follow the journey, week by itchy week, by reading [A Scary, Hairy Beard Story][journal].
 
@@ -76,7 +76,7 @@ I have some progress photos which I promise I'll stick up there as soon as I've 
 
 On a slightly related note, some of you might have noticed my lacking facial caterpillar. This is because I decided to not participate in Movember this year. Mostly because I had forgotten about it until like a week in and seeing as it's difficult enough to get some decent growth in a measly month---at least for me---I decided to skip it this year.
 
-##My first novel
+## My first novel
 
 Today also marks the end of [National Novel Writing Month][nano]---or NaNoWriMo, as all of the cool kids are calling it---which I regretfully thought I could participate in, and complete.
 
@@ -90,7 +90,7 @@ And by *not quite all the way* I of course mean, not even fucking close.
 
 But I did make across the halfway mark with 27,885 words, which I'm very proud of and I plan on finishing my first novel in a not-too distant future. First thought, I'm going to take a small break and finish the website for my short novella A Rainy Night on Drury Lane, which is ridiculously overdue.
 
-##Christmas on the Home Front
+## Christmas on the Home Front
 
 We ended the month by attending the WWII experience "Christmas on the Home Front" at Kent Life, where we stepped back into yesteryear and re-lived Christmas time as it would have been in the 1940's.
 

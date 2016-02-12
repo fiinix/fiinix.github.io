@@ -22,7 +22,7 @@ That is, unless I can somehow---using my fat stupid fingers---find a small crevi
 
 So, can we make this better?
 
-##The idea
+## The idea
 
 The idea itself is quite simple.
 
@@ -68,7 +68,7 @@ Our button only needs to take care of toggling a couple of class names, one on t
 
 By changing our `::before` pseudo-element's `pointer-events` value from `auto` to `none` we can tell our overlay layer to *not* receive our click/touch events. This will then go to the element "underneath" it, which thanks to our revised stacking order is the `.map` layer.
 
-##The result
+## The result
 
 <p data-height="600" data-theme-id="8619" data-slug-hash="zdBue" data-default-tab="result" data-user="fiinix" class='codepen'>See the Pen <a href='http://codepen.io/fiinix/pen/zdBue/'>Better Map Experience for Touch Devices</a> by fiinix (<a href='http://codepen.io/fiinix'>@fiinix</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
 <script async src="//codepen.io/assets/embed/ei.js"></script>
@@ -81,7 +81,7 @@ By the way, we could use the [Google Maps API][api] for the map but a more strai
 
 And although our solution is primarily meant to solve a difficult interaction problem on touch devices---where screen real estate is precious---it will work just as well on non-touch devices, including being accessible for keyboard-only visitors because we're using an actual `<button>` element to handle the toggle event.
 
-##The limitations
+## The limitations
 
 The demo relies on jQuery but you could rewrite it using pure Javascript as well, using `querySelector` and `addEventListener` to toggle the class name but I won't go into that here---mostly because I haven't looked into a good way of replicating jQuery's `.toggleClass()` yet.
 

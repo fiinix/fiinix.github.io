@@ -19,7 +19,7 @@ By looking back at some of the websites that came before this one we can begin t
 
 Sometimes it's been by understanding what *not* to do, other times it's been more of what *not to do*.
 
-##A blast from the past
+## A blast from the past
 
 So let's go back to 2003 and the oldest website I can find in my personal archive.
 
@@ -112,7 +112,7 @@ Unfortunately, you can't have a strict baseline and headings with good line-heig
 
 Wanting to stay close to the colours of the previous version I took the Dark Pink and evolved it into a Flamingo Red, which didn't end up staying anyway.
 
-##Which brings us to today
+## Which brings us to today
 
 All these different versions is why, 589 days ago when I made the latest version of [carloseriksson.com][carlos] live, I wanted to try something a little different.
 
@@ -139,7 +139,7 @@ Other times I tried thing that didn't work or, as in the case below, they worked
 
 It's at this point that we, of course, go back... to the future.
 
-##Back to the future
+## Back to the future
 
 It's been said that no one knows what the future brings. Or was it, "There's no fate but what we make for ourselves"?
 

@@ -28,7 +28,7 @@ FYI, they're in no specific order of importance.
 
 To the list!
 
-##1. Board gaming
+## 1. Board gaming
 
 Spending a 24 h marathon---for charity I might add---playing more board games than any human ever had, I managed to prove that despite getting older [I still have the stamina to pull an all-nighter][boardgaming].
 
@@ -36,7 +36,7 @@ Sure, I was a bit out of it between 06:00--07:00 but I pulled through and that's
 
 Oh, yeah right. And that charity thing.
 
-##2. Git
+## 2. Git
 
 Git might seem like an odd thing to like but considering that my website is hosted on Github, and powered by Jekyll nowadays, Git has become a common word in my vocabulary, as well as word like: repo, commit, push, pull and rebase.
 
@@ -51,7 +51,7 @@ Except *rebase*, because I haven't figured out what that one means yet.
 
 And despite my website suffering a severe setback as Github updated Jekyll to version 2.2.0 this autumn and leaving me with a non-functional website for a few weeks I don't hold them responsible for that. After all, I could have fixed it faster if I had actually put in the time and effort.
 
-##3. Gender perspective
+## 3. Gender perspective
 
 Rebecka and I have spent a lot of time talking about gender inequality and the role society places on us, regardless of sex or gender.
 
@@ -63,7 +63,7 @@ I feel smarter and more enlightened for it and even though some conversations ha
 
 Thanks to these conversation I also feel like we've grown much closer over the last year, in which I can better understand the burdens she walks around with every day.
 
-##4. Soft-boiled eggs
+## 4. Soft-boiled eggs
 
 Having spent most of my life only eating fried or scrambled eggs, imagine my surprise when I--out of curiosity---ordered poached eggs at a café and got... well... poached eggs. A runny yolk with the softest white you could imagine that still held its shape. It was amazing and opened up my mind to the idea that I might like soft-boiled eggs.
 
@@ -73,7 +73,7 @@ In the process I've figured out why I didn't used to like boiled eggs.
 
 I can distinctively remember the foul stench of sulphur from the egg and the green-tinted yolk it held inside. Which is, apparently, what you get when you boil them too much.
 
-##5. Tattoo \#4
+## 5. Tattoo \#4
 
 After years of wanting a fourth tattoo [I finally started on the sleeve tattoo][tattoo] which once finished will engulf my entire right arm. The first session has healed without issues and I've been busy sketching out the remaining characters and various elements which we'll use to fill it out later on.
 
@@ -82,7 +82,7 @@ After years of wanting a fourth tattoo [I finally started on the sleeve tattoo][
 	<figcaption>A couple of the secondary characters which will soon adorn my arm.</figcaption>
 </figure>
 
-##6. The Boxtrolls
+## 6. The Boxtrolls
 
 Lucien and I got our first pair of 3D glasses when I took him to his first cinema experience---father and son style---and the first 3D film for both of us, courtesy of Laika's latest stop motion film, The Boxtrolls.
 
@@ -93,17 +93,17 @@ And although the experience itself was pretty cool---if perhaps a bit unsettling
 	<figcaption>The Boxtrolls tells the story of Eggs, a human boy raised by trash-collecting trolls, as he attempts to save them from Archibald Snatcher, a pest exterminator.</figcaption>
 </figure>
 
-##7. 51 posts
+## 7. 51 posts
 
 I've also liked that, despite having written significantly less this year, I think the quality of my writing has been much better with more coherent ramblings and less tangents which lead nowhere.
 
 Or perhaps I'm deluded and my writing has been precisely on par?
 
-##8. Ageing
+## 8. Ageing
 
 I turned 30 with dignity, grace and a cake with 30 individual candles---which is a fire hazard. I also shared all the wisdom I had gathered through the years, which turned out to be [a little less than I had hoped][thirty].
 
-##9. Knäcke
+## 9. Knäcke
 
 Despite getting around to baking my own rye bread yet, and quite frankly, still not satisfied with [the rye crispbread I *did* bake][knacke], <i lang="sv">Knäckebröd</i>, still makes it to the list of things I've liked about the year.
 
@@ -111,7 +111,7 @@ We finally caved in and started buying RYVITA® Dark Rye Crispbread---
 
 "Yeah, I know. I should be flogged but what can you do when temptation becomes too strong?"
 
-##10. MCM London Comic Con
+## 10. MCM London Comic Con
 
 On, not [one][comic1] but [two occasions][comic2] I've gone to, what I suspect might be, the biggest Comic Con in Europe, definitely the biggest in the <abbr title="United Kingdom">UK</abbr> and both occasions have been incredible experiences.
 
@@ -122,13 +122,13 @@ Will I go again? I'd like to think so.
 	<figcaption>I didn't make the original entry because of my “I’m havin’ a poo” -face.</figcaption>
 </figure>
 
-##11. Squiders
+## 11. Squiders
 
 After just over 2 years at Sitewizard it was time to leave the safety and comfort of familiarity by moving on to---quite literally---greener pastures as [I started working at Squiders][squiders], a small specialist web design studio located in beautiful Turkey Mill.
 
 I'm quite happy here and hope to stay for a good few years at the very least.
 
-##12. The History Eaters & The Gravy Country
+## 12. The History Eaters & The Gravy Country
 
 Rebecka introduced me to the Swedish version of [The Supersizers...][supersizers], called The History Eaters, <i lang="sv">Historieätarna</i>, and it's just as awesome as its British predecessor.
 
@@ -138,13 +138,13 @@ Both programs are humorous looks at how our different eating habits and foods ha
 
 Well worth a watch if either of those things interest you.
 
-##13. Finland
+## 13. Finland
 
 [In September I flew back to Finland for a weekend][finland] to get shit-faced with all my old friends---it should come as no surprise that we've all gotten fatter since last time.
 
 And to, of course, hang out with my mom, siblings and family as well. Good times. Will definitely do it again.
 
-##14. In This Moment
+## 14. In This Moment
 
 And finally, 2014 is also the year I discovered the American metalcore band In This Moment and their singer Maria Brink, vocalist extraordinaire. And whilst one could certainly argue that there's other death metal vocalists, such as Angela Gossow formerly of Arch Enemy that are more talented, I instantly fell in love with Maria's vocal style and range.
 

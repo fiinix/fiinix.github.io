@@ -21,7 +21,7 @@ Some games, like Uncharted 4: A Thief's End and ReCore didn't make the cut becau
 
 But those aside, here's the games I'm eagerly and alphabetically awaiting.
 
-##Deus Ex: Mankind Divided
+## Deus Ex: Mankind Divided
 
 Despite some of its criticized flaws, I really enjoyed the previous Deux Ex: Human Revolution and hopefully Eidos Montreal has learned from its mistakes, not to outsource boss fights and then start playing the blame-game.
 
@@ -35,7 +35,7 @@ What I'm saying is that I, kind of, suck at many games that I enjoy.
 
 Excitement Level: *3 and a half out of 5 retractable blades*
 
-##Dishonored 2
+## Dishonored 2
 
 In the anticipated follow-up to Arkane Studio's Dishonored you can play as either Corvo---again---or the Empress' daughter Emily Kaldwin.
 
@@ -49,7 +49,7 @@ What I did care about, and enjoyed was jumping up on people and surprise neck st
 
 Excitement Level: *4 out of 5 tins of Pratchett's Jellied Eels*
 
-##Fallout 4
+## Fallout 4
 
 Clearly, Bethesda *does* want my money after all. And I'm glad to give it---*anything* really---to them to get another Fallout game.
 
@@ -67,7 +67,7 @@ And with only 146 days to go before I can play I can hardly contain my excitemen
 
 Excitement Level: *5 out of 5 water chips*
 
-##No Man's Sky
+## No Man's Sky
 
 No Man's Sky is a procedurally generated open universe game from four-man studio Hello Games. Yeah, there's apparently only four of them.
 
@@ -83,7 +83,7 @@ Just, "Wow."
 
 Excitement Level: *5 out of 5 procedurally generated boners*
 
-##Rise of the Tomb Raider
+## Rise of the Tomb Raider
 
 Laura is back, voiced again by Camilla Luddington whose vulnerable yet determined portrayal is just fucking perfect.
 
@@ -97,7 +97,7 @@ I'm really looking forward to see where they take the next instalment.
 
 Excitement Level: *5 out of 5 makeshift longbows*
 
-##Sea of Thieves
+## Sea of Thieves
 
 Raise your hook hand if you love pirates!
 

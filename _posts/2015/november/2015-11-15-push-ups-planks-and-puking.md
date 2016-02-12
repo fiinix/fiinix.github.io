@@ -25,7 +25,7 @@ Not only was Past Carlos an idiot, he was also wrong because apparently Present 
 
 Maybe you're wondering, "Why?" though. I know I have.
 
-##Vanity
+## Vanity
 
 I've spent most of my life being unhappy with how I look, always feeling too skinny. Too short. Too weak.
 
@@ -37,7 +37,7 @@ Sure, you're *supposed* to like your body the way it is, but I just never have. 
 
 It's vane sure, but at the same time I feel calmer. More at ease with myself and that's almost worth it in itself.
 
-##Health
+## Health
 
 Another, and perhaps more important, reason for exercising is because almost all of the men from my fathers side of the family are already dead, including my father.
 
@@ -45,7 +45,7 @@ And it's from avoidable things like stroke. My father, who I barely knew anyway,
 
 This, coupled with my own tendencies to get lower back problems, exasperated by a job consisting of sitting all day means that my health would probably deteriorate quickly if I didn't start taking care of this trash receptacle of mine.
 
-##Appearance
+## Appearance
 
 Lastly, I want to look good for Rebecka, the wonderful woman who has chosen to spend a ridiculous amount of time looking at me.
 
@@ -53,7 +53,7 @@ I figured the least I can do is make as much effort as she does---because societ
 
 If I had to divide it up it would look a little something like this; 35% vanity, 50% health and 15% wanting to look good for my wife.
 
-##Flexing completely new muscles
+## Flexing completely new muscles
 
 But rather than pretending that everything has been awesome, I want to tell you about some of the challenges I've faced when learning how to exercise---because yeah, apparently that's something you have to learn first.
 
@@ -65,7 +65,7 @@ Now I don't have a habit of weighing myself---nothing good ever comes of it---an
 
 But I happen to know that the last time I weighted myself I was about 62 kg (136 lb) and for the sake of this entry I actually went to my local pharmacist (Boots) yesterday to get something to compare that to.
 
-###Push ups
+### Push ups
 
 Before using an app called Just 6 Weeks---available on both Android and iOS---I used to follow a website called [One Hundred Push Ups][hundred] but keeping track of my progress was entirely up to me, which was a little cumbersome. Once I found Just 6 Weeks, which does all the tracking and progress guiding for me---using the exact same website's principles anyway---I haven't used the website at all.
 
@@ -84,7 +84,7 @@ And then to a None At All routine.
 
 In fact, it took me until the end of October to get into the rhythm again. Curiously I found it more difficult to return to my routine then it had been to get into it in the first place.
 
-###Planks
+### Planks
 
 I read somewhere online---because everyone knows what a reliable source of information the internet is---that being able to hold a plank position for 2 minutes is really good. And the plank position is meant to be great for strengthening your core abdominal muscles and lower back.
 
@@ -177,7 +177,7 @@ And---apparently---you haven't pushed yourself as far as you can, until you've p
 
 This is how I once again was reminded that the taste of banana overshadows pretty much everything else.
 
-##A brave new world
+## A brave new world
 
 It's a brave new world for Present Carlos, as he looks back and realises that Past Carlos---who thought he knew everything---didn't know much at all.
 

@@ -16,7 +16,7 @@ First things first though, let's take a look at my top 10 for this year's Eurovi
 
 In 10th place comes.
 
-##Armenia
+## Armenia
 
 [Aram MP3 with his Not Alone][armenia] gets Armenia 1 point from me in what will be the first on many, many ballads, because this year seems to be the Year of the Ballad. Repetitive lyrics redeemed by a nice contrast between slow piano and a dubstep breakdown.
 
@@ -27,7 +27,7 @@ In 10th place comes.
 </figure>
 </div>
 
-##Montenegro
+## Montenegro
 
 Even though I have no idea what this song is about---it could be about passionately beating midgets for money, for all I know---I really like it and unlike some other ballads this year it manages to pull a bit at my heart strings and I believe it. 2 points to [Sergej Ćetković and his Moj Svijet][montenegro].
 
@@ -38,7 +38,7 @@ Even though I have no idea what this song is about---it could be about passionat
 </figure>
 </div>
 
-##France
+## France
 
 Okay. This is nonsensical bullshit, right? This song doesn't actually mean anything does it? <q>I want to have a moustache</q> can't be anything but a weird attempt at being funny. And well, funny it kind of is. More catchy than annoying but only barely earns France 3 points from me with [Twin Twin and their Moustache][france].
 
@@ -49,7 +49,7 @@ Okay. This is nonsensical bullshit, right? This song doesn't actually mean anyth
 </figure>
 </div>
 
-##Greece
+## Greece
 
 What starts out as some weird rap that sounds like a Russian anthem quickly turns into a catchy---like herpes---club tune which probably has a better place in some night club were Ecstasy is more the norm than the exception. But I quite like [Freaky Fortune feat. RiskyKidd and their infectious Rise Up][greece], so here's 4 points to Greece.
 
@@ -60,7 +60,7 @@ What starts out as some weird rap that sounds like a Russian anthem quickly turn
 </figure>
 </div>
 
-##Ireland
+## Ireland
 
 A nice and solid---which sounds more like I'm describing a poop---Eurovision tune with hints of Irish heritage, sung by Kasey Smith who has a lovely voice---not technically as good as some of the other contestants but that with one that speaks to me.
 
@@ -71,7 +71,7 @@ A nice and solid---which sounds more like I'm describing a poop---Eurovision tun
 </figure>
 </div>
 
-##Denmark
+## Denmark
 
 This could have so easily been my favourite hate-song this if it hadn't been for the obliviously self-aware song title putting this closer in the camp of parody songs than I was expecting. And as a parody song this one's quite good. Catchy, hum-friendly but that whistling is enough to drive a man to homicide. Still, well played Denmark, here's your 6 points for <del>Bruno Mars</del> [Basim and his Cliché Love Song][denmark].
 
@@ -82,7 +82,7 @@ This could have so easily been my favourite hate-song this if it hadn't been for
 </figure>
 </div>
 
-##Finland
+## Finland
 
 Finland, <abbr title="what the fuck">wtf</abbr> are you doing on the top 10 list? Shouldn't you be sitting at the loser's table with the Jemini and Piero?
 
@@ -122,7 +122,7 @@ But enough about that, onwards with the competition.
 
 In third place:
 
-##Slovenia
+## Slovenia
 
 Starts out in foreign gibberish---humorous take on Eurovision, remember?---but quickly turns to English for the chorus and second verse which I really like. This one manages to walk the thin line between embracing its own identity with something that could work internationally.
 
@@ -137,7 +137,7 @@ Even the weird flute bits work and everything is held together by Tinkara, who d
 
 In second place:
 
-##Austria
+## Austria
 
 Instant goosebumps. This is the kind of voice that grabs a hold of an entire room and doesn't let go until its done with you. With a distinct Bond vibe going on, my only concern is that this one feels a bit out of place in Eurovision because... well... it's in a league of its own really.
 
@@ -154,25 +154,25 @@ Hopefully---when all the morons holding us back have died---I can make jokes abo
 
 And before I reveal my choice for number one, the mythical, much sought-after Douze points, I thought I would show some of the songs that---for a variety of reasons--didn't cut the mustard.
 
-##Belarus
+## Belarus
 
 <q>I don't want to be your cheesecake</q>, the privileged white man says as he air humps his way around a woman who stands frozen in--what I assume is---fear. This is like the film, "When Sexist met Stupid" and contains such misheard---I hope---lyrical prose as <q>I don't wanna be your creepy hamster baby</q>. [Teo can take his Cheesecake][belarus] and stick it back into Belarus and their prejudiced ass holes.
 
-##Iceland
+## Iceland
 
 Whilst I certainly agree with the message that we are all equal, I still hate the PTA-esque feeling I get from songs like [Pollapönk and their multi-coloured No Prejudice][iceland]. I'm sad to say that our passionate boat-beard love from last year seems to have reached its inevitable end.
 
-##Poland
+## Poland
 
 Taking women's rights back all the way to last week, comes the horrible contribution that is Poland. Seriously, shame on you, [Donatan & Cleo and your My Słowianie][poland].
 
-##San Marino
+## San Marino
 
 Poor San Marino, it would appear that they only have one talented artist in their entire country forcing them to send the same woman again. This time [Valentina Monetta is singing Maybe][san marino]. Last year it was Crisalide. I wonder what she'll sing next year?
 
 Don't get me wrong though, she's not bad. But she isn't overly good either with a bland forgettable song it just isn't going to cut against the likes of Austria's contribution.
 
-##Ukraine
+## Ukraine
 
 With a weird hamster wheel on stage and a repetitive boring song by a woman who looks like she has taken stage advice from Kristen Stewart. This songs lacks passion and purpose. I'm sorry Ukraine, I know you've been having a rough time lately but [Mariya Yaremchuk and the pointless Tick Tock][ukraine] gets no sympathy points from me.
 
@@ -180,7 +180,7 @@ With a weird hamster wheel on stage and a repetitive boring song by a woman who 
 
 And penultimately, before I finally reveal my favourite in this year's Eurovision, a song that didn't make it to the top 10 but would have easily won the whole fucking thing had they played their cards a bit differently.
 
-##Sweden
+## Sweden
 
 Sweden has always been a solid contributor to Eurovision, they just seem to have a knack for this shit so it comes as no surprise that several bookmakers have placed Sanna Nielsen to win the whole competition. To which I thought, "Meh", after hearing the song and then I accidentally stumbled on a version of [Sanna Nielsen singing her Undo unplugged at a press conference][sweden].
 
@@ -205,7 +205,7 @@ But Sweden didn't go with *this rendition* and I didn't go for *their song* so h
 
 Drum roll, please.
 
-##Macedonia FYR
+## Macedonia FYR
 
 Whilst not the best song, I think this the best Eurovision song, which is still the premise by which I judge these. Solid and perfectly predictable in a good way---like a good poop---is why I'm awarding my 12 points to [Tijana Dapčević and her To The Sky][macedonia].
 

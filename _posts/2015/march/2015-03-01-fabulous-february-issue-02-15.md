@@ -14,11 +14,11 @@ Oh well, there's always next year. Curious side note:
 
 >  Before 1937, only the 1st, 5th, 10th, 15th, 20th, 25th, 50th, and 75th anniversaries had an associated gift. In 1937, Jewelers of America introduced an expanded list of gifts, a gift each year up to the 25th, and then for every fifth anniversary after that.
 
-###6 Month Probation
+### 6 Month Probation
 
 To honour the 6 months of my employment we did the same thing as we had done before I started working at Squiders: Pints & Pub quiz. And just like the time before, we were quite terrible at it, finishing second-to-last.
 
-###Session \#3
+### Session \#3
 
 I also went for another session at Stainless Steve's, continuing on my sleeve tattoo.
 
@@ -27,7 +27,7 @@ I also went for another session at Stainless Steve's, continuing on my sleeve ta
 	<figcaption>I still haven’t figured out how to get a good picture of the entire tattoo.</figcaption>
 </figure>
 
-###Escape from Mos Shuuta
+### Escape from Mos Shuuta
 
 A few friends and I have started getting together to play a pen and paper role-playing game, specifically Star Wars: Edge of the Empire.
 
@@ -48,7 +48,7 @@ Apparently Trandoshans and Wookies hate each other, which makes for some interes
 
 But, "Sssh, don't tell him."
 
-###Reasons: London
+### Reasons: London
 
 [Reasons: London][reasons], an event I had been looking forward to this month---though to be honest, there's been a lot of things I've looked forward to this month---was the conference me and my boss were attending.
 
@@ -56,11 +56,11 @@ Rather than take and form of notes, or pictures for that matter, I just sat and 
 
 In the meantime, here's the wonderful people I had to honour of listening to:
 
-####Harry Roberts
+####  Harry Roberts
 
 Structuring your CSS, the DOs, DONTs and WHYs. Nothing particularly new for me, but it was interesting to hear [Harry's][harry] thoughts anyway and to chat afterwards.
 
-####Stefanie Posavec
+####  Stefanie Posavec
 Stefani's talk was about how data visualization illustrations are not the same as posters with big numbers. Very interesting seeing how analogue her work really was, as she does [her beautiful illustrations][stefani] by hand.
 
 <figure>
@@ -68,16 +68,16 @@ Stefani's talk was about how data visualization illustrations are not the same a
 	<figcaption>I tried, unsuccessfully, to get <a href="https://twitter.com/fiinixdesign/status/568772018239381504">#twatinthebluehat</a> to trend. Photo courtesy of <a href="https://twitter.com/reasonsto">@reasonsto</a>.</figcaption>
 </figure>
 
-####James Hall
+####  James Hall
 [James] managed to scare the crap out of everyone by talking about and demonstrating how no one is safe. Everything can be hacked, spoofed or otherwise tampered with to steal any and all information anyone could want.
 
 Basically we're fucked and I need to learn what the fuck a VPN is and how to use it. Thanks a lot James.
 
-####Anna Dahlström
+####  Anna Dahlström
 
 The multi-device era is here and it brought with it a whole host of new challenges and problems. [Anna][anna] talked about it, and how she imagines that the future holds a lot more for voice as an input method.
 
-####Andrew Clarke
+####  Andrew Clarke
 
 Showing up on stage wearing an ape mask, [Andrew Clarke][andrew] talked about the power of advertising and how everyone's so focused on metrics and measurements---my words, not his---that no one is being truly creative in the web design industry any more.
 
@@ -85,13 +85,13 @@ And whilst I get where he's coming from, and partly agree with him, I also disag
 
 Thought-provoking? Yes. Inspiring? Yes. And I also met him, which was also nice thought.
 
-####Elliot Jay Stocks
+####  Elliot Jay Stocks
 
 [Elliot, Creative Director of Adobe Typekit][elliot], talked about the journey he had made as a Designer, his new magazine Lagom and of course typography---thought not as much as I would have liked.
 
 He did manage to give me an idea for how I could get multi line headings to work and still adhere to a baseline.
 
-###Status: Healthy
+### Status: Healthy
 
 Lucien is finally, officially, all better as well, having been declared healthy by the cardiologists and doctors last Wednesday.
 
@@ -104,7 +104,7 @@ Which is awesome news and we took skipped all the way---well, half the way---to 
 	<figcaption>His heart.</figcaption>
 </figure>
 
-###1943
+### 1943
 
 As you might remember, we also spent the month of February in 1943. Today we're fading back into 2015 and it's been an interesting and rocky experience which I thought I would write about in its own entry a bit later.
 

@@ -59,7 +59,7 @@ I want to make it easier for those I leave behind to move on. To continue with t
 
 And it's with this I write down my wishes, the plans for my Post-Mortem Party if you will, for the day when my fuel is spent.
 
-##No balloons please
+## No balloons please
 
 I want to leave this earth the way I entered it, naked and screaming---
 
@@ -77,7 +77,7 @@ Then again, I don't imagine you would want to make s'mores over my burning remai
 
 But moving on. Before you burn me and call it a day I have a few other requests as well.
 
-##Can I still change my mind about the balloons?
+## Can I still change my mind about the balloons?
 
 Are some of my organs still functional? And I died under circumstances where I could potentially donate them?
 
@@ -93,7 +93,7 @@ I also want to donate any brain tissue that could help lead to different ways of
 
 To do so, I have to decide [which brain bank][brain] to sign up to because apparently one can't simply choose to be a brain tissue donor and have it apply to all.
 
-##Balloons for everyone!
+## Balloons for everyone!
 
 Right. That's it for my useful parts. Now to prepare my body for the actual cremation itself.
 
@@ -111,7 +111,7 @@ I'm not much of a religious man. I used to call myself an atheist but since a fe
 
 With this in mind I don't want a religious memorial service or a religious venue. Just get together and reminisce about all the stupid things I did and somehow managed to survive.
 
-##A beautiful tree
+## A beautiful tree
 
 And that's almost it.
 

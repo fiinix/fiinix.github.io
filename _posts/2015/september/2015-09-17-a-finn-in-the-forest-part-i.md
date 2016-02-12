@@ -21,7 +21,7 @@ I don't even own shoes that are appropriate for walking on anything that isn't a
 
 But I used to be a scout, so I imagine some of those primal survival instincts must be hidden in there, deep in my subconscious.
 
-##A Finn in fetal position
+## A Finn in fetal position
 
 Faced with the prospects of my endeavour I naturally did what any self-respecting 21st century man would have done; I lied down in a fetal position in a corner of our home and cried a little---and then I went to the Internet!
 
@@ -39,7 +39,7 @@ Hours of research go by as I compare different models of tents and sleeping bags
 In the end I'm quite happy with the equipment I brought but at the same time, I see a lot of room for improvements.
 
 
-##The gear
+## The gear
 
 In my research I discovered that many people who go camping divide their equipment into different systems, which is why I've done the same.
 
@@ -50,13 +50,13 @@ I also thought it wouldn't be me, if I didn't rate everything and today's rating
 	<figcaption>1. Ventura 40L Rucksack, 2. Festival Dome 2 Man Tent, 3. Microlite 500 Sleeping Bag, 4. Yellowstone Aluminium 5 Piece Cook Set, 5. Tatonka Stainless Steel Plate, 6. Yellowstone Stainless Steel Cutlery Set, 7. Plastic Water Bottle, 8. Helikon Folding Cup, 9. LE® Adjustable Focus CREE LED Flashlight, 10. Leatherman Multi-Tool Wingman, 11. 550 Paracord Military Spec Type III 7, 12. Lifesystems Adventurer First Aid Kit, 13, Multi Functional Skull Bandana, 14. Packable Cagoule, 15. Web in the Woods wristband and t-shirt, 16. Rockie Hi GTX Boots, 17. Impress Coffee Brewer.</figcaption>
 </figure>
 
-###The packing system
+### The packing system
 
 The packing system essentially boils down to this; Lighter packs have less zippers, less compartments, less straps, less to figure out and, maybe most importantly, less to worry about.
 
 The downside is that they also offer less structure and support. Cutting down on weight inevitable leads you to a point, where your rucksack really is just a plastic bag.
 
-####Ventura 40L Rucksack
+####  Ventura 40L Rucksack
 
 "A 40 liter rucksack is plenty," I thought to myself as the sales woman showed me differently sized bags and I rejected them all in favour of this tiny rucksack.
 
@@ -70,13 +70,13 @@ Having said that, I'm quite happy with the rucksack and hope to get more use of 
 <img src="/assets/posts/2015/september/a-finn-in-the-forest-part-i/axe-filled.png" alt="">
 <img src="/assets/posts/2015/september/a-finn-in-the-forest-part-i/axe-outline.png" alt="Rated 4 out of 5 Crazy Dave’s axes.">
 
-###The shelter system
+### The shelter system
 
 The shelter system, at its most basic, is the thing that keeps you shielded from all those awful elements Mother Nature wants to throw in your face. Sometimes it's a light drizzle, sometimes it's frozen hail that rips fist-sized holes in your tent roof. Sometimes it's some fucking Jay birds screaming in the middle of the god damn night, waking you up in a state of panic because you completely forgot that you were in the woods.
 
 Either way, the shelter system is what's intended to keep you safe from all of these things. Except for the last one.
 
-####Festival Dome 2 Man Tent
+####  Festival Dome 2 Man Tent
 
 After agonizing over lots of different tents, from the ultralight Kinetic Carbon 3P by Easton to sleeping under a tarp suspended across some trees, I finally settled on a cheap festival tent for two.
 
@@ -90,7 +90,7 @@ Spacious enough for me but if I go camping with Lucien---and he would really lik
 <img src="/assets/posts/2015/september/a-finn-in-the-forest-part-i/axe-outline.png" alt="">
 <img src="/assets/posts/2015/september/a-finn-in-the-forest-part-i/axe-outline.png" alt="Rated 1 out of 5 Crazy Dave’s axes.">
 
-###The sleeping system
+### The sleeping system
 
 Sleep. If only I could take a pill to never have to sleep again, without any of the consequences of not sleeping, I would. Sadly that's not the case and I become quite murderous without my solid 7-8 hours.
 
@@ -102,7 +102,7 @@ Down is more efficient, which means it's lighter and takes less space than an eq
 
 Synthetic fill is cheaper and doesn't suffer as many down-sides when wet but it's always heavier and has an overall shorter shelf-life.
 
-#####Microlite 500 Sleeping Bag, season 2/3
+####  #Microlite 500 Sleeping Bag, season 2/3
 
 "You get what you pay for," was the first thing that came to mind as I hung the sleeping bag on a carabiner, swung my rucksack around to put it on and watched the sleeping bag's hooks rip apart as it flung itself across room.
 
@@ -122,7 +122,7 @@ In the end, the sleeping bag did keep me alive, so there's always that. But I wa
 <img src="/assets/posts/2015/september/a-finn-in-the-forest-part-i/axe-outline.png" alt="Rated 3 out of 5 Crazy Dave’s axes.">
 
 
-####Single Airbed (not pictured)
+####  Single Airbed (not pictured)
 
 What to have underneath myself was another thing I agonised over for days. The minimalist survivor in me wanted to take a pad---foam or otherwise---and the voices of reason---which in this case was Rebecka and Kris---both said I should bring an airbed so that I could get a good night's sleep and be well rested in preparation for my talk.
 
@@ -136,7 +136,7 @@ And I'm grateful because I'm sure I slept more comfortably than I would have on 
 <img src="/assets/posts/2015/september/a-finn-in-the-forest-part-i/axe-outline.png" alt="">
 <img src="/assets/posts/2015/september/a-finn-in-the-forest-part-i/axe-outline.png" alt="Rated 2 out of 5 Crazy Dave’s axes.">
 
-###The cooking system
+### The cooking system
 
 Moving on, now that we've covered the Big 3: keeping all your equipment somewhere when you're walking, something to keep you dry and something to keep you nocturnally warm, we arrive at the final system; The cooking system. The system to keep me from starving to death as I lie in my tiny claustrophobic tent trying to find the zipper to my sleeping cocoon. Of death.
 
@@ -147,7 +147,7 @@ I knew we were going to have firewood and water available which meant I could pa
 	<figcaption>1. Yellowstone Aluminium 5 Piece Cook Set, 2. Tatonka Stainless Steel Plate, 3. Yellowstone Stainless Steel Cutlery Set, 4. Plastic Water Bottle, 5. Helikon Folding Cup, 6. Impress Coffee Brewer.</figcaption>
 </figure>
 
-####Yellowstone Aluminium 5 Piece Cook Set
+####  Yellowstone Aluminium 5 Piece Cook Set
 
 A small cooking set that packs into itself and straps together makes for a neat way to make food.
 
@@ -161,7 +161,7 @@ The only real disappointment is that I wish it came with a bag to cover it with 
 <img src="/assets/posts/2015/september/a-finn-in-the-forest-part-i/axe-filled.png" alt="">
 <img src="/assets/posts/2015/september/a-finn-in-the-forest-part-i/axe-outline.png" alt="Rated 4 out of 5 Crazy Dave’s axes.">
 
-####Tatonka Stainless Steel Plate
+####  Tatonka Stainless Steel Plate
 
 Instead of getting a bowl and a plate, I decide to get the best of both worlds. Perhaps you could call it a plowl? blate? bote?
 
@@ -175,7 +175,7 @@ The right size so that I can strap it together with the cooking set makes this f
 <img src="/assets/posts/2015/september/a-finn-in-the-forest-part-i/axe-filled.png" alt="">
 <img src="/assets/posts/2015/september/a-finn-in-the-forest-part-i/axe-filled.png" alt="Rated 5 out of 5 Crazy Dave’s axes.">
 
-####Yellowstone Stainless Steel Cutlery Set
+####  Yellowstone Stainless Steel Cutlery Set
 
 What's there to say, it's a cutlery set as good as any other.
 
@@ -193,7 +193,7 @@ It performed as expected, I would put food on it and lift it to my face and as e
 <img src="/assets/posts/2015/september/a-finn-in-the-forest-part-i/axe-outline.png" alt="">
 <img src="/assets/posts/2015/september/a-finn-in-the-forest-part-i/axe-outline.png" alt="Rated 3 out of 5 Crazy Dave’s axes.">
 
-####Plastic Water Bottle
+####  Plastic Water Bottle
 
 This is a plastic water bottle. It holds water. And apparently it's---as the large all capitals text imprinted into the plastic says.
 
@@ -209,7 +209,7 @@ It came with some stupid belt clip as well but it didn't seem to work at all I e
 <img src="/assets/posts/2015/september/a-finn-in-the-forest-part-i/axe-filled.png" alt="">
 <img src="/assets/posts/2015/september/a-finn-in-the-forest-part-i/axe-outline.png" alt="Rated 4 out of 5 Crazy Dave’s axes.">
 
-####Helikon Folding Cup
+####  Helikon Folding Cup
 
 I got this mostly for nostalgic reasons, as I had a cup exactly like this one back when I was scout. It's a cup, that folds in to take less space when camping but again, I mostly got it because of fond childhood memories.
 
@@ -219,11 +219,11 @@ I got this mostly for nostalgic reasons, as I had a cup exactly like this one ba
 <img src="/assets/posts/2015/september/a-finn-in-the-forest-part-i/axe-filled.png" alt="">
 <img src="/assets/posts/2015/september/a-finn-in-the-forest-part-i/axe-filled.png" alt="Rated 5 out of 5 Crazy Dave’s axes.">
 
-###The "everything else" system
+### The "everything else" system
 
 Because let's face it, after all these organised "systems" you're still going to be left with an assortment of stuff that doesn't fit into any system, but you still need to take with them you.
 
-####LE® Adjustable Focus CREE LED Flashlight
+####  LE® Adjustable Focus CREE LED Flashlight
 
 A good and bright flashlight made even better by its adjustable focus. But if I need both hands to do anything I have to hold it in my mouth, which isn't ideal.
 
@@ -233,7 +233,7 @@ A good and bright flashlight made even better by its adjustable focus. But if I 
 <img src="/assets/posts/2015/september/a-finn-in-the-forest-part-i/axe-filled.png" alt="">
 <img src="/assets/posts/2015/september/a-finn-in-the-forest-part-i/axe-outline.png" alt="Rated 4 out of 5 Crazy Dave’s axes.">
 
-####Leatherman Multi-Tool Wingman
+####  Leatherman Multi-Tool Wingman
 
 I feel like I spent way too much time comparing two different models of Leatherman, thinking about whether I need a serrated blade or not, "Who knows when I might need to saw my arm of---like James Franco in the film 127 Hours," before I settled on the Wingman.
 
@@ -247,21 +247,21 @@ And by no means is this the best one out there but it was in the more affordable
 <img src="/assets/posts/2015/september/a-finn-in-the-forest-part-i/axe-outline.png" alt="">
 <img src="/assets/posts/2015/september/a-finn-in-the-forest-part-i/axe-outline.png" alt="Rated 3 out of 5 Crazy Dave’s axes.">
 
-####Untested equipment
+####  Untested equipment
 
 I didn't get around to testing or using the following equipment: 550 Paracord Military Spec Type III 7, Lifesystems Adventurer First Aid Kit and the Multi Functional Skull Bandana but I'm sure there still pretty awesome.
 
-####Packable Cagoule
+####  Packable Cagoule
 
 If there's one thing one can rely on living in the <abbr title="United Kingdom" class="small-caps">UK</abbr> it's the rain. It might not be raining right now, but it's probably going to be pissing down in a few minutes.
 
 With that in mind, I figured it was important I got something to keep me dry
 
-####Web in the Woods wristband & t-shirt
+####  Web in the Woods wristband & t-shirt
 
 As an attendee and team member---meaning I also had to help---I had the honour to getting a wristband and a t-shirt.
 
-####Rockie Hi GTX Boots
+####  Rockie Hi GTX Boots
 
 Of all these things that I've gotten, the shoes were the first ones that came to mind.
 
@@ -275,7 +275,7 @@ After trying many different pairs I finally found a pair that suited both my nee
 <img src="/assets/posts/2015/september/a-finn-in-the-forest-part-i/axe-filled.png" alt="">
 <img src="/assets/posts/2015/september/a-finn-in-the-forest-part-i/axe-filled.png" alt="Rated 5 out of 5 Crazy Dave’s axes.">
 
-####Impress Coffee Brewer
+####  Impress Coffee Brewer
 
 And finally, we come to my weakness, the one area where I refuse to compromise at all.
 

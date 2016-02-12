@@ -14,11 +14,11 @@ Thankfully I have recovered from most of yesterdays alcohol related debauchery. 
 
 On a side note, or well two actually... I have come to the realization that I have a very (to me interesting) mix of American and British English, and to top it all of I have Archaic tendencies. This is actually not related to the fact that my English is technically not my mother tongue, but it's actually because I like sticking in a few Shakespeare-ian words here and there.
 
-###Review of Batman: Arkham Asylum
+### Review of Batman: Arkham Asylum
 
 Second side note; I have finished story mode in Batman: Arkham Asylum, I still have some challenges to do before I am completely done. This is a very good game, albeit with some minor flaws. Personally I felt the camera was a bit too close to Batman, although this was easily rectified by crouching which made the camera zoom out a little. It was still annoying though.
 
-###Verdict:
+### Verdict:
 
 4.5 out of 5. This is the only game to ever challenge Chronicles of Riddick: Escape from Butcher Bay when it comes to games based of fictional characters with associations to movies. Albeit the reason both of these games are good is because they have no movie tie-in.
 

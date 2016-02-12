@@ -8,7 +8,7 @@ excerpt: "In this month's issue of Keeping Up With the Erikssons: I finally fini
 ---
 Another month flies by where the English weather can't seem to decide if it's going to be summer or not, with one day of 20&deg; in blistering sunshine and the next it's just pissing down.
 
-##Tattoo session \#6 & 7
+## Tattoo session \#6 & 7
 
 I'm sure you're quite tired of hearing about my tattoo at this point. Which is why I'm happy to tell you it's done. <i lang="fr">C'est fait</i>. Finally, right?
 
@@ -25,7 +25,7 @@ Until finally, this month, when I went twice and got it finished.
 
 The last parts are still healing and I'm still figuring out how to actually take a decent picture of it, which is why the above will have to suffice for now.
 
-##6 month beard
+## 6 month beard
 
 A couple of weeks ago I reached the halfway mark on my stupid beard journey---in which I grow out my beard and hair for an entire year---and to celebrate I had another moment of, "Should I really continue with this?"
 
@@ -46,7 +46,7 @@ So, I suspect I'm going to have to do some research, maybe even buy some equipme
 
 If you're not already, you can follow my stupid journey in [A Scary, Hairy Beard Story][beard], where I update every Sunday.
 
-##Back to the Comic Con
+## Back to the Comic Con
 
 Our little group once again returned to MCM Comic Con, which had, a record breaking, more than 122,000 visitors this time.
 
@@ -93,7 +93,7 @@ This.
 
 To my disappointment I missed [Christopher Lloyd][imdb-chris], Dr. Emmett "Doc" Brow, who had been there earlier in the morning. Still though. That's me, in the DeLorean.
 
-##Drinking better beer
+## Drinking better beer
 
 As some of you might know, I've been exploring the wonderful world of beers--though often ales---ever since my brother Christian introduced me to Shepherd Neame's Spitfire, an award-winning Kentish ale, that I didn't particularly like.
 

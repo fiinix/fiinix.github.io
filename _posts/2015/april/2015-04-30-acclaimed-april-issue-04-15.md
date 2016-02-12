@@ -12,7 +12,7 @@ End of the month.
 
 We meet again.
 
-##New glasses
+## New glasses
 
 Back when we visited Finland, last month, I tried on my brother's glasses---for no particular reason---and when I did my family and Rebecka all agreed that I looked better in his glasses than I did in my own.
 
@@ -58,7 +58,7 @@ Now, I just need to decide what sunglasses to get.
 
 Oh, right, I didn't tell you. I went for a 2-for-1 deal and decided to get my second pair as sunglasses.
 
-##International Tabletop Day
+## International Tabletop Day
 
 Remember last year, when [I participated in a 24 h board game marathon?][board]
 
@@ -83,13 +83,13 @@ Unfortunately with only 12 h--only?---to spend on board games we didn't find the
 
 I'm eager to get some people together so that I, and we, can play Merchant & Marauders and once we have I'll let you know if it's as good as they say.
 
-##Tattoo session \#5
+## Tattoo session \#5
 
 It should come as no surprise at this points that, I of course, also went for another tattoo session. But since I've mentioned it enough before I thought I would skip past it this time.
 
 Well, that and the fact that I completely forgot to take any pictures this time---it was a quick session---means I have nothing to show anyway. Until next session I guess.
 
-##Avengers: Age of Ultron
+## Avengers: Age of Ultron
 
 Unless you've been living under a large desolate rock for the past few years---or you're just not into superhero films---I'm sure you're aware of the franchise behemoth that is Marvel and its string of successful films.
 

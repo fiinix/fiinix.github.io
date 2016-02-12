@@ -4,6 +4,7 @@ title: 30 Things I've Learned in 30 Years
 date: 2014-06-15 T 22:00 UTC
 tags : [On Turning Thirty]
 category: blog
+featured: true
 excerpt: In honour of tomorrow's special day—It's my birthday—I wanted to give you all a really special post. But I couldn't come up with anything special.
 facebook: "assets/posts/2014/june/30-thing-ive-learned-in-30-years/facebook-og-image.jpg"
 ---

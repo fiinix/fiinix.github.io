@@ -27,7 +27,7 @@ In honour of this festive decision of mine, I’m calling this final post of the
 	<img class="js-lazy-load" data-original="/assets/posts/2014/january/at-least-it-wasnt-lupus-part-2/the-ultimate-monthly-update.png" alt="Lucien lying in a hospital bed.">
 </figure>
 
-##January
+## January
 They say that gaming was better back when graphics were limited to 16 colours and more than 3 save slot—if any—were unheard of. They say that today’s youth is spoiled by shiny next-gen graphics in their murder-simulators—a.k.a whatever version Call Of Duty is at now—and lack the patience necessary to handle an old school game.
 
 I say, “They’re right!”
@@ -39,45 +39,45 @@ I was stuck in that motherfucking Mt. Moon for weeks before a co-worker sent me 
 But other times, nostalgic gaming can be a bit more joyful, such as the case of this post.
 A Revisit To Nostalgia Avenue
 
-##February
+## February
 For this coming year, I want to start writing more design related posts, like this one.
 Taking Responsibility — Confessions Of A Web Designer
 
-##March
+## March
 The “good” “people” of Marmite would like us all to think that people either love or hate their product but the same thing could be said about children or kittens. “Love ‘em or hate ‘em” seems to apply to most things, expect for oral sex. Big surprise there, right?
 The Logarithmic Love/Hate Chart
 
-##April
+## April
 I’m still—to my own surprise—quite pleased with the resulting character from this post. I had ideas and plans to continue this series, which I why I gave it such a grandiose title but I have of course not continued it yet. But I think I will. Until then though, enjoy the fruits of my labour and whatnot.
 Following In The Handsteps Of Greatness
 
-##May
+## May
 Beije and I developed a game. It’s short and sweet—sweet in the unforgiving insta-death-y-kind-of-way—and if you haven’t tried it yet, you should. Later we released a Windows Phone version as well which you can find here.
 Ladies And Gentlemen, Monorun!
 
-##June
+## June
 Sweet baby-stabbing Jesus I played more games than I expected this year. In a good way obviously because neither my wife or I feel like I’ve played a lot but I have and this is one of the many games I’ve played this year.
 Corvo’s Journal Of Awesomeness
 
 Half-way through all of the year that has been. Put the champagne to cool as [ADD MORE TEXT HERE]
 
-##July
+## July
 Our Remastered Hero Of Oakvale Returns
 
-##August
+## August
 After a decade of delusions of grandeur, I finally put to rest the pressing question of whether or not I can tell the difference between Coca-Cola and Pepsi? Turns out, the answer is a resounding and disappointing “No”.
 The Carbonated Cola War Conclusion
 
-##September
+## September
 2 Things I’m Ashamed To Admit That I Like
 
-##October
+## October
 Nothing Beats A Little Fisting In The Evening
 
-##November
+## November
 A Rainy Night On Drury Lane, Part VII — A White Blanket Of Forgiveness
 
-##December
+## December
 Munching On Too Many Mince Pies
 
 So, there we have it, a list of my favourite posts from this past year. And much like I left you with a picture of the future last year, I will do the same this year.

@@ -24,7 +24,7 @@ Unlike [A Finn in the Forest, Part I][part1], this one's not going be quite as l
 	<figcaption>Welcome to Web in the Woods 2015.</figcaption>
 </figure>
 
-##51° 20&prime; 0.5964&Prime; N 0° 23&prime; 8.9520&Prime; E
+## 51° 20&prime; 0.5964&Prime; N 0° 23&prime; 8.9520&Prime; E
 
 As the first to arrive at the off-grid Badgells Wood on Friday I had the luxury of picking whichever spot I wanted.
 
@@ -53,9 +53,9 @@ At least, as one of the first ones to wake up, I got to light the fire again and
 
 After everyone had gotten to have breakfast it was time for the talks to begin.
 
-##The talks
+## The talks
 
-###Lucie De Lacy
+### Lucie De Lacy
 
 To kick off the talks was [Lucie De Lacy][lucie] and her A Fantastical Fear of Everything (But Especially Writing...) which sought to dispel some of most common pitfalls writers tend to fall into when struggling to create content. Along with some helpful advise on how to combat these brain ghosts of ours Lucie set the tone for what looked to be some great talks.
 
@@ -64,7 +64,7 @@ To kick off the talks was [Lucie De Lacy][lucie] and her A Fantastical Fear of E
 	<figcaption>If you thought Chorizo was good, you haven’t tried it over an open fire.</figcaption>
 </figure>
 
-###Carlos Eriksson
+### Carlos Eriksson
 
 Next up was yours truly and in my talk Accessibility = Money [I made a business case for accessibility][tweet] and the cost of ignoring it.
 
@@ -81,13 +81,13 @@ The [slides to my talk are available online][slides], though I'm not sure how we
 	<figcaption>I’d like to think the audience was spellbound.</figcaption>
 </figure>
 
-###Paul Adam Davis
+### Paul Adam Davis
 
 [Paul Adam Davis][paul] had originally planned to talk about <del>Working with the World</del> but with recent changes in his career this had been changed to <ins>Professional Progression</ins> instead.
 
 And in a world where we make so much effort to only ever show our best work---I partly blame Imposter Syndrome---I found it fascinating to listen to someone be so forthcoming about all the mistakes he had made, and the lessons he had learned.
 
-###Sally Jenkinson
+### Sally Jenkinson
 
 [Sally Jenkison][sally]'s talk: An Introduction to Open Data focused around the very convoluted---though through no fault of hers---meaning of open data as well as practical applications of it.
 
@@ -100,7 +100,7 @@ You can read more about [Sally's experience of the weekend][sally2], in her own 
 	<figcaption>My water bottle came in handy.</figcaption>
 </figure>
 
-###Dan Edwards
+### Dan Edwards
 
 Finishing up the talks for event was [Dan Edwards][dan] and his Finding Your Mojo where he talked about how he lost and found... well, his mojo.
 

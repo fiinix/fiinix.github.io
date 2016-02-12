@@ -14,7 +14,7 @@ After all the Christmas stress and all the Christmas goose we all felt like we n
 
 It's been really nice and as we approaching February, we're all feeling a lot more recuperated.
 
-##Fed up with Fallout 4
+## Fed up with Fallout 4
 
 Considering [how excited I was for Fallout 4][fallout4] it pains me, almost as much, to admit that I've fallen out of excitement for Fallout 4.
 
@@ -38,7 +38,7 @@ So whilst Fallout 3 gave me a sprawling world, ready to be explored, Fallout 4 g
 
 *But for anyone wondering, I did end up finding my Power Armor, which had been left by one of my settlers a few hundred metres away from my main settlement. Needless to say, I've stopped leaving my Fusion Cores inside of them now.*
 
-##Copywriting by Mark Shaw
+## Copywriting by Mark Shaw
 
 A few months ago I bought a book on copywriting.
 

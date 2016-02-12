@@ -17,7 +17,7 @@ I figured, "Well, if they liked it, maybe others would too?"
 
 So here we are. Besides, I've been dying to get hands-on with my new Canon 100D and this gave me the perfect excuse.
 
-##Kokosbollar
+## Kokosbollar
 
 Makes about 20 balls. <mark>Or 11 if you make them as big as I did.</mark>
 
@@ -30,7 +30,7 @@ Makes about 20 balls. <mark>Or 11 if you make them as big as I did.</mark>
 	+
 	desiccated coconut, for rolling.
 
-###Directions
+### Directions
 
 Mix together soft butter with sugar. <mark>Wait for it or violently beat it together, like it offended you.</mark>
 

@@ -30,7 +30,7 @@ But I still want to change.
 
 And I don't know about you but I'd hate to think that I've already established all the habits I will ever have.
 
-##Bring it on
+## Bring it on
 
 Which is why for the next twelve months I want to challenge myself, in some form or another.
 
@@ -53,7 +53,7 @@ In the past month, i.e. December, I've been feeling like I don't get enough qual
 
 So for January's challenge, I'm trying to rectify this by being in bed by 22:30 every evening. This way, by my count, I should have enough time to get enough sleep until my 06:50 alarm.
 
-##The challenges
+## The challenges
 
 These are all the challenges I've planned.
 

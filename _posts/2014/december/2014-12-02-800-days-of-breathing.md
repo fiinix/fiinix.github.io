@@ -29,31 +29,31 @@ The efforts do come with its benefits, which I've greatly enjoyed and in case yo
 	<figcaption>The Smoke, by <a href="http://lucaszoltowski.deviantart.com/">Lucas Zoltowski</a>.</figcaption>
 </figure>
 
-##1 minute
+## 1 minute
 Panic strikes as you realise that this incredible Stick of Death you have been inhaling for years is no longer going to be your source of comfort and calm when shit gets difficult.
 
-##20 minutes
+## 20 minutes
 Blood pressure and heart rate decrease.
 
-##12 hours
+## 12 hours
 Carbon monoxide levels in the blood decrease to normal.
 
-##48 hours
+## 48 hours
 Nerve endings and sense of smell and taste both start recovering.
 
-##48 hours and 1 minute
+## 48 hours and 1 minute
 You are struck by the overwhelming beauty of scents that nature has to offer, such as blossoming cherry trees. Also, the smell of dog shit. Oh god, so much dog shit. Why didn't anyone tell me about all this dog shit?!
 
-##3 months
+## 3 months
 Circulation and lung function improve.
 
-##9 months
+## 9 months
 Coughing, wheezing and breathing problems decrease.
 
-##9 months and 1 minute
+## 9 months and 1 minute
 Walking from the sofa to the fridge and back doesn't require you to sit down for break in-between. Making love to your partner doesn't make you dizzy because you're so out of breath.
 
-##1 year
+## 1 year
 The risk of coronary heart disease is cut in half.
 
 ...
@@ -62,19 +62,19 @@ I'm currently at 800 days, or 26 months and 9 days.
 
 ...
 
-##5 years
+## 5 years
 The risk of stroke falls to the same as a non-smoker, and the risks of many cancers decrease significantly.
 
-##5 years and 1 minute
+## 5 years and 1 minute
 You suffer from your first stroke but as you walk towards the light you smile, knowing that at least it wasn't because you smoked. The paramedics resuscitate you and as you come back you notice the smell of dog shit again. Damn it.
 
-##10 years
+## 10 years
 The risk of dying from lung cancer is cut in half, and the risks of larynx and pancreas cancers decrease.
 
-##15 years
+## 15 years
 The risk of coronary heart disease drops to the level of a non-smoker; lowered risk for developing COPD (chronic obstructive pulmonary disease).
 
-##46 years, 6 months and 5 days
+## 46 years, 6 months and 5 days
 You, having made yourself an identical promise, join me in the town centre as we together frolick towards the nearest shop to pick up our new expensive pipes.
 
 You, the special snowflake that you consider yourself to be, decide to buy a fully functional and highly detailed wooden replica pipe from Lord of the Rings. I pretend to appreciate your sense of humour but secretly judge you---super secretly---as I buy the short stubby pipe I have had my heart set on.

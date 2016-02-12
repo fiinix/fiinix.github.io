@@ -31,7 +31,7 @@ A quick internet search later I found a guy called [Nigel Slater][nigel] who, ta
 
 Which is what I'm now republishing here, with my own <mark>annotations,</mark> which is also how I plan to publish any future recipes. You can find [Nigel Slater's original Rye Crispbread recipe here][original-recipe].
 
-##Rye crispbread
+## Rye crispbread
 *Makes 12 crispbreads the size of a side plate* <mark>Only made 10, 4 of which Rebecka ate before I could even picture them.</mark>
 
 	400g rye flour
@@ -42,7 +42,7 @@ Which is what I'm now republishing here, with my own <mark>annotations,</mark> w
 	½ tsp fennel seeds
 	½ tsp cummin seeds
 
-###Directions
+### Directions
 
 Put the flour into a large bowl and add the salt. Warm the water to about 22C (if you don't have a thermometer get the water pleasantly warm). <mark>Because everyone knows what "pleasantly warm" feels like?</mark> Crumble the yeast into the water and whisk until the water is milky and has virtually dissolved.
 

@@ -18,7 +18,7 @@ And instead of publishing both of them the same day I thought it best to spread 
 
 Lucky you.
 
-##codeHarbour on Tour!
+## codeHarbour on Tour!
 
 After my first talk at [Web in the Woods][finn] and all the wonderful, both positive and constructive, feedback I had received, I was eager and excited to do another talk.
 
@@ -36,7 +36,7 @@ So I did.
 
 My evolving slides are available online at [carloseriksson.com/greedforgood][greed].
 
-##Dickensian Christmas
+## Dickensian Christmas
 
 As long as we've lived in the <abbr title="United Kingdom" class="small-caps">UK</abbr> , we've attended the Dickensian Christmas in [Rochester][map].
 
@@ -80,7 +80,7 @@ Too much?
 	<figcaption>The famous leaning house in Two Post Alley.</figcaption>
 </figure>
 
-##Idiot(s) abroad
+## Idiot(s) abroad
 
 After three and a half years of living abroad I finally managed to complain enough so that some friends of mine came over here to visit.
 
@@ -107,7 +107,7 @@ And then there's a whole series of embarrassing photos from a certain unnamed ho
 
 The Hotel Manager didn't appreciate our adventures into making horror films as he came out from a room only seconds after we filmed this one.
 
-##Star Wars Episode VII: The Force Awakens
+## Star Wars Episode VII: The Force Awakens
 
 **No spoilers.**
 
