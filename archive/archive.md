@@ -11,7 +11,7 @@ I'm also migrating all the entries from my old Blogger+Blogspot account and [the
 [archive]: https://trello.com/c/eHBiNXt3
 [reclaimer]: https://trello.com/c/BNMKDXQB
 
-##2016
+## 2016
 
 *The year that hasn’t reached an introspective status yet.*
 
@@ -19,7 +19,7 @@ I'm also migrating all the entries from my old Blogger+Blogspot account and [the
 
 [2016]: /archive/2016
 
-##2015
+## 2015
 
 Memorable event include; [starting to exercise][exercise], [becoming a zombie for a day][zombie], [speaking at my first conference][webinthewoods], [becoming a published writer][netmag], [completing the year-long beard journey][beard] and [toasting to the ten terrific years][tenyears] spent with Rebecka.
 
@@ -35,7 +35,7 @@ But my favourite entry is [Back to the Past][backpast], where in honour of Marty
 [backpast]: /blog/back-to-the-past
 [2015]: /archive/2015
 
-##2014
+## 2014
 
 Memorable events include; [Lucien getting seriously ill][lupus], [a 24 h board game marathon][board], [going to my first Comic Con][comic], [turning 30][thirty], [getting a new jobs][job], [growing a beard for a year][beard] and [hunting for the perfect Christmas tree][tree].
 
@@ -53,7 +53,7 @@ But my favourite entry is [A Letter from the Promised Land][promised-land], wher
 [promised-land]: /blog/a-letter-from-the-promised-land/
 [2014]: /archive/2014
 
-##2013
+## 2013
 
 I have 106 entries in need of migration from this year.
 
@@ -64,19 +64,19 @@ Favourite entry from this year? Maybe, [The Worst Assassin in the World][assassi
 [assassin]: /blog/the-worst-assassin-in-the-world/
 [2013]: /archive/2013 -->
 
-##2012
+## 2012
 
 I have 97 entries in need of migration from this year.
 
-##2011
+## 2011
 
 I have 96 entries in need of migration from this year.
 
-##2010
+## 2010
 
 I have 83 entries in need of migration from this year.
 
-##2009
+## 2009
 
 Memorable events include; [creating sculpted dolls][dolls], a horrible [bucket list][bucket], [performing covers and my own material at Night of Arts][nightart], [getting a third tattoo][tattoo3] and [designing an T-shirt for Xbox.com][xbox].
 
@@ -92,7 +92,7 @@ But my favourite entry has got to be one of my live performances from Night of A
 [glass]: /blog/part-iii-and-iv-into-the-night-and-made-of-glass
 [2009]: /archive/2009
 
-##2008
+## 2008
 
 The first year. The year with [one measly entry][one]. Mostly kept here for posterity.
 

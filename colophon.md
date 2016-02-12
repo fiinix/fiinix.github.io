@@ -9,11 +9,11 @@ Produced on an <code>1366×768</code> Toshiba laptop in rustic [Maidstone][maids
 
 Starting with the content first I'm taking inspiration from the canons of page construction and applying a flexible device-agnostic approach to it.
 
-##Typography
+## Typography
 
 The type is set in Lora by [Cyreal][cyreal] for body copy and Cooper Hewitt by [Chester Jenkins][chester] for headings. Both which are licensed under the SIL Open Font License.
 
-##Technologies
+## Technologies
 
 This website is built with [Jekyll][jekyll], a ‘blog aware, static site generator’, and hosted on [GitHub Pages][source]. The source code is version controlled with Git and stored on GitHub.
 

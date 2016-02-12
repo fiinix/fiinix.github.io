@@ -7,11 +7,11 @@ excerpt: "A styleguide is a set of standards for the writing and design of docum
 ---
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Bland [x] itiis hic doloribus temporibus sequi <code>ipsum esse</code>. Quae ex sed, minus dolor molestiae nemo <code>deserunt perspiciatis</code> maiores incidunt quisquam vero neque ducimus. Libero pariatur eum fugit, delectus [wiki link][wiki]. Aperiam tempore totam repellat dicta.
 
-##Table of content
+## Table of content
 
 a list of everything.
 
-##Colors
+## Colors
 
 Brands and colour are inextricably linked because colour offers an instantaneous method for conveying meaning and message without words.
 
@@ -19,32 +19,32 @@ Brands and colour are inextricably linked because colour offers an instantaneous
 	<div class="sg__swatch bg--primary">
 		<div class="sg__swatch__label">
 			Crimson<br>
-			#CD0E3E</div>
+			#CD0E3E (5.1:1)</div>
 	</div>
 	<div class="sg__swatch bg--secondary">
 		<div class="sg__swatch__label">
 			Shamrock<br>
-			#37D795</div>
+			#37D795 (1.7:1)</div>
 	</div>
 	<div class="sg__swatch bg--tertiary">
 		<div class="sg__swatch__label">
 			Eucalyptus<br>
-			#1C8D5E</div>
+			#1C8D5E (3.2:1)</div>
 	</div>
 	<div class="sg__swatch bg--accent">
 		<div class="sg__swatch__label">
 			Fuel-yellow<br>
-			#EFAD1F</div>
+			#EFAD1F (1.8:1)</div>
 	</div>
 </div>
 
-##Typography
+## Typography
 
-###Body text
+### Body text
 
 > Lora is a well-balanced contemporary serif with roots in calligraphy. It is a text typeface with moderate contrast well suited for body text.
 
-###Headings
+### Headings
 
 > Cooper Hewitt, is a contemporary sans serif, with characters composed of modified-geometric curves and arches. <cite>Chester Jenkins</cite>
 
@@ -87,13 +87,13 @@ All headings have a line-heights carefully selected to ensure that a line’s de
 
 ##Elements
 
-###Abbreviations
+### Abbreviations
 
 An abbreviation (from Latin <i lang="la">brevis</i>, meaning <i>short</i>) is a shortened form of a word or phrase. Usually, but not always, it consists of a letter or group of letters taken from the word or phrase. For example, the word <i>abbreviation</i> can itself be represented by the abbreviation <abbr title="abbreviation">abbr</abbr>.
 
 Some abbreviations, such as the initialism <abbr title="HyperText Markup Language" class="small-caps">HTML</abbr> can also have a <code>.small-caps</code> added to the element to simulate small-caps.
 
-###Superscript and subscript text
+### Superscript and subscript text
 
 The <code>sup</code> element represents a superscript and the sub element represents a <code>sub</code>. These elements must be used only to mark up typographical conventions with specific meanings, not for typographical presentation. As a guide, only use these elements if their absence would change the meaning of the content. Example:
 
@@ -101,11 +101,11 @@ On the 1st day he had already ran out of H<sub>2</sub>O. The letters in ordinal 
 
 Lorem ipsum dolor sit amet, [media link][media]. Nisi facere, eius suscipit ipsa.
 
-###Code and something
+### Code and something
 
 Lorem ipsum dolor sit amet, <code>consectetur adipisicing</code> elit. Tempora voluptatum, laboriosam nemo <code>commodi earum</code> provident quaerat, unde distinctio temporibus ratione totam quibusdam aperiam corrupti.
 
-###Codeblock
+### Codeblock
 
 {% highlight javascript %}
 // Put in <head>
@@ -146,7 +146,7 @@ if ( 'querySelector' in document && 'addEventListener' in window && 'classList' 
 
 {% endhighlight %}
 
-###Blockquote
+### Blockquote
 
 > 95% of the information on the web is written language. <cite>Oliver Reichenstein, [Web Design is 95% Typography][quote]</cite>
 
@@ -158,7 +158,7 @@ Lorem ipsum dolor sit amet, **consectetur adipisicing elit**. Officiis error, in
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perspiciatis minima quam, impedit [basic outbound link][outbound] ad praesentium voluptates laudantium ducimus. Tempore similique deserunt quod.
 
-###Pull quote
+### Pull quote
 
 A [pull quote][pullquote] is a <q>quotation or excerpt from an article that is typically placed in a larger or distinctive typeface on the same page, serving to entice readers into an article or to highlight a key topic</q>.
 
@@ -166,7 +166,7 @@ A [pull quote][pullquote] is a <q>quotation or excerpt from an article that is t
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Provident tenetur sint temporibus ipsa recusandae iure deleniti praesentium alias. Obcaecati rem necessitatibus quis aspernatur nobis ipsum voluptatem, reprehenderit eaque dolorem, ad suscipit molestiae, cupiditate pariatur aliquid! Dolores?
 
-###Figures
+### Figures
 
 Figures are usually used for images.
 
@@ -195,20 +195,20 @@ As of some one gently rapping, rapping at my chamber door.
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sint, iusto sapiente debitis voluptas!
 
-###Unordered list
+### Unordered list
 
 - The Dream-Quest of Unknown Kadath
 - At the Mountains of Madness
 - The Shadow Over Innsmouth
 - The Shadow Out of Time
 
-###Ordered list
+### Ordered list
 
 1. 1954 The Fellowship of the Ring
 2. 1954 The Two Towers
 3. 1955 The Return of the King
 
-###Definition list
+### Definition list
 
 <dl>
    <dt>Definition list</dt>
@@ -223,7 +223,7 @@ commodo consequat.</dd>
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Provident esse eveniet tempore, sunt amet eaque, fuga impedit hic earum dolorem, tenetur error tempora asperiores!
 
-###Tables
+### Tables
 
 <div class="table-wrapper">
   <table>
