@@ -8,7 +8,7 @@ excerpt: "In this month’s issue of Keeping Up With the Erikssons: We get some 
 ---
 I suspect this is going to be one of the shortest Keeping Up with the Erikssons as we spent most of the month resting, which means there's not as much to talk about this month.
 
-##Rest and recuperation
+## Rest and recuperation
 
 After all the Christmas stress and all the Christmas goose we all felt like we needed some well earned <abbr title="rest and recuperation" class="small-caps">R&R</abbr>, which is why we have spent most of January taking it easy instead of filling it with too many activities.
 
