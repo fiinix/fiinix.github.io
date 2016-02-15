@@ -5,20 +5,20 @@ category: content
 permalink: /writing/
 excerpt: "Aside for keeping an online journal for the past seven, going on eight years, I sometimes have the honour of writing elsewhere."
 ---
-I enjoy telling stories that enlighten and inspire and I would love to write more of them.
+I enjoy telling stories to enlighten and inspire. We need to be teaching the next generation of designers by learning from our mistakes.
 
-Are you interested in having me write something for your publication, online or otherwise? Don&rsquo;t hesitate to <a href="https://twitter.com/fiinixdesign">contact me</a>.
+Are you interested in having me write something for your publication, online or otherwise? Don&rsquo;t hesitate to <a href="https://twitter.com/fiinixdesign">contact me about writing for your publication</a>.
 
 <hr>
 
-<!-- <h2 class="h4 subheading">Recent articles</h2> -->
+<h2 class="visuallyhidden">Recent articles</h2>
 
 <div class="article-preview">
 	<span class="small-caps">net Magazine, Issue 274, December 2015</span>
 
 	<h3 class="h3 no-margin"><a href="http://www.creativebloq.com/netmag/issue-274-101517513">The Cost of Accessibility</a></h3>
 
-	<p>Carlos Eriksson makes a business case for accessibility, and reveals the real cost of ignoring it.</p>
+	<p>Where I make a business case for accessibility, and reveal the very real costs of ignoring it.</p>
 </div>
 
 <div class="article-preview">
