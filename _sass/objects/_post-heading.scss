@@ -15,25 +15,6 @@
 
 	color: $primary-color;
 
-	span {
-
-		// font-size: 2em;
-		// background-color: #4c9cd0;
-		background-color: $primary-color;
-		color: $white;
-		display: inline;
-		padding: 0.1em 0.15em;
-		line-height: 1.3;
-
-		// text-transform: uppercase;
-
-		-webkit-box-decoration-break: clone;
-		box-decoration-break: clone;
-
-		box-shadow: -3em 0 0 $primary-color;
-
-	}
-
 	.post-preview & {
 
 		margin-bottom: 0;
@@ -51,20 +32,48 @@
 		left: 0;
 
 		white-space: nowrap;
-
 		transform: translate(-1em, -1em);
-
 		opacity: 0.2;
-
 		z-index: -1;
 
 	}
 
 }
 
-.post-preview .post-heading span {
+.post-heading span,
+.page-heading span {
 
-	box-shadow: none;
+		background-color: $primary-color;
+		color: $white;
+		display: inline;
+		padding: 0.1em 0.15em;
+		line-height: 1.3;
+
+		-webkit-box-decoration-break: clone;
+		box-decoration-break: clone;
+
+		// box-shadow: -1em 0 0 $primary-color;
+
+		&:before {
+
+			content: " ";
+			display: block;
+			width: 100%;
+			height: calc(100% + 0.2222em);
+
+			background-color: inherit;
+
+			position: absolute;
+			top: -0.1111em;
+			left: -100%;
+
+		}
+
+	}
+
+.post-preview .post-heading span:before {
+	
+	content: none;
 
 }
 
@@ -100,7 +109,7 @@
 		> a > span {
 
 			background-color: $tertiary-color;
-			box-shadow: -3em 0 0 $tertiary-color;
+			// box-shadow: -3em 0 0 $tertiary-color;
 
 		}
 
@@ -108,21 +117,24 @@
 
 }
 
+
+
 .post-type--archive {
 
 	color: $luma-10;
-
 	/* Inherit border-colors for branding */
 	border-color: $luma-10 $luma-40 $luma-40 $luma-10;
 
-	> span {
+}
 
-		background-color: $luma-10;
-		box-shadow: -3em 0 0 $luma-10;
+.post-type--archive > span {
 
-	}
+	background-color: $luma-10;
+	box-shadow: -3em 0 0 $luma-10;
 
 }
+
+
 
 .post--new .post-heading {
 
