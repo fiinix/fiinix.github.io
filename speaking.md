@@ -7,7 +7,7 @@ excerpt: "I'm honoured that so many people find my talks inspiring and eye-openi
 ---
 I&rsquo;ve recently taken up public speaking and I&rsquo;m really enjoying sharing everything I&rsquo;ve learned over the years.
 
-<p>If you want to hire me to talk at your upcoming event, don’t hesitate to <a href="mailto:carlos.n.design@gmail.com" class="link--tertiary">send me an email</a>.</p>
+<p>If you want to hire me to talk at your upcoming event, don’t hesitate to <a href="mailto:carloserikssonconsultancy@gmail.com" class="link--tertiary">send me an email</a>.</p>
 
 <!-- <p>Are you a conference organiser? Do you have an event in need of a speaker? I am, me speak good. <a href="/explaining/">Learn more</a> about all what I have to offer.</p> -->
 
