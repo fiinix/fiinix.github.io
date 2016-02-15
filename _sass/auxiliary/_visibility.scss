@@ -47,3 +47,15 @@
     position: static;
     width: auto;
 }
+
+.display-from-desk {
+
+    display: none;
+
+    @include mq($breakpoint-desk) {
+
+        display: unset;
+
+    };
+
+}
