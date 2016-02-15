@@ -7,6 +7,8 @@ excerpt: "I provide accessibility and inclusive design consultancy to web design
 ---
 The consultancy services I offer include; reviews, research, information design, training, testing and the means to implement accessible and device-agnostic (from smartphones to braille terminals) designs.
 
+<a href="mailto:carloserikssonconsultancy@gmail.com?subject=Let%E2%80%99s%20work%20together" class="link--tertiary">Let&rsquo;s talk</a> about how I can help you and your clients.
+
 *I will also be providing workshops soon.*
 
 ## Why accessibility and inclusive design?
