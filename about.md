@@ -7,7 +7,9 @@ excerpt: "I'm a multilingual designer and frontend developer who knows that acce
 ---
 I've been making designs that focus on typography, information architecture and inclusive design patterns for the past 10+ years.
 
-From having the pleasure of having some of my work featured on xbox.com and other work seen by tens of thousands of people on a daily basis, my wonderful wife and son always keeps me grounded.
+From having the pleasure of [writing][writing] about accessibility for .net magazine to [speaking at conferences][speaking] about the importance of accessibility and having other work used by tens of thousands of people on a daily basis, my wonderful wife and son always keep me grounded.
+
+I wouldn’t be half the man I am without them.
 
 Originally from a cold but sunny Finland, my family and I now live in the <abbr title="United Kingdom" class="small-caps">UK</abbr>. We packed a bag each and moved here for what, so far, has been quite the adventure.
 
@@ -18,4 +20,7 @@ Originally from a cold but sunny Finland, my family and I now live in the <abbr 
 
 Inquisitive and critical by nature, I get genuinely excited about learning new things whether it&rsquo;s another tool to add to the arsenal or baking exquisitely complicated cupcakes.
 
-I&rsquo;ve recently taken up <a href="/speaking">public speaking</a> and I&rsquo;m finding myself really enjoying sharing everything I&rsquo;ve learned over the years. If you want to hire me to talk at your upcoming event, <a href="https://twitter.com/fiinixdesign">contact me</a>.
+<a href="mailto:carlos.n.design@gmail.com?subject=Employment%20opportunity">I'm available</a> for full-time employment.
+
+[writing]: /writing
+[speaking]: /speaking
