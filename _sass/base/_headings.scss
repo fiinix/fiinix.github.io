@@ -17,8 +17,15 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 h1,
 .h1.h1 {
 
-	font-size: 3.375em;
-	line-height: 1.10668;
+	font-size: 2.25em;
+	line-height: 1.22474;
+
+	@include mq($breakpoint-palm) {
+	
+		font-size: 3.375em;
+		line-height: 1.10668;
+
+	}
 
 	@include mq($breakpoint-lap) {
 
