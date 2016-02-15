@@ -7,7 +7,7 @@ excerpt: "Aside for keeping an online journal for the past seven, going on eight
 ---
 I enjoy telling stories to enlighten and inspire. We need to be teaching the next generation of designers by learning from our mistakes.
 
-Are you interested in having me write something for your publication, online or otherwise? Don&rsquo;t hesitate to <a href="https://twitter.com/fiinixdesign">contact me about writing for your publication</a>.
+Are you interested in having me write something for your publication, online or otherwise? Don&rsquo;t hesitate to contact me about <a href="mailto:carloserikssonconsultancy@gmail.com" class="link--tertiary">writing for your publication</a>.
 
 <hr>
 
