@@ -5,23 +5,26 @@ layout: default
  <div class="group" role="main">
    <section class="col col--primary">
 
-      <h1 class="h1 page-heading">Bonjour</h1>
+      <h1 class="h1 page-heading post-type--professional">Hej,</h1>
 
-      <p class="lead">I&rsquo;m a designer; Sometimes websites, sometimes not.</p>
+      <p class="lead">I&rsquo;m a published, accessibility-focused designer and frontend developer who is available for full-time employment.</p>
 
-      <!-- <h1 class="h2">I&rsquo;m a designer; Sometimes websites, sometimes not.</h1> -->
+      <p>As a multilingual designer and frontend developer, I know accessibility can exist in the heart of form and function, without compromising either.</p>
 
-      <h2 class="h4">Recent entries</h2>
+      <p>After working as a scientist-turned-zombie at <a href="http://squiders.com/">Squiders</a>, where I was making websites accessible and usable for everyone, I&rsquo;m now looking to start the next exciting chapter.</p>
 
+      <p>
+    <em><i lang="sv">Hej</i> is Swedish and means, &ldquo;Hello&rdquo;. Now you know a little Swedish as well.</em>
+  </p>
+
+
+      <h2 class="h4">Recent journal entries</h2>
 
       {% for post in site.posts limit:5 %}
         <article class="post-preview">
         {% include date.html type="listing" %} {% include reading-time.html type="post" %}
         <h3 class="h3 post-heading post-type--{{ post.category }}"><a class="post-link" href="{{ post.url | prepend: site.baseurl }}"><span {% if post.color %} style="color: white; background-color: {{ post.color }};"{% endif %} >{{ post.title | markdownify | strip_html | trim  }}</span></a></h3>
         <p>{{ post.excerpt | markdownify | strip_html | trim }}</p>
-        <!-- <p class="align-right">
-          <a href="{{ BASE_PATH }}{{ post.url }}" title="Read &ldquo;{{ post.title }}&rdquo;">[{% include reading-time.html type="post" %}]</a>
-        </p> -->
         </article>
       {% endfor %}
 
@@ -29,10 +32,10 @@ layout: default
    </section>
    <aside class="col col--secondary" role="complementary">
 
-    {% include copy__author.html %}
-    <hr>
+    <!-- {% include copy__author.html %} -->
+    <!-- <hr> -->
     <!-- {% include copy__mvp.html %} -->
-    {% include site__tags.html %}
+    <!-- {% include site__tags.html %} -->
 
    </aside>
  </div>
