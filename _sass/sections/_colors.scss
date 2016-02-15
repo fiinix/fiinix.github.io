@@ -16,6 +16,13 @@
 
 	margin: 0;
 
+	/* Content pages dont have colour bands */
+	&--content {
+
+		display: none;
+
+	}
+
 	&--personal {
 
 		.color {
@@ -121,6 +128,19 @@
 				height: 100%;
 
 		};
+
+	}
+
+	&--heading {
+
+		position: absolute;
+		top: 13em;
+		left: 0;
+
+		width: 100%;
+		height: 1em;
+
+		z-index: -1;
 
 	}
 
