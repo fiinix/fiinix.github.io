@@ -3,22 +3,21 @@ layout: default
 ---
 <div class="container">
 
-  <div class="group">
+  <header class="group">
     <div class="col col--primary">
       
-      <h1 class="page-heading page-type--{{ page.category }}" {% if page.color %} style="color: {{ page.color }};"{% endif %}>{{ page.title | markdownify | strip_html | trim  }}</h1>
+      <h1 class="page-heading page-type--{{ page.category }}" {% if page.color %} style="color: {{ page.color }};"{% endif %}><span>{{ page.title | markdownify | strip_html | trim  }}</span></h1>
 
     </div>
-  </div>
+  </header>
 
  <div class="group" role="main">
    <section class="col col--primary">
 
       {% if page.excerpt %}
-      <p class="lead">{{ page.excerpt | markdownify | strip_html | trim }}</p>
+      <div class="lead">{{ page.excerpt | markdownify }}</div>
       {% endif %}
-
-    </header>
+      
 
     <article class="page-content page-type--{{ page.category }}" lang="en"{% if page.color %} style="border-color:{{ page.color }} {{ page.color }} {{ page.color2 }} {{ page.color2 }}; color: {{ page.color }};"{% endif %}>
       {{ content }}
@@ -31,6 +30,7 @@ layout: default
       <li><a href="/about">About</a></li>
       <li><a href="/speaking">Speaking</a></li>
       <li><a href="/writing">Writing</a></li>
+      <li><a href="/now">Now</a></li>
     </ul>
     <hr>
     <ul class="clean-list">
