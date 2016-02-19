@@ -20,6 +20,8 @@ p {
 
 	color: $luma-10;
 
+	p { color: inherit; }
+
 }
 
 .post-content > p:last-of-type:after {
