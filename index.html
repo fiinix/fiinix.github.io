@@ -5,20 +5,26 @@ layout: default
  <div class="group" role="main">
    <section class="col col--primary">
 
-      <h1 class="h1 page-heading post-type--professional">Hej,</h1>
+      <h1 class="h1 page-heading post-type--professional"><span class="js-hello">Hej</span></h1>
 
-      <p class="lead">I&rsquo;m a published, accessibility-focused designer and frontend developer who is available for full-time employment.</p>
+      <p class="lead">
+        I&rsquo;m an <strong>accessibility-focused multilingual designer</strong> and frontend developer who knows that inclusive design can exist in the heart of form and function, without compromising either. 
+      </p>
 
-      <p>As a multilingual designer and frontend developer, I know accessibility can exist in the heart of form and function, without compromising either.</p>
-
-      <p>After working as a scientist-turned-zombie at <a href="http://squiders.com/">Squiders</a>, where I was making websites accessible and usable for everyone, I&rsquo;m now looking to start the next exciting chapter.</p>
+      <p>After working as a scientist-turned-zombie at Squiders, where I was making websites and experiences that are <strong>accessible and usable</strong> for everyone, I&rsquo;m now looking to start the next exciting chapter.</p>
 
       <p>
-    <em><i lang="sv">Hej</i> is Swedish and means, &ldquo;Hello&rdquo;. Now you know a little Swedish as well.</em>
+        Find out more <a href="/about" class="link--tertiary">about me</a>.
+      </p>
+
+      <hr>
+
+      <p>
+    <i lang="sv" class="js-hello">Hej</i> (<span class="js-phonetic">heɪ</span>) is <span class="js-lang">Swedish</span> for Hello. It&rsquo;s one of the languages I speak and now you speak a little <span class="js-lang">Swedish</span> too.
   </p>
 
 
-      <h2 class="h4">Recent journal entries</h2>
+<!--       <h2 class="h4">Recent journal entries</h2>
 
       {% for post in site.posts limit:5 %}
         <article class="post-preview">
@@ -26,17 +32,17 @@ layout: default
         <h3 class="h3 post-heading post-type--{{ post.category }}"><a class="post-link" href="{{ post.url | prepend: site.baseurl }}"><span {% if post.color %} style="color: white; background-color: {{ post.color }};"{% endif %} >{{ post.title | markdownify | strip_html | trim  }}</span></a></h3>
         <p>{{ post.excerpt | markdownify | strip_html | trim }}</p>
         </article>
-      {% endfor %}
+      {% endfor %} -->
 
 
    </section>
-   <aside class="col col--secondary" role="complementary">
+   <!-- <aside class="col col--secondary" role="complementary"> -->
 
     <!-- {% include copy__author.html %} -->
     <!-- <hr> -->
     <!-- {% include copy__mvp.html %} -->
     <!-- {% include site__tags.html %} -->
 
-   </aside>
+   <!-- </aside> -->
  </div>
 </div>
