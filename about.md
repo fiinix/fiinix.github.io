@@ -3,15 +3,15 @@ layout: about
 title: About
 category: content
 permalink: /about/
-excerpt: "I'm a multilingual designer and frontend developer who knows that accessibility can exist in the heart of form and function, without compromising either."
+excerpt: "I'm an **accessibility-focused multilingual designer** and frontend developer who knows that inclusive design can exist in the heart of form and function, without compromising either. "
 ---
-I've been making designs that focus on typography, information architecture and inclusive design patterns for the past 10+ years.
+For the past six years I've been making websites and experiences that are **accessible and usable** for everyone. I focus on typography, information architecture and inclusive design patterns.
 
-From having the pleasure of [writing][writing] about accessibility for .net magazine to [speaking at conferences][speaking] about the importance of accessibility and having other work used by tens of thousands of people on a daily basis, my wonderful wife and son always keep me grounded.
+From having the pleasure of [writing][writing] about accessibility for Net magazine to [speaking at conferences][speaking] about the importance of accessibility and having other work used by tens of thousands of people on a daily basis, my wonderful wife and son always keep me grounded.
 
 I wouldn’t be half the man I am without them.
 
-Originally from a cold but sunny Finland, my family and I now live in the <abbr title="United Kingdom" class="small-caps">UK</abbr>. We packed a bag each and moved here for what, so far, has been quite the adventure.
+Born and raised in Finland, we now live in the <abbr title="United Kingdom" class="small-caps">UK</abbr>. A few years ago we packed a bag each and moved here for what, so far, has been quite [the adventure][adventure].
 
 <figure>
   <img class="js-lazy-load" data-original="/assets/img/carlos-eriksson.jpg" alt="Carlos Eriksson in the flesh.">
@@ -24,3 +24,4 @@ Inquisitive and critical by nature, I get genuinely excited about learning new t
 
 [writing]: /writing
 [speaking]: /speaking
+[adventure]: /blog/immigrant-or-expatriate/
