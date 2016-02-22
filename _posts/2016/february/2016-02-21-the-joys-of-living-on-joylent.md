@@ -52,9 +52,11 @@ Opinions vary, in other words.
 
 I've made my first batch and it's sitting in the fridge, cooling down, ready for tomorrow. I suppose we will know soon enough on which side I stand.
 
-I will update this entry every evening. Join me again tomorrow, as the experiment begins.
+I will update this entry every evening. Join me again tomorrow, as the experiment <del>begins</del> <ins>continues</ins>.
 
-<!--
+***
+
+Because I didn't want my own bias to---pun intended---flavour the results I've randomised the order in which I will drink the different flavours. This is also to prevent me from saving the dreaded banana flavour for last. Which I would have regretted on Friday morning.
 
 <figure class="aside-image">
 	<img class="js-lazy-load" data-original="/assets/posts/2016/february/the-joys-of-living-on-joylent/mango.png">
@@ -62,17 +64,61 @@ I will update this entry every evening. Join me again tomorrow, as the experimen
 
 ## Day 1, Mango Monday
 
-Because I didn't want my own bias to---pun intended---flavour the results I've randomised the order in which I will drink the different flavour. Also knowing myself I would have saved the dreaded banana flavour for last. Only to regret it come Friday.
+First up; Mango.
 
-But first up is; Mango.
+I had read that it's better if you mix it the night before and cool it in the fridge. Which is exactly what I did.
 
-## Day 2, Banana
+The texture is---not good at all---like weird fruit juice with chalk.
 
-## Day 3, Strawberry
+Gritty.
 
-## Day 4, Chocolate
+It tastes and smells like mango, I guess. I quite like mango but my whole body is telling me that this, in fact, is *not mango*. My body is very confused. I finished my first meal in about 20 minutes and I feel like I have a slight migraine coming on.
 
-## Day 5, Vanilla
+I spend the rest of the day feeling a bit shit. Not bad but not great either and the level 2 migraine I got from my breakfast lingers until early evening. After some quick research---fearing the worst---I find a [Soylent discussion][headache] where other people appear to experience a similar problem.
+
+The suspected culprits; Potassium and Sodium.
+
+Or specifically; my body getting enough, a lot more, Potassium than it's used to and a lot less Sodium than it's used to.
+
+It's that [fucking Potassium again][bananas]. The bane of my life.
+
+So I cheat a little and nibble on three [FINN CRISP Original][finncrisp]. In part to get more Sodium in me and in part because my jaw is longing to chew something, anything.
+
+Now, truth be told, I get migraines occasionally and I can't be 100% sure that it wasn't just another episode.
+
+But.
+
+Having said that.
+
+I'm blaming the Potassium. It's meant to subside once the body adjust to getting every nutrition it needs and most people seem to only experience it for 1&ndash;2 days.
+
+Current joy of living on Joylent: *No joy. This isn't living.*
+
+<!--
+
+<figure class="aside-image">
+	<img class="js-lazy-load" data-original="/assets/posts/2016/february/the-joys-of-living-on-joylent/banana.png">
+</figure>
+
+## Day 2, Banana Tuesday
+
+<figure class="aside-image">
+	<img class="js-lazy-load" data-original="/assets/posts/2016/february/the-joys-of-living-on-joylent/strawberry.png">
+</figure>
+
+## Day 3, Strawberry Wednesday
+
+<figure class="aside-image">
+	<img class="js-lazy-load" data-original="/assets/posts/2016/february/the-joys-of-living-on-joylent/chocolate.png">
+</figure>
+
+## Day 4, Chocolate Thursday
+
+<figure class="aside-image">
+	<img class="js-lazy-load" data-original="/assets/posts/2016/february/the-joys-of-living-on-joylent/vanilla.png">
+</figure>
+
+## Day 5, Vanilla Friday
 
 ## Conclusion
 
@@ -82,3 +128,6 @@ Apple Pie.
 
 [beije]: https://benjaminhorn.io/
 [joylent]: http://joylent.eu/
+[headache]: https://discourse.soylent.com/t/headaches-after-drinking-soylent/20183/7
+[bananas]: /blog/now-thats-what-i-call-banana
+[finncrisp]: http://www.finncrisp.com/crispbreads/thin-crisps/finn-crisp-original/
