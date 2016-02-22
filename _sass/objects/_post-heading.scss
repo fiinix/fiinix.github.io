@@ -15,6 +15,13 @@
 
 	color: $primary-color;
 
+	a {
+
+		/* Remove transition effects on post-links */
+		transition: none;
+
+	}
+
 	.post-preview & {
 
 		margin-bottom: 0;
