@@ -94,13 +94,35 @@ I'm blaming the Potassium. It's meant to subside once the body adjust to getting
 
 Current joy of living on Joylent: *No joy. This isn't living.*
 
-<!--
-
 <figure class="aside-image">
 	<img class="js-lazy-load" data-original="/assets/posts/2016/february/the-joys-of-living-on-joylent/banana.png">
 </figure>
 
 ## Day 2, Banana Tuesday
+
+Figures. I would get the fucking banana flavour today.
+
+After yesterday's migraine and the slight nausea that followed I wasn't very hopeful for today.
+
+Smelling the concoction I had mixed didn't reassure me in way, shape or form either. Instead I was filled with dread and flashbacks of going to the dentist---and receiving a not-quite-banana flavoured Fluoride varnish.
+
+But.
+
+It wasn't bad.
+
+Either I'm subconsciously already experiencing Stockholm Syndrome or I have adjusted to consuming sustenance in this sludge form.
+
+Because everything has been fine, I've been fine.
+
+Aside for trying to stay hydrated in general, I'm also making sure to drink a large glass of water before and after I've had my meals.
+
+Unlike yesterday, I am also *secretly* farting a lot less today.
+
+And with the least appetising flavours out of the way I'm *almost* looking forward to rest of the week.
+
+Current joy of living on Joylent: *Yeah, this isn't so bad. I think I can manage.*
+
+<!--
 
 <figure class="aside-image">
 	<img class="js-lazy-load" data-original="/assets/posts/2016/february/the-joys-of-living-on-joylent/strawberry.png">
