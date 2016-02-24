@@ -35,6 +35,9 @@ No cooking. No cleaning---apart for the shaker. And most importantly, no time wa
 
 <figure>
 	<img class="js-lazy-load" data-original="/assets/posts/2016/february/the-joys-of-living-on-joylent/unboxing-joylent.jpg" alt="Unboxing my Joylent delivery.">
+	<noscript>
+		<img src="/assets/posts/2016/february/the-joys-of-living-on-joylent/unboxing-joylent.jpg" alt="Unboxing my Joylent delivery.">
+	</noscript>
 	<figcaption>The shipment also included a shaker, which will come in handy.</figcaption>
 </figure>
 
@@ -60,6 +63,9 @@ Because I didn't want my own bias to---pun intended---flavour the results I've r
 
 <figure class="aside-image">
 	<img class="js-lazy-load" data-original="/assets/posts/2016/february/the-joys-of-living-on-joylent/mango.png">
+	<noscript>
+		<img src="/assets/posts/2016/february/the-joys-of-living-on-joylent/mango.png">
+	</noscript>
 </figure>
 
 ## Day 1, Mango Monday
@@ -96,6 +102,9 @@ Current joy of living on Joylent: *No joy. This isn't living.*
 
 <figure class="aside-image">
 	<img class="js-lazy-load" data-original="/assets/posts/2016/february/the-joys-of-living-on-joylent/banana.png">
+	<noscript>
+		<img src="/assets/posts/2016/february/the-joys-of-living-on-joylent/banana.png">
+	</noscript>
 </figure>
 
 ## Day 2, Banana Tuesday
@@ -122,22 +131,69 @@ And with the least appetising flavours out of the way I'm *almost* looking forwa
 
 Current joy of living on Joylent: *Yeah, this isn't so bad. I think I can manage.*
 
-<!--
-
 <figure class="aside-image">
 	<img class="js-lazy-load" data-original="/assets/posts/2016/february/the-joys-of-living-on-joylent/strawberry.png">
+	<noscript>
+		<img src="/assets/posts/2016/february/the-joys-of-living-on-joylent/strawberry.png">
+	</noscript>
 </figure>
 
 ## Day 3, Strawberry Wednesday
 
+After yesterday's complete success I was hesitant about today.
+
+There are few things in this world whose flavour I enjoy more than pistachios and salty liquorice but strawberry is definitely one of them.
+
+Which meant my mind was playing out various scenarios on how they would have ruined my beloved strawberry forever.
+
+But it was fine.
+
+It tasted like any other strawberry-flavoured candy you can imagine but not quite as sickly-sweet.
+
+The texture remains the same. The morning meal is thicker because I mix it the night before but I'm finding it a little too dissolved and lacking in texture.
+
+*Look at me. Two days ago I was complaining about the gritty texture and today I'm complaining about the lack of grit.*
+
+<figure>
+	<img class="js-lazy-load" data-original="/assets/posts/2016/february/the-joys-of-living-on-joylent/strawberry-flavoured-joylent.jpg" alt="Strawberry-flavoured Joylent.">
+	<noscript>
+		<img src="/assets/posts/2016/february/the-joys-of-living-on-joylent/strawberry-flavoured-joylent.jpg" alt="Strawberry-flavoured Joylent.">
+	</noscript>
+	<figcaption>I expected it to be more difficult to mix the shake but I’ve had no problems with it at all.</figcaption>
+</figure>
+
+But.
+
+Today is also the first day I'm feeling more hungry than bloated. I suppose it's understandable considering that in my effort to bulk up I've become used to consuming ~2300 calories per day.
+
+Joylent *only* has 2119 calories.
+
+But I've been snacking on those three crisp breads since Monday as well, adding a consistent 190 calories to my daily Joylent consumption.
+
+So at a total of 2309 calories I should be fine but I'm still feeling hungry.
+
+To make things stranger I'm not actually feeling any effects of hunger though. It would appear that I'm *feeling hungry* without actually *being hungry*. Rebecka, who can attest to that I get very irritable from not eating frequently enough, confirmed that I have been perfectly fine.
+
+On a more positive note---and less strange as well---I'm happy to tell you that my *secret* farting has almost subsided completely.
+
+Current joy of living on Joylent: *Doing the [Hit The Quan][quan] dance whilst singing, "Straw-straw-strawberry motherfucker!*
+
+<!--
+
 <figure class="aside-image">
 	<img class="js-lazy-load" data-original="/assets/posts/2016/february/the-joys-of-living-on-joylent/chocolate.png">
+	<noscript>
+		<img src="/assets/posts/2016/february/the-joys-of-living-on-joylent/chocolate.png">
+	</noscript>
 </figure>
 
 ## Day 4, Chocolate Thursday
 
 <figure class="aside-image">
 	<img class="js-lazy-load" data-original="/assets/posts/2016/february/the-joys-of-living-on-joylent/vanilla.png">
+	<noscript>
+		<img src="/assets/posts/2016/february/the-joys-of-living-on-joylent/vanilla.png">
+	</noscript>
 </figure>
 
 ## Day 5, Vanilla Friday
@@ -153,3 +209,4 @@ Apple Pie.
 [headache]: https://discourse.soylent.com/t/headaches-after-drinking-soylent/20183/7
 [bananas]: /blog/now-thats-what-i-call-banana
 [finncrisp]: http://www.finncrisp.com/crispbreads/thin-crisps/finn-crisp-original/
+[quan]: https://www.youtube.com/watch?v=7XjCWyuC4zQ
