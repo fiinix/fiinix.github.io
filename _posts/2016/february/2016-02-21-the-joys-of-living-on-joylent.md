@@ -172,13 +172,11 @@ But I've been snacking on those three crisp breads since Monday as well, adding 
 
 So at a total of 2309 calories I should be fine but I'm still feeling hungry.
 
-To make things stranger I'm not actually feeling any effects of hunger though. It would appear that I'm *feeling hungry* without actually *being hungry*. Rebecka, who can attest to that I get very irritable from not eating frequently enough, confirmed that I have been perfectly fine.
+To make things stranger I'm not actually feeling any effects of hunger. It would appear that I'm *feeling hungry* without actually *being hungry*. Rebecka, who can attest to that I get very irritable from not eating frequently enough, confirmed that I have been perfectly fine.
 
 On a more positive note---and less strange as well---I'm happy to tell you that my *secret* farting has almost subsided completely.
 
 Current joy of living on Joylent: *Doing the [Hit The Quan][quan] dance whilst singing, "Straw-straw-strawberry motherfucker!*
-
-<!--
 
 <figure class="aside-image">
 	<img class="js-lazy-load" data-original="/assets/posts/2016/february/the-joys-of-living-on-joylent/chocolate.png">
@@ -188,6 +186,38 @@ Current joy of living on Joylent: *Doing the [Hit The Quan][quan] dance whilst s
 </figure>
 
 ## Day 4, Chocolate Thursday
+
+Every time I open a bag to mix the first meal of a flavour I always smell it. And every time each flavour smells faintly of the thing they're trying to replicate.
+
+Not chocolate though.
+
+Chocolate wanted to be different and decided to smell like horse feed instead.
+
+Which I suppose would be great.
+
+If I was a horse. Or if I liked the smell of wet hay.
+
+But I'm pretty nay on the hay.
+
+*I sat for at least 15 minutes contemplating whether I should leave this terrible joke in or not.*
+
+But despite it's less than appealing smell, the taste was okay. It didn't taste much like chocolate though but more like a very diluted powdered milk chocolate drink.
+
+Truth be told, I'm almost beginning to feel a little bad for how uneventful this whole experiment has been. No vomiting. No explosive diarrhoea. No constipation.
+
+<p data-pullquote="This really is the future of food."></p>
+
+Both Rebecka and I thought this would be more difficult, more---I don't know---more, *something, anything*.
+
+Instead, I've been perfectly fine.
+
+I'm beginning to suspect the good people at Joylent are on to something. Maybe there's merit to the idea of fuelling my body with exactly what it needs.
+
+Just to make things more exciting, if I had any extra bags I would totally mix them all together and create the Ultimate Joylent. But as they're designed to be the exact amount, no more or less, I don't have any extra powder.
+
+Current joy of living on Joylent: *I could live like this forever, but would I want to?*
+
+<!--
 
 <figure class="aside-image">
 	<img class="js-lazy-load" data-original="/assets/posts/2016/february/the-joys-of-living-on-joylent/vanilla.png">
