@@ -43,7 +43,7 @@ No cooking. No cleaning---apart for the shaker. And most importantly, no time wa
 
 Because I ordered this a couple of months ago, I was pleasantly surprised to find a little something extra in my shipment as well.
 
-A sample of their then Christmas special, Joylent Apple Pie.
+A sample of their then Christmas special, Joylent Apple/Cinnamon.
 
 *I'm going to save this for Saturday and treat myself to a Joylent breakfast to finish this experiment.*
 
@@ -217,8 +217,6 @@ Just to make things more exciting, if I had any extra bags I would totally mix t
 
 Current joy of living on Joylent: *I could live like this forever, but would I want to?*
 
-<!--
-
 <figure class="aside-image">
 	<img class="js-lazy-load" data-original="/assets/posts/2016/february/the-joys-of-living-on-joylent/vanilla.png">
 	<noscript>
@@ -227,6 +225,48 @@ Current joy of living on Joylent: *I could live like this forever, but would I w
 </figure>
 
 ## Day 5, Vanilla Friday
+
+Today was a trial by fire.
+
+I had an interview up in [Cambridge][cambridge] in the afternoon. Now Cambridge itself is only an hour north from London. But given that we're an hour south of London and I had to take 2 trains, 2 buses and an underground to get to my destination, I knew that sitting down to enjoy a lunch was going to be unlikely.
+
+But none of this matters, right?
+
+After all, I am Joylent-powered Man!
+
+I do not suffer the plights of mere mortals.
+
+Or so I hoped---but really I was fearing the worst.
+
+See, I don't just get irritable from lack of food. I get tired, unfocused and generally unpleasant as a human being. *If I'm ever annoyed, just feed me and I'll probably be fine.*
+
+Nowadays, to still the burning hunger I always bring some [Nakd Strawberry Crunch Bars][nakd] with me when I travel. And I had three in my bag.
+
+But.
+
+I wanted to see what the effects of Joylent would be like during a stressful situation.
+
+So.
+
+I had a Joylent shake for breakfast at 09:00 in the morning before I left and because I couldn't find a spot to sit down and relax enough, I didn't manage to eat anything else until 17:00, when I had my second Joylent meal.
+
+But instead of becoming a less scary version of the Hulk, I was fine.
+
+No, I was better than fine, I was completely unfazed. I was Joylent-powered Man!
+
+I was surprised.
+
+It works. At least for me---and I suppose many of the people who have tried it.
+
+But let's not forget about the flavour itself. What did the vanilla taste like? In short, it tasted like vanilla.
+
+In fact, this one tasted the most like how I imagined it should taste. It's still not my favourite flavour---which I will rank tomorrow---but definitely palatable.
+
+Right, see you tomorrow for the conclusion---and the bonus Apple/Cinnamon flavour.
+
+Current joy of living on Joylent: *I AM THE UNSTOPPABLE JOYLENT-MAN!*
+
+<!--
 
 ## Conclusion
 
@@ -240,3 +280,5 @@ Apple Pie.
 [bananas]: /blog/now-thats-what-i-call-banana
 [finncrisp]: http://www.finncrisp.com/crispbreads/thin-crisps/finn-crisp-original/
 [quan]: https://www.youtube.com/watch?v=7XjCWyuC4zQ
+[cambridge]: https://www.google.co.uk/maps/place/Cambridge/@52.1988214,0.0499473,12z/data=!3m1!4b1!4m2!3m1!1s0x47d85d89f32a012d:0x63a320e1a35e3d21
+[nakd]: https://www.naturalbalancefoods.co.uk/nakd-crunch-bars/nakd-strawberry-crunch-bar/
