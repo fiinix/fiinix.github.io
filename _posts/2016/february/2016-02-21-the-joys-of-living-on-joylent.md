@@ -266,13 +266,71 @@ Right, see you tomorrow for the conclusion---and the bonus Apple/Cinnamon flavou
 
 Current joy of living on Joylent: *I AM THE UNSTOPPABLE JOYLENT-MAN!*
 
-<!--
+## The aftertaste
 
-## Conclusion
+Let's get the flavours themselves out of the way before I go into the pretentious conclusion.
 
-Apple Pie.
+Apple/Cinnamon was surprisingly nice. Not a flavour I would like to drink often because it tasted *too* much---a weird complaint I know but when drinking something like this, at least I, really want flavours that are bland enough to never get bored of them.
 
--->
+Apple/Cinnamon simply wasn't bland enough.
+
+And what about the other flavours?
+
+Well, in a M. Night Shyamalan-like twist, banana ranked higher than I would have expected. God damn you banana.
+
+1. Strawberry
+2. Banana
+3. Chocolate
+4. Vanilla
+5. Mango
+
+<figure>
+	<img class="js-lazy-load" data-original="/assets/posts/2016/february/the-joys-of-living-on-joylent/joylent-the-future.png" alt="Marty McFly and Doc Brown exclaiming, 'Wow, the future tastes really great!'.">
+	<noscript>
+		<img src="/assets/posts/2016/february/the-joys-of-living-on-joylent/joylent-the-future.png" alt="Marty McFly and Doc Brown exclaiming, 'Wow, the future tastes really great!'.">
+	</noscript>
+	<figcaption>The future indeed.</figcaption>
+</figure>
+
+At first, I wasn't sure what I would think of Joylent.
+
+Would I be able to drink it at all? Would I vomit profusely?
+
+Would I receive magical superpowers and begin a long and successful career of crime-fighting?
+
+As it turned out, the answer was a disappointingly, "neither".
+
+And as we reach the inevitable conclusion of this experiment of mine, I feel like I should have something profound to share.
+
+It has been interesting to remove myself from the very intimate relationship most of us share with food and the act of eating. I quickly fell out of the routine of all of the things we have to do to eat. And with a strange detachment and curiosity I found myself noticing people eating.
+
+When you start to look at it, eating isn't just about nutrition and survival---though they're also important---it also has this enormous cultural significance. Wars have been fought over food. Kings have [eaten themselves to death][alfred].
+
+Food for many is a religious experience. Heck, as I write this, Lent is being observed and has been for a couple of weeks already.
+
+> During Lent, many Christians commit to fasting or giving up certain types of luxuries as a form of penitence. <cite><a href="https://en.wikipedia.org/wiki/Lent">Lent in Western Christianity</a>, Wikipedia</cite>
+
+Because, as it turns out, eating is a pretty big deal.
+
+And whilst I now know that I could eat Joylent for the rest of my life and probably feel pretty fucking good because of it, I'm pretty sure I wouldn't want to.
+
+I would miss sitting down together to eat. I would miss the aphrodisiac feeling of all the different textures, flavours and smells food has. I would miss making food.
+
+I would miss humanity.
+
+But you know what?
+
+I could see myself eating Joylent when all these other factors didn't matter as much. Some days we just need to get shit done and eating gets in the way of that. For those days, Joylent is the perfect answer.
+
+Final joy of living on Joylent: *It depends on what you're after. I give it 5 out of 5 Marty McFlys but results may vary.*
+
+***
+
+Joylent isn't and doesn't try to solve any world hunger problems. Its mixing and drinking requires access to clean drinking water, something which many parts of the world don't have and I would be remiss not to mention that as the world's population grows our problem of feeding everyone is only going to increase. It's already at an unsustainable level and we're wasting resources by e.g. raising cattle which is why looking at alternative sources for protein and other needed nutritions are a worthwhile endeavour.
+
+But Joylent, in its current form, is not the answer to this.
+
+I am incredible privileged to be able to try this but many people don't share this privilege and we should try to solve their problems before we solve mine.
 
 [beije]: https://benjaminhorn.io/
 [joylent]: http://joylent.eu/
@@ -282,3 +340,4 @@ Apple Pie.
 [quan]: https://www.youtube.com/watch?v=7XjCWyuC4zQ
 [cambridge]: https://www.google.co.uk/maps/place/Cambridge/@52.1988214,0.0499473,12z/data=!3m1!4b1!4m2!3m1!1s0x47d85d89f32a012d:0x63a320e1a35e3d21
 [nakd]: https://www.naturalbalancefoods.co.uk/nakd-crunch-bars/nakd-strawberry-crunch-bar/
+[alfred]: http://www.nordstjernan.com/news/traditions/6870/
