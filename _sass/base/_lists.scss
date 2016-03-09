@@ -12,16 +12,13 @@ ol,ul,dl {
 }
 
 
-ul {
-
-	
-
-}
-
+/*
+ * Ordered list
+ */
 ol {
 
 	list-style: none;
-	padding-left: 0;
+	padding-left: 2.25em;
 	counter-reset: orderedList;
 
 	ol {
@@ -32,6 +29,8 @@ ol {
 	}
 
 }
+
+
 
 ol li {
 
@@ -76,57 +75,40 @@ ol li {
 }
 
 
+/*
+ * Unordered list
+ */
+ul {
 
-// ul,
-// ol,
-// dl {
-//     padding-left: 0;
-//     margin-top: 0;
-//     margin-bottom: 0
-// }
-// ul {
-//     list-style: square
-// }
-// ul li {
-//     display: table-row
-// }
-// ul li:before {
-//     vertical-align: baseline !important;
-//     display: table-cell !important;
-//     color: #8b8b8b;
-//     padding-right: 0.75em
-// }
-// ul li:after {
-//     content: " ";
-//     display: block;
-//     margin-bottom: 0em
-// }
-// ol {
-//     list-style: none;
-//     counter-reset: orderedList
-// }
-// ol li {
-//     display: table-row
-// }
-// ol li:before {
-//     display: table-cell;
-//     counter-increment: orderedList;
-//     content: counters(orderedList, ".") ".";
-//     text-align: right;
-//     padding-right: 0.75em
-// }
-// ol li:after {
-//     content: " ";
-//     display: block;
-//     margin-bottom: 0.5em
-// }
-// ol ol {
-//     counter-reset: orderedList;
-//     margin-top: 0.5em
-// }
+	list-style: none;
+	padding-left: 2.25em;
+	// margin-bottom: 0;
+
+}
+
+ul li {
+
+	position: relative;
+
+	&:before {
+
+		color: $luma-80;
+		content: "\2666";
+
+		position: absolute;
+
+		top: 0;
+		left: -2.25em;
+
+	}
+
+}
 
 
 
+/*
+ * Inline list
+ */
 .inline-list {
 
 	list-style-type: none;
@@ -141,10 +123,19 @@ ol li {
 
 	}
 
+	li:before {
+
+		content: none;
+
+	}
+
 }
 
 
 
+/*
+ * Clean list
+ */
 .clean-list {
 
 	list-style-type: none;
@@ -155,6 +146,12 @@ ol li {
 	li {
 
 		margin-top: 0;
+
+	}
+
+	li:before {
+
+		content: none;
 
 	}
 
