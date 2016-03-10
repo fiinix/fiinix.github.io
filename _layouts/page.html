@@ -9,7 +9,7 @@ layout: default
       <h1 class="page-heading page-type--{{ page.category }}" data-heading-overlay="{{ page.title | markdownify | strip_html | trim  }}"{% if page.color %} style="color: {{ page.color }};"{% endif %}>{{ page.title | markdownify | strip_html | trim  }}</h1>
 
       {% if page.excerpt %}
-      <p class="lead">{{ page.excerpt | markdownify | strip_html | trim }}</p>
+      <div class="lead">{{ page.excerpt | markdownify }}</div>
       {% endif %}
 
     </header>

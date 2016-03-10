@@ -23,7 +23,9 @@ layout: default
       <p class="disclaimer">{{ page.disclaimer | markdownify | strip_html | trim }}</p>
       {% endif %}
 
-      <p class="lead">{{ page.excerpt | markdownify | strip_html | trim }}</p>
+      {% if page.excerpt %}
+      <div class="lead">{{ page.excerpt | markdownify }}</div>
+      {% endif %}
 
     <article class="post-content post-type--{{ page.category }}" lang="en"{% if page.color %} style="border-color:{{ page.color }} {{ page.color }} {{ page.color2 }} {{ page.color2 }}; color: {{ page.color }};"{% endif %}>
       {{ content }}
