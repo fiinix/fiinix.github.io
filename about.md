@@ -11,7 +11,7 @@ From having the pleasure of [writing][writing] about accessibility for Net magaz
 
 I wouldn’t be half the man I am without them.
 
-Born and raised in Finland, we now live in the <abbr title="United Kingdom" class="small-caps">UK</abbr>. A few years ago we packed a bag each and moved here for what, so far, has been quite [the adventure][adventure].
+Born and raised in [Finland][vasa], we now live in the <abbr title="United Kingdom" class="small-caps">UK</abbr>. A few years ago we packed a bag each and moved here for what, so far, has been quite [an adventure][adventure].
 
 <figure>
   <img class="js-lazy-load" data-original="/assets/img/carlos-eriksson.jpg" alt="Carlos Eriksson in the flesh.">
@@ -25,3 +25,4 @@ Inquisitive and critical by nature, I get genuinely excited about learning new t
 [writing]: /writing
 [speaking]: /speaking
 [adventure]: /blog/immigrant-or-expatriate/
+[vasa]: https://www.google.co.uk/maps/place/Vaasa,+Finland/@63.0648693,21.4493847,10z/data=!3m1!4b1!4m2!3m1!1s0x467d603e623ab243:0x1e1d7faa61aa800e
