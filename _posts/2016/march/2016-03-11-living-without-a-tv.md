@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Living without a TV"
+title: "Living Without a TV"
 date: 2016-03-11 T 19:00 UTC
 tags : [TV, Advertisement]
 category: personal
