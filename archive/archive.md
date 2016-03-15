@@ -43,14 +43,14 @@ But my favourite entry is [A Letter from the Promised Land][promised-land], wher
 
 [See all the entries from 2014][2014].
 
-[lupus]: /blog/at-least-it-wasnt-lupus-part-1/
-[board]: /blog/no-sleep-for-i-am-the-werewolf/
-[comic]: /blog/carlos-goes-mcm-london-comic-con/
-[thirty]: /blog/30-things-ive-learned-in-30-years/
-[job]: /blog/notice-of-termination/
-[beard]: /blog/a-scary-hairy-beard-story/
-[tree]: /blog/a-21st-century-hunt-for-the-perfect-christmas-tree/
-[promised-land]: /blog/a-letter-from-the-promised-land/
+[lupus]: /blog/at-least-it-wasnt-lupus-part-1
+[board]: /blog/no-sleep-for-i-am-the-werewolf
+[comic]: /blog/carlos-goes-mcm-london-comic-con
+[thirty]: /blog/30-things-ive-learned-in-30-years
+[job]: /blog/notice-of-termination
+[beard]: /blog/a-scary-hairy-beard-story
+[tree]: /blog/a-21st-century-hunt-for-the-perfect-christmas-tree
+[promised-land]: /blog/a-letter-from-the-promised-land
 [2014]: /archive/2014
 
 ## 2013
