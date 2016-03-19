@@ -20,7 +20,7 @@ Not all at once though no, in fact the first one was all the way back in 2001. B
 
 For two years I had been thinking about getting a tattoo. What had started as an idea to get my ears pierced, quickly changed into getting a tattoo once my mom had had her say.
 
-"You can get a piercing if you get one of those rings through your nose. So I can hang you from it when you're being disobedient,"" she had said gleefully thinking I wouldn't call her bluff.
+"You can get a piercing if you get one of those rings through your nose. So I can hang you from it when you're being disobedient," she had said gleefully thinking I wouldn't call her bluff.
 
 But I did and replied with an enthusiastic, "Yes".
 
