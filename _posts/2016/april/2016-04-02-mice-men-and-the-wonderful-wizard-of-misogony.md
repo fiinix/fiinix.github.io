@@ -83,7 +83,7 @@ I told her, "I feel violated."
 
 "I go out every day feeling like that," she replied.
 
-<p data-pullquote="She is a lot more like the mouse than the man."></p>
+<p data-pullquote="The reality is that I’m the one with the power and priviledge."></p>
 
 *Pause for effect.*
 
@@ -105,15 +105,13 @@ We're the wizards all right but we're not particularly wonderful.
 
 We need to be fighting it every day. Every one of us who can. And I can.
 
-I still felt violated by the mice and it's only by getting time to reflect afterwards, that I can really appreciate her decision to tell me.
+I still felt violated by the mice and it's only by getting time to reflect afterwards, that I can really appreciate her decision to tell me about her perspective in the first place.
 
 Because let's be real.
 
-A tiny mouse isn't going to hurt me. I can still kick it in its tiny mouse face, should it ever let me get near enough.
+A tiny mouse can't hurt me. The reality is that I'm the one with the power and priviledge. I could still kick it in its tiny mouse face, should it ever let me get near enough.
 
-People---though more men than women---on the other hand, can and do hurt other people.
-
-And not to belittle or remove her agency in any way but in that comparison, she is a lot more like the mouse than the man.
+And not to belittle or remove Rebecka's agency in any way, but in this comparison she is a lot more like the mouse than the man.
 
 <figure>
 	<img class="js-lazy-load" data-original="/assets/posts/2016/april/mice-men-and-the-wonderful-wizard-of-misogyny/tinman.jpg" alt="Dorothy reprimanding the cowardly lion as illustrated by W. W. Denslow.">
