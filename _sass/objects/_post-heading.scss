@@ -105,10 +105,11 @@
 }
 
 
-
+// /* Default. Inherit border-colors for branding */
 .post-content {
 
 	color: $primary-color;
+	border-color: $primary-color;
 	margin-top: 3em;
 	margin-bottom: 3em;
 
