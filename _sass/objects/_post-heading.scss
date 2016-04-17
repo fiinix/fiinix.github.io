@@ -28,26 +28,6 @@
 
 	}
 
-	&:before {
-
-		// content: attr(data-heading);
-		// font-size: 5.063em;
-		// line-height: 1.05;
-		line-height: 1.3;
-
-		position: absolute;
-		top: 0.1em;
-		left: 0.1em;
-
-		// white-space: nowrap;
-		// transform: translate(-1em, -1em);
-		text-shadow: 1px 1px 0 blue;
-		color: rgba(255,255,255,1);
-		// opacity: 0.2;
-		// z-index: -1;
-
-	}
-
 }
 
 .post-heading span,
@@ -55,19 +35,11 @@
 
 		background-color: $primary-color;
 		color: $white;
-		// display: inline;
 		padding: 0.3em 0.15em 0.15em 0.15em;
 		line-height: 1.3;
 
-		// text-shadow:	-3px 0 1px $secondary-color,
-		// 				3px 0 1px $primary-color;
-
 		-webkit-box-decoration-break: clone;
 		box-decoration-break: clone;
-
-		// @include longshadow($primary-color, $white, 120);
-
-		// box-shadow: -1em 0 0 $primary-color;
 
 		&:before {
 
@@ -142,6 +114,31 @@
 		}
 
 	}
+
+}
+
+
+
+.post-type--content span,
+.page-type--content span {
+	
+	&:before {
+
+			height: calc(100% + 0.17em);
+			top: -0.17em;
+
+		}
+
+		@include mq($breakpoint-lap) {
+		
+			&:before {
+	
+				height: calc(100% + 0.15em);
+				top: -0.16em;
+
+			}
+
+		}
 
 }
 
