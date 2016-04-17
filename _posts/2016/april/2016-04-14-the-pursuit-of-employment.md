@@ -4,17 +4,17 @@ title: "The Pursuit of Employment"
 date: 2016-04-14 T 20:00 UTC
 tags : [Job, "Studio 24", Anxiety, LinkedIn, Twitter, BBC, Shopify]
 category: personal
-excerpt: "In which I talk about the experience of suddenly finding myself hunting for another job and all of the vices this comes with."
+excerpt: "In which I talk about the experience of suddenly finding myself hunting for another job and all of its vices."
 ---
 A part of my, our, world collapsed last February.
 
-In a M. Night Shyamalan twist I suddenly found myself without a job.
+In an M. Night Shyamalan twist I suddenly found myself without a job.
 
 Fear, anxiety and all those other voices we all have in our heads clawed their way up from deep within the dark crevices of my subconscious.
 
 As I started making plans I did my best to keep the voices of doubt---who sounds strangely like Gollum---at bay. *We likes it here. We’ll never go away.*
 
-I told Rebecka's the bad news who, as you already know, had bad news of her own. I jokingly knocked on our wooden table as I said, "Well this can't get any worse." *Just you wait, it can always get worser.*
+I told Rebecka the bad news who, as you already know, had bad news of her own. I jokingly knocked on our wooden table as I said, "Well this can't get any worse." *Just you wait, it can always get worser.*
 
 Thankfully, for a change, it actually didn't.
 
@@ -28,21 +28,21 @@ I called all of our utility suppliers to let them know our situation and that an
 
 We looked at our recurring spendings trying to find which ones we could cut out. *Don't you dare take our precious spendings. Filthy human.*
 
-We went into frugal mode again, something we've done on the past for varying reasons, thinking about what provisions and dishes are cheap but not shit. *♫ ♪ You're gonna starve to death, you're gonna starve to death, you're gonna starve to death.*
+We went into frugal mode again, something we've done in the past for varying reasons, thinking about what provisions and dishes are cheap but not shit. *♫ ♪ You're gonna starve to death, you're gonna starve to death, you're gonna starve to death.*
 
 The plan was to be able to make next month's rent even if we didn't have any more money coming in this month. *And there won't be any money every again.*
 
 ## The hunt is on
 
-I thrive in routines and I knew I needed to keep one despite having no one to push me. Rebecka's is awesome and supportive, but pushy, she isn't and she shouldn't have to be. *We'll distract you at every turn. Pushing and prodding at your weak spots.*
+I thrive in routines and I knew I needed to keep one despite having no one to push me. Rebecka is awesome and supportive, but pushy, she isn't and she shouldn't have to be. *We'll distract you at every turn. Pushing and prodding at your weak spots.*
 
-Recent requests to provide consultancy services meant I've not only found myself looking for a job, but also making one of my own. I'll go into more detail about the consultancy business when the ideas are a little more concrete. *You? A filthy business owner? A few years ago you could barely hold on to money from month to month.*
+Recent requests to provide consultancy services meant I also found myself making my own job, in addition to looking for a one. I'll go into more detail about the consultancy business when the ideas are a little more concrete. *You? A filthy business owner? A few years ago you could barely hold on to money from month to month.*
 
 > Opportunity is missed by most people because it is dressed in overalls and looks like work. <cite>Thomas Edison</cite>
 
-I decided to spend the morning building my consultancy business and the afternoons hunting for jobs. *It will never work. You'll never work.*
+I decided to spend the mornings building my consultancy business and the afternoons hunting for jobs. *It will never work. You'll never work.*
 
-If either of those got sidetracked by each other, e.g. a job lead comes in first thing in the morning, then I would just switch them around rather than get hung up on procedures. After all, their my procedures to ignore. *Ignore them, ignore them all.*
+If either of these got sidetracked by each other, e.g. a job lead came in first thing in the morning, then I would just switch them around rather than getting hung up on procedures. After all, they're my procedures to ignore. *Ignore them, ignore them all.*
 
 I would keep my lunch hour and have a healthy snack on either side of the lunch, as I had been doing before. *All that hard work and exercise will be gone in a month. You'll wither away.*
 
@@ -59,36 +59,36 @@ Somehow the very act of trying to emphasise all the good things about myself mak
 	<noscript>
 		<img src="/assets/posts/2016/april/the-pursuit-of-employment/job-hunting.jpg" alt="A magnifying glass aimed at a newspaper's job section.">
 	</noscript>
-	<figcaption>Lesson #1 when applying for jobs, spell, “Atention to details," correctly.</figcaption>
+	<figcaption>Lesson #1 when applying for jobs, spell, “Atention to details," correctly. Misspelt intentionally here.</figcaption>
 </figure>
 
-And at the same time as I'm filled with this growing monster of a sense of self-loathing, another voice from deeper still---or not as deep, I can't be sure---tells me, "Sssh, you're awesome and any employer would be lucky to have you. Also look at you, your gorgeous!" *You're ugly and shit and no one wants to hire you. You jobless, worthless---*
+And at the same time as I'm filled with this growing monster of self-loathing, another voice from deeper still---or not as deep, I can't be sure---tells me, "Sssh, you're awesome and any employer would be lucky to have you. Also look at you, you're gorgeous!" *You're ugly and shit and no one wants to hire you. You jobless, worthless piece of---*
 
 ---Sometimes the voices cancel each other out.
 
-If there's was a single advice I could give it would be this; Write a <abbr class="small-caps">CV</abbr> for the job you want, not the job you have---but don't lie. *Oh, handing out advise now? As if you know what you're talking about.*
+If there's a single advice I would give, it's this; Write a <abbr class="small-caps">CV</abbr> for the job you want, not the job you have---but don't lie. *Oh, handing out advise now? As if you know what you're talking about.*
 
 I also did what I imagine most people in my industry do nowadays and [update my LinkedIn profile][linkedin]---which is about as fun as you could imagine. *We love draining you of your will to live.*
 
 <p data-pullquote="Rinse and repeat ‘til death set you free."></p>
 
-But I also did something which is completely new, at least to me, which was to tweet about my situation---which I did from the moment it happened.
+I did something completely new, at least to me, which was to tweet about my situation, something I did from the moment it happened.
 
 And that was my plan. Find companies who were looking for someone or a company I would like to work with and send them an email. *That they'll ignore or print out to laugh at.*
 
-I always strived to write it for them specifically instead of copy pasting a cookie cutter email. But I'll admit that on more tired days I would send something which had been reworded very little. *Such little rewords, it's as if you didn't write anything at all.*
+Rather than copy-pasting a cookie cutter email I always aimed to write each email to the company and their specific job ad. But I'll admit that on more tired days I would send something which had been reworded very little. *Such little rewords, it's as if you didn't write anything at all.*
 
 Rinse and repeat. *Rinse and repeat, rinse and repeat 'til death set you free.*
 
-As excepted, sending emails comes with a varying degrees of success. *We told you, no one wants you.*
+As excepted, sending emails comes with varying degrees of success. *We told you, no one wants you.*
 
-LinkedIn on the other hand is a great source of you want to be attacked by the land sharks that are recruitment agencies; messages with the footnote that if this isn't suitable for me then I should send it to someone who is.
+LinkedIn on the other hand is a great place if you want to be attacked by the land sharks that are recruitment agencies. Messages with the footnote that, "If this isn't suitable for you, then could you send it to someone who is?"
 
-I don't know about you, but to me that sounds awfully a lot like your asking me to do your job for you. *Without paying you, it's really quite beautiful isn't it?*
+I don't know about you, but to me that sounds awfully a lot like you're asking me to do your job for you. *Without paying you, it's really quite beautiful isn't it?*
 
-I was quite surprised when Twitter by far had the most qualitative results. From only a few tweets---I tried not to spam people---I got approached by amongst other Shopify and the <abbr title="British Broadcasting Corporation" class="small-caps">BBC</abbr>.
+I was quite surprised when Twitter easily had the most qualitative results. From only a few tweets---I tried not to spam people---I got approached by amongst other Shopify and the <abbr title="British Broadcasting Corporation" class="small-caps">BBC</abbr>.
 
-After interviews here and interviews there, a few of which were with Shopify, I have decided to join the enthusiastic team at Studio 24 in Cambridge.
+And after interviews here and interviews there, a few of which were with Shopify, I have decided to join the enthusiastic team at Studio 24 in Cambridge.
 
 > Studio 24 is an award-winning web design and development agency based in Cambridge. As a full-service digital agency, Studio 24 offer a complete range of creative, technical and search marketing services. 
 
@@ -96,7 +96,7 @@ And just like that, the voices dissipate. *For now.*
 
 ## The next exciting chapter
 
-Thank you to everyone's kind and supportive words. That includes you dear reader, yes you, right there. Thank you.
+Thank you to all of you and your kind and supportive words. That includes you dear reader, yes you, right there. Thank you.
 
 I'm sorry we've been a little unreachable lately but we've just needed to focus our energy and time on getting through this.
 
@@ -142,13 +142,13 @@ tychannosaurus (<a href="https://www.twitter.com/madeinthearcade">@madeinthearca
 Vanessa&nbsp;Osborne (<a href="https://www.twitter.com/osborne_vanessa">@osborne_vanessa</a>) and
 Waldorf&nbsp;Sixpence (<a href="https://www.twitter.com/WaldorfSixpence">@WaldorfSixpence</a>).
 
-And one person whose account is protected and out of respect for that I won't publish their name here but, "Thank you too."
+And to the one person whose account is protected and out of respect for that I won't publish their name here but, "Thank you too."
 
 Some of you, such as Paul Davis and Stuart Robson, even retweeted me more than once. I guess I owe you two hugs---though you can redeem it for one long and awkward hug instead.
 
 I really meant it when I said I would trade hugs for retweets. I owe all of you a hug---except Jo, my former colleague, who opted out---and whenever you see me, at a conference or elsewhere, feel free to redeem my sign of appreciation.
 
-And whilst words can't begin to describe how grateful I am, here's 1500+ words were I try.
+And whilst words can't begin to describe how grateful I am, here's 1500+ words were I tried.
 
 Thank you.
 
