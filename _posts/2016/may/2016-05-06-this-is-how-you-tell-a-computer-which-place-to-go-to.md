@@ -57,9 +57,7 @@ And if Randall Munroe, the person who made it, can explain all the parts of a fl
 
 To give you an idea of which words he used, here are the twenty most used words.
 
-```
-the, I, to, and, a, of, was, he, you, it, in, her, she, that, my, his, me, on, with, at
-```
+`the, I, to, and, a, of, was, he, you, it, in, her, she, that, my, his, me, on, with, at`
 
 Using only the ten hundred most used words, Randall Munroe also wrote [The Space Doctor's Big Idea][spacedoctor] which is a great group of words that explain Einstein's Theory of Relativity and you should definitely go read. Right after this one.
 
