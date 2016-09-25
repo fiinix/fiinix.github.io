@@ -2,7 +2,7 @@
 layout: post
 title: "Melancholic May, Issue 05/16"
 date: 2016-06-05 T 12:00 +0100
-tags : ["Keeping Up with the Erikssons", "Monthly Challenge", Photography, Beer, Smartphone, "Sony Xperia Z5 Compact", Exercising, Running]
+tags : ["Keeping Up with the Erikssons", "Monthly Challenge", Photography, Beer, Smartphone, "Sony Xperia Z5 Compact", Exercising, Running, Cambridge Colour Dash]
 category: personal
 excerpt: "In this month's issue of Keeping Up With the Erikssons: I'm forced to get a new phone, attend the 43rd Cambridge Beer Festival, sign up for my first 5K run and completely fail my monthly challenge."
 ---
