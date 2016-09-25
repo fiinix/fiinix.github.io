@@ -24,5 +24,5 @@ Inquisitive and critical by nature, I get genuinely excited about learning new t
 
 [writing]: /writing
 [speaking]: /speaking
-[adventure]: /blog/immigrant-or-expatriate/
+[adventure]: /blog/immigrant-or-expatriate
 [vasa]: https://www.google.co.uk/maps/place/Vaasa,+Finland/@63.0648693,21.4493847,10z/data=!3m1!4b1!4m2!3m1!1s0x467d603e623ab243:0x1e1d7faa61aa800e
