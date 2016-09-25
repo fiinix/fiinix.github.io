@@ -1,4 +1,4 @@
-/* Solarized Light 
+/*Solarized Light
 
 For use with Jekyll and Pygments
 
@@ -69,11 +69,11 @@ p code {
 
 	padding: 3.2em 4.8em;
 
-	margin-left: -(4.8 / 0.89) +em;
+	margin-left: -(5.8 / 0.89) +em;
 	margin-right: -(4.8 / 0.89) +em;
 
 	border: 0.25em solid;
-	border-width: 0 0 0 0.25em;
+	border-width: 0 0 0 1em;
 	border-color: inherit;
 
 	background-image: linear-gradient(to bottom, white 0%, white 50%, hsl(0%,0,97) 50%, hsl(0%,0,97) 100%);
@@ -81,7 +81,7 @@ p code {
   // background-repeat: repeat-y;
 
 	overflow: auto;
-	max-height: ($font-leading / $font-size)*12 +em;
+	// max-height: ($font-leading / $font-size)*12 +em;
 
 	// background-color: $base3;
 	// color: $base01;

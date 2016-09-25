@@ -1,0 +1,118 @@
+/*------------------------------------*\
+    #Pager
+\*------------------------------------*/
+
+
+
+.pager {
+
+	display: flex;
+	flex-flow: column nowrap;
+
+	@include mq($breakpoint-lap) {
+
+		flex-flow: row nowrap;
+
+	}
+
+}
+
+.pager__item {
+
+	display: block;
+	flex: 1;
+
+	// Remove default ul list bullet
+	&:before { content: none; }
+
+}
+
+
+.pager__next,
+.pager__previous {
+
+	display: inline-block;
+
+	position: relative;
+
+	// background-color: $primary-color;
+	// color: contrast($primary-color);
+
+	// padding: 1em;
+
+	&:visited {
+
+		// background-color: desaturate($primary-color, 10);
+		// color: contrast(desaturate($primary-color, 10));
+
+	}
+
+	&:before {
+
+		content: " ";
+		display: block;
+
+		font-size: 3em;
+
+		position: absolute;
+		top: 0;
+
+		z-index: -1;
+
+	}
+
+	&:after {
+
+		content: " ";
+		display: block;
+
+		width: 100%;
+		height: 0.25em;
+
+		position: absolute;
+
+		z-index: -1;
+
+	}
+
+}
+
+.pager__previous:after {
+
+	background-color: rgba($primary-color, 1);
+
+	bottom: -0.25em;
+	left: -0.5em;
+
+}
+.pager__previous:before {
+
+	// content: "\219E";
+
+	color: rgba($primary-color, 1);
+
+	bottom: -1em;
+	left: -1em;
+
+}
+.pager__next:after {
+
+	background-color: rgba($secondary-color, 1);
+
+	bottom: -0.25em;
+	right: -0.5em;
+
+}
+
+
+.pager__icon {
+
+	// height: 3em;
+
+}
+
+.pager__icon--next {
+
+
+
+}

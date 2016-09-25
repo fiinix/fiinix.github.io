@@ -40,10 +40,12 @@ a[href^="https://"] {
 
 .icon {
 
-	width: 0.75em;
-	height: 0.75em;
+	display: inline-block;
 
-	fill: inherit;
+	width: 1.5em;
+	height: 1.5em;
+
+	fill: currentColor;
 
 }
 

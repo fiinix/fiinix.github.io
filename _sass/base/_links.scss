@@ -1,10 +1,6 @@
-/* ==========================================================================
-
-
-   Links
-
-
-   ========================================================================== */
+/*------------------------------------*\
+    #Links
+\*------------------------------------*/
 
 
 
@@ -20,7 +16,7 @@ a {
 
 	color: $link-color;
 
-	@include transition($timing: ease-in-out, $duration: 150ms);
+	@include transition($property: background-size, $timing: ease-in-out, $duration: 150ms);
 
 	&:visited {
 

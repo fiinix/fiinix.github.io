@@ -55,6 +55,12 @@ $iter: 50;
 @function strip-units($number) {
 	@return $number / ($number * 0 + 1);
 }
+
+
+@function luma($percentage) {
+	@return mix($white, $black, ($percentage +0%));
+}
+
 /**
  *
  * Random

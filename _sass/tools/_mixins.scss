@@ -45,13 +45,6 @@
  * Elements state
  *
  */
-@mixin state {
-	&:hover,
-	&:focus,
-	&:active {
-		@content;
-	}
-}
 
 
 

@@ -1,0 +1,96 @@
+/* ==========================================================================
+
+
+   Forms
+
+
+   ========================================================================== */
+
+
+
+::-webkit-input-placeholder {
+	
+	// Inherit would be better but this is more readable.
+	color: black;
+	opacity: 0.54;
+
+}
+
+
+
+label {
+
+	display: block;
+	cursor: pointer;
+
+}
+
+
+
+input {
+	
+	// Inherit fonts for all browsers
+	font: inherit;
+	// Remove margins in Firefox and Safari
+	margin: 0;
+	// Show the overflow in IE Edge
+	overflow: visible;
+	// Make inputs shrink according to its parent
+	min-width: 0;
+
+	width: 100%;
+	padding: 0.75em 1.5em;
+	
+	border-radius: 0;
+	border: 0.1111em solid luma(80);
+
+	&:hover {
+	
+		border-color: luma(50);
+
+	}
+
+	&:focus,
+	&:active {
+		
+		// Remove _focus set background-color
+		background-color: white;
+	
+		// border-color: $primary-color;
+
+	}
+
+}
+
+.field-group {}
+.field-group__label {}
+.field-group__input {
+	
+	&--text {}
+
+}
+
+
+
+.field-group__wrapper {
+	
+	// This allows us to flex align a button flushed with an input
+	
+	// Positioning the icon inside
+	position: relative;
+
+}
+.field-group__icon {
+
+	position: absolute;
+	top: 0.75em;
+	left: 0.75em;
+
+	// Add space for inputs followed by icons
+	+ .field-group__input {
+	
+		padding-left: 3em;
+
+	}
+
+}

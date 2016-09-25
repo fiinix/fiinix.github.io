@@ -21,7 +21,7 @@ h1,
 	line-height: 1.22474;
 
 	@include mq($breakpoint-palm) {
-	
+
 		font-size: 3.375em;
 		line-height: 1.10668;
 
@@ -64,7 +64,7 @@ h3,
 	@include mq($breakpoint-lap) {
 
 		font-size: 2.25em;
-		line-height: 1.22474;	
+		line-height: 1.22474;
 
 	};
 
@@ -126,7 +126,7 @@ h6,
 	position: relative;
 
 	padding-top: 1.5em;
-	border-top: 0.1111em solid $luma-80;
+	border-top: 0.1111em solid luma(80);
 
 	&:before {
 
@@ -140,7 +140,7 @@ h6,
 		top: -0.1111em;
 		left: 0;
 
-		background-color: $luma-50;
+		background-color: luma(50);
 
 	}
 
