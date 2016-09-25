@@ -1,23 +1,38 @@
-<div class="group">
-	<div class="col">
-
-		<p>
-			<small>Previous</small><br>
-		{% if page.previous %}<a href="{{ BASE_PATH }}{{ page.previous.url }}" title="{{ page.previous.title }}" rel="prev" class="pagination pagination--prev"><svg class="icon"><use xlink:href="#arrow-left" /></svg> {{ page.previous.title | markdownify | strip_html | trim }}</a>{% else %}<span class="is-disabled">That&rsquo;s it.</span>{% endif %}
-		</p>
-
-	</div>
-<!-- 	<div class="col align-center">
-
-		<p><a href="#top" class="back-to-top" title="Jump to the top of the page"><svg class="icon"><use xlink:href="#arrow-up" /></svg> Back to top</a></p>
-
-	</div> -->
-	<div class="col align-right">
-
-		<p>
-			<small>Next</small><br>
-		{% if page.next %}<a href="{{ BASE_PATH }}{{ page.next.url }}" title="{{ page.next.title }}" rel="next" class="pagination pagination--next">{{ page.next.title | markdownify | strip_html | trim }} <svg class="icon"><use xlink:href="#arrow-right" /></svg></a>{% else %}<span class="is-disabled">To be continued…</span>{% endif %}
-		</p>
-
-	</div>
-</div>
+<h3 class="h5 subheading" id="explore-posts">Explore more</h3>
+{% if page.previous %}
+<p>
+		<time class="timestamp timestamp--post" datetime="{{ post.date }}">
+		{% assign m = page.previous.date | date: "%B" %}
+		{% case m %}
+		{% when 'May' %}{{ page.previous.date | date: "%-d " | append: m }}
+		{% when 'June' %}{{ page.previous.date | date: "%-d " | append: m }}
+		{% when 'July' %}{{ page.previous.date | date: "%-d " | append: m }}
+		{% when 'September' %}{{ page.previous.date | date: "%-d " | append: 'Sept.' }}
+		{% else %}{{ page.previous.date | date: "%-d %b" }}.
+		{% endcase %}
+	</time><br>
+	<a href="{{ BASE_PATH }}{{ page.previous.url }}" rel="prev" class="pager__previous h4 no-margin" {% if page.previous.color %} style="background-color: {{ page.previous.color4 }};"{% endif %}>
+	<span class="">{{ page.previous.title | markdownify | strip_html | trim }}</span>
+	</a>
+</p>
+{% endif %}
+{% if page.next %}
+<p>
+	<time class="timestamp timestamp--post" datetime="{{ post.date }}">
+		{% assign m = page.next.date | date: "%B" %}
+		{% case m %}
+		{% when 'May' %}{{ page.next.date | date: "%-d " | append: m }}
+		{% when 'June' %}{{ page.next.date | date: "%-d " | append: m }}
+		{% when 'July' %}{{ page.next.date | date: "%-d " | append: m }}
+		{% when 'September' %}{{ page.next.date | date: "%-d " | append: 'Sept.' }}
+		{% else %}{{ page.next.date | date: "%-d %b" }}.
+		{% endcase %}
+	</time><br>
+	<a href="{{ BASE_PATH }}{{ page.next.url }}" rel="next" class="pager__next h4 no-margin" {% if page.next.color %} style="background-color: {{ page.next.color4 }};"{% endif %}>
+	<!-- <svg class="icon pager__icon pager__icon--next">
+		<use xlink:href="#arrow-forward" />
+	</svg> -->
+	<span class="">{{ page.next.title | markdownify | strip_html | trim }}</span>
+	</a>
+</p>
+{% endif %}
