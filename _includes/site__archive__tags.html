@@ -81,7 +81,7 @@
     {% for post in site.tags[this_word] %}{% if post.title != null %}
 
     <li class="">
-      <h3 class="h4 display-inline"><a href="{{ post.url }}">{{ post.title | markdownify | strip_html | trim }}</a></h3>
+      <h3 class="h4 no-margin"><a href="{{ post.url }}">{{ post.title | markdownify | strip_html | trim }}</a></h3>
     </li>
     {% endif %}{% endfor %}
   </ul>
