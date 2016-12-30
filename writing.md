@@ -14,11 +14,20 @@ Are you interested in having me write something for your publication, online or 
 <h2 class="visuallyhidden">Recent articles</h2>
 
 <div class="article-preview">
-	<span class="small-caps">net Magazine, Issue 274, December 2015</span>
+  <span class="small-caps">Studio 24, December 2016</span>
 
-	<h3 class="h3 no-margin"><a href="http://www.creativebloq.com/netmag/issue-274-101517513">The Cost of Accessibility</a></h3>
+  <h3 class="h3 no-margin"><a href="http://www.studio24.net/blog/your-website-isnt-accessible-and-its-costing-you/">Your Website Isn’t Accessible and It’s Costing You</a></h3>
+
+  <p>You are ignoring millions of people because your website isn’t accessible. You are ignoring tens of thousands of pounds every year.</p>
+</div>
+
+<div class="article-preview">
+	<span class="small-caps">net Magazine, May 2016</span>
+
+	<h3 class="h3 no-margin"><a href="https://medium.com/net-magazine/the-cost-of-accessibility-90c875420239#.h3jncilu1">The Cost of Accessibility</a></h3>
 
 	<p>Where I make a business case for accessibility, and reveal the very real costs of ignoring it.</p>
+  <p><em>This article originally appeared in issue 274 of <a href="http://www.creativebloq.com/netmag/issue-274-101517513">net magazine</a>.</em></p>
 </div>
 
 <div class="article-preview">
