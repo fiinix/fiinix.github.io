@@ -11,12 +11,31 @@ I'm also migrating all the entries from my old Blogger+Blogspot account and [the
 [archive]: https://trello.com/c/eHBiNXt3
 [reclaimer]: https://trello.com/c/BNMKDXQB
 
-## 2016
+<!-- ## 2017
 
 *The year that hasn’t reached an introspective status yet.*
 
-[See all the entries from 2016 so far][2016].
+[See all the entries from 2017 so far][2017].
 
+[2017]: /archive/2017 -->
+
+## 2016
+
+Memorable event include; making sure everyone knows [how I want to be buried][mortem], [living on a meal replacement beverage][joylent], talking about [all my tattoos][ink], gaining a deeper understanding for [the misogyny women and marginalised people go through every day][misogyny], suddenly [looking for a job][employment] again, [the special kind of hell that commuting is][dante], finding the right words to explain [that thing that I do that people pay me to do][commonwords] and trying my swiping finger at [dating in the 21st century][dating].
+
+But my favourite entry is [That Place Between Sleep and Awake][sleep], where I write the hardest entry to date and talk about the sadness and grief that came with losing Amanda.
+
+[See all the entries from 2016][2016].
+
+[mortem]: /blog/planning-a-post-mortem-party
+[joylent]: /blog/the-joys-of-living-on-joylent
+[ink]: /blog/imaginative-ink-a-tattoo-story
+[misogyny]: /blog/mice-men-and-the-wonderful-wizard-of-misogyny
+[employment]: /blog/the-pursuit-of-employment
+[dante]: /blog/dantes-tenth-circle-commuting
+[commonwords]: /blog/this-is-how-you-tell-a-computer-which-place-to-go-to
+[dating]: /blog/dating-in-the-21st-century
+[sleep]: /blog/that-place-between-sleep-and-awake
 [2016]: /archive/2016
 
 ## 2015
