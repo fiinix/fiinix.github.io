@@ -11,13 +11,13 @@ I'm also migrating all the entries from my old Blogger+Blogspot account and [the
 [archive]: https://trello.com/c/eHBiNXt3
 [reclaimer]: https://trello.com/c/BNMKDXQB
 
-<!-- ## 2017
+## 2017
 
 *The year that hasn’t reached an introspective status yet.*
 
 [See all the entries from 2017 so far][2017].
 
-[2017]: /archive/2017 -->
+[2017]: /archive/2017
 
 ## 2016
 
