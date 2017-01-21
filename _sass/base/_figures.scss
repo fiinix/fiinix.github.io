@@ -7,7 +7,7 @@
    ========================================================================== */
 
 .js noscript {
-	
+
 	display: none;
 	visibility: hidden;
 
@@ -42,13 +42,13 @@ figure img {
 	// max-height: 90vh;
 
 	&:not(:only-of-type) {
-		
+
 		width: calc(50% - 0.5em);
 
 	}
 
 	&:nth-child(2) {
-		
+
 		margin-left: 1em;
 
 	}
@@ -81,7 +81,7 @@ figcaption {
 	font-family: $font-family;
 	font-size: 0.74em;
 	line-height: 2.16;
-	
+
 	font-style: italic;
 	color: $luma-20;
 
@@ -113,11 +113,11 @@ figcaption {
 
 .aside-image {
 
-	max-width: 61.8%;
+	max-width: 38.2%;
 	float: right;
-	
+
 	// margin-right: 0;
-	
+
 	margin-top: 4.5em;
 	margin-left: 4.5em;
 	margin-bottom: 4.5em;
