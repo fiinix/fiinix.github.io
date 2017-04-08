@@ -2,7 +2,7 @@
 layout: post
 title: "In Memoriam: Amanda"
 date: 2017-01-04 T 09:00 UTC
-tags : [Running, Health, Cancer, Leukaemia, Marathon, "Just Giving", Charity, "In Memoriam"]
+tags : [Running, Health, Cancer, Leukaemia, Marathon, "Just Giving", Charity, "In Memoriam", "Saucony Cambridge Half Marathon"]
 category: personal
 excerpt: "In which I begin training for my first half marathon and set the stage for raising money in memory of Amanda."
 color: "#0b9cdb"
