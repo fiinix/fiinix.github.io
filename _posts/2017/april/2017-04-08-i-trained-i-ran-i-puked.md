@@ -35,6 +35,10 @@ But that's enough about all the thousands of people who finished faster than me,
 
 After all, my estimated finish time was 2:19:45.
 
+<figure class="media-video">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/AzFDVP8LBRg" frameborder="0" allowfullscreen></iframe>
+</figure>
+
 I'm proud to say that I finished 4233th out of 7264. With a time of 02:01:34.
 
 To give you an idea of how well I stack up against other runner, the average time to finish was 01:56:48.
