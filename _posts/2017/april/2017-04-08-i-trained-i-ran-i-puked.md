@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "I trained, I ran, I puked"
+title: "I Trained, I Ran, I Puked"
 date: 2017-04-08 T 09:00 UTC
 tags : [Running, Health, Cancer, Leukaemia, Marathon, "Just Giving", Charity, "In Memoriam", "Saucony Cambridge Half Marathon"]
 category: personal
