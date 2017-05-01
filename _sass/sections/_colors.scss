@@ -75,17 +75,17 @@
 .color {
 
 	width: 100%;
-	height: 1em;
+	height: 2.7777vh;
 
 	margin: 0;
 
 	&--primary {
 
-		height: 1em;
+		height: 2.7777vh;
 
 		@include mq($breakpoint-lap) {
 
-				width: 2em;
+				width: 5.5555vw;
 				height: 100%;
 
 		};
@@ -94,11 +94,11 @@
 
 	&--secondary {
 
-		height: 0.5em;
+		height: 1.3888vh;
 
 		@include mq($breakpoint-lap) {
 
-				width: 1em;
+				width: 2.7777vw;
 				height: 100%;
 
 		};
@@ -107,11 +107,11 @@
 
 	&--tertiary {
 
-		height: 0.2em;
+		height: 0.69444vh;
 
 		@include mq($breakpoint-lap) {
 
-				width: 0.5em;
+				width: 1.3888vw;
 				height: 100%;
 
 		};
@@ -120,11 +120,11 @@
 
 	&--accent {
 
-		height: 0.2em;
+		height: 0.69444vh;
 
 		@include mq($breakpoint-lap) {
 
-				width: 0.5em;
+				width: 1.3888vw;
 				height: 100%;
 
 		};

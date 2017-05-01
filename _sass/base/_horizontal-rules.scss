@@ -7,36 +7,56 @@
    ========================================================================== */
 hr {
 
-	display: block;
-	height: 1px;
-	border: 0;
-	border-top: 1px solid #ccc;
-	margin: 2.25em 0;
-	padding: 0;
-	
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #ccc;
+    margin: 2.25em 0;
+    padding: 0;
+
 }
 
 .post-content hr {
 
-	border: 0 none;
-	clear: both;
-	display: block;
+    border: 0 none;
+    border-color: inherit;
+    clear: both;
+    display: block;
 
-	font-size: 1.5em;
-	font-weight: 400;
-	height: 0;
-	line-height: 1.5;
-	margin: 1.5em 0 3em;
-	padding: 0;
-	text-align: center;
+    font-size: 1.5em;
+    font-weight: 400;
+    height: 5.5555vh;
+    line-height: 1.5;
+    margin: 2.25em 0 3em;
+    padding: 0;
+    text-align: center;
 
     &:after {
 
-	color: $luma-80;
-	content: "\2666\2666\2666";
-	height: 0;
-	letter-spacing: 0.25em;
-	padding-left: 0.25em;
+        //color: $luma-80;
+        //content: "\2666\2666\2666";
+        content: " ";
+        display: block;
+        height: 2.7777vh;
+        width: 25%;
+        margin: 0 auto 0 25%;
+        border-top: 2.7777vh solid;
+        border-top-color: inherit;
+
+    }
+
+    &:before {
+
+        //color: $luma-80;
+        //content: "\2666\2666\2666";
+        content: " ";
+        display: block;
+        height: 2.7777vh;
+        width: 25%;
+        margin: 0 auto 0 50%;
+        position: relative;
+        border-bottom: 2.7777vh solid;
+        border-bottom-color: inherit;
 
     }
 

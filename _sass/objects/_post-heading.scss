@@ -8,170 +8,166 @@
 .post-heading,
 .page-heading {
 
-	position: relative;
+    position: relative;
 
-	margin-top: 0.25em;
-	margin-bottom: 1em;
+    margin-top: 0.25em;
+    margin-bottom: 1em;
 
-	color: $primary-color;
+    color: $primary-color;
 
-	a {
+    a {
 
-		/* Remove transition effects on post-links */
-		transition: none;
+        /* Remove transition effects on post-links */
+        transition: none;
 
-	}
+    }
 
-	.post-preview & {
+    .post-preview & {
 
-		margin-top: 0.25em;
-		margin-bottom: 0;
+        margin-top: 0.25em;
+        margin-bottom: 0;
 
-	}
+    }
 
 }
 
 .post-heading span,
 .page-heading span {
 
-		background-color: $primary-color;
-		color: $white;
-		padding: 0.3em 0.15em 0.15em 0.15em;
-		line-height: 1.3;
+    position: relative;
 
-		-webkit-box-decoration-break: clone;
-		box-decoration-break: clone;
+    background-color: $primary-color;
+    color: $white;
+    padding: 0.3em 0.15em 0.15em 0.15em;
+    line-height: 1.3;
 
-		&:before {
+    -webkit-box-decoration-break: clone;
+    box-decoration-break: clone;
 
-			content: " ";
-			display: block;
-			width: 100%;
-			height: 100%;
-			// height: calc(100% + 0.15em);
+    &:before {
 
-			background-color: inherit;
+        content: " ";
+        display: block;
+        width: 150%;
+        height: 100%;
+        // height: calc(100% + 0.15em);
 
-			position: absolute;
-			top: 0.3333em;
-			// top: -0.15em;
-			left: -100%;
+        background-color: inherit;
 
-		}
+        position: absolute;
+        //top: 0.3333em;
+        // top: -0.15em;
+        top: 5.5555vh;
+        left: -150%;
 
-		@include mq($breakpoint-lap) {
+    }
 
-			&:before {
+    @include mq($breakpoint-lap) {
 
-				// height: calc(100% + 0.17em);
-				// top: -0.17em;
+        &:before {
 
-			}
+            // height: calc(100% + 0.17em);
+            // top: -0.17em;
 
-		}
+        }
 
-	}
-
-.post-preview .post-heading span:before {
-
-	content: none;
+    }
 
 }
 
+.post-preview .post-heading span:before {
+
+    content: none;
+
+}
 
 // /* Default. Inherit border-colors for branding */
 .post-content {
 
-	color: $primary-color;
-	border-color: $primary-color;
-	margin-top: 3em;
-	margin-bottom: 3em;
+    color: $primary-color;
+    border-color: $primary-color;
+    margin-top: 3em;
+    margin-bottom: 3em;
 
 }
 
 .page-content {
 
-	margin-top: 3em;
-	margin-bottom: 3em;
+    margin-top: 3em;
+    margin-bottom: 3em;
 
 }
 
 .post-type,
 .page-type {
 
-	&--professional,
-	&--content {
+    &--professional,
+    &--content {
 
-		color: $tertiary-color;
+        color: $tertiary-color;
 
-		/* Inherit border-colors for branding */
-		border-color: $tertiary-color $accent-color $accent-color $tertiary-color;
+        /* Inherit border-colors for branding */
+        border-color: $tertiary-color $accent-color $accent-color $tertiary-color;
 
-		> span,
-		> a > span {
+        > span,
+        > a > span {
 
-			background-color: $tertiary-color;
-			// box-shadow: -3em 0 0 $tertiary-color;
+            background-color: $tertiary-color;
+            // box-shadow: -3em 0 0 $tertiary-color;
 
-		}
+        }
 
-	}
+    }
 
 }
-
-
 
 .post-type--content span,
 .page-type--content span {
 
-	&:before {
+    &:before {
 
-			// height: calc(100% + 0.17em);
-			// top: -0.17em;
+        // height: calc(100% + 0.17em);
+        // top: -0.17em;
 
-		}
+    }
 
-		@include mq($breakpoint-lap) {
+    @include mq($breakpoint-lap) {
 
-			&:before {
+        &:before {
 
-				// height: calc(100% + 0.15em);
-				// top: -0.16em;
+            // height: calc(100% + 0.15em);
+            // top: -0.16em;
 
-			}
+        }
 
-		}
+    }
 
 }
 
-
-
 .post-type--archive {
 
-	color: $luma-10;
-	/* Inherit border-colors for branding */
-	border-color: $luma-10 $luma-40 $luma-40 $luma-10;
+    color: $luma-10;
+    /* Inherit border-colors for branding */
+    border-color: $luma-10 $luma-40 $luma-40 $luma-10;
 
 }
 
 .post-type--archive > span {
 
-	background-color: $luma-10;
-	box-shadow: -3em 0 0 $luma-10;
+    background-color: $luma-10;
+    box-shadow: -3em 0 0 $luma-10;
 
 }
 
-
-
 .post--new .post-heading {
 
-	color: inherit;
+    color: inherit;
 
 }
 
 .related-post + .related-post {
 
-	margin-top: 0;
+    margin-top: 0;
 
 }
 
@@ -179,21 +175,21 @@
 .summary + .summary,
 .article-preview + .article-preview {
 
-	margin-top: 2.25em;
+    margin-top: 2.25em;
 
 }
 
 .back-to-top {
 
-	display: inline-block;
+    display: inline-block;
 
-	position: absolute;
-	top: 0;
-	right: 0;
+    position: absolute;
+    top: 0;
+    right: 0;
 
-	background-color: $luma-80;
-	color: contrast($luma-80);
+    background-color: $luma-80;
+    color: contrast($luma-80);
 
-	padding: 0.5em;
+    padding: 0.5em;
 
 }
