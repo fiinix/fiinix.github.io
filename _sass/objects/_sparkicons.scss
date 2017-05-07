@@ -20,27 +20,38 @@
 }
 
 .post-content a[href^="http://"]:after,
-.post-content a[href^="https://"]:after {
+.post-content a[href^="https://"]:after,
+.page-content a[href^="http://"]:after,
+.page-content a[href^="https://"]:after {
 	@extend .spark-icons;
 }
 .post-content a[href^="http://www.youtube"]:after,
 .post-content a[href^="https://www.youtube"]:after,
-.post-content a[href^="spotify"]:after {
+.post-content a[href^="spotify"]:after,
+.page-content a[href^="http://www.youtube"]:after,
+.page-content a[href^="https://www.youtube"]:after,
+.page-content a[href^="spotify"]:after {
 	@extend .spark-icons;
 	background-position: -10px 0;
 }
-.post-content a[href*="wiki"]:after, {
+.post-content a[href*="wiki"]:after,
+.page-content a[href*="wiki"]:after {
 	@extend .spark-icons;
 	background-position: -20px 0;
 }
 .post-content a[href^="https://www.google.com/maps/"]:after,
 .post-content a[href^="http://www.google.com/maps/"]:after,
 .post-content a[href^="http://www.openstreetmap.org/"]:after,
-.post-content a[href^="http://www.openstreetmap.org/"]:after {
+.post-content a[href^="http://www.openstreetmap.org/"]:after,
+.page-content a[href^="https://www.google.com/maps/"]:after,
+.page-content a[href^="http://www.google.com/maps/"]:after,
+.page-content a[href^="http://www.openstreetmap.org/"]:after,
+.page-content a[href^="http://www.openstreetmap.org/"]:after {
 	@extend .spark-icons;
 	background-position: -30px 0;
 }
-.post-content a[href^="http://www.gutenberg.org/"]:after {
+.post-content a[href^="http://www.gutenberg.org/"]:after,
+.page-content a[href^="http://www.gutenberg.org/"]:after {
 	@extend .spark-icons;
 	background-position: -40px 0;
 }

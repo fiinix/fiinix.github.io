@@ -248,6 +248,12 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Provident esse eveniet
   </table>
 </div>
 
+## Sparkicons
+
+> A Sparkicon as a small, inline icon with additional link meta data to describe either the content and/or the behaviour when the user clicks the link.
+
+A media link such as Youtube or Spotify, like a [trailer for the Daniel Radcliffe film Horns (2014)][media].    
+
 [pullquote]: http://en.wikipedia.org/wiki/Pull_quote
 [wiki]: http://en.wikipedia.org/wiki/Stout
 [media]: http://www.youtube.com/watch?v=B8s_1UcdoNI
