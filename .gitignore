@@ -3,3 +3,4 @@ _ignore/
 .sass-cache/
 .DS_Store/
 _config.yml
+/_config.yml
