@@ -180,9 +180,6 @@ if ("querySelector" in document
             greetingPhonetic = $(".js-phonetic"),
             greetingLanguage = $(".js-lang");
 
-
-            console.log(greetingHello);
-
         if (greetingHello.length > 0) {
 
             var greetings = [
