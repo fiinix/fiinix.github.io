@@ -1,0 +1,31 @@
+<!-- Html Elements for Search -->
+<div id="search-container">
+
+    <div class="field-group">
+        <label for="search-input" class="field-group__label visuallyhidden">
+            Search
+        </label>
+        <div class="field-group__wrapper">
+            <svg class="icon field-group__icon">
+                <use xlink:href="#search" />
+            </svg>
+            <input class="field-group__input field-group__input--text" type="text" id="search-input" placeholder="E.g. Erikssons, Health, Gaming">
+        </div>
+    </div>
+
+    <ul id="results-container" class="clean-list"></ul>
+
+</div>
+
+<!-- Script pointing to jekyll-search.js -->
+<script src="{{ site.baseurl }}/assets/js/jekyll-search.min.js"></script>
+
+<script>
+    SimpleJekyllSearch({
+        searchInput: document.getElementById('search-input'),
+        resultsContainer: document.getElementById('results-container'),
+        json: '/search.json',
+        searchResultTemplate: '<li><h3 class="h4"><a href="{url}">{title}</a></h3></li>',
+        limit: 7
+    })
+</script>

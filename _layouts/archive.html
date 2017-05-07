@@ -5,7 +5,7 @@ layout: default
 
   <div class="group">
     <div class="col col--primary">
-      
+
       <h1 class="page-heading page-type--{{ page.category }}" {% if page.color %} style="color: {{ page.color }};"{% endif %}>{{ page.title | markdownify | strip_html | trim  }}</h1>
 
     </div>
@@ -40,7 +40,10 @@ layout: default
 {% assign prevyear = post.previous.date | date: "%Y" %}
 {% assign counter = counter | plus: 1 %}
 {% if thisyear != prevyear %}
-<li><a href="/archive/{{ post.date | date:"%Y" }}">{{ thisyear }}</a> <small>&times; {{ counter }}</small></li>
+<li>
+  <a href="/archive/{{ post.date | date:"%Y" }}">{{ thisyear }}</a>
+  <small>&times; {{ counter }}</small>
+</li>
 {% assign counter = 0 %}
 {% endif %}
 {% endfor %}

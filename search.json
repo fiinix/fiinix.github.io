@@ -1,0 +1,14 @@
+---
+layout: null
+---
+[
+  {% for post in site.posts %}
+    {
+      "title"    : "{{ post.title|markdownify|strip_html|strip_newlines }}",
+      "category" : "{{ post.category }}",
+      "tags"     : "{{ post.tags|join: ', '|markdownify|strip_html|strip_newlines }}",
+      "url"      : "{{ site.baseurl }}{{ post.url }}",
+      "date"     : "{{ post.date }}"
+    } {% unless forloop.last %},{% endunless %}
+  {% endfor %}
+]
