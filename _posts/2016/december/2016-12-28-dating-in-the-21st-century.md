@@ -83,8 +83,6 @@ I'm sorry.
 
 ## Day 3
 
-Rememerbing
-
 > "Would you like fries or hummus with that 6′0″ tattooed Scandinavian?"
 
 A part of me thinks you're not supposed to change your profile text this often, few people seem to read them anyway.
@@ -142,6 +140,8 @@ As the ending of this little experiment draws near I begin to wonder how other p
 Curious to see if my own experiences reflect that of others I talk to a few people who have used Tinder to varying degrees of success.
 
 And one them of agreed to let me publish their story. To protect their identities, the people's names have been altered.
+
+***
 
 ### Charlie's story
 
