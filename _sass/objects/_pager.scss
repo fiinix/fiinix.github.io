@@ -4,79 +4,82 @@
 
 
 
-.pager {
-
-	display: flex;
-	flex-flow: column nowrap;
-
-	@include mq($breakpoint-lap) {
-
-		flex-flow: row nowrap;
-
-	}
-
-}
-
-.pager__item {
-
-	display: block;
-	flex: 1;
-
-	// Remove default ul list bullet
-	&:before { content: none; }
-
-}
+//.pager {
+//
+//	display: flex;
+//	flex-flow: column nowrap;
+//
+//	@include mq($breakpoint-lap) {
+//
+//		flex-flow: row nowrap;
+//
+//	}
+//
+//}
+//
+//.pager__item {
+//
+//	display: block;
+//	flex: 1;
+//
+//	backgroune-image: none;
+//
+//	// Remove default ul list bullet
+//	&:before { content: none; }
+//
+//}
 
 
 .pager__next,
 .pager__previous {
+
+	// Remove default link style
+	background-image: none;
 
 	display: inline-block;
 
 	position: relative;
 
 	border-color: inherit;
-	// background-color: $primary-color;
-	// color: contrast($primary-color);
 
-	// padding: 1em;
+	&:hover,
+	&:focus,
+	&:active {
 
-	&:visited {
-
-		// background-color: desaturate($primary-color, 10);
-		// color: contrast(desaturate($primary-color, 10));
+		background-image: none;
 
 	}
 
+	// Rotated square
 	&:before {
 
 		content: " ";
 		display: block;
 
-		width: 2.7777vh;
-		height: 2.7777vh;
+		width: 5.5vh;
+		height: 2.7vh;
 
-		border-bottom: 2.7777vh solid;
+		border-bottom: 2.7vh solid;
 		border-bottom-color: inherit;
 
-		transform: rotate(45deg);
+		//transform: rotate(45deg);
 
 		position: absolute;
-		top: 0;
 
 		z-index: -1;
 
 	}
 
+	// Underline/strikethrough
 	&:after {
 
 		content: " ";
 		display: block;
 
 		width: 100%;
-		height: 2.7777vh;
+		height: 2.7vh;
 
-		border-bottom: 2.7777vh solid;
+		border-bottom: 2.7vh solid;
 		border-bottom-color: inherit;
 
 		position: absolute;
@@ -86,37 +89,27 @@
 	}
 
 }
-
 .pager__previous:before {
 
-	// content: "\219E";
-
-	//color: rgba($primary-color, 1);
-
-	bottom: -1em;
-	left: -1em;
+	bottom: -2.7vh;
+	left: -8.3vh;
 
 }
 .pager__previous:after {
 
-	//background-color: rgba($primary-color, 1);
-	//border-bottom-color: inherit;
-
-	bottom: -0.25em;
-	left: -0.5em;
+	bottom: 0;
+	left: -2.7vh;
 
 }
 .pager__next:before {
 
-	left: -1em;
-	top: -0.25em;
+	right: -8.3vh;
+	bottom: -2.7vh;
 
 }
 .pager__next:after {
 
-	//background-color: rgba($secondary-color, 1);
-
-	bottom: -0.25em;
-	right: -1em;
+	bottom: 0;
+	right: -2.7vh;
 
 }
