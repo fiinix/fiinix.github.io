@@ -38,24 +38,26 @@
 
 }
 
-.col--primary {
+.col--primary.col--primary {
 
 	max-width: 32em;
 	flex: 1 0 auto;
 
 }
 
-.col--secondary {
+.col--secondary.col--secondary {
 
 	max-width: 32em;
 	flex: 1 1 auto;
 
 	// background-image: linear-gradient(90deg, rgba(0,0,0,0.1) 50%, rgba(0,0,0,0.25) 50%);
 	// background-size: 2em 2em;
+	margin-top: 1.5em;
 
 	@include mq($breakpoint-desk) {
 
 		padding-left: 4.5em;
+		margin-top: 0;
 		// padding-top: 6em;
 
 	};
