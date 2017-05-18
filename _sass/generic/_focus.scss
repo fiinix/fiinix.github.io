@@ -10,8 +10,11 @@
 
 *:focus {
 
+	outline: none;
+	box-shadow: 0 0.3rem 0 0 $primary-color;
+
 	// background-color: $secondary-color;
-	outline: 0.2em solid $secondary-color;
+	//outline: 0.2em solid $secondary-color;
 	// color: $black;
 
 }
