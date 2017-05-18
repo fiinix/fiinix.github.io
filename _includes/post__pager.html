@@ -11,7 +11,7 @@
 		{% else %}{{ page.previous.date | date: "%-d %b" }}.
 		{% endcase %}
 	</time><br>
-	<a href="{{ BASE_PATH }}{{ page.previous.url }}" rel="prev" class="pager__previous h4 no-margin" {% if page.previous.color %} style="border-color: {{ page.previous.color }};"{% endif %}>
+	<a href="{{ BASE_PATH }}{{ page.previous.url }}" rel="prev" class="pager__previous h4 no-margin"  style="border-color: {% if page.previous.color %}{{ page.previous.color }}{% else %}#cd0e3e{% endif %};">
 	<span class="">{{ page.previous.title | markdownify | strip_html | trim }}</span>
 	</a>
 </p>
@@ -28,7 +28,7 @@
 		{% else %}{{ page.next.date | date: "%-d %b" }}.
 		{% endcase %}
 	</time><br>
-	<a href="{{ BASE_PATH }}{{ page.next.url }}" rel="next" class="pager__next h4 no-margin" {% if page.next.color %} style="border-color: {{ page.next.color }};"{% endif %}>
+	<a href="{{ BASE_PATH }}{{ page.next.url }}" rel="next" class="pager__next h4 no-margin" style="border-color:{% if page.next.color %}{{ page.next.color }}{% else %}#cd0e3e{% endif %};">
 	<!-- <svg class="icon pager__icon pager__icon--next">
 		<use xlink:href="#arrow-forward" />
 	</svg> -->
