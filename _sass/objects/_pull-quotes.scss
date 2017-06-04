@@ -13,34 +13,6 @@ p[data-pullquote] {
 
 }
 
-// p[data-pullquote]:after {
-
-// 	content: " ";
-// 	display:block;
-
-// 	position: absolute;
-// 	top: -1.88em;
-// 	right: 50%;
-
-// 	width: 1em;
-// 	height: 0;
-
-// 	border-style: solid;
-// 	border-width: 0 0 0.33em 0;
-// 	border-bottom-color: inherit;
-
-// 	transform: translateX(50%) rotate(-7.5deg);
-
-// 	@include mq($breakpoint-lap) {
-
-// 		top: 0.33em;
-// 		right: 0;
-// 		transform: translateX(-5.5em) rotate(-7.5deg);
-
-// 	};
-
-// }
-
 p[data-pullquote]:before {
 
 	display: block;
@@ -66,9 +38,9 @@ p[data-pullquote]:before {
 	@include mq($breakpoint-lap) {
 
 		float: right;
-		width: 12em;
+		width: 12.5em;
 
-		margin: 1.5em -3em 1.5em 1em;
+		margin: 1.5em -11.1111vw 1.5em 1em;
 
 	};
 
