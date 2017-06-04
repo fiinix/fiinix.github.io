@@ -6,11 +6,6 @@ excerpt: "Like the mythical Elephants' graveyard, this is where all my Journal e
 ---
 As each year comes to its close I summarise it here, include my favourite entry and give you a list of all the entries.
 
-I'm also migrating all the entries from my old Blogger+Blogspot account and [the migration progress][reclaimer] is publicly available on a Trello board.
-
-[archive]: https://trello.com/c/eHBiNXt3
-[reclaimer]: https://trello.com/c/BNMKDXQB
-
 ## 2017
 
 *This year that hasn’t reached an introspective status yet.*
