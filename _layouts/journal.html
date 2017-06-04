@@ -1,15 +1,15 @@
 ---
 layout: default
 ---
-<div class="container">
+<div class="container" data-layout="journal">
 
-  <div class="group">
+  <header class="group">
     <div class="col col--primary">
-      
-      <h1 class="page-heading page-type--{{ page.category }}" {% if page.color %} style="color: {{ page.color }};"{% endif %}>{{ page.title | markdownify | strip_html | trim  }}</h1>
+
+        <h1 class="page-heading page-type--{{ page.category }}" {% if page.color %} style="color: {{ page.color }};"{% endif %}><span>{{ page.title | markdownify | strip_html | trim  }}</span></h1>
 
     </div>
-  </div>
+  </header>
 
  <div class="group" role="main">
    <section class="col col--primary">

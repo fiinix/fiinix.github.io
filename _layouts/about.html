@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<div class="container">
+<div class="container" data-layout="about">
 
   <header class="group">
     <div class="col col--primary">
@@ -17,7 +17,6 @@ layout: default
       {% if page.excerpt %}
       <div class="lead">{{ page.excerpt | markdownify }}</div>
       {% endif %}
-      
 
     <article class="page-content page-type--{{ page.category }}" lang="en"{% if page.color %} style="border-color:{{ page.color }} {{ page.color }} {{ page.color2 }} {{ page.color2 }}; color: {{ page.color }};"{% endif %}>
       {{ content }}

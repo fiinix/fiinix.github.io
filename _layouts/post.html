@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<div class="container">
+<div class="container" data-layout="post">
 
   <div class="group">
     <div class="col col--primary">
@@ -19,7 +19,7 @@ layout: default
 
     {% if page.category == 'archive' %}
       <p class="disclaimer">{% include post__archived.html %}</p>
-      {% elsif page.disclaimer || page.discretion %}
+      {% elsif page.disclaimer or page.discretion %}
       <p class="disclaimer">{{ page.disclaimer | markdownify | strip_html | trim }}</p>
       {% endif %}
 
@@ -40,7 +40,7 @@ layout: default
   <!-- <p>{% include date.html type="page" %}<br>
   {% include reading-time.html type="page" %}</p> -->
   {% include post__tags.html %}
-    
+
   </aside>
 </div>
 </div>
