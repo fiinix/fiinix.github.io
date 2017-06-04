@@ -1,0 +1,71 @@
+/*------------------------------------*\
+    #Footnotes
+\*------------------------------------*/
+
+sup .footnote {
+
+
+
+    &:before {
+        content: "[ "
+    }
+    &:after {
+        content: " ]";
+    }
+
+}
+
+.footnotes {
+
+    position: relative;
+
+    margin-top: 3em;
+    padding-top: 3em;
+    border-top: 0.6vh solid luma(90);
+
+    &:before {
+
+        content: " ";
+        display: block;
+
+        width: 33.3333%;
+        height: 0.6vh;
+
+        position: absolute;
+        top: -0.6vh;
+        left: 0;
+
+        background-color: luma(70);
+
+    }
+
+    &:after {
+
+        content: "Notes";
+
+        font-weight: $heading-weight;
+        font-family: $heading-family;
+
+        color: $black;
+
+        font-size: 0.74em;
+        line-height: 2.1622;
+
+        position: absolute;
+        top: 1em;
+        left: 0;
+
+        @include mq($breakpoint-lap) {
+
+            font-size: 1em;
+            line-height: 1.5;
+
+        };
+
+    }
+
+}
+
+:target {
+    background-color: rgba($tertiary-color, 0.2);
+}
