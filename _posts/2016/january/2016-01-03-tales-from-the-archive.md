@@ -24,7 +24,7 @@ And if it wasn't for the fact that I want all the entries to live here I would p
 
 What I'm trying to say is this; By all means, go and check out some of the old stuff---in case you're a newer reader who wasn't around back in good ol' 2009 or just want a trip down memory lane---but be warned, 83% of the entries are, in fact, shit.
 
-Like this [incoherent rambling][charlie] about a unicorn named Charlie.
+Like the incoherent rambling about a unicorn named Charlie.
 
 And why I thought it would be appropriate to end so many entries with a, "fuck off," is beyond me.
 
@@ -34,4 +34,3 @@ And why I thought it would be appropriate to end so many entries with a, "fuck o
 [part-1]: /blog/part-i-leap-of-faith
 [part-2]: /blog/part-ii-most-lesbians
 [part-4]: /blog/part-iii-and-iv-into-the-night-and-made-of-glass
-[charlie]: /blog/fucking-with-blue-teeth

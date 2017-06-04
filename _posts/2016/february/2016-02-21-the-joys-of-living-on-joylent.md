@@ -61,14 +61,14 @@ I will update this entry every evening. Join me again tomorrow, as the experimen
 
 Because I didn't want my own bias to---pun intended---flavour the results I've randomised the order in which I will drink the different flavours. This is also to prevent me from saving the dreaded banana flavour for last. Which I would have regretted on Friday morning.
 
+## Day 1, Mango Monday
+
 <figure class="aside-image">
 	<img class="js-lazy-load" data-original="/assets/posts/2016/february/the-joys-of-living-on-joylent/mango.png">
 	<noscript>
 		<img src="/assets/posts/2016/february/the-joys-of-living-on-joylent/mango.png">
 	</noscript>
 </figure>
-
-## Day 1, Mango Monday
 
 First up; Mango.
 
@@ -100,14 +100,14 @@ I'm blaming the Potassium. It's meant to subside once the body adjust to getting
 
 Current joy of living on Joylent: *No joy. This isn't living.*
 
+## Day 2, Banana Tuesday
+
 <figure class="aside-image">
 	<img class="js-lazy-load" data-original="/assets/posts/2016/february/the-joys-of-living-on-joylent/banana.png">
 	<noscript>
 		<img src="/assets/posts/2016/february/the-joys-of-living-on-joylent/banana.png">
 	</noscript>
 </figure>
-
-## Day 2, Banana Tuesday
 
 Figures. I would get the fucking banana flavour today.
 
@@ -131,14 +131,14 @@ And with the least appetising flavours out of the way I'm *almost* looking forwa
 
 Current joy of living on Joylent: *Yeah, this isn't so bad. I think I can manage.*
 
+## Day 3, Strawberry Wednesday
+
 <figure class="aside-image">
 	<img class="js-lazy-load" data-original="/assets/posts/2016/february/the-joys-of-living-on-joylent/strawberry.png">
 	<noscript>
 		<img src="/assets/posts/2016/february/the-joys-of-living-on-joylent/strawberry.png">
 	</noscript>
 </figure>
-
-## Day 3, Strawberry Wednesday
 
 After yesterday's complete success I was hesitant about today.
 
@@ -178,14 +178,14 @@ On a more positive note---and less strange as well---I'm happy to tell you that 
 
 Current joy of living on Joylent: *Doing the [Hit The Quan][quan] dance whilst singing, "Straw-straw-strawberry motherfucker!*
 
+## Day 4, Chocolate Thursday
+
 <figure class="aside-image">
 	<img class="js-lazy-load" data-original="/assets/posts/2016/february/the-joys-of-living-on-joylent/chocolate.png">
 	<noscript>
 		<img src="/assets/posts/2016/february/the-joys-of-living-on-joylent/chocolate.png">
 	</noscript>
 </figure>
-
-## Day 4, Chocolate Thursday
 
 Every time I open a bag to mix the first meal of a flavour I always smell it. And every time each flavour smells faintly of the thing they're trying to replicate.
 
@@ -217,14 +217,14 @@ Just to make things more exciting, if I had any extra bags I would totally mix t
 
 Current joy of living on Joylent: *I could live like this forever, but would I want to?*
 
+## Day 5, Vanilla Friday
+
 <figure class="aside-image">
 	<img class="js-lazy-load" data-original="/assets/posts/2016/february/the-joys-of-living-on-joylent/vanilla.png">
 	<noscript>
 		<img src="/assets/posts/2016/february/the-joys-of-living-on-joylent/vanilla.png">
 	</noscript>
 </figure>
-
-## Day 5, Vanilla Friday
 
 Today was a trial by fire.
 

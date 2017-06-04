@@ -2,7 +2,7 @@
 layout: post
 title: "A 21st Century Hunt for the Perfect Christmas Tree"
 date: 2014-12-10 T 21:30 UTC
-tags : [Christmas, Tree, Humour]
+tags : [Christmas, "Christmas Tree", Humour]
 category: blog
 excerpt: In which I teach my son the important lesson of taking your time to choose the perfect Christmas tree, by taking him out into the woods to chop his very first tree.
 ---
