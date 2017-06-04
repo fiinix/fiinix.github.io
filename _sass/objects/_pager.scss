@@ -1,35 +1,6 @@
 /*------------------------------------*\
     #Pager
 \*------------------------------------*/
-
-
-
-//.pager {
-//
-//	display: flex;
-//	flex-flow: column nowrap;
-//
-//	@include mq($breakpoint-lap) {
-//
-//		flex-flow: row nowrap;
-//
-//	}
-//
-//}
-//
-//.pager__item {
-//
-//	display: block;
-//	flex: 1;
-//
-//	backgroune-image: none;
-//
-//	// Remove default ul list bullet
-//	&:before { content: none; }
-//
-//}
-
-
 .pager__next,
 .pager__previous {
 
