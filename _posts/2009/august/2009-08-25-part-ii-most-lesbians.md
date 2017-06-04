@@ -3,7 +3,7 @@ layout: post
 title:  Part II, Most Lesbians
 date: 2009-08-25T19:57:00+01:00
 tags : [Video, Song Writing, Original Song, Konstens Natt, Taiteiden Yö, Night of Arts]
-category: blog
+category: personal
 excerpt: The second part of four of the entire recording of my performance at Night of Arts.
 ---
 Enjoy part II!

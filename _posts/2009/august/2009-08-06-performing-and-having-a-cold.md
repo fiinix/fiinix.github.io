@@ -3,7 +3,7 @@ layout: post
 title:  Performing And Having a Cold
 date: 2009-08-06T20:03:00+01:00
 tags : [Konstens Natt, Taiteiden Yö, Night of Arts]
-category: blog
+category: personal
 excerpt: Performing and having a cold really don't mix well... or do they?
 ---
 Performing and having a cold really don't mix well... or do they? The reception for my performance seemed quite nice considering I'm suffering from a cold.. or the flu. I really can't be quite certain yet, but I'm guessing it's a cold mainly because it's passing quite quickly... then again, I don't actually know if colds do that. Anyway, enough about my runny nose.

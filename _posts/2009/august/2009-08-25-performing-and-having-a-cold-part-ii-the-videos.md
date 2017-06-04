@@ -3,7 +3,7 @@ layout: post
 title:  "Performing And Having a Cold (Part II, The Videos)"
 date: 2009-08-25T11:35:00+01:00
 tags : [Konstens Natt, Taiteiden Yö, Night of Arts]
-category: blog
+category: personal
 excerpt: The introductory post to the entire recording of my performance at Night of Arts.
 ---
 

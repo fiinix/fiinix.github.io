@@ -3,7 +3,7 @@ layout: post
 title:  Part I, Leap of Faith
 date: 2009-08-25T18:35:00+01:00
 tags : [Video, Song Writing, Original Song, Konstens Natt, Taiteiden Yö, Night of Arts]
-category: blog
+category: personal
 excerpt: The first part of four of the entire recording of my performance at Night of Arts.
 ---
 ...is now finally on youtube, it only took me like 5 hours to get there.. well I guess that's what you get when you try to upload a 1.17 Gb live video. Even though it's only 4 minutes 42 seconds long.
