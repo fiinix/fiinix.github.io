@@ -60,3 +60,30 @@ a {
 	}
 
 }
+
+a[href*="http"]:hover:before,
+a[href*="http"]:focus:before {
+
+	// Make sure that the augmented link doesn't interfere with hovering other links.
+	pointer-events: none;
+
+	content: attr(href);
+	display: block;
+	position: absolute;
+	top: -1rem;
+	left: 0;
+
+	background-color: rgba($tertiary-color, 0.95);
+	color: $black;
+
+	padding: 0 0.35rem 0 0.25rem;
+
+	font-family: $ui-family;
+	font-style: $font-style;
+	font-weight: $font-weight;
+
+	letter-spacing: 0.015rem;
+	font-size: 0.74rem;
+	white-space: nowrap;
+
+}
