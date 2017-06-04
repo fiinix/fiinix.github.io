@@ -39,7 +39,7 @@ h1,
 h2,
 .h2.h2,
 .post-content h1,
-.page-content h1, {
+.page-content h1 {
 
 	font-size: 2.25em;
 	line-height: 1.22474;
@@ -56,7 +56,7 @@ h2,
 h3,
 .h3.h3,
 .post-content h2,
-.page-content h2, {
+.page-content h2 {
 
 	font-size: 1.5em;
 	line-height: 1.3554;
@@ -73,7 +73,7 @@ h3,
 h4,
 .h4.h4,
 .post-content h3,
-.page-content h3, {
+.page-content h3 {
 
 	font-size: 1em;
 	line-height: 1.5;
@@ -90,7 +90,7 @@ h4,
 h5,
 .h5.h5,
 .post-content h4,
-.page-content h4, {
+.page-content h4 {
 
 	font-size: 0.74em;
 	line-height: 2.1622;
@@ -107,7 +107,7 @@ h5,
 h6,
 .h6.h6,
 .post-content h5,
-.page-content h5, {
+.page-content h5 {
 
 	font-size: 0.74em;
 	line-height: 2.1622;
@@ -126,7 +126,7 @@ h6,
 	position: relative;
 
 	padding-top: 1.5em;
-	border-top: 0.1111em solid luma(80);
+	border-top: 0.6vh solid luma(90);
 
 	&:before {
 
@@ -134,13 +134,13 @@ h6,
 		display: block;
 
 		width: 33.3333%;
-		height: 0.1111em;
+		height: 0.6vh;
 
 		position: absolute;
-		top: -0.1111em;
+		top: -0.6vh;
 		left: 0;
 
-		background-color: luma(50);
+		background-color: luma(70);
 
 	}
 

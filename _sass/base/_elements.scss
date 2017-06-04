@@ -14,8 +14,8 @@ abbr[title] {
 }
 abbr[title] {
 
-	cursor: help;
-	border-bottom: 1px dotted $luma-50;
+  cursor: help;
+  border-bottom: 1px dotted $luma-50;
 
   &:before {
 
@@ -31,6 +31,14 @@ abbr[title] {
 
 }
 
+//Remove underline from abbr in links
+a abbr {
+
+  cursor: default;
+  border-color: transparent;
+
+}
+
 small {
 
   // font-weight: $ui-weight;
@@ -43,7 +51,7 @@ small {
 
 .small-caps {
 
-  color: $black;
+  color: currentColor;
 
 	/* Manually adjusted to mimic a small cap and fall within
 	 * the x-height of the body font */	
@@ -53,7 +61,7 @@ small {
 	text-transform: uppercase;
   /* Make the text faux bolder to mimic small-caps because the weight of
    * this should be similar to the weight of normal lowecase but it isn't */
-  text-shadow: 0 0 0 $black;
+  text-shadow: 0 0 0 currentColor;
 
 }
 
