@@ -7,7 +7,7 @@ tags: [Idols, "Reality TV"]
 category: personal
 excerpt: "In which I decide to join a friend and audition for the reality television-music competition Idols."
 ---
-This Friday I am going to audition for Idols. I mentioned it briefly in [Updates and a Pumpkin](/blog/updates-and-pumpkin) and because.. well.. I have no shame I suppose I now doing it again. How will it go? What will I sing? Only time can tell. Well time.. and me.. since I have now decided what to sing.. but because I partly want to be sneaky and partly I am curious to see what the judges think first (assuming I get that far) I won't actually tell you what song it is just yet.
+This Friday I am going to audition for Idols. I mentioned it briefly in [Updates and a Pumpkin](/blog/updates-and-a-pumpkin) and because.. well.. I have no shame I suppose I now doing it again. How will it go? What will I sing? Only time can tell. Well time.. and me.. since I have now decided what to sing.. but because I partly want to be sneaky and partly I am curious to see what the judges think first (assuming I get that far) I won't actually tell you what song it is just yet.
 
 So yeah.. the whole "assuming I get that far" -part.. apparently one sings in front of some producers or something on the first day and then they decide right there if you get to sing in front of the judges and cameras the following day. Which basically means you might not get to see me on TV at all. Now you know that, so don't get our hopes up too much, there are a lot of very very talented people out there.. much more talented than I am at singing, but "Hey!".. I have to give it a shot don't I?
 

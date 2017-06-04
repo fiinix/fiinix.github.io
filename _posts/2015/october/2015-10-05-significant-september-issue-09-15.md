@@ -78,4 +78,4 @@ And that's it for this month.
 [web]: http://webinthewoods.co.uk/
 [finn1]: /blog/a-finn-in-the-forest-part-i
 [finn2]: /blog/a-finn-in-the-forest-part-ii
-[beard]: /blog/a-scary-hairy-beard-story/
+[beard]: /blog/a-scary-hairy-beard-story

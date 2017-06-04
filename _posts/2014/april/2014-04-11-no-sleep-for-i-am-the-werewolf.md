@@ -86,7 +86,7 @@ I did develop a favourite that even now---as I think back---I'm filled with fond
 
 And I think that sums up last weekend. I had an awesome time and really enjoyed meeting new people---who I hope to meet again---and all of this is of course made even better by the fact that it was all for [a good cause][charity]. 
 
-[too-old]: http://carloseriksson.com/2014/04/im-definitely-too-old-for-this-shit
+[too-old]: /blog/im-definitely-too-old-for-this-shit
 [steve]: https://twitter.com/trepanation
 [charity]: https://www.justgiving.com/BigBoardgameSmash/
 [survive]: http://en.wikipedia.org/wiki/Escape_from_Atlantis

@@ -73,5 +73,5 @@ I hope you'll like it.
   <iframe width="560" height="315" src="https://www.youtube.com/embed/bIDKOPZJnB8" frameborder="0" allowfullscreen></iframe>
 </figure>
 
-[sleep]: /blog/that-place-between-sleep-and-awake/
+[sleep]: /blog/that-place-between-sleep-and-awake
 [swansong]: /blog/that-place-between-sleep-and-awake/#swansong

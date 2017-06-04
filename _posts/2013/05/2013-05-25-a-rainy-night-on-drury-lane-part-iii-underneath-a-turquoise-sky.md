@@ -84,4 +84,4 @@ As Viktor Kuhnert leaned forward and handed over his Borchardt C-93 pistol, Dete
 
 “Shall we go? Ich habe ein car parked on the other side of this building.”, Viktor tried his best to seem sincere as he gave way for Detective Wentworth.
 
-[Continue to Part IV — Leering Pale Green Eyes here.](blog/a-rainy-night-on-drury-lane-part-iv-leering-pale-greey-eyes)
+[Continue to Part IV — Leering Pale Green Eyes here](blog/a-rainy-night-on-drury-lane-part-iv-leering-pale-greey-eyes).

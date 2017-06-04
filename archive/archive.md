@@ -90,7 +90,7 @@ But my favourite entry is [A Rainy Night on Drury Lane, Part VII — A White Bla
 [monorun]: /blog/ladies-and-gentlemen-monorun
 [eurovision]: /blog/guessing-at-the-eurovisiowhatnow
 [greatness]: /blog/following-in-the-handsteps-of-greatness-hanna-barbera
-[assassin]: /blog/the-worst-assassin-in-the-world/
+[assassin]: /blog/the-worst-assassin-in-the-world
 [2013]: /archive/2013
 
 ## 2012

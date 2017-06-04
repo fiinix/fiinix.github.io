@@ -24,6 +24,6 @@ A part of the base grid was built from the foundation of [the work](http://cssgr
 
 So, how did my plan pan out? Pretty nicely actually, apart from the IE's refusal to work with min-width's and such, rectified using Scott Jehl's awesomely light [respond.js](http://respond.js/) and some minor hiccups I still have to resolve like my hosts iframe **versus** something. I'm going to test it on other mobiles too, like Windows Phone 7 (please, beije?) and Iphone 4 but.. well.. so far, so good.
 
-For those of you how are curious, the address is as usual [fiinixdesign.eu](http://fiinixdesign.eu/), but for mobile users you are going to have to go straight to <http://asphinx.danmed.co.uk/> until I have resolved whatever the issue is.
+For those of you how are curious, the address is as usual fiinixdesign.eu (not available), but for mobile users you are going to have to go straight to http://asphinx.danmed.co.uk (not available) until I have resolved whatever the issue is.
 
 [^1]: 43.3 KB for an SVG image **versus** 47.4 KB for a web-optimized PNG. SVGZ clocked in at a minuscule 17.6 KB but I couldn't even get it to show up in Firefox.

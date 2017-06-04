@@ -150,7 +150,7 @@ If the <abbr class="small-caps">UK</abbr> does better than Finland in the compet
 We'll see. Or hear? Yeah, we'll hear.
 
 
-[previously]: /blog/the-epic-rivalry-continues/
+[previously]: /blog/the-epic-rivalry-continues
 
 [uk]: https://youtu.be/s6r1tUhl1cQ
 [macedonia]: https://youtu.be/t8QCt6CJCHc

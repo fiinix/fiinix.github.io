@@ -11,7 +11,7 @@ Things take a turn for the hallucinatory in the sixth instalment of “A Rainy N
 
 As always, those of you who have missed the previous instalments can catch up here.
 
-["Part I — With Sensual Red Lips"](/blog/a-rainy-night-on-drury-lane), ["Part II — The Brown Note"](/blog/a-rainy-night-on-drury-lane-part-ii-the-brown-note/), ["Part III — Underneath A Turquoise Sky"](/blog/a-rainy-night-on-drury-lane-part-iii-underneath-a-turquoise-sky/), ["Part IV — Leering Pale Green Eyes"](/blog/a-rainy-night-on-drury-lane-part-iv-leering-pale-green-eyes/) and [“Part V — Nothing But Yellow Newspapers”](/blog/a-rainy-night-on-drury-lane-part-v-nothing-but-yellow-newspapers).
+["Part I — With Sensual Red Lips"](/blog/a-rainy-night-on-drury-lane), ["Part II — The Brown Note"](/blog/a-rainy-night-on-drury-lane-part-ii-the-brown-note), ["Part III — Underneath A Turquoise Sky"](/blog/a-rainy-night-on-drury-lane-part-iii-underneath-a-turquoise-sky), ["Part IV — Leering Pale Green Eyes"](/blog/a-rainy-night-on-drury-lane-part-iv-leering-pale-green-eyes) and [“Part V — Nothing But Yellow Newspapers”](/blog/a-rainy-night-on-drury-lane-part-v-nothing-but-yellow-newspapers).
 
 <figure>
     <img class="js-lazy-load" data-original="/assets/posts/2013/10/part-6-dem-dee-licious-golden-pancakes.jpg" alt="Silhouette of man standing in the rain.">

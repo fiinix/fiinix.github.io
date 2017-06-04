@@ -227,7 +227,7 @@ So, how was your vacation?
 
 [tours]: https://www.theoriginaltour.com/
 [squiders]: https://www.squiders.com/
-[beards]: /blog/beards-brains-and-beauty/
+[beards]: /blog/beards-brains-and-beauty
 [nhm]: http://www.nhm.ac.uk/
 [night]: http://www.imdb.com/title/tt2692250/
 [mm]: http://www.nhm.ac.uk/

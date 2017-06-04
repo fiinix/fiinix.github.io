@@ -3,7 +3,7 @@ layout: post
 title: "Arrrgh You Rrready to Shiver Me Timbers"
 date: 2014-03-04T11:00:00Z
 tags : [Gaming, "Assassin's Creed IV: Black Flag", Review]
-category: archive
+category: personal
 excerpt: "In which I play and review (Spoiler-free) the latest offering from Ubisoft in the Assassin's Creed -series, Black Flag. Where being a dirty pirate is the greatest fun you can have this month."
 ---
 First of all, I think I can safely call this post SPOILER-FREE because even though I talk about the game, what I liked and what I didn’t like, I don’t actually reveal anything story-related. Well, nothing you wouldn’t already know having seen the trailer.

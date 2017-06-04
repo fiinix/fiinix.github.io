@@ -124,4 +124,4 @@ I love you Amanda.
 
 I’ll see you in that place between sleep and awake.
 
-[christmas]: blog/wishing-you-a-merry-christmas
+[christmas]: /blog/wishing-you-a-merry-christmas

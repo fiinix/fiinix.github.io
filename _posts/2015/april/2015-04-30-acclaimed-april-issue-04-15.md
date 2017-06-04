@@ -114,5 +114,5 @@ Verdict: *3 and a half rogue robots out of 5.*
 
 And that's it for this month.
 
-[board]: /blog/no-sleep-for-i-am-the-werewolf/
+[board]: /blog/no-sleep-for-i-am-the-werewolf
 [merchants]: http://zmangames.com/product-details.php?id=941

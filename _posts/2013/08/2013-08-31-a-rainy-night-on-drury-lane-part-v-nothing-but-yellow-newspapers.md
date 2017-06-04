@@ -9,7 +9,7 @@ excerpt: "In which I give you the fifth instalment of the multi-part short story
 ---
 Welcome back dear readers, to the fifth instalment of our awesome “A Rainy Night On Drury Lane” series. You know the drill by now, where is Detective Wentworth taking us today? Only two parts left after this, things are getting pretty exciting.
 
-And of course for those you who are new, I suggest you check out the first 4 parts. ["Part I — With Sensual Red Lips"](/blog/a-rainy-night-on-drury-lane), ["Part II — The Brown Note"](/blog/a-rainy-night-on-drury-lane-part-ii-the-brown-note/), ["Part III — Underneath A Turquoise Sky"](/blog/a-rainy-night-on-drury-lane-part-iii-underneath-a-turquoise-sky/), ["Part IV — Leering Pale Green Eyes"](/blog/a-rainy-night-on-drury-lane-part-iv-leering-pale-green-eyes/).
+And of course for those you who are new, I suggest you check out the first 4 parts. ["Part I — With Sensual Red Lips"](/blog/a-rainy-night-on-drury-lane), ["Part II — The Brown Note"](/blog/a-rainy-night-on-drury-lane-part-ii-the-brown-note), ["Part III — Underneath A Turquoise Sky"](/blog/a-rainy-night-on-drury-lane-part-iii-underneath-a-turquoise-sky), ["Part IV — Leering Pale Green Eyes"](/blog/a-rainy-night-on-drury-lane-part-iv-leering-pale-green-eyes).
 
 <figure>
     <img class="js-lazy-load" data-original="/assets/posts/2013/08/part-5-nothing-but-yellow-newspapers.jpg" alt="Silhouette of man standing in the rain.">
@@ -100,4 +100,4 @@ As Detective Wentworth’s eyes grew heavier and heavier he could feel his own c
 
 Detective Wentworth’s eyes were now closed.
 
-[Continue to Part VI — Dem Dee-licious Golden Pancakes here](/blog/a-rainy-night-on-drury-lane-part-vi-dem-dee-licious-golden-pancakes/).
+[Continue to Part VI — Dem Dee-licious Golden Pancakes here](/blog/a-rainy-night-on-drury-lane-part-vi-dem-dee-licious-golden-pancakes).

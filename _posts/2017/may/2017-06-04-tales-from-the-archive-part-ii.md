@@ -107,7 +107,7 @@ But my favourite entry is [The Luckiest F.O.B in the World(s)][fob], where Rebec
 [nhl]: /blog/why-so-secretive
 [idols]: /blog/thanks-but-no
 [fob]: /blog/the-luckiest-f-o-b-in-the-worlds
-[2011]: /archive/2011**
+[2011]: /archive/2011
 
 ## 2012
 
@@ -170,7 +170,7 @@ But my favourite entry is [A Rainy Night on Drury Lane, Part VII — A White Bla
 [monorun]: /blog/ladies-and-gentlemen-monorun
 [eurovision]: /blog/guessing-at-the-eurovisiowhatnow
 [greatness]: /blog/following-in-the-handsteps-of-greatness-hanna-barbera
-[assassin]: /blog/the-worst-assassin-in-the-world/
+[assassin]: /blog/the-worst-assassin-in-the-world
 [2013]: /archive/2013
 
 ***

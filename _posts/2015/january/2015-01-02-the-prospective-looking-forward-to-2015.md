@@ -113,7 +113,7 @@ And that's it. 15 things I'm looking forward to this year. Now go forth, another
 
 Now it's your turn. What are some of the things *you're* looking forward to this year?
 
-[games]: /blog/games-im-eagerly-awating-ii/
+[games]: /blog/games-im-eagerly-awating-ii
 [beanie]: http://bluebeanieday.tumblr.com/
 [andy]: https://twitter.com/andyjh07
 [beije]: https://twitter.com/benjhorn
