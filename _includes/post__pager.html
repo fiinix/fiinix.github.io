@@ -1,34 +1,72 @@
 <h3 class="h5 subheading" id="explore-posts">Explore more</h3>
+
+{% if page.date %}
+{% assign currentyear = page.date | date: "%Y" %}
+{% assign counter = 0 %}
+
+{% for post in site.posts %}
+{% assign thisyear = post.date | date: "%Y" %}
+
+{% if thisyear == currentyear %}
+{% assign counter = counter | plus: 1 %}
+{% endif %}
+{% if forloop.last == true %}
+
+{% assign counter = counter | minus: 1 %}
+
+<p>There are {{ counter }} more entries from {{ page.date | date: "%Y" }}. <a href="/archive/{{ page.date | date: "%Y" }}">See all the entries</a>.</p>
+{% endif %}
+{% endfor %}
+{% endif %}
+
 {% if page.previous %}
+
+	{% assign currentDateClean = page.date | date: "%Y-%m-%d 00:00:00" %}
+	{% assign previousDateClean = page.previous.date | date: "%Y-%m-%d 00:00:00" %}
+
+	{%   assign today = currentDateClean | date: '%s' %}
+	{%   assign start = previousDateClean | date: '%s' %}
+	{%   assign secondsSince = today | minus: start %}
+	{%   assign hoursSince = secondsSince | divided_by: 60 | divided_by: 60 %}
+	{%   assign daysSince = hoursSince | divided_by: 24.0 | round %}
+
+	{% if daysSince == 0 %}
+		{% assign statement = "Earlier that day" %}
+	{% elsif daysSince == 1 %}
+		{% assign statement = daysSince | append: " day earlier" %}
+	{% else %}
+		{% assign statement = daysSince | append: " days earlier" %}
+	{% endif %}
+
 <p>
-		<time class="timestamp timestamp--post" datetime="{{ post.date }}">
-		{% assign m = page.previous.date | date: "%B" %}
-		{% case m %}
-		{% when 'May' %}{{ page.previous.date | date: "%-d " | append: m }}
-		{% when 'June' %}{{ page.previous.date | date: "%-d " | append: m }}
-		{% when 'July' %}{{ page.previous.date | date: "%-d " | append: m }}
-		{% when 'September' %}{{ page.previous.date | date: "%-d " | append: 'Sept.' }}
-		{% else %}{{ page.previous.date | date: "%-d %b" }}.
-		{% endcase %}
-	</time><br>
-	<a href="{{ BASE_PATH }}{{ page.previous.url }}" rel="prev" class="pager__previous h4 no-margin"  style="border-color: {% if page.previous.color %}{{ page.previous.color }}{% else %}#cd0e3e{% endif %};">
+	<time class="timestamp timestamp--post" datetime="{{ page.previous.date }}">{{ statement }}</time><br>
+	<a href="{{ BASE_PATH }}{{ page.previous.url }}" rel="prev" class="--pager__previous h4 no-margin"  style="border-color: {% if page.previous.color %}{{ page.previous.color }}{% else %}#0b9d60{% endif %};">
 	<span class="">{{ page.previous.title | markdownify | strip_html | trim }}</span>
 	</a>
 </p>
 {% endif %}
 {% if page.next %}
+
+	{% assign currentDateClean = page.date | date: "%Y-%m-%d 00:00:00" %}
+	{% assign nextDateClean = page.next.date | date: "%Y-%m-%d 00:00:00" %}
+
+	{%   assign today = currentDateClean | date: '%s' %}
+	{%   assign start = nextDateClean | date: '%s' %}
+	{%   assign secondsSince = start | minus: today %}
+	{%   assign hoursSince = secondsSince | divided_by: 60 | divided_by: 60 %}
+	{%   assign daysSince = hoursSince | divided_by: 24.0 | round %}
+
+	{% if daysSince == 0 %}
+		{% assign statement = "Later that day" %}
+	{% elsif daysSince == 1 %}
+		{% assign statement = daysSince | append: " day later" %}
+	{% else %}
+		{% assign statement = daysSince | append: " days later" %}
+	{% endif %}
+
 <p>
-	<time class="timestamp timestamp--post" datetime="{{ post.date }}">
-		{% assign m = page.next.date | date: "%B" %}
-		{% case m %}
-		{% when 'May' %}{{ page.next.date | date: "%-d " | append: m }}
-		{% when 'June' %}{{ page.next.date | date: "%-d " | append: m }}
-		{% when 'July' %}{{ page.next.date | date: "%-d " | append: m }}
-		{% when 'September' %}{{ page.next.date | date: "%-d " | append: 'Sept.' }}
-		{% else %}{{ page.next.date | date: "%-d %b" }}.
-		{% endcase %}
-	</time><br>
-	<a href="{{ BASE_PATH }}{{ page.next.url }}" rel="next" class="pager__next h4 no-margin" style="border-color:{% if page.next.color %}{{ page.next.color }}{% else %}#cd0e3e{% endif %};">
+	<time class="timestamp timestamp--post" datetime="{{ page.next.date }}">{{ statement }}</time><br>
+	<a href="{{ BASE_PATH }}{{ page.next.url }}" rel="next" class="--pager__next h4 no-margin" style="border-color:{% if page.next.color %}{{ page.next.color }}{% else %}#0b9d60{% endif %};">
 	<!-- <svg class="icon pager__icon pager__icon--next">
 		<use xlink:href="#arrow-forward" />
 	</svg> -->
