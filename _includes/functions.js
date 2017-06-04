@@ -163,12 +163,12 @@ if ("querySelector" in document
         });
 
 
-        var readingTimeFloat = $(".js-reading-time");
-        /* Round reading-time to 1 decimal */
-        for (var i = 0; i < readingTimeFloat.length; i++) {
-            /* console.log(readingTimeFloat[i].textContent); */
-            readingTimeFloat[i].textContent = Math.round(parseFloat(readingTimeFloat[i].textContent));
-        }
+        // var readingTimeFloat = $(".js-reading-time");
+        // /* Round reading-time to 1 decimal */
+        // for (var i = 0; i < readingTimeFloat.length; i++) {
+        //     /* console.log(readingTimeFloat[i].textContent); */
+        //     readingTimeFloat[i].textContent = Math.round(parseFloat(readingTimeFloat[i].textContent));
+        // }
 
 
         function getRand(min, max) {
