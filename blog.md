@@ -1,6 +1,7 @@
 ---
 layout: journal
 title: Journal
+category: content
 permalink: /blog/
 excerpt: "I've kept an online journal for the past eight, going on nine years, writing about things that excite, annoy and fascinate me."
 ---
