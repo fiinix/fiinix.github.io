@@ -73,6 +73,8 @@ a[href*="http"]:focus:before {
 	top: -1rem;
 	left: 0;
 
+	z-index: 100;
+
 	background-color: rgba($tertiary-color, 0.95);
 	color: $black;
 
