@@ -14,7 +14,7 @@ Are you interested in having me write something for your publication, online or 
 <h2 class="visuallyhidden">Recent articles</h2>
 
 <div class="article-preview">
-  <span class="small-caps">Studio 24, May 2017</span>
+  <span class="timestamp">Studio 24, May 2017</span>
 
   <h3 class="h3 no-margin"><a href="http://www.studio24.net/blog/what-are-you-doing-for-an-inclusive-web-today/">What are you doing for an inclusive web today?</a></h3>
 
@@ -22,7 +22,7 @@ Are you interested in having me write something for your publication, online or 
 </div>
 
 <div class="article-preview">
-  <span class="small-caps">Studio 24, December 2016</span>
+  <span class="timestamp">Studio 24, December 2016</span>
 
   <h3 class="h3 no-margin"><a href="http://www.studio24.net/blog/your-website-isnt-accessible-and-its-costing-you/">Your website isn’t accessible and it’s costing you</a></h3>
 
@@ -30,7 +30,7 @@ Are you interested in having me write something for your publication, online or 
 </div>
 
 <div class="article-preview">
-	<span class="small-caps">net Magazine, May 2016</span>
+	<span class="timestamp">net Magazine, May 2016</span>
 
    <h3 class="h3 no-margin"><a href="https://medium.com/net-magazine/the-cost-of-accessibility-90c875420239#.h3jncilu1">The cost of accessibility</a></h3>
 
@@ -39,7 +39,7 @@ Are you interested in having me write something for your publication, online or 
 </div>
 
 <div class="article-preview">
-	<span class="small-caps">Squiders, October 2015</span>
+	<span class="timestamp">Squiders, October 2015</span>
 
    <h3 class="h3 no-margin"><a href="http://www.squiders.com/web-design-articles/when-every-second-counts/">When every second counts</a></h3>
 
