@@ -1,30 +1,29 @@
-{% if include.type == "post" %}
-<time class="timestamp timestamp--post" datetime="{{ post.date }}">
-	{% assign m = post.date | date: "%B" %}
+{% if include.type == "page" %}
+<time class="timestamp timestamp--topic" datetime="{{ page.date }}">
+	{% assign m = page.date | date: "%B" %}
+	{% assign y = page.date | date: "%Y" %}
 	{% case m %}
-	{% when 'May' %}{{ post.date | date: "%-d " | append: m }}
-	{% when 'June' %}{{ post.date | date: "%-d " | append: m }}
-	{% when 'July' %}{{ post.date | date: "%-d " | append: m }}
-	{% when 'September' %}{{ post.date | date: "%-d " | append: 'Sept.' }}
-	{% else %}{{ post.date | date: "%-d %b" }}.
+	{% when 'May' %}{{ page.date | date: "%-d " | append: m | append: ' ' | append: y }},
+	{% when 'June' %}{{ page.date | date: "%-d " | append: m | append: ' ' | append: y }},
+	{% when 'July' %}{{ page.date | date: "%-d " | append: m | append: ' ' | append: y }},
+	{% when 'September' %}{{ page.date | date: "%-d " | append: 'Sept. ' | append: y }},
+	{% else %}
+	{{ page.date | date: "%-d %b" | append: '. ' | append: y }},
 	{% endcase %}
 </time>
 {% elsif include.type == "listing" %}
-<time class="timestamp timestamp--listing" datetime="{{ post.date }}">{{ post.date | date: "%-d %B %Y" }},</time>
-{% elsif include.type == "topic" %}
 <time class="timestamp timestamp--topic" datetime="{{ post.date }}">
 	{% assign m = post.date | date: "%B" %}
 	{% assign y = post.date | date: "%Y" %}
 	{% case m %}
-	{% when 'May' %}{{ post.date | date: "%-d " | append: m | append: ' ' | append: y }}
-	{% when 'June' %}{{ post.date | date: "%-d " | append: m | append: ' ' | append: y }}
-	{% when 'July' %}{{ post.date | date: "%-d " | append: m | append: ' ' | append: y }}
-	{% when 'September' %}{{ post.date | date: "%-d " | append: 'Sept. ' | append: y }}
-	{% else %}{{ post.date | date: "%-d %b" | append: '. ' | append: y }}
+	{% when 'May' %}{{ post.date | date: "%-d " | append: m | append: ' ' | append: y }},
+	{% when 'June' %}{{ post.date | date: "%-d " | append: m | append: ' ' | append: y }},
+	{% when 'July' %}{{ post.date | date: "%-d " | append: m | append: ' ' | append: y }},
+	{% when 'September' %}{{ post.date | date: "%-d " | append: 'Sept. ' | append: y }},
+	{% else %}
+	{{ post.date | date: "%-d %b" | append: '. ' | append: y }},
 	{% endcase %}
 </time>
-{% elsif include.type == "page" %}
-<time class="timestamp timestamp--page" datetime="{{ page.date }}">{{ page.date | date: "%-d %B %Y" }},</time>
 {% else %}
-No date.type set
+<p><em>Please set the `type` for the include file</em></p>
 {% endif %}
