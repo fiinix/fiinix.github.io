@@ -81,6 +81,11 @@
 
 	&--primary {
 
+		background-image: radial-gradient($black 15%, transparent 16%),
+		radial-gradient($black 15%, transparent 16%);
+		background-size:8px 8px;
+		background-position: 0 0, 4px 4px;
+
 		height: 2.7777vh;
 
 		@include mq($breakpoint-lap) {

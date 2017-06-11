@@ -85,7 +85,7 @@
 .post-content {
 
     color: $tertiary-color;
-    border-color: $tertiary-color $accent-color $accent-color $tertiary-color;
+    border-color: $tertiary-color $secondary-color $secondary-color $tertiary-color;
     margin-top: 3em;
     margin-bottom: 3em;
 
@@ -107,7 +107,7 @@
         color: $tertiary-color;
 
         /* Inherit border-colors for branding */
-        border-color: $tertiary-color $accent-color $accent-color $tertiary-color;
+        border-color: $tertiary-color $secondary-color $secondary-color $tertiary-color;
 
         > span,
         > a > span {
