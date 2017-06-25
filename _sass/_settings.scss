@@ -25,11 +25,15 @@ $fuel-yellow:					hsl(41,87%,53%); /* #efad1f */
 $shamrock:						hsl(155, 67%, 53%); /* #37d795 */
 $eucalyptus:					hsl(155, 87%, 33%); /* #1c8d5e */
 
+
+$jade:							#00B86B;
+$tropical-rain-forest:			#00834d;
+
 $crimson-light:					hsl(345, 97%, 58%); /* #FC2C60 */
 
 $primary-color:					$crimson;
-$secondary-color:				$shamrock;
-$tertiary-color:				$eucalyptus;
+$secondary-color:				$jade;
+$tertiary-color:				$tropical-rain-forest;
 $accent-color:					$fuel-yellow;
 
 $black:							hsl(0,0%,12%);

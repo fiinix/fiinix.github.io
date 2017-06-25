@@ -10,7 +10,7 @@ If the last couple of years has been about focusing on [rewarding my body][demon
 
 It too, had to put up with a lot of shit from Past Carlos.
 
-> A mind is a terrible thing to waste. <cite>Forest Long, for UNCF</cite>
+> A mind is a terrible thing to waste. <cite><abbr title="United Negro College Fund" class="small-caps">UNCF</abbr> advertising slogan, 1972</cite>
 
 Aside for becoming one of the most widely recognised slogans in advertising history, its words ring a certain truth. A mind truly is, a terrible thing to waste.
 
