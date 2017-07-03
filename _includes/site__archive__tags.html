@@ -39,24 +39,49 @@
 <!-- / Alphabet list -->
 
 
+
 <!-- Topics, alphabetically -->
 <div>
-  <ul class="tag-box inline-list">
-  {% for item in (0..num_words) %}{% unless forloop.last %}
+  <!--<ul class="whatthis">-->
+  {% for item in (0..num_words) %}
+  {% unless forloop.last %}
     {% capture this_word %}{{ tag_words[item] | strip_newlines }}{% endcapture %}
     {% capture first_letter %}{{ this_word | append:'fill' | truncate: 4 | remove: '.' }}{% endcapture %}
-    {% if first_letter == prev_letter %}
-    {% else %}
-    {% capture prev_letter %}{{ first_letter }}{% endcapture %}
-    </ul>
-    <h2 class="h4" id="letter-{{ first_letter | downcase }}">{{ first_letter }}</h2>
-    <ul class="tag-box inline-list">
+
+    {% if first_letter != prev_letter %}
+      {% capture prev_letter %}{{ first_letter }}{% endcapture %}
+
+      {% unless forloop.first %}
+      {% comment %}
+      Close the previous list before we add a heading and a new list
+      {% endcomment %}
+        </ul>
+      {% endunless %}
+
+      <h2 class="h4" id="letter-{{ first_letter | downcase }}">{{ first_letter }}</h2>
+      <ul class="tag-list inline-list">
     {% endif %}
-    <li><a class="tag" href="#{{ this_word | replace: ' ', '+' }}">{{ this_word | markdownify | strip_html | trim }}{% if site.tags[this_word].size > 1 %}<span>&nbsp;&times;&nbsp;{{ site.tags[this_word].size }}</span>{% endif %}</a></li>
-  {% endunless %}{% endfor %}
+
+    <li>
+      <a class="tag {% if site.tags[this_word].size > 9 %}tag--doubledigit{% elsif site.tags[this_word].size > 1 %}tag--singledigit{% endif %}" href="#{{ this_word | replace: ' ', '+' }}">
+        {% if site.tags[this_word].size > 1 %}
+          <span class="tag-count">{{ site.tags[this_word].size }}</span>
+        {% endif %}
+        <span class="tag-label">{{ this_word | markdownify | strip_html | trim }}</span>
+      </a>
+    </li>
+
+  {% endunless %}
+      {% endfor %}
+
+  {% comment %}
+  This closes the last ul in the list
+  {% endcomment %}
   </ul>
 
   <!-- /Topics, alphabetically -->
+
+
 
   <!-- Topics by section -->
 

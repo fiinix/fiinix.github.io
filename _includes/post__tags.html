@@ -6,5 +6,15 @@
         {% assign tags_max = site.tags[tag].size %}
     {% endif %}
     {% endfor %}
-    <ul class="inline-list">{% for i in (1..tags_max) reversed %}{% for tag in page.tags %}{% if site.tags[tag].size == i %}<li><a class="tag" rel="tag" href="/topics/#{{ tag | replace: ' ', '+' }}">{{ tag }}{% if site.tags[tag].size > 1 %}<span>&nbsp;&times;&nbsp;{{ site.tags[tag].size }}</span>{% endif %}</a>{% unless forloop.last %}{% endunless %}</li>{% endif %}{% endfor %}{% endfor %}</ul>
+    <ul class="tag-list">
+        {% for i in (1..tags_max) reversed %}{% for tag in page.tags %}
+            {% if site.tags[tag].size == i %}
+                <li><a class="tag {% if site.tags[tag].size > 9 %}tag--doubledigit{% elsif site.tags[tag].size > 1 %}tag--singledigit{% endif %}" rel="tag" href="/topics/#{{ tag | replace: ' ', '+' }}">{% if site.tags[tag].size > 1 %}<span class="tag-count">{{ site.tags[tag].size }}</span>{% endif %}<span class="tag-label">{{ tag }}</span></a>
+                    {% unless forloop.last %}
+                    {% endunless %}
+                </li>
+        {% endif %}
+        {% endfor %}
+        {% endfor %}
+    </ul>
 {% endunless %}

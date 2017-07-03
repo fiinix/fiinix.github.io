@@ -52,7 +52,7 @@ p[data-pullquote]:after {
 	display: block;
 
 	position: absolute;
-	top: em(8.5);
+	top: em(- 64);
 	right: -11.1111vw;
 
 	width: 50%;
@@ -63,5 +63,11 @@ p[data-pullquote]:after {
 	radial-gradient($black 15%, transparent 16%);
 	background-size: em(8) em(8);
 	background-position: 0 0, em(4) em(4);
+
+	@include mq($breakpoint-lap) {
+
+		top: em(8.5);
+
+	}
 
 }
