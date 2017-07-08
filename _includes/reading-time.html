@@ -1,9 +1,31 @@
 {% if include.type == "post" %}
-<span class="reading-time reading-time--post">
-~<span class="">{% capture truncated_content %}{{ post.content | truncatewords: 250 }}{% endcapture %}{% if post.content != truncated_content %}{{ post.content | number_of_words | append: '.0' | divided_by:180 | round}}</span> minutes{% else %}1</span> minute{% endif %}</span>
-{% elsif include.type == "page" %}
-<span class="reading-time reading-time--page">
-~<span class="">{% capture truncated_content %}{{ page.content | truncatewords: 250 }}{% endcapture %}{% if page.content != truncated_content %}{{ page.content | number_of_words | append: '.0' | divided_by:180 | round }}</span> minutes{% else %}1</span> minute{% endif %}</span>
-{% else %}
-<div>The type variable for reading-time has not been set</div>
+
+    <span class="reading-time reading-time--post">
+        {% capture truncated_content %}
+            {{ post.content | truncatewords: 250 }}
+        {% endcapture %}
+        {% if post.content != truncated_content %}
+            ~{{ post.content | number_of_words | append: '.0' | divided_by:180 | round}} minutes
+        {% else %}
+            ~1 minute
+        {% endif %}
+    </span>
+
+    {% elsif include.type == "page" %}
+    <span class="reading-time reading-time--page">
+        {% capture truncated_content %}
+            {{ page.content | truncatewords: 250 }}
+        {% endcapture %}
+
+        {% if page.content != truncated_content %}
+            ~{{ page.content | number_of_words | append: '.0' | divided_by:180 | round }} minutes
+        {% else %}
+            ~1 minute
+        {% endif %}
+    </span>
+
+    {% else %}
+
+    <div>The type variable for reading-time has not been set</div>
+
 {% endif %}
