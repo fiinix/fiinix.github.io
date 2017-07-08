@@ -20,7 +20,7 @@ sup .footnote {
     position: relative;
 
     margin-top: 3em;
-    padding-top: 3em;
+    padding-top: 3.75em;
     border-top: 0.6vh solid luma(90);
 
     &:before {
@@ -52,7 +52,7 @@ sup .footnote {
         line-height: 2.1622;
 
         position: absolute;
-        top: 1em;
+        top: 1.5em;
         left: 0;
 
         @include mq($breakpoint-lap) {
