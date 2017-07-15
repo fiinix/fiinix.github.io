@@ -32,9 +32,9 @@ It continues as World War I pilot and spy Steve Trevor (Chris Pine) and his plan
 But despite their superior archery skills general Antiope, taking a bullet to prevent Diana from finding out her true nature, dies in a heart-wrenching scene.
 
 <figure>
-  <img class="js-lazy-load" data-original="/assets/posts/2017/july/wondering-where-wonder-woman-went-wrong/the-amazons-fighting-a-german-invasion-on-their-island.jpg" alt="Wonder Woman (played by Gal Gadot) entering No Man's Land.">
+  <img class="js-lazy-load" data-original="/assets/posts/2017/july/wondering-where-wonder-woman-went-wrong/the-amazons-fighting-a-german-invasion-on-their-island.jpg" alt="The Amazons fighting German soldier on the beach of Themyscira.">
   <noscript>
-    <img src="/assets/posts/2017/july/wondering-where-wonder-woman-went-wrong/the-amazons-fighting-a-german-invasion-on-their-island.jpg" alt="Wonder Woman (played by Gal Gadot) entering No Man's Land.">
+    <img src="/assets/posts/2017/july/wondering-where-wonder-woman-went-wrong/the-amazons-fighting-a-german-invasion-on-their-island.jpg" alt="The Amazons fighting German soldier on the beach of Themyscira.">
   </noscript>
   <figcaption>Easily the best scene in the entire film.</figcaption>
 </figure>
