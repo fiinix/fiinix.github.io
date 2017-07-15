@@ -27,7 +27,7 @@ Director Patty Jenkins here manages to handle three prologue sequences without m
 
 Despite her mother, Queen Hippolyta (Connie Nielsen) forbidding her, Diana soon starts training with her aunt, general Antiope (Robin Wright) to be the strongest of all of them.
 
-It continues as World War I pilot and spy Steve Trevor (Chris Pine) and his plane crashes on the island, inadvertently bringing German forces with him and causing the first battle where we are given proof of the formidable nature of the Amazons, as the German bullets are no match for the formidable Amazons.
+It continues as World War I pilot and spy Steve Trevor (Chris Pine) and his plane crashes on the island, inadvertently bringing German forces with him and causing the first battle where we are given proof of the formidable nature of the Amazons, as the German bullets are no match for the intense Amazons.
 
 But despite their superior archery skills general Antiope, taking a bullet to prevent Diana from finding out her true nature, dies in a heart-wrenching scene.
 
@@ -101,7 +101,7 @@ Judged merely as a superhero film, Wonder Woman is pretty good.
 
 It doesn't hold its own against the best Marvel has to offer, but it's by far the best from DC Comics so far.
 
-Judged as the first, well marketed, portrayal of woman unapologetically kicking ass and hopefully pawing the way for more representation for women, Wonder Woman is pretty fucking fantastic.
+Judged as the first, well marketed, portrayal of woman unapologetically kicking ass and hopefully paving the way for more representation for women, Wonder Woman is pretty fucking fantastic.
 
 And judging by the opening weekend box office results, where Wonder Woman beat the first two Thor and Captain America movies, as well as the first Iron Man, shows that having a female superhero works.
 
