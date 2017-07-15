@@ -14,7 +14,7 @@ excerpt: "I've kept an online journal for the past eight, going on nine years, w
 {% include date.html type="listing" %}{% include reading-time.html type="post" %}
 <h3 class="h3 post-heading post-type--{{ post.category }}">
 	<a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
-		<span {% if post.color %} style="color: white; background-color: {{ post.color }};"{% endif %} >{{ post.title | markdownify | strip_html | trim  }}</span>
+		<span style="{% if post.text %} color: black; {% else %} color: white; {% endif %} {% if post.color %} background-color: {{ post.color }};{% endif %}" >{{ post.title | markdownify | strip_html | trim  }}</span>
 	</a>
 </h3>
 

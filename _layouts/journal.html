@@ -6,7 +6,9 @@ layout: default
   <header class="group">
     <div class="col col--primary">
 
-        <h1 class="page-heading page-type--{{ page.category }}" {% if page.color %} style="color: {{ page.color }};"{% endif %}><span>{{ page.title | markdownify | strip_html | trim  }}</span></h1>
+        <h1 class="page-heading page-type--{{ page.category }}" {% if page.color %} style="color: {{ page.color }};"{% endif %}>
+            <span>{{ page.title | markdownify | strip_html | trim  }}</span>
+        </h1>
 
     </div>
   </header>
