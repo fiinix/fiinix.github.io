@@ -67,14 +67,10 @@ p code {
 
 	font-size: 0.89em;
 
-	padding: 3.2em 4.8em;
+	padding: 3.2em 5.5555vw;
 
-	margin-left: -(5.8 / 0.89) +em;
-	margin-right: -(4.8 / 0.89) +em;
-
-	border: 0.25em solid;
-	border-width: 0 0 0 1em;
-	border-color: inherit;
+	margin-left: -5.5555vw;
+	margin-right: -5.5555vw;
 
 	background-image: linear-gradient(to bottom, white 0%, white 50%, hsl(0%,0,97) 50%, hsl(0%,0,97) 100%);
   background-size: ($font-leading / $font-size) +em ($font-leading / $font-size)*2 +em;
@@ -86,7 +82,22 @@ p code {
 	// background-color: $base3;
 	// color: $base01;
 	background-color: white;
-	color: contrast(white);
+	color: $black;
+	box-shadow: em(6) em(9) 0 0 rgba(black, 0.1);
+
+	pre {
+
+		margin-left: 0;
+		margin-right: 0;
+
+	}
+
+	@include mq($breakpoint-desk) {
+
+		margin-left: -5.5555vw;
+		margin-right: -5.5555vw;
+
+	}
 }
 
 

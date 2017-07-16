@@ -1,0 +1,49 @@
+/* ==========================================================================
+
+
+   Styleguide: Colors
+
+
+   ========================================================================== */
+.has-canon {
+
+    position: relative;
+
+    &:after {
+
+        pointer-events: none;
+
+        content: " ";
+        display: block;
+        width: 100%;
+        height: 100%;
+
+        position: absolute;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+
+        //background-image: linear-gradient(to bottom, transparent 0%, transparent 50%, hsl(0%,0,50) 50%, hsl(0%,0,50) 100%);
+        //background-size: ($font-leading / $font-size) +em ($font-leading / $font-size)*2 +em;
+        // background-repeat: repeat-y;
+
+
+    //    background-image:   linear-gradient(red 1px, transparent 1px),
+    //linear-gradient(90deg, red 1px, transparent 1px),
+    //linear-gradient(rgba(0,0,0,.5) 1px, transparent 1px),
+    //linear-gradient(90deg, rgba(0,0,0,.5) 1px, transparent 1px);
+    //    background-size: 11.1111vw 11.1111vh, 11.1111vw 11.1111vh, 5.5555vw 5.5555vh, 5.5555vw 5.5555vh;
+    //    //background-position:-1px -1px, -1px -1px, -1px -1px, -1px -1px;
+
+        background-image:   linear-gradient(rgba(0,0,0,.5) 1px, transparent 1px),
+                            linear-gradient(90deg, rgba(0,0,0,.5) 1px, transparent 1px);
+        background-size: 5.5555vw 5.5555vh, 5.5555vw 5.5555vh;
+        //background-position:-1px -1px, -1px -1px;
+
+        background-image: linear-gradient(90deg, transparent 0%, transparent 50%, hsla(0%,0,50,0.2) 50%, hsla(0%,0,50,0.2) 100%);
+        background-size: 11.1111vw 11.1111vh;
+
+    }
+
+}

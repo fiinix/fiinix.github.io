@@ -27,10 +27,10 @@
 
 		.color {
 
-			&--primary { background-color: $cocoblue; }
-			&--secondary { background-color: $primary-color; }
+			&--primary { background-color: $secondary-color; }
+			&--secondary { background-color: $tertiary-color; }
 			&--tertiary { background-color: $white; }
-			&--accent { background-color: $secondary-color; }
+			&--accent { background-color: $accent-color; }
 
 		}
 
@@ -42,10 +42,10 @@
 
 		.color {
 
-			&--primary { background-color: $tertiary-color; }
-			&--secondary { background-color: $secondary-color; }
+			&--primary { background-color: $primary-color; }
+			&--secondary { background-color: $accent-color; }
 			&--tertiary { background-color: $white; }
-			&--accent { background-color: $primary-color; }
+			&--accent { background-color: $tertiary-color; }
 
 		}
 

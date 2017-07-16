@@ -5,32 +5,15 @@
 
 
    ========================================================================== */
-
-.sg__swatches {
-
-	display: flex;
-	flex-direction: row;
-
-}
-
 .sg__swatch {
 
-	margin-top: 0;
+	display: block;
 
-	border: 1px solid $luma-90;
-	flex: 1 0 auto;
-	margin-bottom: 1.5em;
-	padding-top: 7em;
-	min-width: 24%;
-
-	&__label {
-
-		background-color: white;
-		border-top: 1px solid $luma-90;
-		color: $black;
-		padding: 0.75em;
-
-	}
+	width: 100%;
+	height: 0;
+	padding-bottom: 100%;
+	border-radius: 50%;
+	box-shadow: em(6) em(9) 0 0 rgba(black, 0.1);
 
 }
 

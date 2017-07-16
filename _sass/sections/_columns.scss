@@ -40,8 +40,15 @@
 
 .col--primary.col--primary {
 
-	max-width: 32em;
+	//max-width: 32em;
+
 	flex: 1 0 auto;
+
+	@include mq($breakpoint-desk) {
+
+		max-width: 44.44444vw;
+
+	}
 
 }
 
@@ -56,7 +63,7 @@
 
 	@include mq($breakpoint-desk) {
 
-		padding-left: 4.5em;
+		padding-left: 5.5555vw;
 		margin-top: 0;
 		// padding-top: 6em;
 

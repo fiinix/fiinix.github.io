@@ -20,23 +20,28 @@ $scrutinize: false;
  */
 $deviate:						10;
 
-$crimson:						hsl(345, 87%, 43%); /* #cd0e3e */
+//$crimson:						hsl(345, 87%, 43%); /* #cd0e3e */
 $fuel-yellow:					hsl(41,87%,53%); /* #efad1f */
 $shamrock:						hsl(155, 67%, 53%); /* #37d795 */
 $eucalyptus:					hsl(155, 87%, 33%); /* #1c8d5e */
-$eastern-blue:					#1E9AB0;
-$cocoblue:						#0F768A;
 
+$eastern-blue:					#1E9AB0;
+$surfs-up-blue:					#0F768A;
 
 $jade:							#00B86B;
 $tropical-rain-forest:			#00834d;
 
 $crimson-light:					hsl(345, 97%, 58%); /* #FC2C60 */
 
-$primary-color:					$eastern-blue;
-$secondary-color:				$jade;
-$tertiary-color:				$tropical-rain-forest;
-$accent-color:					$fuel-yellow;
+$primary-color:					$tropical-rain-forest;
+$secondary-color:				$surfs-up-blue;
+$tertiary-color:				$eastern-blue;
+$accent-color:					$jade;
+
+//$primary-color:					$eastern-blue;
+//$secondary-color:				$jade;
+//$tertiary-color:				$tropical-rain-forest;
+//$accent-color:					$fuel-yellow;
 
 $black:							hsl(0,0%,12%);
 $white:							hsl(0,0%,96%);
@@ -60,7 +65,7 @@ $luma-0:						$black;
 $debug-bg:						rgba(255,0,0,.1);
 
 $yellow:						#FFFF4D;
-$focus-color:					$eucalyptus;
+$focus-color:					$tropical-rain-forest;
 $mark-bg-color:					$fuel-yellow;
 
 $link-color:					$black;

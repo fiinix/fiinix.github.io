@@ -38,9 +38,9 @@ p[data-pullquote]:before {
 	@include mq($breakpoint-lap) {
 
 		float: right;
-		width: 12.5em;
+		width: 27.7777vw;
 
-		margin: 3em -11.1111vw 3em 1em;
+		margin: 3em -11.1111vw 3em 5.5555vw;
 
 	};
 
@@ -55,7 +55,7 @@ p[data-pullquote]:after {
 	top: em(- 64);
 	right: -11.1111vw;
 
-	width: 50%;
+	width: 16.6666vw;
 	height: em(32);
 
 	background-color:transparent;

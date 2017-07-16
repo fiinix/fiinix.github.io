@@ -6,153 +6,136 @@
 
    ========================================================================== */
 
-
 .table-wrapper {
 
-	padding: 3em 4.5em;
-	
-	margin-top: 4.5em;
-	margin-bottom: 4.5em;
+    padding: 3em 5.5555vw;
 
-	margin-left: -4.5em;
-	margin-right: -4.5em;
+    margin-top: 4.5em;
+    margin-bottom: 4.5em;
 
-	border: 0.25em solid;
-	border-width: 0 0 0 0.25em;
-	border-color: inherit;
+    margin-left: -5.5555vw;
+    margin-right: -5.5555vw;
 
-	// background-color: white;
-	color: $black;
+    background-color: white;
+    color: $black;
+    box-shadow: em(6) em(9) 0 0 rgba(black, 0.1);
 
 }
 
-
 table {
 
-	width: 100%;
-	width: calc(100% + 1em);
-	/* To compensate for cell padding */
-	margin: 0 -0.5em;
-	table-layout: fixed;
-	border-collapse: collapse;
+    width: 100%;
+    width: calc(100% + 1em);
+    /* To compensate for cell padding */
+    margin: 0 -0.5em;
+    table-layout: fixed;
+    border-collapse: collapse;
 
 }
 
 caption {
 
-	// margin-left: (1 / 0.74) +em;
-	// margin-right: (1 / 0.74) +em;
-	margin-bottom: (1.5 / 0.74) +em;
+    margin-bottom: (1.5 / 0.74) +em;
 
-	// max-width: 32em;
+    // max-width: 32em;
 
-	// text-transform: uppercase;
-	font-family: $font-family;
-	font-size: 0.74em;
-	line-height: 2.16;
+    font-family: $font-family;
+    font-size: 0.74em;
+    line-height: 2.16;
 
-	text-align: left;
-	
-	font-style: italic;
-	color: $luma-20;
+    text-align: left;
 
-	@include mq($breakpoint-lap) {
+    font-style: italic;
+    color: $luma-20;
 
-		// margin-left: (4.5 / 0.74) +em;
-		// margin-right: (4.5 / 0.74) +em;
+    @include mq($breakpoint-lap) {
 
-	};
+        margin-left: 0.5em;
+        margin-right: 0.5em;
+
+    }
+;
 
 }
 
 td,
 th {
 
-	text-align: right;
+    text-align: right;
 
-	&:first-child {
+    &:first-child {
 
-		text-align: left;
+        text-align: left;
 
-	}
+    }
 
 }
 
 th {
 
-	font-weight: $font-weight;
+    font-weight: $font-weight;
 
-	font-size: 0.74em;
-	line-height: 1.2;
-	letter-spacing: 0.075em;
-	text-transform: uppercase;
-	/* Make the text faux bolder to mimic small-caps because the weight of
-	* this should be similar to the weight of normal lowecase but it isn't */
-	text-shadow: 0 0 0 $black;
+    font-size: 0.74em;
+    line-height: 1.2;
+    letter-spacing: 0.075em;
+    //text-transform: uppercase;
+    /* Make the text faux bolder to mimic small-caps because the weight of
+    * this should be similar to the weight of normal lowecase but it isn't */
+    //text-shadow: 0 0 0 $black;
 
-	padding: 0 (0.5 / 0.74 ) +0em (1 / 0.74 ) +0em (0.5 / 0.74 ) +0em;
+    padding: 0 (0.5 / 0.74 ) +0em (1 / 0.74 ) +0em (0.5 / 0.74 ) +0em;
 
 }
 
 thead tr {
-	
-	// border-bottom: 1px dashed $luma-80;
+
+    // border-bottom: 1px dashed $luma-80;
 
 }
 
-
 tbody tr {
-	
-	border: 1px solid $luma-80;
-	border-width: 0 0 1px 0;
 
-	&:hover,
-	&:focus,
-	&:active {
+    &:hover,
+    &:focus,
+    &:active {
 
-		background-color: $luma-90;
+        background-color: $luma-90;
 
-	}
+    }
 
-	&:last-child {
+    + tr {
 
-		border: 0;
+        border: 1px solid $luma-80;
+        border-width: 1px 0 0 0;
 
-		td {
-
-			// padding: 0 0.33em 1em 0.33em;
-
-		}
-
-	}
+    }
 
 }
 
 tbody td {
 
-	padding: 0.25em 0.5em;
-
+    padding: 0.25em 0.5em;
 
 }
 
 tfoot tr {
 
-	// border-top: 1px dashed $luma-80;
+    // border-top: 1px dashed $luma-80;
 
 }
 
 tfoot td {
 
-	font-weight: $font-weight;
+    font-weight: $font-weight;
 
-	font-size: 0.74em;
-	line-height: 1.2;
-	letter-spacing: 0.075em;
-	text-transform: uppercase;
-	/* Make the text faux bolder to mimic small-caps because the weight of
-	* this should be similar to the weight of normal lowecase but it isn't */
-	text-shadow: 0 0 0 $black;
+    font-size: 0.74em;
+    line-height: 1.2;
+    letter-spacing: 0.075em;
+    text-transform: uppercase;
+    /* Make the text faux bolder to mimic small-caps because the weight of
+    * this should be similar to the weight of normal lowecase but it isn't */
+    text-shadow: 0 0 0 $black;
 
-	padding: (1 / 0.74 ) +0em (0.5 / 0.74 ) +0em 0 (0.5 / 0.74 ) +0em;
+    padding: (1 / 0.74 ) +0em (0.5 / 0.74 ) +0em 0 (0.5 / 0.74 ) +0em;
 
 }
