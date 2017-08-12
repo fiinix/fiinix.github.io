@@ -8,6 +8,10 @@
 	<meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 
+	<!-- Prioritise fonts for faster rendering/painting -->
+	<link rel="preload" href="{{ "/assets/fonts/cooperhewitt-heavy-subset.woff" | prepend: site.baseurl }}" as="font" type="font/woff">
+	<link rel="preload" href="{{ "/assets/fonts/lora-regular.woff" | prepend: site.baseurl }}" as="font" type="font/woff">
+
 	<!-- Custom CSS -->
 	<link rel="stylesheet" href="{{ "/assets/css/styles.css" | prepend: site.baseurl }}">
 
