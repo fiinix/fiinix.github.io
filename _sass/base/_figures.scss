@@ -57,6 +57,7 @@ figure img {
     display: inline-block;
     width: 100%;
     white-space: pre;
+    overflow: hidden;
     vertical-align: middle;
     // max-height: 90vh;
 
@@ -84,7 +85,7 @@ figure img {
         content: " ";
         display: block;
 
-        height: 3em;
+        height: 2.5em;
         width: 100%;
 
         background-color: luma(90);
