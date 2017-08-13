@@ -7,53 +7,7 @@
    ========================================================================== */
 .logo {
 
-	// line-height
-	// color: inherit;
-	// flex: 1 0 auto;
 	margin-top: 0;
 	margin-right: auto;
-
-}
-
-.logo svg {
-
-	fill: white;
-	fill-opacity: 0;
-
-	stroke: white;
-	stroke-width: 12;
-	stroke-linecap: round;
-	stroke-dasharray: 1800;
-	stroke-dashoffset: 1800;
-	
-	animation: likeOneOfYourFrenchGirls 1500ms ease-in-out 300ms forwards;
-
-}
-
-.logo:hover svg {
-
-		fill-opacity: 0 !important;
-
-	}
-
-
-@keyframes likeOneOfYourFrenchGirls {
-
-	66%	{
-
-		stroke-dashoffset: 0;
-		// fill: red;
-		fill-opacity: 0;
-		// stroke: blue;
-
-	}
-
-	100% {
-
-		stroke-dashoffset: 0;
-		// stroke: blue;
-		fill-opacity: 1;
-
-	}
 
 }
