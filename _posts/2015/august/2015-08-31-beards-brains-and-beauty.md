@@ -69,7 +69,7 @@ Are you ready?
 
 <figure>
 	<img class="js-lazy-load" data-original="/assets/posts/2015/august/beards-brains-and-beauty/carlos-eriksson-mid-zombie-transformation.jpg" alt="Carlos giving the camera a terrifying grin as the zombie transformation is complete.">
-	<figcaption>Step 3. Winning!</cite></figcaption>
+	<figcaption>Step 3. Winning!</figcaption>
 </figure>
 
 So whilst my individual zombie shots were taken, it was Kris' and Jo's turn to join the army of the undead so that we could get together for the final group shots.
