@@ -62,7 +62,8 @@ a {
 }
 
 a[href*="http"]:hover:before,
-a[href*="http"]:focus:before {
+a[href*="http"]:focus:before,
+a[href^="spotify"]:focus:before {
 
 	// Make sure that the augmented link doesn't interfere with hovering other links.
 	pointer-events: none;

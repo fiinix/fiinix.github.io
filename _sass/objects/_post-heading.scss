@@ -75,6 +75,22 @@
 
 }
 
+.post-heading__count.post-heading__count {
+
+    margin-top: 0;
+    display: inline-block;
+    margin-right: 0.5rem;
+    line-height: 1.2;
+
+    [data-layout="post"] & {
+
+        position: relative;
+        top: 0.1rem;
+
+    }
+
+}
+
 .post-heading.text--dark span,
 .page-heading.text--dark span {
 

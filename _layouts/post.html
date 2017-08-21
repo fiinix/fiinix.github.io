@@ -1,6 +1,17 @@
 ---
 layout: default
 ---
+{% assign post_counter = 1 %}
+{% assign currentPost = page.date | date: '%s' %}
+
+{% for post in site.posts %}
+  {% assign loopPost = post.date | date: '%s' %}
+
+  {% if loopPost < currentPost %}
+    {% assign post_counter = post_counter | plus: 1 %}
+  {% endif %}
+{% endfor %}
+
 <div class="container" data-layout="post">
 
   <div class="group">
@@ -10,7 +21,7 @@ layout: default
         <span style=" {% if page.text %}color:black;{% endif %} {% if page.color %} background-color: {{ page.color }};{% endif %} ">{{ page.title | markdownify | strip_html | trim  }}</span>
       </h1>
 
-        <p>{% include date.html type="page" %} {% include reading-time.html type="page" %}
+        <p><span class="h5 post-heading__count" style="{% if page.color %} color: {{ page.color }};{% else %} color: #00834d; {% endif %}">&#8470;{{ post_counter }}</span>{% include date.html type="page" %} {% include reading-time.html type="page" %}
 
     </div>
   </div>

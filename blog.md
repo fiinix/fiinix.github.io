@@ -11,11 +11,9 @@ excerpt: "I've kept an online journal for the past eight, going on nine years, w
 {% unless post.category == "case-study" %}
 
 <article class="post-preview">
-{% include date.html type="listing" %}{% include reading-time.html type="post" %}
+<span class="h5 post-heading__count" style="{% if post.color %} color: {{ post.color }};{% else %} color: #00834d; {% endif %}">&#8470;{{ site.posts | size | minus:forloop.index | plus:1 }}</span>{% include date.html type="listing" %}{% include reading-time.html type="post" %}
 <h3 class="h3 post-heading post-type--{{ post.category }}">
-	<a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
-		<span style="{% if post.text %} color: black; {% else %} color: white; {% endif %} {% if post.color %} background-color: {{ post.color }};{% endif %}" >{{ post.title | markdownify | strip_html | trim  }}</span>
-	</a>
+	<a class="post-link" href="{{ post.url | prepend: site.baseurl }}"><span style="{% if post.text %} color: black; {% else %} color: white; {% endif %} {% if post.color %} background-color: {{ post.color }};{% endif %}" >{{ post.title | markdownify | strip_html | trim  }}</span></a>
 </h3>
 
 {% if post.excerpt %}

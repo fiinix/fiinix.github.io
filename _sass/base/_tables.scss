@@ -16,9 +16,29 @@
     margin-left: -5.5555vw;
     margin-right: -5.5555vw;
 
-    background-color: white;
+    //background-color: white;
     color: $black;
-    box-shadow: em(6) em(9) 0 0 rgba(black, 0.1);
+
+    position: relative;
+
+    border-color: inherit;
+
+    &:before {
+
+        content: "";
+        display: block;
+
+        height: 2.7777vh;
+        width: 50%;
+
+        position: absolute;
+        top: 0;
+        right: 0;
+
+        border-bottom: 2.7777vh solid;
+        border-bottom-color: inherit;
+
+    }
 
 }
 
@@ -30,6 +50,9 @@ table {
     margin: 0 -0.5em;
     table-layout: fixed;
     border-collapse: collapse;
+
+    font-family: $fixed-family;
+    font-size: 0.9rem;
 
 }
 

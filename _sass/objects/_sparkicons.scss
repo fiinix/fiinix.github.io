@@ -5,39 +5,47 @@
  *
  * ===========================================================================
  */
-.spark-icons {
-	content: " ";
+@mixin spark-icon {
+	//content: " ";
 	display: inline-block;
 	vertical-align: baseline;
 	position: relative;
-	width: 10px; height: 10px;
+	//width: em(10); height: em(10);
+	font-size: 0.675em;
 	margin: 0 .25em 0 .25em;
-	background-image: url(/assets/img/sparkicons.svg);
-	background-repeat: no-repeat;
-	background-size: auto 10px;
-	background-position: 0 0;
-	/*background-color: red;*/
 }
 
 .post-content a[href^="http://"]:after,
 .post-content a[href^="https://"]:after,
 .page-content a[href^="http://"]:after,
 .page-content a[href^="https://"]:after {
-	@extend .spark-icons;
+	@include spark-icon;
+	content: "\2197";
 }
+.post-content a[href^="spotify"]:after,
+.page-content a[href^="spotify"]:after {
+	@include spark-icon;
+	content: "\266B";
+}
+
+.post-content a[href^="#"]:after,
+.page-content a[href^="#"]:after {
+	@include spark-icon;
+	content: "\0023"; // hashtag
+	content: "\21B4";
+}
+
 .post-content a[href^="http://www.youtube"]:after,
 .post-content a[href^="https://www.youtube"]:after,
-.post-content a[href^="spotify"]:after,
 .page-content a[href^="http://www.youtube"]:after,
-.page-content a[href^="https://www.youtube"]:after,
-.page-content a[href^="spotify"]:after {
-	@extend .spark-icons;
-	background-position: -10px 0;
+.page-content a[href^="https://www.youtube"]:after {
+	@include spark-icon;
+	content: "\25BA";
 }
 .post-content a[href*="wiki"]:after,
 .page-content a[href*="wiki"]:after {
-	@extend .spark-icons;
-	background-position: -20px 0;
+	//@extend .spark-icons;
+	//background-position: -20px 0;
 }
 .post-content a[href^="https://www.google.com/maps/"]:after,
 .post-content a[href^="http://www.google.com/maps/"]:after,
@@ -47,13 +55,13 @@
 .page-content a[href^="http://www.google.com/maps/"]:after,
 .page-content a[href^="http://www.openstreetmap.org/"]:after,
 .page-content a[href^="http://www.openstreetmap.org/"]:after {
-	@extend .spark-icons;
-	background-position: -30px 0;
+	//@extend .spark-icons;
+	//background-position: -30px 0;
 }
 .post-content a[href^="http://www.gutenberg.org/"]:after,
 .page-content a[href^="http://www.gutenberg.org/"]:after {
-	@extend .spark-icons;
-	background-position: -40px 0;
+	//@extend .spark-icons;
+	//background-position: -40px 0;
 }
 
 // Attribute selectors ending with certain file formats
