@@ -9,7 +9,7 @@ excerpt: "In which we've almost moved to our new home. Sans the actual moving an
 ---
 Now it's semi-official.. semi, since we haven't officially moved yet and don't have the keys to the new place and shit like that. Obviously this also means that soon I won't have time to blog for, let's say a couple of weeks or so. Yeah, it might be and probably will be less but I would rather not get your hopes (hopes?) up so I won't. This weekend and the beginning of next week will be utter moving madness. Thankfully though, my awesome wife has gone all 
 
-[Robert Mugabe](http://en.wikipedia.org/wiki/Robert_Mugabe) on our asses and as such she's in charge of packing and coordinating everything pre-moving. I say thankfully because my "packing" consists of taking a box, and just sweeping everything I can reach into said box. Needless to say, this is why when I looked for my passport some months ago ([went to London, got married](http://fiinixdesign.blogspot.com/2011/02/luckiest-fob-in-worlds.html)) I had a moment of thinking "Where did I 'pack' my passport last time we moved?"
+[Robert Mugabe](http://en.wikipedia.org/wiki/Robert_Mugabe) on our asses and as such she's in charge of packing and coordinating everything pre-moving. I say thankfully because my "packing" consists of taking a box, and just sweeping everything I can reach into said box. Needless to say, this is why when I looked for my passport some months ago ([went to London, got married](/blog/the-luckiest-f-o-b-in-the-worlds)) I had a moment of thinking "Where did I 'pack' my passport last time we moved?"
 
 "Oh yeah, that's right! It's with my porn!"
 

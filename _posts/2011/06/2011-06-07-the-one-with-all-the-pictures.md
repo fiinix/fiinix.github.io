@@ -25,7 +25,7 @@ So anyway. Here are some pictures of our new home. It's obviously much.. mu'uuch
 
 ***
 
-Oh, right.. one final thing before the pictures. I have now also managed to acquire a digital kitchen scale (no thanks to any of you bastards.. nah, it's cool we're still friends.. let's just say I like you a little less..) and the burr grinder I "talked" about earlier in [Nine Days Later](http://fiinixdesign.blogspot.com/2011/05/nine-days-later.html). So far I'm very pleased with my coffee results as well, although I'm still trying to figure the exact right settings for French press (Zassenhaus doesn't send with any kind of instructions.. at all). So before the pictures of our new home, here's a picture of my new stuff..
+Oh, right.. one final thing before the pictures. I have now also managed to acquire a digital kitchen scale (no thanks to any of you bastards.. nah, it's cool we're still friends.. let's just say I like you a little less..) and the burr grinder I "talked" about earlier in [Nine Days Later](/blog/nine-days-later). So far I'm very pleased with my coffee results as well, although I'm still trying to figure the exact right settings for French press (Zassenhaus doesn't send with any kind of instructions.. at all). So before the pictures of our new home, here's a picture of my new stuff..
 
 <figure>
     <img class="js-lazy-load" data-original="/assets/posts/2011/06/after_sex.png" alt="Coffee beans and a burr grinder.">

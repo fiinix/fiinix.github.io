@@ -20,4 +20,4 @@ In case you're wondering, mine is the one with the zombie face.
 
 So Happy All Hallows' Eve to all, and to all... a good night?
 
-[lasttime]: http://fiinixdesign.blogspot.co.uk/2013/10/nothing-beats-little-fisting-in-evening.html
+[lasttime]: /blog/nothing-beats-a-little-fisting-in-the-evening

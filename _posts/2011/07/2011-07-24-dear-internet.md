@@ -15,7 +15,7 @@ I have reached porn-status-ish!
 
 Whoever you are, thank you. With utmost sincerity from the bottom of my heart and a slight worry for your mental health, I lift my hat. You, who I can only hope one day reads this and knows.. that you Sir or Madam, made my fucking day.
 
-You, who was searching for **"free slutcocking movies"** and for some reason still decided to click the link that lead you [here](http://fiinixdesign.blogspot.com/2010/07/leo-you-bastard.html) and to my humble blog. Because apparently in descending order of relevance according to Google, it goes like this;
+You, who was searching for **"free slutcocking movies"** and for some reason still decided to click the link that lead you [here](/blog/leo-you-bastard) and to my humble blog. Because apparently in descending order of relevance according to Google, it goes like this;
 
   1. "Slutcock drunk ass"
   2. "Anal Porn Tube"

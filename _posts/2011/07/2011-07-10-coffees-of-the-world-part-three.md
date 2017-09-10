@@ -66,7 +66,7 @@ Basically.. it's like this. If you must have a good clean cup of coffee, Vacuum 
   </noscript>
 </figure>
 
-Does it really matter? To put it simply.. it does, get used to it, ~98% of your coffee IS water. If you think your tap water tastes like ass.. your coffee will be brewed using ass. But if you're anything like me, proven in <a href="http://fiinixdesign.blogspot.com/2011/05/nine-days-later.html">Nine Days Later</a> and can't tell the difference between Spring water and tap water, then by all mean, keep using tap water. I still do.. at least for now. I have no doubts that better water will make better coffee, but if you can't tell the difference it's really difficult to argue for the use of Spring water.
+Does it really matter? To put it simply.. it does, get used to it, ~98% of your coffee IS water. If you think your tap water tastes like ass.. your coffee will be brewed using ass. But if you're anything like me, proven in [Nine Days Later](/blog/nine-days-later) and can't tell the difference between Spring water and tap water, then by all mean, keep using tap water. I still do.. at least for now. I have no doubts that better water will make better coffee, but if you can't tell the difference it's really difficult to argue for the use of Spring water.
 
 Next..
 

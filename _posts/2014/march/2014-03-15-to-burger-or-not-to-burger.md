@@ -28,7 +28,7 @@ But the sun doth device me. It's only out for a few hours at most. So, whilst my
 
 But, you know what?
 
-I'm probably going to BBQ anyway. If the weather continues to be this good next week I really have no reason not to. Sure, I have to clean the glorious [Deluxe Kettle Charcoal BBQ that I bought last year][bbq]. And sure, I have to figure out why I'm so terrible at using a BBQ.
+I'm probably going to BBQ anyway. If the weather continues to be this good next week I really have no reason not to. Sure, I have to clean the glorious Deluxe Kettle Charcoal BBQ that I bought last year. And sure, I have to figure out why I'm so terrible at using a BBQ.
 
 But in the end it'll be worth it, because in the spirit of explorations and new experiences I have decided, for this year, to make hamburgers with various exotic meats.
 
@@ -45,5 +45,4 @@ Aside for the eating, we have some awesome plans to go to France by train, Lucie
 Boom. Abominable Weekly Update, out.
 
 [zeit]: http://en.wikipedia.org/wiki/Zeitgeber
-[bbq]: http://fiinixdesign.blogspot.co.uk/2013/07/buying-bad-bag-of-briquettes.html
 [darw]: http://en.wikipedia.org/wiki/Charles_Darwin

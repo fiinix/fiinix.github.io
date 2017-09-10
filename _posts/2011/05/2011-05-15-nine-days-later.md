@@ -27,7 +27,7 @@ Now, I drink my coffee **black.. like a real man!**
 
 But not be manlier actually, but because it tasted ruined with milk and/or sugar. Of course I had to try several different variations. But in the end, black won. And hurray for it too, although I have had to suffer the consequences of a decreased sugar intake, which has been a total bitch, thankfully though, the worst of that has passed. Now I am beginning to feel actually a lot better than I did before.
 
-A word of warning though to anyone who "suddenly" decides to cut down of refined sugar. Before this and [ridding my addiction of Coca-Cola](http://fiinixdesign.blogspot.com/2010/12/ridding-addictions.html) I was averaging a daily sugar intake of 120 grams and sometimes upwards. The recommended daily intake is between 36-40 grams (depending on your source). So easily **three times the daily recommended** amount of refined sugar per day.
+A word of warning though to anyone who "suddenly" decides to cut down of refined sugar. Before this and ridding my addiction of Coca-Cola I was averaging a daily sugar intake of 120 grams and sometimes upwards. The recommended daily intake is between 36-40 grams (depending on your source). So easily **three times the daily recommended** amount of refined sugar per day.
 
 Yeah, I did the calculations minutes ago. Scary stuff isn't it? I specified "refined" sugar because that's the amount I could easily calculate, I obviously get natural sugar as well and hidden refined sugar in me, but those probably fulfil my daily needs nicely. So the probability is quite high that I have had a intake of 4x daily recommended. That's probably not very healthy or what do you think?
 

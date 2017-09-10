@@ -78,4 +78,4 @@ And that's it for this time. So, go out there, think about Jesus, eat some choco
 </figure>
 </div>
 
-[post]: http://www.carloseriksson.com/blog/my-body-the-trash-receptacle
+[post]: /blog/my-body-the-trash-receptacle

@@ -68,7 +68,7 @@ Once it's healed I'll give you a look at the result of the first session. Until 
 Although far from complete, my pinstriped groom and his bride is a very good start.
 
 [cah]: http://cardsagainsthumanity.com/
-[cupcakes]: http://fiinixdesign.blogspot.co.uk/search/label/cupcakes
+[cupcakes]: /topics/#Cupcakes
 [sitewizard]: http://sitewizard.co.uk/
 [squiders]: http://www.squiders.com/
 [wizard]: https://www.youtube.com/watch?v=GPfMPkbvBwY

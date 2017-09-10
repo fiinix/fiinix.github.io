@@ -3,9 +3,11 @@ layout: about
 title: About
 category: content
 permalink: /about/
-excerpt: "I'm an **accessibility-focused multilingual designer** and frontend developer who knows that inclusive design can exist in the heart of form and function, without compromising either. "
+excerpt: "I make the places you can visit from a computer better for everyone, not just the people it is easy for."
 ---
-For the past seven years I've been making websites and experiences that are **accessible and usable** for everyone. I focus on typography, information architecture and inclusive design patterns.
+I'm an **accessibility-focused multilingual designer** and frontend developer who knows that inclusive design can exist in the heart of form and function, without compromising either.
+
+For the past eight years I've been making websites and experiences that are **accessible and usable for everyone**. I focus on typography, information architecture and inclusive design patterns.
 
 From having the pleasure of [writing about accessibility][writing] for Net magazine to [speaking at conferences][speaking] about the importance of accessibility and having other work used by tens of thousands of people on a daily basis, my wonderful wife and son always keep me grounded.
 

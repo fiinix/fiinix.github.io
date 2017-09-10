@@ -107,7 +107,7 @@ But you do.
 
 You have a voice. Make it heard.
 
-[brexit]: /blog/jingoistic-uly-justifiable-july-and-accepting-august-issue-06-08-16
+[brexit]: /blog/jingoistic-june-justifiable-july-and-accepting-august-issue-06-08-16
 [brits]: https://twitter.com/search?q=%23notallbrits&src=typd
 [fact]: http://www.euro.who.int/__data/assets/pdf_file/0006/248343/Health-Professional-Mobility-in-a-Changing-Europe.pdf#page=282
 [register]: https://www.gov.uk/register-to-vote

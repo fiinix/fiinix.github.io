@@ -35,7 +35,7 @@ So I wrote [another part](/blog/a-rainy-night-on-drury-lane-part-ii-the-brown-no
 
 Even though I still have two more parts to write I can already see sections that are, for lack of better words, incoherent faeces. The excrements of a writer with diarrhoea. I suspect you get the idea.
 
-But that’s okay. Because as I was writing <a href="http://fiinixdesign.blogspot.co.uk/2013/08/a-rainy-night-on-drury-lane-part-v.html" >the latest instalment, titled “Nothing But Yellow Newspapers”</a> I had an idea.
+But that’s okay. Because as I was writing [the latest instalment, titled “Nothing But Yellow Newspapers”](/blog/a-rainy-night-on-drury-lane-part-v-nothing-but-yellow-newspapers) I had an idea.
 
 <figure>
     <img class="js-lazy-load" data-original="/assets/posts/2013/09/ernest-hemingway-was-a-wise-motherfucker.jpg" alt="Ernest Hemingway posing with a majestic lion that he has killed for sports.">

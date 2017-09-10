@@ -66,6 +66,6 @@ And...
 That's it for this weekly update.
 
 [squiders]: http://www.squiders.com/
-[sculpting]: http://fiinixdesign.blogspot.co.uk/2013/05/the-celebratory-quinquennial-post.html
-[cupcakes]: http://fiinixdesign.blogspot.co.uk/2013/11/doucebags-donations-and-dinosaurs.html
+[sculpting]: /blog/the-celebratory-quinquennial-post
+[cupcakes]: /blog/doucebags-donations-and-dinosaurs
 [ebook]: http://carloseriksson.com/a-rainy-night-on-drury-lane

@@ -27,7 +27,7 @@ So here's it actually is, the thrilling (?) conclusion. The died, all of them. O
 
 ## The nerd within
   
-I [waited for some games](/blog/games-im-eagerly-awaiting), played some and ignored others. I [played Command & Conquer](/blog/a-trip-down-nostalgia-avenue), got my ass handed to me by the AI on easy and just never looked back. My save is still probably around somewhere within the depths of crap called System partition. I was eager to get Stuck in Limbo, but never actually did, at least not yet. Fable III was, well [nice](/blog/fable-iii-kind-of-review) I suppose even though I haven't finished it yet. Halo: Reach surprised me in some good ways and ended up getting a 4,2 which later got upped to 4.5.
+I [waited for some games](/blog/games-im-eagerly-awaiting), played some and ignored others. I [played Command & Conquer](/blog/a-trip-down-nostalgia-avenue), got my ass handed to me by the AI on easy and just never looked back. My save is still probably around somewhere within the depths of crap called System partition. I was eager to get Stuck in Limbo, but never actually did, at least not yet. Fable III was, well [nice](/blog/fable-iii-a-kind-of-review) I suppose even though I haven't finished it yet. Halo: Reach surprised me in some good ways and ended up getting a 4,2 which later got upped to 4.5.
 
 Fallout. New Vegas is still on my "to buy list". Batman: Arkham City is also there, but that's will be for next year, since it's not coming out yet anyway.
 

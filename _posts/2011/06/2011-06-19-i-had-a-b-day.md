@@ -9,7 +9,7 @@ excerpt: "In which I celebrate my 21st birthday for the sixth time."
 ---
 For those of you that didn't know.. **my birthday was three days ago**. So why not blog about it when it was more relevant? As it turns out.. the older you get the less significant your birthdays become. I sort of forgot to mention it.. also I was super-busy at the time. But yeah, I have now had my 21st birthday for the sixth time. I mostly spent it with my family, eating tortillas and just generally chilling whilst my awesome wife gave me the gift of time.. time to do nothing. When you have a three-year old, that is actually something you value. I also went for a beer with the Godfather and his non-married romantically linked non-cohabitant. All in all, very nice and relaxed.. just the way I like it.
 
-So.. about my birthday.. I wonder if it's noticeable that I have been [kind of](http://fiinixdesign.blogspot.com/2011/05/unvenomous-snakes.html) [obsessed](http://fiinixdesign.blogspot.com/2011/05/nine-days-later.html) [with coffee](http://fiinixdesign.blogspot.com/2011/05/detox-part-deux.html) [lately](http://fiinixdesign.blogspot.com/2011/06/coffees-of-world-pv.html) [?](http://fiinixdesign.blogspot.com/2011/06/coffees-of-world-part-one.html)
+So.. about my birthday.. I wonder if it's noticeable that I have been kind of obsessed with coffee lately?
 
 The missus gave me a random wooden box (amongst other things, pictured below..) that is clearly meant to house ground coffee or whole beans, but as anyone more knowledgeable with coffee knows, I won't be storing anything like that in there. Because it's a non-airtight wooden box. But I will think of something to have in it.
 

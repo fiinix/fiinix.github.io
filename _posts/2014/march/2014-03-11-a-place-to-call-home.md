@@ -14,7 +14,7 @@ Give it a little time and elbow grease and I'll get this heap to look like somet
 
 ## A year later
 
-Those two measly paragraphs above is all I wrote over a year ago as I blatantly launched carloseriksson.com, moving my journal from [the old Blogger+Blogspot combo][blogspot] I had been enduring for the past 7 or so years, to a brand spanking new Github+Jekyll combo.
+Those two measly paragraphs above is all I wrote over a year ago as I blatantly launched carloseriksson.com, moving my journal from the old Blogger+Blogspot combo I had been enduring for the past 7 or so years, to a brand spanking new Github+Jekyll combo.
 
 There wasn't much of a ceremony, which was entirely the point. As an experiment in transparency I wanted to expose the messy, sometimes failure-ridden design process that we, designers, usually hide away, only to reveal when it's done---whatever *done* means.
 
@@ -38,7 +38,7 @@ And I'm okay with that.
 
 I'm glad you asked---let's pretend you did.
 
-One of the cards---i.e. tasks---I've set up on Trello, is to move over and archive all the entries from [fiinixdesign.blogspot.co.uk][blog] here.
+One of the cards---i.e. tasks---I've set up on Trello, is to move over and archive all the entries from fiinixdesign.blogspot.co.uk (link gone) here.
 
 Until I've moved over all of it though, I'm keeping the blog alive for posterity.
 
@@ -46,8 +46,5 @@ But with 382 entries left at the time of writing, I've got quite a lot of work a
 
 And because I like naming things I've decided to call this [The Reclaimer][reclaimer].
 
-
-[blogspot]: http://fiinixdesign.blogspot.co.uk/
 [trello]: https://trello.com/b/zEdO8nv9/carloseriksson-com
-[blog]: http://fiinixdesign.blogspot.co.uk/
 [reclaimer]: https://trello.com/c/BNMKDXQB

@@ -57,7 +57,7 @@ The Peruvian **Yanesha** [RV] was albeit not bad per se just too **"meh"** and h
   </noscript>
 </figure>
 
-Switching continents completely I now happened upon an Indonesian that although I decided to only give it a 2+ I might want to revisit this one later one. I feel it might have [Manhattan Blow Job](http://fiinixdesign.blogspot.com/2011/05/nine-days-later.html) potential. I give you the Indonesian **Sulawesi** [RV]. More light and quite fresh although with an slight acidity that never really agreed with me. This by the way also happens to be one of the beans Starbucks sells as a part of their selection. One friend who visited liked when I randomly did a 50/50 blend of Sulawesi and Bucaramanga (more on that one later).
+Switching continents completely I now happened upon an Indonesian that although I decided to only give it a 2+ I might want to revisit this one later one. I feel it might have [Manhattan Blow Job](/blog/nine-days-later) potential. I give you the Indonesian **Sulawesi** [RV]. More light and quite fresh although with an slight acidity that never really agreed with me. This by the way also happens to be one of the beans Starbucks sells as a part of their selection. One friend who visited liked when I randomly did a 50/50 blend of Sulawesi and Bucaramanga (more on that one later).
 
 ## Daterra Sweet Collection
 

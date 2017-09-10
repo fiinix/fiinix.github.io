@@ -100,7 +100,7 @@ So I’ve started wandering the digital wasteland that is Ebay in search for the
 More games are to come.
 
 
-[revisit]: http://fiinixdesign.blogspot.co.uk/2013/01/a-revisit-to-nostalgia-avenue.html
+[revisit]: /blog/a-revisit-to-nostalgia-avenue
 [wiki-snes]: http://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System
 [ebay]: http://www.ebay.co.uk
 [nick]: https://twitter.com/WaldorfSixpence
