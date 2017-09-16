@@ -100,7 +100,7 @@ After 5k I was dying and with a pace of 05:55 min/km I kept feeling like I could
 
 Returning home with the mantra still ringing in my head I haven't had a cigarette since.
 
-I want to my authentic self.
+I want to be my authentic self.
 
 Now mind you, it's only been a day and a half.
 
