@@ -18,7 +18,8 @@
 	display: flex;
 	flex-direction: column;
 
-	a:not(.logo) {
+	a:not(.logo),
+	label {
 
 		margin-top: 0;
 		margin-left: auto;
@@ -29,7 +30,8 @@
 
 		flex-direction: row;
 
-		a:not(.logo) {
+		a:not(.logo),
+		label {
 
 			margin-left: 0.5em;
 

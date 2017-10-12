@@ -3,12 +3,22 @@ layout: null
 ---
 [
   {% for post in site.posts %}
+{% assign m = post.date | date: "%B" %}
+{% assign y = post.date | date: "%Y" %}
+{% case m %}
+{% when 'May' %}{% assign date = post.date | date: "%-d " | append: m | append: ' ' | append: y %}
+{% when 'June' %}{% assign date = post.date | date: "%-d " | append: m | append: ' ' | append: y %}
+{% when 'July' %}{% assign date = post.date | date: "%-d " | append: m | append: ' ' | append: y %}
+{% when 'September' %}{% assign date =  post.date | date: "%-d " | append: 'Sept. ' | append: y %}
+{% else %}
+{% assign date = post.date | date: "%-d %b" | append: '. ' | append: y %}
+{% endcase %}
     {
       "title"    : "{{ post.title|markdownify|strip_html|strip_newlines }}",
       "category" : "{{ post.category }}",
       "tags"     : "{{ post.tags|join: ', '|markdownify|strip_html|strip_newlines }}",
       "url"      : "{{ site.baseurl }}{{ post.url }}",
-      "date"     : "{{ post.date }}"
+      "date"     : "{{ date }}"
     } {% unless forloop.last %},{% endunless %}
   {% endfor %}
 ]

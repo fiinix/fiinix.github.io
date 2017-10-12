@@ -149,7 +149,8 @@ ul li {
 
 	}
 
-	li:before {
+	li:before,
+	li:after {
 
 		content: none;
 

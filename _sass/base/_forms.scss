@@ -20,8 +20,8 @@
 
 label {
 
-	display: block;
-	cursor: pointer;
+	//display: block;
+	//cursor: pointer;
 
 }
 
@@ -39,22 +39,29 @@ input {
 	min-width: 0;
 
 	width: 100%;
-	padding: 0.75em 1.5em;
+	max-width: 44.44444vw;
+	padding: 0.7em 0;
+
+	background-color: transparent;
 	
 	border-radius: 0;
-	border: 0.1111em solid luma(80);
+	border: 0.6vh solid luma(70);
+	border-width: 0 0 0.6vh 0;
 
 	&:hover {
 	
-		border-color: luma(50);
+		border-color: luma(60);
 
 	}
 
 	&:focus,
 	&:active {
-		
+
+		box-shadow: none;
+		border-color: $focus-color;
+
 		// Remove _focus set background-color
-		background-color: white;
+		//background-color: white;
 	
 		// border-color: $primary-color;
 
