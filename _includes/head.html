@@ -42,7 +42,8 @@
 
 	<meta name="twitter:description" content="{% if page.excerpt %}{{ page.excerpt | markdownify | strip_html | trim }}{% else %}{{ site.description }}{% endif %}"/>
 
-	<meta name="twitter:image" content="http://carloseriksson.com/{% if page.twitter %}{{ page.twitter }}{% else %}assets/img/twitter-default-image.png{% endif %}"/>
+	<meta name="twitter:image" content="http://carloseriksson.com/assets/posts/{{ page.date | date: "%Y"}}/{{ page.date | date: "%B" | downcase}}{{ page.url | remove: "/blog" }}/{% if page.thumbnail %}{{ page.thumbnail }}{% else %}assets/img/twitter-default-image.png{% endif %}"/>
+	{% if page.alt %}<meta name="twitter:image:alt" content="{{ page.alt }}" />{% endif %}
 	<meta name="twitter:creator" content="@fiinixdesign">
 	<meta name="twitter:site" content="@fiinixdesign">
 	<!-- / Twitter -->
