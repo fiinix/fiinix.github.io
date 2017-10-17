@@ -36,7 +36,7 @@
 	<!-- / Facebook -->
 
 	<!-- Twitter -->
-	<meta name="twitter:card" content="summary">
+	<meta name="twitter:card" content="{% if page.thumbnail %}summary_large_image{%else%}summary{% endif %}">
 	<meta name="twitter:url" content="http://carloseriksson.com{{ page.url }}">
 	<meta name="twitter:title" content="{% if page.title %}{{ page.title }} | {{ site.title}}{% else %}{{ site.title }}{% endif %}"/>
 
