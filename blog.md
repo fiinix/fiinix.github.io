@@ -3,11 +3,11 @@ layout: journal
 title: Journal
 category: content
 permalink: /blog/
-excerpt: "I've kept an online journal for the past eight, going on nine years, writing about things that excite, annoy and fascinate me."
+excerpt: "I've kept an online journal for the past nine, going on ten years, writing about things that excite, annoy and fascinate me."
 ---
 <!-- <h2 class="h4">Recent entries</h2> -->
 
-{% for post in site.posts limit:13 %}
+{% for post in site.posts limit:20 %}
 {% unless post.category == "case-study" %}
 
 <article class="post-preview">
