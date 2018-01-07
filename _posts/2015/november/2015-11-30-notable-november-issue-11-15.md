@@ -153,7 +153,7 @@ But that's for another time.
 And that's it for this month.
 
 [beard]: /blog/a-scary-hairy-beard-story
-[timelapse]: http://localhost:4000/blog/a-scary-hairy-beard-story/#week-52---the-end
+[timelapse]: /blog/a-scary-hairy-beard-story/#week-52---the-end
 [beije]: https://benjaminhorn.io/
 [victoria]: http://www.1050fromvictoria.co.uk/
 [ampersand]: http://2015.ampersandconf.com/
