@@ -44,21 +44,19 @@ ol li {
 		width: 3em;
 
 		position: absolute;
-		top: 0.37em;
+		top: 0.275em;
 		left: -3.5em;
-		
-		/* Manually adjusted to mimic a small cap and fall within
-		* the x-height of the body font */	
 
-		font-size: 0.74em;
-		letter-spacing: 0.075em;
-		text-transform: uppercase;
-		/* Make the text faux bolder to mimic small-caps because the weight of
-		* this should be similar to the weight of normal lowecase but it isn't */
-		text-shadow: 0 0 0 $black;
+		font-size: (1.5 / 1) +em;
+		line-height: 1;
+
+		font-family: $heading-family;
+		font-weight: $heading-weight;
+		letter-spacing: -0.05em;
+		color: luma(70);
 
 		counter-increment: orderedList;
-		content: counters(orderedList, ".") ".";
+		content: counters(orderedList, ".");
 		text-align: right;
 		// padding-right: 0.75em;
 
