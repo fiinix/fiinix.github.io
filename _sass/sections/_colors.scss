@@ -12,7 +12,7 @@
 	width: 100%;
 
 	display: flex;
-	flex-direction: column;
+	flex-flow: row wrap;
 
 	margin: 0;
 
@@ -53,16 +53,16 @@
 
 	@include mq($breakpoint-lap) {
 
-		position: absolute;
-		top: 0;
-		right: 0;
-
-		z-index: z("brand");
-
-		width: auto;
-		height: 100%;
-
-		flex-direction: row-reverse;
+		//position: absolute;
+		//top: 0;
+		//right: 0;
+        //
+        //z-index: z("brand");
+        //
+        //width: auto;
+        //height: 100%;
+        //
+        //flex-direction: row-reverse;
 
 		&--professional {
 
@@ -83,17 +83,17 @@
 
 	&--primary {
 
-		background-image: radial-gradient($black 15%, transparent 16%),
-		radial-gradient($black 15%, transparent 16%);
-		background-size: em(16) em(16);
-		background-position: 0 0, em(8) em(8);
+		//background-image: radial-gradient($black 15%, transparent 16%),
+		//radial-gradient($black 15%, transparent 16%);
+		//background-size: em(16) em(16);
+		//background-position: 0 0, em(8) em(8);
 
 		height: 2.7777vh;
 
 		@include mq($breakpoint-lap) {
 
-				width: 5.5555vw;
-				height: 100%;
+				//width: 5.5555vw;
+				//height: 100%;
 
 		};
 
@@ -101,12 +101,12 @@
 
 	&--secondary {
 
-		height: 1.3888vh;
+		//height: 1.3888vh;
 
 		@include mq($breakpoint-lap) {
 
-				width: 2.7777vw;
-				height: 100%;
+				//width: 2.7777vw;
+				//height: 100%;
 
 		};
 
@@ -114,12 +114,12 @@
 
 	&--tertiary {
 
-		height: 0.69444vh;
+		//height: 0.69444vh;
 
 		@include mq($breakpoint-lap) {
 
-				width: 1.3888vw;
-				height: 100%;
+				//width: 1.3888vw;
+				//height: 100%;
 
 		};
 
@@ -127,12 +127,12 @@
 
 	&--accent {
 
-		height: 0.69444vh;
+		//height: 0.69444vh;
 
 		@include mq($breakpoint-lap) {
 
-				width: 1.3888vw;
-				height: 100%;
+				//width: 1.3888vw;
+				//height: 100%;
 
 		};
 

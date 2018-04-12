@@ -1,8 +1,30 @@
 <!-- Branding -->
+{% if page.date %}
+{% assign timestamp = page.date | date: "%s" %}
+{% assign timestamp_0 = timestamp | slice:0 | times: 11.11 %}
+{% assign timestamp_1 = timestamp | slice:1 | times: 11.11 %}
+{% assign timestamp_2 = timestamp | slice:2 | times: 11.11 %}
+{% assign timestamp_3 = timestamp | slice:3 | times: 11.11 %}
+{% assign timestamp_4 = timestamp | slice:4 | times: 11.11 %}
+{% assign timestamp_5 = timestamp | slice:5 | times: 11.11 | default: 11.11 %}
+{% assign timestamp_6 = timestamp | slice:6 | times: 11.11 %}
+{% assign timestamp_7 = timestamp | slice:7 | times: 11.11 %}
+{% assign timestamp_8 = timestamp | slice:8 | times: 11.11 %}
+{% assign timestamp_9 = timestamp | slice:9 | times: 11.11 %}
+{% assign timestamp_10 = timestamp | slice:10  | times: 11.11 %}
+{% endif %}
 <div class="colors colors--{{ page.category }}">
-	<div class="color color--primary" {% if page.color %} style="background-color: {{ page.color }};"{% endif %}></div>		
-	<div class="color color--secondary" {% if page.color2 %} style="background-color: {{ page.color2 }};"{% endif %}></div>		
-	<div class="color color--tertiary"></div>		
-	<div class="color color--accent" {% if page.color3 %} style="background-color: {{ page.color3 }};"{% endif %}></div>		
+	<div class="color color--primary" style="width: {{ timestamp_0 }}vw; {% if page.color %} background-color: {{ page.color }};{% endif %}"></div>
+	<div class="color color--secondary" style="width: {{ timestamp_1 }}vw; {% if page.color2 %} background-color: {{ page.color2 }};{% endif %}"></div>
+	<div class="color color--tertiary" style="width: {{ timestamp_3 }}vw; "></div>
+	<div class="color color--accent" style="width: {{ timestamp_4 }}vw; {% if page.color3 %} background-color: {{ page.color3 }};{% endif %}"></div>
+
+	<div class="color color--primary" style="width: {{ timestamp_5 }}vw; {% if page.color %} background-color: {{ page.color }};{% endif %}"></div>
+	<div class="color color--secondary" style="width: {{ timestamp_6 }}vw; {% if page.color2 %} background-color: {{ page.color2 }};"{% endif %}"></div>
+	<div class="color color--tertiary" style="width: {{ timestamp_7 }}vw; "></div>
+	<div class="color color--accent" style="width: {{ timestamp_8 }}vw; {% if page.color3 %} background-color: {{ page.color3 }};{% endif %}"></div>
+
+	<div class="color color--primary" style="width: {{ timestamp_9 }}vw; {% if page.color %} background-color: {{ page.color }};{% endif %}"></div>
+	<div class="color color--secondary" style="width: {{ timestamp_10 }}vw; {% if page.color2 %} background-color: {{ page.color2 }};{% endif %}"></div>
 </div>
 <!-- / Branding -->
