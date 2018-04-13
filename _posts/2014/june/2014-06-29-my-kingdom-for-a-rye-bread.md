@@ -3,7 +3,7 @@ layout: post
 title: "My Kingdom For a Rye Bread"
 date: 2014-06-29 T 14:00 UTC
 tags : [Health, Recipe, Nordic Cuisine, Birthday]
-category: blog
+category: personal
 excerpt: It's been too long since I've had some rye bread and left with few options I suppose I'll just have to make my own. Oh no.
 facebook: "assets/posts/2014/june/my-kingdom-for-a-rye-bread/facebook-og-image.jpg"
 twitter: "assets/posts/2014/june/my-kingdom-for-a-rye-bread/twitter-image.jpg"

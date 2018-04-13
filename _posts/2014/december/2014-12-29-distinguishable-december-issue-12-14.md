@@ -3,7 +3,7 @@ layout: post
 title: "Distinguishable December, Issue 12/14"
 date: 2014-12-29 T 17:30 UTC
 tags : ["Keeping Up with the Erikssons", Christmas, Dickensian Festival, Rochester, Board Gaming]
-category: blog
+category: personal
 excerpt: "In this month's issue of Keeping Up With the Erikssons: We spend most of the month, either preparing for Christmas or feeling a bit under the weather."
 ---
 Last year, Lucien had a Lego Advent calendar. The year before that, a chocolate one.

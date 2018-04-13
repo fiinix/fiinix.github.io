@@ -3,7 +3,7 @@ layout: post
 title: "The Pretentious Perception of Carlos"
 date: 2014-10-12 T 21:00 UTC
 tags : [Whisky]
-category: blog
+category: personal
 excerpt: In which I decide to tackle the new endeavour of learning how to drink whisky. And I really want your help.
 ---
 As I'm sure some of you already know, I enjoy both trying new things and learning new things. But curiously though, most of the time you aren't privy to these journeys of mine until *after I've already started them*.

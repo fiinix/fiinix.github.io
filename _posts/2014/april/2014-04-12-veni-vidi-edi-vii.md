@@ -4,7 +4,7 @@ title: Veni, Vidi, Edi Vii
 color: "#00a88c"
 date: 2014-04-12 T 12:42 UTC
 tags : [The Abominable Weekly Update, Burgers, Bluewater, Lego,]
-category: blog
+category: personal
 excerpt: Which should translate to “I came, I saw, I ate the Buffalo”. A very fitting title considering the theme of this weeks main event.
 tile: "/assets/posts/2014/april/veni-vidi-edi-vii/tile.png"
 ---

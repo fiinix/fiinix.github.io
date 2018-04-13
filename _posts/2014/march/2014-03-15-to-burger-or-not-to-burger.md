@@ -3,7 +3,7 @@ layout: post
 title: To Burger or Not to Burger
 date: 2014-03-15
 tags : [BBQ, Burgers, The Abominable Weekly Update, Summer plans]
-category: blog
+category: personal
 excerpt: Do you smell that? Smells like spring to me.
 ---
 Spring.

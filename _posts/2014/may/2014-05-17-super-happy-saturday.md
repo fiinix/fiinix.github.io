@@ -3,7 +3,7 @@ layout: post
 title: Super-Happy Saturday
 date: 2014-05-18 T 00:43 UTC
 tags : [Video, Humour]
-category: blog
+category: personal
 excerpt: Despite going for burgers again this week I really didn't feel like writing about it. So instead of that, you get a post with videos of stand-up comedians. That's not disappointing, right?
 ---
 At least it shouldn't be disappointing, because all these beautiful bastards are hilarious. So, ridiculous hilarious. Especially Andi Osho.

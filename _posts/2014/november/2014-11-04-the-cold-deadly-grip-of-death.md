@@ -3,7 +3,7 @@ layout: post
 title: "The Cold, Deadly Grip of Death"
 date: 2014-11-04 T 17:55 UTC
 tags : ["Middle-Earth: Shadow of Mordor", Gaming, Review]
-category: blog
+category: personal
 excerpt: "In which I give a spoiler-free anecdotal review of Middle-Earth: Shadow of Mordor. Spoiler: I really enjoyed it."
 color: "#4a779e"
 color2: "#395c78"

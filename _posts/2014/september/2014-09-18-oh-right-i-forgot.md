@@ -3,7 +3,7 @@ layout: post
 title: "Oh, Right. I Forgot"
 date: 2014-09-18 T 17:30 UTC
 tags : [Job, Press, Article, A Book Apart, Design Is a Job]
-category: blog
+category: personal
 excerpt: In which I remember about the short interview, in which the question "Who the hell is Carlos Eriksson?" finally gets an answer.
 ---
 Talk about showing up late to the party.

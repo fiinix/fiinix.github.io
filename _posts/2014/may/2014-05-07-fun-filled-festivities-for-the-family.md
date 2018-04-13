@@ -3,7 +3,7 @@ layout: post
 title: Fun-Filled Festivities For the Family
 date: 2014-05-07 T 19:50 UTC
 tags : [The Abominable Weekly Update, Lego, Rochester, Sweeps Festival, Board Gaming, Eldritch Horror, Birthday, Burgers]
-category: blog
+category: personal
 excerpt: From watching dancers with bell pads on their shins and building Lego mechs to getting slightly intoxicated with the Portuguese and protecting the world from an Ancient One, this has been a busy weekend.
 ---
 Somehow the expression "No rest for the wicked" comes to mind, despite the fact that it doesn't really have *anything* to do with all the stuff we got up to this 3-day weekend.

@@ -3,7 +3,7 @@ layout: post
 title: "A Very Merry Carlos Christmas Playlist"
 date: 2014-12-17 T 22:30 UTC
 tags : [Christmas, Music, Playlist]
-category: blog
+category: personal
 excerpt: In which I give you, most handsomest of readers, a carefully curated playlist of classic Christmas songs, modern Christmas songs and Gregorian chant songs.
 color: "#244a97"
 color2: "#85a8d4"

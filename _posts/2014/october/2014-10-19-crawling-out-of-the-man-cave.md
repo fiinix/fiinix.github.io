@@ -3,7 +3,7 @@ layout: post
 title: "Crawling Out of the Man Cave"
 date: 2014-10-19 T 11:00 UTC
 tags : [Personal, Man Cave, Feminism]
-category: blog
+category: personal
 excerpt: In which I reveal some of my emotional baggage and talk about the long journey ahead before becoming the husband and father I'd like to be.
 ---
 ## The road already taken

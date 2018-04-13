@@ -3,7 +3,7 @@ layout: post
 title: "A Letter From the Promised Land"
 date: 2014-09-07 T 16:00 UTC
 tags : [Job, The Abominable Weekly Update, Kent Life]
-category: blog
+category: personal
 excerpt: In which I pretend to be a turn of the 20th century immigrant who is writing home to the family and friends he has left behind for a brighter future in the new world.
 ---
 Dear mother,

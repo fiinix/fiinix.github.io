@@ -3,7 +3,7 @@ layout: post
 title: No Sleep, For I Am the Werewolf
 date: 2014-04-11 T 23:05 UTC
 tags : [Gaming, Marathon, Board Gaming, Just Giving, Charity, The Abominable Weekly Update]
-category: blog
+category: personal
 excerpt: Continuing from last week’s “I’m Definitely Too Old For This Shit” I thought I should tell you how my board game marathon went.
 ---
 Another week has gone by. Sure feels like time is flying by---I suppose this is what it's like getting old.

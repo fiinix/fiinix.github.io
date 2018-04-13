@@ -3,7 +3,7 @@ layout: post
 title: "Now That's What I Call Banana"
 date: 2015-01-20 T 19:00 UTC
 tags : [Health, Bananas]
-category: blog
+category: personal
 excerpt: In which I talk about bananas, bananas, bananas and bananas. Also bananas.
 color: "#d4ba43"
 color2: "#a1b63f"

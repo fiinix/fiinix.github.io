@@ -3,7 +3,7 @@ layout: post
 title: "My Favourite, Yet Terrible, Songs of the ‘90s"
 date: 2015-02-08 T 15:00 UTC
 tags : [Video, Music, "‘90s"]
-category: blog
+category: personal
 excerpt: "In which I admit to liking some questionable songs from the ‘90s."
 ---
 When I first thought of the entry idea to write a list of ‘90s songs, the most obvious choice was to write about my favourite songs, picking one song per year.

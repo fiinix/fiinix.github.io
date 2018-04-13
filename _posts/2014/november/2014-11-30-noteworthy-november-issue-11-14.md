@@ -3,7 +3,7 @@ layout: post
 title: "Noteworthy November, Issue 11/14"
 date: 2014-11-30 T 20:30 UTC
 tags : ["Keeping Up with the Erikssons", Pizza, Crickets, Beard, NaNoWriMo, Kent Life, World War II, Christmas]
-category: blog
+category: personal
 excerpt: "In this month's issue of Keeping Up With the Erikssons: My mom flies in to stay with us and together we try eating pizza made from insects, I begin a year long beard journey, I vow to write a 50,000 word novel in a month by participating in National Novel Writing Month and we attend the WWII experience \"Christmas on the Home Front\" at Kent Life."
 ---
 *We are gathered here, not to mourn the loss of The Abominable Weekly Update, but instead to sing praise and greet the arrival of Keeping Up with the Erikssons, the new and---in every way---improved way to fill all your voyeuristic needs.*

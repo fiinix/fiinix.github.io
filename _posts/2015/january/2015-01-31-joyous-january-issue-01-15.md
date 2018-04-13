@@ -3,7 +3,7 @@ layout: post
 title: "Joyous January, Issue 01/15"
 date: 2015-01-31 T 22:00 UTC
 tags : ["Keeping Up with the Erikssons", "Don't Starve", Microsoft HoloLens, Tattoo, Winter, Wartime Life]
-category: blog
+category: personal
 excerpt: "In this month's issue of Keeping Up With the Erikssons: We play games, get blown away by Microsoft, I continue my sleeve tattoo and we begin transforming our home in preparation for the war."
 ---
 Continuing from our cheerful mood of last year and keeping with the spirit of the [Best Christmas Ever][blog] we, the Eriksson family, spent what was also one of the best New Year's Eve celebrations ever.

@@ -3,7 +3,7 @@ layout: post
 title: "The Last Abominable Weekly Update"
 date: 2014-11-15 T 11:20 UTC
 tags : [The Abominable Weekly Update]
-category: blog
+category: personal
 excerpt: In which I hit the final nail in the coffin that is my weekly updates and lay out the future plans for the new and improved monthly updates.
 ---
 As I'm sure you've noticed The Abominable Weekly Update is swimming with the fishes. Gone the way of the dodo. Hopped the stick and other idioms like that.

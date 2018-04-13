@@ -3,7 +3,7 @@ layout: post
 title: "A Horribly Haunted Halloween"
 date: 2014-10-31 T 18:00 UTC
 tags : [Halloween, Pumpkins, "Season’s Greetings"]
-category: blog
+category: personal
 excerpt: In which I do the, by now, traditional pumpkin carving.
 ---
 

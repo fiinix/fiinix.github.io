@@ -3,7 +3,7 @@ layout: post
 title: "800 Days of Breathing"
 date: 2014-12-02 T 17:00 UTC
 tags : [Health, Smoking Cessation, Habits]
-category: blog
+category: personal
 excerpt: "In which I count the numerous days until I can put on my finest suit, comb my grey hair, go to my local shop to pick up their most expensive ivory pipe and start smoking again."
 ---
 It had now been 800 days since I took a long, long break in smoking.

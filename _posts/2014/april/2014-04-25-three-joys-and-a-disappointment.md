@@ -4,7 +4,7 @@ title: Three Joys and a Disappointment
 color: "#9b5616"
 date: 2014-04-26 T 19:00 UTC
 tags : ["Kingdoms of Amalur: Reckoning", "Lego Batman 2: DC Super Heroes", Spelunky, Thief, Gaming, Review]
-category: blog
+category: personal
 excerpt: "As a part of my extended Easter holiday, I spent a significant portion of the time playing an assortment of games. Steam sales will do that to you."
 tile: "/assets/posts/2014/april/three-joys-and-a-disappointment/tile.png"
 ---

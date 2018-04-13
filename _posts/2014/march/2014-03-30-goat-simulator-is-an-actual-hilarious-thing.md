@@ -3,7 +3,7 @@ layout: post
 title: Goat Simulator is an Actual (Hilarious) Thing
 date: 2014-03-30 T 22:45 UTC
 tags : [Goat Simulator, Gaming, Trailer, Video]
-category: blog
+category: personal
 excerpt: So, after having spent the entire weekend trying to come up with something to write about. But in the end, I couldn’t.
 ---
 No, I’m completely serious. I couldn’t come up with anything. At all.
