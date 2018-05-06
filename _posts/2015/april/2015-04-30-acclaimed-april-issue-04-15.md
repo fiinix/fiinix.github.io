@@ -2,8 +2,8 @@
 layout: post
 title: "Acclaimed April, Issue 04/15"
 date: 2015-05-01 T 18:30 UTC
-tags : ["Keeping Up with the Erikssons", Board Gaming, Tabletop Day, Glasses, Tattoo, "Avengers: Age of Ultron", Marvel, Movies]
-category: personal
+tags : ["Keeping Up with the Erikssons", Board games, Glasses, Tattoos, Movies]
+category: Life
 excerpt: "In this month’s issue of Keeping Up With the Erikssons: I get new glasses, play lots of board games, continue my tattoo and go to the cinema to experience Avengers: Age of Ultron in IMAX 3D."
 ---
 Aaah.

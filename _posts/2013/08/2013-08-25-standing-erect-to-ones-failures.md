@@ -3,8 +3,8 @@ title: "Standing Erect to Ones Failures"
 date: 2013-08-25T17:22:00+00:00
 author: Carlos
 layout: post
-tags: [Pictures, Vacation, Finland]
-category: personal
+tags: [Pictures, Travel, Finland]
+category: Life
 excerpt: "In which I confess how poorly the challenges I set myself went."
 ---
 So the time has come to come clean about those challenges — [The Re-Return Tour Of 2013](/blog/the-re-return-tour-of-2013) — I set myself earlier. Because as you might have noticed, I haven’t really mentioned them since. Well, there’s a reason for that.

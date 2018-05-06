@@ -3,8 +3,8 @@ title: "Ye Merry Medieval Update"
 date: 2013-09-07T23:30:00+00:00
 author: Carlos
 layout: post
-tags: ["The Abominable Weekly Update", "Rochester", "Tomb Raider", Gaming]
-category: personal
+tags: ["The Abominable Weekly Update", "Rochester", "Tomb Raider", Video games]
+category: Life
 excerpt: "In which the Erikssons visit Rochester Castle and its medieval re-enactment."
 ---
 Hear ye, hear ye! By decree of his royal majesty king Carlos, son of Erik, all ye who hath cast thy putrid gaze upon these words of holy proclamation shall gaze no more lest they be forever thrown into the pits of hell, where they shall burn in fire and brimstone. All ye hath been warned and so forth and such, mumble mumble…

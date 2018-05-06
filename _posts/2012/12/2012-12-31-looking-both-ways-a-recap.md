@@ -3,8 +3,8 @@ title: "Looking Both Ways (a Recap)"
 date: 2012-12-31T21:55:00+00:00
 author: Carlos
 layout: post
-tags: ["New Year's Recap"]
-category: personal
+tags: [Year-in-review]
+category: Life
 excerpt: "In which I recap the tumultuous year that involved packing a bag each and moving to a completely new country."
 ---
 And so we're here again. Tomorrow I can proudly wear my imaginary "I survived the Mayan Apocalypse, Twice!" t-shirt and make fun of people. Tomorrow I will officially — and unofficially I might add — been without smoking for exactly 100 days. Which mean I — or We — have spent roughly £544 on other stuff. I also celebrated my 300th post a few posts ago, but I decided — I forgot, okay? — not to make a big deal — no one really cares but me — about it. Tomorrow, it will stop being 2012 — for those of us using the Gregorian Calendar at least — and start being 2013.

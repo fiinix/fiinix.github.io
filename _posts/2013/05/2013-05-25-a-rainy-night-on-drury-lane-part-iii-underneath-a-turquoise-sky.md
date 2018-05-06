@@ -3,8 +3,8 @@ title: "A Rainy Night on Drury Lane, Part III — Underneath a Turquoise Sky"
 date: 2013-05-25T22:57:00+00:00
 author: Carlos
 layout: post
-tags: [Writing, "Short Story", Noir, Fiction, "A Rainy Night on Drury Lane", Humour]
-category: personal
+tags: [Writing, "A Rainy Night on Drury Lane"]
+category: Creative
 excerpt: "In which I continue part three of the multi-part short story about an ineffectual detective with a lisp."
 ---
 Right. I'm sure you're all dying to find out what happens next to our beloved Detective Wentworth. I won't hold you for much longer.

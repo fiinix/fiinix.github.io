@@ -3,8 +3,8 @@ title: "Fable III [A Kind of Review]"
 date: 2010-11-16T22:28:00+00:00
 author: Carlos
 layout: post
-tags: [Gaming, "Fable III", Review]
-category: personal
+tags: [Video games, "Fable (series)"]
+category: Review
 excerpt: "In which I review Fable III, the latest instalment in the Fable series from Lionhead Studios."
 ---
 I suppose this was inevitable, at some point I would have to say what I think about Fable III. As you might (or not) guessed by earlier posts I'm a bit of a fan, or at least used to be. Right now I'm a bit torn, because although I do like Fable III, it took me a while.

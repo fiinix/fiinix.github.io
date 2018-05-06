@@ -3,8 +3,8 @@ title: "The Abominable Weekly Update!"
 date: 2013-03-29T21:41:00+00:00
 author: Carlos
 layout: post
-tags: [Gaming, Beer, "The Abominable Weekly Update", "Front-end London", Easter, "Season’s Greetings", Finland, Bastion]
-category: personal
+tags: [Video games, "The Abominable Weekly Update", Conferences, Easter, "Season’s Greetings", Finland, Bastion]
+category: Life
 excerpt: "In which I talk about the things that have happened in the past week in the aptly named Abominable Weekly Update."
 ---
 Happy Easter to all, and to all a good night. That's it. No post this time and definitely not a post about a little of this and a little of that. Definitely not what you would call a Weekly Update. So go away. Bye. Off you go. Why aren't you going? No, don't click the link! Don't do it! Your eyes are not ready for the horrors that await behind that link.

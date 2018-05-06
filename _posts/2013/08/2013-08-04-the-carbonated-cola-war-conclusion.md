@@ -3,8 +3,8 @@ title: "The Carbonated Cola-War Conclusion"
 date: 2013-08-04T19:17:00+00:00
 author: Carlos
 layout: post
-tags: ["Coca-Cola vs Pepsi", "Double-blind Study"]
-category: personal
+tags: ["For science!", "Father and son"]
+category: Life
 excerpt: "In which I subject myself and the Eriksson family to a double-blind study to determine whether we can tell Coca-Cola and Pepsi apart."
 ---
 After a decade of delusions of grandeur, I finally — or do I? — put to rest the pressing question of whether or not I can tell the difference between Coca-Cola and Pepsi?

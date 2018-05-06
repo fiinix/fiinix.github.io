@@ -2,8 +2,8 @@
 layout: post
 title: "Lights, Camera, Something!"
 date: 2015-10-18 T 17:15 UTC
-tags : [Photography, Camera, Canon 100D]
-category: personal
+tags : [Cameras, Canon 100D]
+category: Technology
 excerpt: "In which carloseriksson.com gets a much needed upgrade in the form of a DSLR camera."
 ---
 For some time now I've wanted to get a camera. A dedicated camera instead of the camera on my phone, because every time I sit down to choose photos for my journal entries I find myself disappointed with the photos I have.

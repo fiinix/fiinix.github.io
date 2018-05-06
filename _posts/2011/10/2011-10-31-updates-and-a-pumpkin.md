@@ -3,8 +3,8 @@ title: "Updates and a Pumpkin"
 date: 2011-10-31T20:38:00+00:00
 author: Carlos
 layout: post
-tags: ["Halloween", "Season’s Greetings", Pumpkins]
-category: personal
+tags: ["Halloween", "Season’s Greetings"]
+category: Life
 excerpt: "In which it's that spooky time of the year again."
 ---
 So, yeah. In the same spirit as last year I keep insisting on not actually doing the Happy Halloween post until it actually is Halloween. But I ranted enough about it [last year](/blog/happy-halloween-for-real) so I won't do it this time. Anyway. Not a lot of things to update you with this time I'm afraid. The missus and me had an (hopefully) awesome Halloween-themed party this Saturday. I got drunk enough to think I could stand on my hands.. which I of course can't. So I sprained my thumb or something. Needless to say, it hurts and I'm a little wiser.. a.k.a I know not to do that again, because well.. my motor skills aren't that great apparently. Anything else?

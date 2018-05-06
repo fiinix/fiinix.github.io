@@ -2,8 +2,8 @@
 layout: post
 title: "This is Halloween, This is Halloween..."
 date: 2015-10-31 T 21:30 UTC
-tags : [Halloween, Pumpkins, "Season’s Greetings"]
-category: personal
+tags : [Halloween, "Season’s Greetings"]
+category: Life
 excerpt: "In which it wouldn't be Halloween without our traditional pumpkin carving."
 color: "#F6921D"
 color2: "#602749"

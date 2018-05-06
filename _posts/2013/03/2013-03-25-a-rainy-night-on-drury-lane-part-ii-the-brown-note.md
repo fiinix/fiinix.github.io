@@ -3,8 +3,8 @@ title: "A Rainy Night on Drury Lane, Part II — The Brown Note"
 date: 2013-03-25T18:23:00+00:00
 author: Carlos
 layout: post
-tags: [Writing, "Short Story", Noir, Fiction, "A Rainy Night on Drury Lane", Humour]
-category: personal
+tags: [Writing, "A Rainy Night on Drury Lane"]
+category: Creative
 excerpt: "In which I continue part two of the multi-part short story about an ineffectual detective with a lisp."
 ---
 Welcome back dear readers and take a seat as we dive right back in where we left off. Last time our reluctant protagonist Detective Wentworth was left standing alone with a cookie cutter ring, an envelope of what might be money and a slight erection… again. Suggesting this was not his first time in this particular predicament.

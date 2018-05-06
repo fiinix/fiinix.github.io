@@ -4,7 +4,7 @@ date: 2013-03-23T11:54:00+00:00
 author: Carlos
 layout: post
 tags: [Pictures]
-category: personal
+category: Life
 excerpt: "In which I take you on a picture journey from last July to two days ago."
 ---
 Today's title is brought to you by the adage that "a picture is worth a thousand words". So by the power of Math — and Grayskull — that would make this post worth one billi… 14 000 words. What I'm of course trying to say is that this post contains nothing but pictures. Well, pictures with "clever" titles but mostly nothing but pictures. Join us — my precious "us" — after the jump, as we take a pictorial journey from July last year to two days ago.

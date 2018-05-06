@@ -3,8 +3,8 @@ title: "Carlos’ Countdown ‘Til Christmas (6)"
 date: 2013-12-18T11:00:00+00:00
 author: Carlos
 layout: post
-tags: ["Christmas Countdown", Recipe, Nordic Cuisine]
-category: personal
+tags: [Christmas, Recipes, Baking]
+category: Life
 excerpt: "In which I share a my own take on my mom's gingerbread cookie recipe."
 ---
 6 days until Christmas. The countdown continues.

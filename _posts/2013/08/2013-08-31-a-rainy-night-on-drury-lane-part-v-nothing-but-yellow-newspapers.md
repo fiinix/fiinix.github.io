@@ -3,8 +3,8 @@ title: "A Rainy Night on Drury Lane, Part V — Nothing but Yellow Newspapers"
 date: 2013-08-31T22:53:00+00:00
 author: Carlos
 layout: post
-tags: [Writing, "Short Story", Noir, Fiction, "A Rainy Night on Drury Lane", Humour]
-category: personal
+tags: [Writing, "A Rainy Night on Drury Lane"]
+category: Creative
 excerpt: "In which I give you the fifth instalment of the multi-part short story about an ineffectual detective with a lisp."
 ---
 Welcome back dear readers, to the fifth instalment of our awesome “A Rainy Night On Drury Lane” series. You know the drill by now, where is Detective Wentworth taking us today? Only two parts left after this, things are getting pretty exciting.

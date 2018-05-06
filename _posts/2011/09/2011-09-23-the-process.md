@@ -4,8 +4,8 @@ title: The Process
 date: 2011-09-23T14:36:00+00:00
 author: Carlos
 layout: post
-tags: [Design, "Dorian Gray", "Book", "À Rebours"]
-category: personal
+tags: [Bookbinding, "Dorian Gray", Books, "À Rebours", Behind the scenes]
+category: Creative
 excerpt: "In which I reveal the present I've been making for my wife's upcoming birthday."
 ---
 So, the missus liked her book(s).. a lot.. unless she's lying of course. But for the sake of this post I'm going to assume she isn't. So yeah, surprise! She got "The Picture of Dorian Gray" by Oscar Wilde, inspired by the the first edition, first printing of 1891. It's her favourite fictional book.. ever.

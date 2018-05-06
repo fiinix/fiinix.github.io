@@ -2,8 +2,8 @@
 layout: post
 title: "Sudden Double Deep, the Podcast"
 date: 2017-05-06 T 22:00
-tags : [Podcast, Movies, "Sudden Double Deep"]
-category: personal
+tags : [Podcasts, Movies, "Sudden Double Deep"]
+category: Entertainment
 excerpt: "In which I tell you about this awesome triple bill title podcast that I've been listening to lately."
 color: "#EA4B2B"
 color2: "#74C5E2"

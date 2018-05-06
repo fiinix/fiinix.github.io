@@ -3,8 +3,8 @@ title: "The Celebratory Quinquennial Post!"
 date: 2013-05-18T10:00:00+00:00
 author: Carlos
 layout: post
-tags: [Retrospective, Writing]
-category: personal
+tags: [Anniversaries, Writing]
+category: Life
 excerpt: "In which my journal turns five and I take a look back at the different entries I've written over the years."
 ---
 Five years. Five paternally inter-coursing years. I have now had this blog for five years. Time sure flies when one rambles like a madman. By which I of course mean, **I ramble** like a madman. In case that wasn't already obvious. See, I'm doing it right now, crazy world, right? Many things evolve during the span of five years. So I suppose it's only fitting that I — that means you too — take a look at how I've evolved as a writer and how what I write about has evolved equally much. And then I end it all by looking a bit more into the future as well as my list of Underdog Posts of the Year. On for each year.

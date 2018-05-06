@@ -3,8 +3,8 @@ title: "Thanks But No"
 date: 2011-11-18T16:12:00+00:00
 author: Carlos
 layout: post
-tags: [Idols, "Reality TV"]
-category: personal
+tags: ["Reality TV"]
+category: Entertainment
 excerpt: "In which I decide to join a friend and audition for the reality television-music competition Idols."
 ---
 So yeah. I didn't make it through. That's that, I going to blog more about maybe tomorrow or something but right now I actually don't have the time to blog about it. But there's stories to share, and I will share them, I promise you that much..

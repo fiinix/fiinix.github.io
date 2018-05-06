@@ -4,7 +4,7 @@ date: 2012-07-20T09:16:00+00:00
 author: Carlos
 layout: post
 tags: [Moving]
-category: personal
+category: Life
 excerpt: "In which I return after a two month hiatus by seeing the Olympic flame."
 ---
 After almost two months of—as a friend put it—"radio silence" I decide to start things up again.. not with a whimper.. not with a bang.. but with an 'effin flame. Well, not just any 'effin flame. The Olympic mother-fucking torch of all mother-fucking flames![^1]

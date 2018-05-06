@@ -3,8 +3,8 @@ title: "Life is a Game With Permadeath"
 date: 2013-06-15T12:50:00+00:00
 author: Carlos
 layout: post
-tags: [Birthday, Cake]
-category: personal
+tags: [Birthdays, Baking]
+category: Life
 excerpt: "In which I'm about to turn 29 and in honour of that ask my wife to bake me a cake with 29 individual candles."
 ---
 I was originally going to call this post “Anachronistic Aging And Preventing A Paradox” but who are we kidding— even for me — that’s stretching title creativity to its limits. So… I’m getting older and well… we all know what that means, right? Cake. It means cake.

@@ -3,7 +3,7 @@ layout: post
 title: "Eggcellent Easter Everyone!"
 date: 2015-04-04 T 22:30 UTC
 tags : ["Season’s Greetings", Easter]
-category: personal
+category: Life
 excerpt: "In which we put on our best shawls, paint red spots on our cheeks and celebrate, what else, but Easter of course."
 ---
 In Sweden and parts of Finland, rather than just pay our respects to the death and resurrection of our Lord and Saviour Jeeby Creeby, we have managed to hold on to old pagan traditions as well---what else?

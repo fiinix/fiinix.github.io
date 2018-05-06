@@ -3,8 +3,8 @@ title: "Javascript Select Parser, part III"
 date: 2012-05-25T20:42:00+00:00
 author: Carlos
 layout: post
-tags: [Design, "Web Design"]
-category: professional
+tags: [Web design, UI design, CSS]
+category: Industry
 excerpt: "In which I continue Benjamin's work on his Javascript select parser by adding"
 ---
 Why part III you might be asking yourself. Well.. [beije](http://www.beije.fi/) already so nicely did [part I](http://www.beije.fi/post/javascript-select-parser/) and [part II](http://www.beije.fi/post/javascript-select-parser-part-ii/). And well.. whilst prototyping for NHL v.4 I wanted to see if I could get form elements to behave nicer.. in other words.. to _actually_ style them. At which point I blatantly stole (expect beije gives out everything without a license, so not technically not stealing..) his Javascript select parser.

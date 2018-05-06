@@ -3,8 +3,8 @@ title: "Why So Secretive?"
 date: 2011-09-08T20:44:00+00:00
 author: Carlos
 layout: post
-tags: [Design, "Web Design", "We Play NHL"]
-category: personal
+tags: [UI design, Web design, "We Play NHL", Behind the scenes]
+category: Creative
 excerpt: "In which I reveal the next, brand-spanking new version of our NHL statistics tracking tool."
 ---
 Well.. it’s been a while since I have posted anything now and some of you might be wondering why? Well, you can all stop wondering now. Yeah, sure I have had a four week vacation, that just ended. And well sure.. one would think that with all that time on my hands I should have been able to squeeze out at least a couple of posts.

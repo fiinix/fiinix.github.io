@@ -3,8 +3,8 @@ title: "Leo, You Bastard!"
 date: 2010-07-15T09:30:00+00:00
 author: Carlos
 layout: post
-tags: [Movies, "Romeo + Juliet"]
-category: personal
+tags: [Movies, Posters, "Romeo + Juliet"]
+category: Creative
 excerpt: "In which I pretend I had a shot at playing Romeo in Baz Luhrmann's Romeo + Juliet."
 ---
 Also... Did you ever tell you that I was in the movie Romeo+Juliet.

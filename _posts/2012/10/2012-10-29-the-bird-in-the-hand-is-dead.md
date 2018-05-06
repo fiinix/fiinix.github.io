@@ -3,8 +3,8 @@ title: "The Bird in the Hand Is Dead"
 date: 2012-10-29T20:01:00+00:00
 author: Carlos
 layout: post
-tags: [Design, Creative, "Web Design", Branding]
-category: personal
+tags: [Web design, Brand design]
+category: Creative
 excerpt: "In which I change the much-loved Fiinix Design name in favour of something a little easier to spell."
 ---
 "Rebuilding a Brand" is such a boring fucking title, which is why I went with "The Bird In The Hand Is Dead" instead. Also because I like being cryptic in my titles in some sort of vain attempt to capture the attention of my audience — that's you — and then give it all away by explaining the purpose — changing my brand from Fiinix Design to Carlos Eriksson and giving you a sneak preview of it — of the post before the jump.

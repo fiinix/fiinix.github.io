@@ -3,7 +3,7 @@ layout: post
 title: "An Apathetic Apology"
 date: 2016-07-24 T 09:00 +0100
 tags : ["Keeping Up with the Erikssons"]
-category: personal
+category: Life
 excerpt: "In which I apologise for the lack of entries but make no effort to remedy it."
 ---
 As I'm sure you've noticed there's been a distinct lack of entries, even by my standards.

@@ -2,8 +2,8 @@
 layout: post
 title: "Maddening March, Issue 03/16"
 date: 2016-04-10 T 15:00 +0100
-tags : ["Keeping Up with the Erikssons", Job, Monthly Challenge, "Worms Armageddon", Tattoo, Easter, Gaming]
-category: personal
+tags : ["Keeping Up with the Erikssons", Jobs, Tattoos, Easter, Video games, "Father and son", Languages]
+category: Life
 excerpt: "In this month’s issue of Keeping Up With the Erikssons: I get sick, more tattoos, another job, we celebrate Easter and I move on from this month's challenge to the next."
 ---
 Life has a habit of moving on, whether you like it or not.

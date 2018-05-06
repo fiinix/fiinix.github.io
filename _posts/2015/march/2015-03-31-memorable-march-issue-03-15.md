@@ -2,8 +2,8 @@
 layout: post
 title: "Memorable March, Issue 03/15"
 date: 2015-03-31 T 20:00 UTC
-tags : ["Keeping Up with the Erikssons", Birthday, Party, Tattoo, Family, "Solar Eclipse", Finland]
-category: personal
+tags : ["Keeping Up with the Erikssons", Birthdays, Tattoos, Family, Finland, Travel]
+category: Life
 excerpt: "In this month's issue of Keeping Up With the Erikssons: We decide to surprise some of our friends and family by taking an impromptu flight to Finland, explore the family tree, experience a disappointing solar eclipse and I, of course, continue my tattoo."
 ---
 Despite this month being practically longer than the last one, I actually feel as if it's gone by at a tremendous speed.

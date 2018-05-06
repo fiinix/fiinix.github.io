@@ -3,8 +3,8 @@ title: "Living in Alan, with Alan"
 date: 2012-08-26T19:54:00+00:00
 author: Carlos
 layout: post
-tags: [Moving, Job, Lonkero, Recipe, Pictures]
-category: personal
+tags: [Moving, Jobs, Lonkero, Recipes, Pictures]
+category: Life
 excerpt: "In which I finally reveal what our new home looks like, in all its semi-furnished glory."
 ---
 The ironic part is that it took me so long go get this written, that Alan no longer lives here. Thus making my clever title moot. But I am going to go with it anyway, because I wouldn't want to disappoint you — my numerous readers — who have patiently waited for me get my metaphorical thumb out of my metaphorical ass and actually write this. So here it is, the full scoop. The "So real, it's like you almost lived there yourself" -post.

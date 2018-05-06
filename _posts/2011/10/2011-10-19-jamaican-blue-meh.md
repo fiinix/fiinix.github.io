@@ -4,8 +4,8 @@ title: Jamaican Blue Meh
 date: 2011-10-19T20:49:00+00:00
 author: Carlos
 layout: post
-tags: [Coffee, Review, "Jamaican Blue Mountain"]
-category: personal
+tags: [Coffee, "Jamaican Blue Mountain"]
+category: Review
 excerpt: "In which I drink and review one of the most expensive coffees in the world, the famous Jamaican Blue Mountain."
 ---
 Expanding my horizons and consequentially my world map of coffees I recently had the utmost pleasure as well as the "meh" experience of drinking two new coffee beans that was not in my original "Coffees of the World" -series. [Part one](/blog/coffees-of-the-world-part-one), [part two](/blog/coffees-of-the-world-part-two) and [the final part](/blog/coffees-of-the-world-part-three).. for those that either don't know what the hell I'm talking about or those of you who just want to have their memory refreshed.

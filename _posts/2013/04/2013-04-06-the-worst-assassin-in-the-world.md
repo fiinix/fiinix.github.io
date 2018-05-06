@@ -2,8 +2,8 @@
 layout: post
 title: "The Worst Assassin in the World"
 date: 2013-04-06T23:44:00+01:00
-tags : [Gaming, Humour, "Hitman: Absolution"]
-category: personal
+tags : [Video games, "Hitman (series)"]
+category: One-shot
 excerpt: "Hitman: Absolution was on sale---on Steam---for £4.99 so I couldn't resist getting the latest instalment in the long running franchise that is the Hitman series. What follows is the recollection of a tale of failure and ineptitude because as it turned out, I am a pretty terrible assassin."
 ---
  I've been sent out to kill the King of Chinatown in the aptly named mission “The King of Chinatown” and as I arrive at the entrance, a sprawling Chinatown opens up in front of me. There are people everywhere, some frying noodles whilst others just hang out---busy minding their own business---I begin to look for the King. A well guarded man for sure I know I am going to have to use all of my skill and cunning. But it shouldn't be difficult as I am not just an assassin, I am The Assassin. I am Agent 47, the sneakiest most awesomest assassin ever. I assassinate things all stealthily for breakfast. Or at least that's what I tell myself.

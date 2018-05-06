@@ -3,8 +3,8 @@ title: "The Incoherent List of Things"
 date: 2013-01-25T00:18:00+00:00
 author: Carlos
 layout: post
-tags: [Design]
-category: personal
+tags: [Web design, Behind the scenes]
+category: Creative
 excerpt: "In which I ramble to myself about things I'm doing and going to do."
 ---
 Be warned. This is more a list to myself than anything else. I need to summarize my thoughts somewhere in a simple to-do list type schematic so I won't have to keep everything in mind all the time. Should you for some reason still feel like reading it, be my guest. I warned you. This is probably as incoherent train-of-thought writing as it's ever going to get.

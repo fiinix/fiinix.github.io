@@ -3,8 +3,8 @@ title: "Fuck You, Pay Me!"
 date: 2012-12-06T23:26:00+00:00
 author: Carlos
 layout: post
-tags: ["Web Design", "The Design Industry"]
-category: personal
+tags: [Web design]
+category: Industry
 excerpt: "In which I rant about some of the misconceptions of the design industry."
 ---
 Originally I was going to call this post "Fuck You, Pay Me!" in honour of Mike Monteiro but I decided against it and changed it to "Sit Down And Shut Up!" because I thought it might be too offensive. Then I changed my mind back and forth for a while, always wanting to revert back to my original idea but always feeling a bit hesitant, like a small child doing something they know is naughty. In the end, as you can see I decided on the more — possible — offensive way because… well… Fuck you. Pay me. That's why.

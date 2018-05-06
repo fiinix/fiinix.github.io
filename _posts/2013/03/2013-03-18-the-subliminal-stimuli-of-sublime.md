@@ -4,7 +4,7 @@ date: 2013-03-18T23:04:00+00:00
 author: Carlos
 layout: post
 tags: ["Sublime", "Notepad"]
-category: personal
+category: Technology
 excerpt: "In which I switch from Notepad++ to Sublime 2."
 ---
 After years of using Notepad++ I am now officially making the switch to Sublime 2. With some awesome version controlled snippets via Github (still setting all of that up) and everything that Sublime has to offer a part of me is just thinking "Why didn't I do this earlier?! I'm such an idiot!".

@@ -2,8 +2,8 @@
 layout: post
 title:  "Project: Board Game (Status Update)"
 date: 2009-07-29T14:23:00+01:00
-tags : [Board Gaming, Island of Eternity, Creative, Design]
-category: personal
+tags : [Board games, "Island of Eternity", "Board game development"]
+category: Creative
 excerpt: The first blog post featuring Island of Eternity, the 1930's styled adventure board game I'm creating.
 ---
 <div>

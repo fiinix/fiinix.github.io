@@ -3,8 +3,8 @@ title: "Carlos’ Countdown ‘Til Christmas (5)"
 date: 2013-12-19T11:00:00+00:00
 author: Carlos
 layout: post
-tags: ["Christmas Countdown", Limerick]
-category: personal
+tags: [Christmas]
+category: Entertainment
 excerpt: "In which I continue to count down the days 'til Christmas with some limericks."
 ---
 5 days until Christmas. The countdown continues.

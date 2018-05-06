@@ -3,8 +3,8 @@ title: "People Love My Stuff!"
 date: 2011-09-24T17:55:00+00:00
 author: Carlos
 layout: post
-tags: [Design, "XBMC Media Center", "Movie Genre Posters", "The Silhouettes", "The Reels"]
-category: personal
+tags: [UI design, "XBMC Media Center", Posters, Movies]
+category: Creative
 excerpt: "In which I show the series of media genre posters I designed for XBMC Media Center."
 ---
 Some time ago.. like over two years ago, I made some movie genre posters. Mostly because at the time there weren't any. I had/have XBMC running on an old Xbox 1 as my main source of awesome entertainment in the living room and decided that I wanted to have my movies sorted according to genres. So yeah, at the time there weren't any, because apparently people hadn't felt that need.. or some other reason.

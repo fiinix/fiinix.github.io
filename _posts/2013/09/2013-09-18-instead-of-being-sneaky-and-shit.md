@@ -3,8 +3,8 @@ title: "Instead of Being Sneaky And Shit"
 date: 2013-09-18T21:43:00+00:00
 author: Carlos
 layout: post
-tags: [Writing, "A Rainy Night on Drury Lane", Self-publishing]
-category: personal
+tags: [Writing, "A Rainy Night on Drury Lane"]
+category: Creative
 excerpt: "In which I reveal the plans that I've made for my multi-part short story. Spoiler, I'm making it a book."
 ---
 Unlike last time where you actually had give something — money — to get something — [t-shirt](/blog/feed-me) — this time you don’t actually have to give me anything. In fact, I’m the one who is going to do the giving. Why? Because I’m such a nice guy, that’s why.

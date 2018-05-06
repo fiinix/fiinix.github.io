@@ -4,7 +4,7 @@ date: 2013-09-12T20:53:00+00:00
 author: Carlos
 layout: post
 tags: ["Miley Cirus", "Robert Pattinson"]
-category: personal
+category: Entertainment
 excerpt: "In which I admit to liking two people."
 ---
 Failing to think of 5 things I’m ashamed to admit that I like… I settle for a measly list of 2 things.

@@ -3,8 +3,8 @@ title: "This Monday Sucks a Little Less"
 date: 2012-03-26T11:54:00+00:00
 author: Carlos
 layout: post
-tags: [England, Coffee, "Eight Point Nine", Chart, "Monday Sucks"]
-category: personal
+tags: [England, Coffee, "Eight Point Nine", Data, Mondays]
+category: Life
 excerpt: "In which I make a chart depicting the levels Days of the week sucks and get a coffee delivery from the UK."
 ---
 Some times Mondays just suck, don't they? Probably where they expression "Having a case of the Mondays" comes from. As a "fun" exercise, if you type in "mondays sucks" into Google you get about 130 000 000 (130 million) results. No try typing in "fridays sucks" and you're presented with a measly 5 370 000 results.

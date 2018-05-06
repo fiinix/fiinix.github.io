@@ -3,8 +3,8 @@ title: "Doucebags, Donations and Dinosaurs"
 date: 2013-11-17T19:59:00+00:00
 author: Carlos
 layout: post
-tags: [Baking, Cupcakes, Movember, "The Abominable Weekly Update", Duolingo]
-category: personal
+tags: [Baking, Cupcakes, Movember, "The Abominable Weekly Update", Languages, Charities]
+category: Life
 excerpt: "In which I continue my crazy cupcake experiments, learn more French and wear a dinosaur onsie for charity."
 ---
 Riddle me this: When is 15 the same as 46? The answer may surprise you.

@@ -3,8 +3,8 @@ title: "A Rainy Night on Drury Lane, Part IV — Leering Pale Green Eyes"
 date: 2013-07-06T15:44:00+00:00
 author: Carlos
 layout: post
-tags: [Writing, "Short Story", Noir, Fiction, "A Rainy Night on Drury Lane", Humour]
-category: personal
+tags: [Writing, "A Rainy Night on Drury Lane"]
+category: Creative
 excerpt: "In which I continue part four of the multi-part short story about an ineffectual detective with a lisp."
 ---
 The plot thickens as Detective Wentworth is shot at by a mysterious German who then invites Detective Wentworth to meet his mitarbeiter. Where are they going? Who is he going to meet and why? And most importantly, why does everything smell like figs?

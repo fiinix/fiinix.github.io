@@ -3,8 +3,8 @@ title: "The Afterlife Is a Harsh Mistress"
 date: 2011-10-16T20:13:00+00:00
 author: Carlos
 layout: post
-tags: ["Gaming", "LIMBO", Review]
-category: personal
+tags: [Video games, LIMBO,]
+category: Review
 excerpt: "In which I review the unpredictably terryfying game LIMBO by Playdead."
 ---
 Or "How I realised there's lot of games I have to play".

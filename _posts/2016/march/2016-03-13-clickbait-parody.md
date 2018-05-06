@@ -2,8 +2,8 @@
 layout: post
 title: "Can You Handle Knowing This 1 Incredibly Hyperbolic Thing? You Won't Believe What Happens Next!"
 date: 2016-03-13 T 19:00 UTC
-tags : [Clickbait, Parody, ACHOO, "Photic Sneeze Reflex"]
-category: personal
+tags : ["Photic sneeze reflex"]
+category: One-shot
 excerpt: "In which I sell my soul to create a title of a sensational or provocative nature, whose main purpose is to attract attention and draw visitors to a particular web page."
 ---
 

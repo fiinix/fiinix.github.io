@@ -2,8 +2,8 @@
 layout: post
 title: "Nordic Cuisine; Kokosbollar"
 date: 2015-10-24 T 16:00 UTC
-tags : ["Nordic Cuisine", "Recipe"]
-category: personal
+tags : [Finland, Recipes]
+category: Health
 excerpt: "In which I share a recipe of a Nordic childhood favourite, which will put your child(ren) into sugar-induced comas---of delightfulness."
 color: "#efad1f"
 color2: "#C2D65C"

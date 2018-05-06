@@ -2,8 +2,8 @@
 layout: post
 title: "The Joys of Living on Joylent"
 date: 2016-02-21 T 21:00 UTC
-tags : ["My Week With", Joylent, Meal Replacement, "The Future of Food"]
-category: personal
+tags : ["My week with", Joylent, "The future of food"]
+category: Health
 excerpt: "In which I live on Joylent, the meal replacement beverage, for a week, keeping a day-by-day account of the experience."
 color: "#00ccb1"
 color2: "#9c97b5"

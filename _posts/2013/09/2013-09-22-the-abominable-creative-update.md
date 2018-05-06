@@ -3,8 +3,8 @@ title: "The Abominable Creative Update"
 date: 2013-09-22T22:05:00+00:00
 author: Carlos
 layout: post
-tags: ["The Abominable Weekly Update", Birthday, Movies, "Back to the Future", Design]
-category: personal
+tags: ["The Abominable Weekly Update", Birthdays, Movies, "Back to the Future", Posters]
+category: Life
 excerpt: "In which I get creative with Lego and bake a shocking chocolate cake for Rebecka."
 ---
 No. Don’t. Turn away. Please for once heed my warnings and…

@@ -2,8 +2,8 @@
 layout: post
 title: "Setting the Number of Decimals in Sublime and Emmet"
 date: 2014-03-06T11:00:00Z
-tags : [Emmet, Sublime, Zen Coding, "Tricks & Tips"]
-category: professional
+tags : [Emmet, Sublime, IDE, "Tips and tricks"]
+category: Technology
 excerpt: "In which I modify the number of decimals Emmet, formerly Zen Coding, rounds to when evaluating expressions in Sublime Text 2."
 ---
 One of the things I plan on/want to do more this year is write design and/or development related posts. And what better way to start then with this little useful nugget I found myself needing just the other day.

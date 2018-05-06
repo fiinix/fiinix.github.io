@@ -3,8 +3,8 @@ title: "And Another Thing…"
 date: 2013-07-13T10:22:00+00:00
 author: Carlos
 layout: post
-tags: ["Finland vs England", Immigration, "Minimal Lifestyle"]
-category: personal
+tags: [Finland, England, Immigration, Minimalism]
+category: Life
 excerpt: "In which I go into greater detail about the things I did take with me when we moved the UK."
 ---
 “Apparently” some readers where disappointed by my [“Living From A Suitcase”](/blog/living-from-a-suitcase) post. “Apparently” I didn’t divulge enough information. “Apparently” some people are just never happy. But one aims to please, so here I am again.

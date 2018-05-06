@@ -2,8 +2,8 @@
 layout: post
 title: "A Finn in the Forest, Part I"
 date: 2015-09-22 T 18:30 UTC
-tags : [Camping, "Web in the Woods", Conference, Pictures]
-category: personal
+tags : ["Web in the Woods", Conferences, Pictures]
+category: Industry
 excerpt: "In which I manage to get ready to live out in the woods for a weekend in what is probably the longest entry to date. Reviewing oh so many different products I also reach a new low when I review a spoon."
 color: "#2E8B57"
 color2: "#F79337"

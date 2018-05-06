@@ -3,8 +3,8 @@ title: "Nine Days Later"
 date: 2011-05-15T12:12:00+00:00
 author: Carlos
 layout: post
-tags: ["Coffee", "Double-blind Study"]
-category: personal
+tags: [Coffee, "For science!"]
+category: Life
 excerpt: "In which I've reduced my refined sugar intake and started drinking fresher coffee."
 ---
 *Long text broken up with a few pictures, but totally well worth the read. I'm not kidding, go make yourself a cup of coffee, you're going to be here for a while.*

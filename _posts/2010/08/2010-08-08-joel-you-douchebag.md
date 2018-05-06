@@ -3,8 +3,8 @@ title: "Joel, You Douchebag!"
 date: 2010-08-08T21:14:00+00:00
 author: Carlos
 layout: post
-tags: [Movies, "Batman and Robin"]
-category: personal
+tags: [Movies, Posters, "Batman"]
+category: Creative
 excerpt: "In which I pretend I had a shot at playing all the parts in Joel Schumacher's Batman and Robin."
 ---
 Joel Schumacher is also a douchebag. Origianaly... huh? (Freudian slip?!) Originally I was cast to play all the male leading parts. But George Clooney with his incredibly chiseled face and Chris O'Donnells infamous BJ tricks convinced Joel that they should have leading roles instead. They later managed to squeeze in Arnie despite his lacking acting skills. Also known as; He doesn't have any. And of course the rest is history and they all.. wait a minute.. oh that's right, the movie completly flopped so badly that no one even touched Batman until Chris Nolan rebooted the shit out it.. the shit of awesome-ness.

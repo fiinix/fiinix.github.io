@@ -4,8 +4,8 @@ title: Designer != Artist
 date: 2013-03-13T23:42:00+00:00
 author: Carlos
 layout: post
-tags: ["Web Design", Branding]
-category: personal
+tags: [Brand design, Behind the scenes]
+category: Creative
 excerpt: "In which I invite you to join me in the messy process that is the redesign of my personal brand."
 ---
 Or… "The Designer is not equal to the Artist".

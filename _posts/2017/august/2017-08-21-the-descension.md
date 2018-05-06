@@ -2,8 +2,8 @@
 layout: post
 title: "The Descension"
 date: 2017-08-21 T 21:00
-tags : ["Smoking Cessation", "Breaking a Habit", Health, Running]
-category: personal
+tags : ["Smoking cessation", Running]
+category: Health
 excerpt: "In which I talk about how after not smoking for 4 years I failed and started again."
 disclaimer: "Trigger warning: The following entry features fictional dialogue with medical professional."
 color: "#2a3439"

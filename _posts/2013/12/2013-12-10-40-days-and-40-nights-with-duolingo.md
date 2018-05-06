@@ -3,8 +3,8 @@ title: "40 days and 40 nights, with Duolingo"
 date: 2013-12-10T17:00:00+00:00
 author: Carlos
 layout: post
-tags: [Duolingo, French, Review]
-category: personal
+tags: [Duolingo, Languages]
+category: Review
 excerpt: "In which I talk about my experience using Duolingo to learn French."
 ---
 Or, <i lang="fr">40 jours et 40 nuits, avec Duolingo</i>, as I would say if I spoke French well enough to do so. Which I suppose I actually kind of do. I say “kind of” because I _did_ use Google Translate for that translation but that’s mostly because I have yet to learn how to say the word “day” in French. Everything else, I totally knew.

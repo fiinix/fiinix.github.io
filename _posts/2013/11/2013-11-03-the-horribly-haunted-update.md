@@ -3,8 +3,8 @@ title: "The Horribly Haunted Update"
 date: 2013-11-03T16:47:00+00:00
 author: Carlos
 layout: post
-tags: [Baking, Cupcakes, Duolingo, Pumpkins, Pokémon, "The Abominable Weeky Update"]
-category: personal
+tags: [Baking, Cupcakes, Languages, "The Abominable Weekly Update"]
+category: Life
 excerpt: "In which look at the sadness that is one of our pumpkins, how terrible I am at playing Pokémon and start growing a moustache for Movember."
 ---
 So, Halloween came and went by pretty quickly. The real spiders and their webs were cleaned up—yeah, really—to give way to fake cobwebs, the pumpkins were carved into Jack-o’-lanterns using good tools as well as “unorthodox” tools and children guised as various nefarious creatures of Satan walked around asking for treats with threats of tricks.

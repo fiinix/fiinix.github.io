@@ -3,8 +3,8 @@ title: "Our Remastered Hero of Oakvale Returns"
 date: 2013-07-21T22:29:00+00:00
 author: Carlos
 layout: post
-tags: [Gaming, Humour, "Fable Anniversary", "Fable: The Lost Chapters"]
-category: personal
+tags: [Video games, Anniversaries, "Fable (series)"]
+category: One-shot
 excerpt: "In which I revisit the game Fable, first released ten years ago I have fond memories of it."
 ---
 Wow, it’s been — soon anyway — 10 years since the first Fable game was released. Remember? The one they actually released for PC as well. Not that I’m holding a grudge or anything. No really. I mostly played it on the original Xbox but I’ve heard rumours that they’re making the re-mastered edition an Xbox One Exclusive.

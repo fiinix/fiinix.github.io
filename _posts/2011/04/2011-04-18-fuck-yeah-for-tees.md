@@ -3,8 +3,8 @@ title: "Fuck Yeah, For Tees!"
 date: 2011-04-18T15:28:00+00:00
 author: Carlos
 layout: post
-tags: ["Design", "Clothing", "Freddy Krueger", "13 Icons of Horror", "T-Shirt", "Chucky", "Alien/Xenomorph", "Ghostface", "Hannibal", "Jason Vorhees", "Bruce (JAWS)", "Billy (SAW)", "Leatherface", "Michael Myers", "Pennywise", "Pinhead", "Predator"]
-category: personal
+tags: ["13 Icons of Horror", T-shirts]
+category: Creative
 excerpt: "In which I receive my first sales report on my 13 Icons of Horror T-shirts."
 ---
 Fuck yeah!

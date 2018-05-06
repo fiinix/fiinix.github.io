@@ -2,8 +2,8 @@
 layout: post
 title: "A Multilingual Monologue"
 date: 2016-05-02 T 09:00 +0100
-tags : [Duolingo, Languages, Learning, Danish, French, "Monthly Challenge"]
-category: personal
+tags : [Duolingo, Languages]
+category: Life
 excerpt: "In which I speak in English. But also think in English. Look I'm doing it right now."
 color: "#78c800"
 color2: "#ffc200"

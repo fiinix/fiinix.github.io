@@ -2,8 +2,8 @@
 layout: post
 title: "Agnostic April, Issue 04/16"
 date: 2016-05-02 T 17:00 +0100
-tags : ["Keeping Up with the Erikssons", Monthly Challenge, Marvel, "Captain America: Civil War", Movies, Joylent, Commuting, Photography]
-category: personal
+tags : ["Keeping Up with the Erikssons", "Father and son", Movies, Joylent]
+category: Life
 excerpt: "In this month’s issue of Keeping Up With the Erikssons: I continue commuting, eat more Joylent, Lucien and I go watch the next Marvel film (no spoilers, promise), I look back at this month's challenge and invite you to join this month's challenge."
 ---
 A quick look at the calendar reveals that it's that time of the month again.

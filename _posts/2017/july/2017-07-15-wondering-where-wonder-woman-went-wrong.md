@@ -2,8 +2,8 @@
 layout: post
 title: "Wondering Where Wonder Woman Went Wrong"
 date: 2017-07-15 T 19:00
-tags : [Review, "Wonder Woman", "DC Comics", Movies]
-category: personal
+tags : ["DC Comics", Movies]
+category: Review
 excerpt: "In which I wonder about the short-comings of DC Comics' Wonder Woman."
 disclaimer: "Spoiler warning: The following entry contains spoilers for DC Comics' Wonder Woman and Marvel's Iron Man 3."
 text: "dark"

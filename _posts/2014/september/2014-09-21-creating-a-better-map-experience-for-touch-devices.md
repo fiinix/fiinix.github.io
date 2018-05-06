@@ -2,8 +2,8 @@
 layout: post
 title: "Creating a Better Map Experience for Touch Devices"
 date: 2014-09-20 T 21:50 UTC
-tags : [Javascript, Front-end, HTML5, CSS3, Map, Mobile, Touch, Accessibility]
-category: professional
+tags : [Javascript, UX design, HTML5, CSS3, Accessibility]
+category: Industry
 excerpt: In which I provide a solution to the problem of not being able to scroll the viewport on touch devices because I'm stuck inside a stupid map that is covering the entire viewport.
 ---
 You know what I'm talking about.

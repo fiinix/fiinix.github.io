@@ -2,8 +2,8 @@
 layout: post
 title: "Dating in the 21st Century"
 date: 2016-12-28 T 14:00
-tags : ["My Week With", Tinder, Happn, Dating]
-category: personal
+tags : ["My week with", Dating]
+category: Life
 excerpt: "In which I try my hand at dating apps and see what it's like dating for people in the 21st century."
 color: "#ff6a6a"
 color2: "#CD3737"

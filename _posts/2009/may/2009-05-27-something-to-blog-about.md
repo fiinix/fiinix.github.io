@@ -2,8 +2,8 @@
 layout: post
 title: Something to Blog About
 date: 2009-05-27T08:21:00+01:00
-tags : [Dolls, Design, Creative, Ihanko Pihalla]
-category: personal
+tags : [Dolls, Sculpting]
+category: Creative
 excerpt: Mostly just a picture of the friendliest doll I've ever made.
 ---
 Turns out some of my creations have made it to the almighty internet ([link][link]).

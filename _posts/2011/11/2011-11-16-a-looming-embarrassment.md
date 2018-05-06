@@ -3,8 +3,8 @@ title: "A Looming Embarrassment"
 date: 2011-11-16T18:50:00+00:00
 author: Carlos
 layout: post
-tags: [Idols, "Reality TV"]
-category: personal
+tags: ["Reality TV", Music]
+category: Entertainment
 excerpt: "In which I decide to join a friend and audition for the reality television-music competition Idols."
 ---
 This Friday I am going to audition for Idols. I mentioned it briefly in [Updates and a Pumpkin](/blog/updates-and-a-pumpkin) and because.. well.. I have no shame I suppose I now doing it again. How will it go? What will I sing? Only time can tell. Well time.. and me.. since I have now decided what to sing.. but because I partly want to be sneaky and partly I am curious to see what the judges think first (assuming I get that far) I won't actually tell you what song it is just yet.

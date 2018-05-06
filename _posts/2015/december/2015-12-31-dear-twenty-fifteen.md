@@ -2,8 +2,8 @@
 layout: post
 title: "Dear Twenty-Fifteen"
 date: 2015-12-31 T 13:00 UTC
-tags : ["New Year's Recap"]
-category: personal
+tags : [Year-in-review]
+category: Life
 excerpt: "In which the time has come for Twenty-Fifteen and I to break up with each other. By which I mean, I'm breaking up with Twenty-Fifteen."
 ---
 Dear 2015,

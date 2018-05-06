@@ -3,8 +3,8 @@ title: "P-P-P-Poker Table"
 date: 2010-12-05T21:01:00+00:00
 author: Carlos
 layout: post
-tags: [Woodcrafting, Design]
-category: personal
+tags: [Woodcrafting, Gambling]
+category: Creative
 excerpt: "In which I design and build an octagonal poker table out of birch and European pruce."
 ---
 Hello again.. or something..  

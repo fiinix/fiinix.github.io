@@ -2,8 +2,8 @@
 layout: post
 title: "Imaginative Ink, a Tattoo Story"
 date: 2016-03-19 T 10:00 UTC
-tags : ["Tattoo"]
-category: personal
+tags : [Tattoos, Pictures]
+category: Life
 excerpt: "In which I talk about all the tattoos I have, how I got them and what they mean."
 ---
 Who doesn't enjoy having needles pierce their skin?

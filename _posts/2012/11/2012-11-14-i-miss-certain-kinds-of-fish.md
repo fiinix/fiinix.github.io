@@ -4,7 +4,7 @@ date: 2012-11-14T22:01:00+00:00
 author: Carlos
 layout: post
 tags: [Finland]
-category: personal
+category: Life
 excerpt: "In which I talk about the top 10 things I kind of miss from Finland but not enough to move back but possibly enough to import them at some point."
 ---
 This post's title is a reference to the [So Long, and Thanks for All the Fish](/blog/so-long-and-thanks-for-all-the-fish) post I wrote the day we left Finland. That post title in turn was a pretty obvious — at least I think — reference to [Douglas Adams' "The Hitchhiker's Guide to the Galaxy"](http://en.wikipedia.org/wiki/Hitchhiker%27s_Guide_to_the_Galaxy). Right. Now that we have covered all the various references made here and there, let's get to the point of this particular post. Which should also be pretty obvious at this point but lest it isn't, I will simply state it here. I miss — amongst other things — [Salty Liquorice](http://en.wikipedia.org/wiki/Salmiakki), a lot.

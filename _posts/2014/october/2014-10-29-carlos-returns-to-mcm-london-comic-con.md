@@ -2,8 +2,8 @@
 layout: post
 title: "Carlos Returns to MCM London Comic Con"
 date: 2014-10-29 T 22:30 UTC
-tags : [Pictures, Cosplay, Comic Con, T-Shirt, Joker, The Abominable Weekly Update, Batman]
-category: personal
+tags : [Pictures, Cosplay, Comic-con, T-shirts, "The Abominable Weekly Update", Batman]
+category: Life
 excerpt: In which I return to MCM London Comic Con and get the broodiest selfie ever with none other than Batman.
 ---
 Last Saturday Steve, Pete and I, joined by first-timers Giorgos and Matt, went to MCM London Comic Con, again.

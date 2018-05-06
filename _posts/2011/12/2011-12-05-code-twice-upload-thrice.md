@@ -3,8 +3,8 @@ title: "Code Twice, Upload Thrice"
 date: 2011-12-05T17:33:00+00:00
 author: Carlos
 layout: post
-tags: [Design, "Web Design", Creative]
-category: personal
+tags: [Web design]
+category: Creative
 excerpt: "In which the 37th version of my website is finally ready and live."
 ---
 And so the time has finally come to launch the recode and well.. obviously.. redesign of fiinixdesign.eu. Internally I'm calling this one "volume 15" but it's more in the region of # 37 at least. But probably even more than that, I lost count a few years ago when I switched from calling them "version" to "volume". Anyway, that's not why you are here, so without any further ado / I have a lot to do today and for the not so distant future so don't expect things to get more active here. Yeah, I know, I know.. you're getting all emotional about it but you're just going to have to make do for now and hopefully as things calm down a bit I can get more active at blogging (not a proper verb I know) again.

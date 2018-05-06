@@ -2,8 +2,8 @@
 layout: post
 title: "Mice, Men and the Wonderful Wizard of Misogyny"
 date: 2016-04-03 T 12:00 UTC
-tags : [Misogyny, Feminism, Equality, Mice, "The Wonderful Wizard of Oz", "L. Frank Baum", "W. W. Denslow", Personal]
-category: personal
+tags : [Equality]
+category: One-shot
 excerpt: "In which I talk about the pest infestation we had and how it helped open my eyes to what women and marginalised people go through every day."
 color: "#050c5f"
 color2: "#e7d85d"

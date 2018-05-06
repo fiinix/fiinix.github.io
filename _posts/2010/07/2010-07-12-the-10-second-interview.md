@@ -3,8 +3,8 @@ title: "The 10 Second Interview"
 date: 2010-07-12T18:15:00+00:00
 author: Carlos
 layout: post
-tags: ["Interview"]
-category: personal
+tags: ["Interviews"]
+category: One-shot
 excerpt: "In which I interview myself in the ultimate exercise in narcissism."
 ---
 *My name is...* Carlos.

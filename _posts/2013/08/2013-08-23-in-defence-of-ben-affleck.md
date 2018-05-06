@@ -3,8 +3,8 @@ title: "In Defence of Ben Affleck"
 date: 2013-08-23T15:06:00+00:00
 author: Carlos
 layout: post
-tags: [Batman, "Ben Affleck", "Batman v Superman: Dawn of Justice"]
-category: personal
+tags: [Batman, Movies]
+category: Entertainment
 excerpt: "In which I'm quite positive about the casting choice of Ben Affleck for the upcoming Batman v Superman: Dawn of Justice film, unlike the rest of the world who is up in arms."
 ---
 As the world turns their back on Ben Affleck I figured I could take a more defensive stance of the casting choice to make him the next Batman.

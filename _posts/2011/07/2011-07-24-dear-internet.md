@@ -3,8 +3,8 @@ title: "Dear Internet"
 date: 2011-07-24T17:53:00+00:00
 author: Carlos
 layout: post
-tags: [Porn, Internet]
-category: personal
+tags: [Data]
+category: Technology
 excerpt: "In which my blog reaches porn-status by outranking Candi the dirty cum slut for the search term *free slutcocking movies*."
 ---
 Yes, two posts in one day. How will it all end?!

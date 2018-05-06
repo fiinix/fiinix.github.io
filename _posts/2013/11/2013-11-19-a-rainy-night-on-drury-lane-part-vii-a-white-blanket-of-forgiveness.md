@@ -3,8 +3,8 @@ title: "A Rainy Night on Drury Lane, Part VII — A White Blanket of Forgiveness
 date: 2013-11-19T10:00:00+00:00
 author: Carlos
 layout: post
-tags: [Writing, "Short Story", Noir, Fiction, "A Rainy Night on Drury Lane", Humour]
-category: personal
+tags: [Writing, "A Rainy Night on Drury Lane"]
+category: Creative
 excerpt: "In which I finish the multi-part short hardboiled noir story about our very softboiled detective."
 ---
 It’s taken us nearly a year to get here but we’re finally here, the final instalment of “A Rainy Night on Drury Lane” is here, the hardboiled noir story about a very softboiled detective by the name of Richard Wentworth comes to its conclusion.

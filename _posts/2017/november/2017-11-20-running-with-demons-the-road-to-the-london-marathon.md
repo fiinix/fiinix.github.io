@@ -2,8 +2,8 @@
 layout: post
 title: "Running with Demons: The Road to the London Marathon"
 date: 2017-11-20 T 09:00
-tags : [Health, Running, Marathon, "Virgin Money London Marathon", "Just Giving", Charity, "East Anglian Air Ambulance", EAAA]
-category: personal
+tags : [Videos, Running, Marathons, "Virgin Money London Marathon", Charities, "East Anglian Air Ambulance", Journeys]
+category: Health
 excerpt: "In which I announce the next chapter in the journey that is Carlos figuring out this running stuff people keep talking about---by which I mean I'm running the London Marathon."
 thumbnail: "running-with-demons-thumbnail.jpg"
 alt: "Carlos Eriksson whispering into the camera."

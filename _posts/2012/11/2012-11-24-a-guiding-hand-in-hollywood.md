@@ -3,8 +3,8 @@ title: "A Guiding Hand in Hollywood"
 date: 2012-11-24T16:30:00+00:00
 author: Carlos
 layout: post
-tags: [Review, "Brave", "Cosmopolis", "Jumanji", "Madagascar 3: Europe's Most Wanted", "Men in Black III", "Great Expectations", Movies]
-category: personal
+tags: ["Brave", "Cosmopolis", "Jumanji", "Madagascar 3: Europe's Most Wanted", "Men in Black III", "Great Expectations", Movies]
+category: Review
 excerpt: "In which I review a butt load of movies, to spare you the effort of seeing them only to realise you had wasted your time."
 ---
 Unsure which movies to watch? Fear not for you are in — moderately — safe hands. Lean back, relax and make yourself uncomfortable as I venture out into the wild to find you the movies worth your time. And the ones you should avoid like the plague. You know how to avoid something like the plague, don't you? No? Jeez, do I have to do everything in this relationship? Oh well, after this… you will know.

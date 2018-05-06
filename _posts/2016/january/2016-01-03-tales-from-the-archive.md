@@ -2,8 +2,8 @@
 layout: post
 title: "Tales from the Archive"
 date: 2016-01-03 T 21:00 UTC
-tags : [Writing]
-category: personal
+tags : [Writing, Jekyll]
+category: Meta
 excerpt: "In which I finish migrating all the entries from 2009 and realise how shit most of them are."
 ---
 As I concluded the year that had been by updating the copy for 2015 in [the Archive][archive], I also thought it would a good time to actually get some of the old entries from Blogger migrated.

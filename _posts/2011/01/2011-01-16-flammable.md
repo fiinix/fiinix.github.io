@@ -3,8 +3,8 @@ title: "Flammable"
 date: 2011-01-16T06:39:00+00:00
 author: Carlos
 layout: post
-tags: ["Board Gaming", "Island of Eternity"]
-category: personal
+tags: [Board games, Board game development, "Island of Eternity"]
+category: Creative
 excerpt: "In which I talk about the aesthetic inspirations that formed the design of Island of Eternity."
 ---
 I have a surprise for you people (I don't know yet if it'll be a good surprise or a bad one). I won't blog about it yet, because I'm still waiting for the opportune moment to tell the world. So until then you're all going to have to settle with this. No.. don't cry.. it'll be alright.. I promise.

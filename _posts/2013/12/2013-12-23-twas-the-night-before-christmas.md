@@ -3,8 +3,8 @@ title: "‘Twas the Night Before Christmas"
 date: 2013-12-23T18:00:00+00:00
 author: Carlos
 layout: post
-tags: ["Christmas Countdown", "‘Twas the Night Before Christmas"]
-category: personal
+tags: [Christmas, "Father and son"]
+category: Life
 excerpt: "In which Lucien and I re-imagine the classic 'Twas the Night before Christmas story to include bears and purple tentacle monsters."
 ---
 1 days until Christmas. The countdown ends tonight.

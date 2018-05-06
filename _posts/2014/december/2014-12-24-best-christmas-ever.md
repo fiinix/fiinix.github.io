@@ -3,7 +3,7 @@ layout: post
 title: "Best Christmas Ever!"
 date: 2014-12-24 T 23:00 UTC
 tags : [Christmas, "Season’s Greetings"]
-category: personal
+category: Life
 excerpt: In which we finally let go of last year's disastrous Christmas and begin to enjoy this year's quite wonderful Christmas.
 ---
 This year's Christmas is the one that counts, because last year's Christmas wasn't much to hang in the proverbial Christmas tree.

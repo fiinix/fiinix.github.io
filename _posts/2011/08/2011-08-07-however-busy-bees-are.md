@@ -3,8 +3,8 @@ title: "However Busy Bees Are"
 date: 2011-08-07T23:04:00+00:00
 author: Carlos
 layout: post
-tags: ["We Play NHL", Baking, Woodcrafting, Design, "Night of Arts", "Konstens Natt", "Taiteiden Yö"]
-category: personal
+tags: ["We Play NHL", Baking, Woodcrafting, Web design, UI design, Posters]
+category: Creative
 excerpt: "In which I'm really busy doing lots of different things."
 ---
 ..is how busy I am right now. So much to do but also actually some time to do it too. Starting Monday I plan on fully enjoying my well earned 4 week vacation, which just means more time to do stuff I probably won't get paid for.. but that's okay, I truly enjoy creating something out of nothing.. with my hands and what have we.

@@ -2,8 +2,8 @@
 layout: post
 title: "The Baticipation"
 date: 2014-04-30 T 22:00 UTC
-tags : ["Batman: Arkham Knight", Gaming, Video, Trailer, "Badman: The Movie", Humour]
-category: personal
+tags : [Batman, Video games, Videos]
+category: Entertainment
 excerpt: "Time to complete the trilogy that Rocksteady Studios started with Batman: Arkham Asylum back in 2009. So here we are, five years later and the final game is imminent."
 ---
 It should come as no surprise to anyone that I'm a big fan of Batman, since I've expressed my love for him on a number of occasions. Which leads us to conclude that I must be eager about the upcoming release of [Batman: Arkham Knight][batman].

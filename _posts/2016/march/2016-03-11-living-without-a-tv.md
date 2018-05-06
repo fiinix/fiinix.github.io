@@ -2,8 +2,8 @@
 layout: post
 title: "Living Without a TV"
 date: 2016-03-11 T 19:00 UTC
-tags : [TV, Advertisement]
-category: personal
+tags : [Television]
+category: Technology
 excerpt: "In which I talk about the fact that we don't have access to digital broadcasting signals."
 ---
 It comes as a surprise to many people when they find out that we don't have a <abbr title="television" class="small-caps">TV</abbr>, like it somehow makes us this odd anachronistic hipster family---which I suppose is partly true.

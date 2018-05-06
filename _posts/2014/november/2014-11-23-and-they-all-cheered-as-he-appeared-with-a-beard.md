@@ -2,8 +2,8 @@
 layout: post
 title: "And They All Cheered as He Appeared with a Beard"
 date: 2014-11-23 T 16:45 UTC
-tags : [Beard, Hipster]
-category: personal
+tags : [Beards, Journeys]
+category: Life
 excerpt: In which I confess to being a hipster---like we all didn't already know that---as well as reveal the ongoing project of growing out a beard for a year. Also, there may be rhyming involved.
 ---
 I suppose it was only a matter of time before my metamorphosis came to its not-so surprising conclusion. Thought sometimes one can wonder, "Why did I think this would be a good idea? Did I suffer a contusion?"

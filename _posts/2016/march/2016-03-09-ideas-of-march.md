@@ -2,8 +2,8 @@
 layout: post
 title: "Ideas of March"
 date: 2016-03-09 T 13:00 UTC
-tags : ["Ideas of March", "Monthly Challenge"]
-category: personal
+tags : [Writing]
+category: Life
 excerpt: "In which I try to publish more entries as part of my monthly challenges."
 ---
 As we're already over a week into March, the idea of writing a journal entry every day seems pretty far fetched.

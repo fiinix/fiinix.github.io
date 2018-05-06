@@ -3,8 +3,8 @@ title: "Three Point Three"
 date: 2012-03-02T12:44:00+00:00
 author: Carlos
 layout: post
-tags: [Design, "Web Design", "We Play NHL"]
-category: personal
+tags: [Web design, UI design, "We Play NHL"]
+category: Creative
 excerpt: "In which I update We Play NHL to 3.3."
 ---
 I just finished updating our NHL Stats website to 3.3. What does that mean I hear you ask? Awesomeness a plenty, that's what.. and to shed some light on the matter here's a couple of new features (long awaited mind you) that has managed to finally become a part of our intricate obsessive statistical analysis.

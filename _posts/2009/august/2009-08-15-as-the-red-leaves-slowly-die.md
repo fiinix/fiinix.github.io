@@ -2,8 +2,8 @@
 layout: post
 title:  "As the Red Leaves Slowly Die"
 date: 2009-08-15T10:05:00+01:00
-tags : [Design, Creative, Senet, Board Gaming, Woodcrafting]
-category: personal
+tags : [Senet, Board games, Woodcrafting]
+category: Creative
 excerpt: "I created a replica of Senet, the world's oldest board game."
 --- 
 ... don't get me wrong (or do, it's not like I can stop you) I like autumn, I really do but at the same time it's a very depressing season for me because I really **really** hate winter. Besides the occasional Christmas that isn't a total rip-off there is nothing nice about winter...

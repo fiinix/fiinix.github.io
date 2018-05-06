@@ -3,8 +3,8 @@ title: "Guessing at the Eurovisiowhatnow?"
 date: 2013-05-05T23:41:00+00:00
 author: Carlos
 layout: post
-tags: ["Eurovision Song Contest", Humour]
-category: personal
+tags: ["Eurovision Song Contest"]
+category: Entertainment
 excerpt: "In which I engulf myself entirely in the yearly spectacle that is Eurovision Song Contest."
 ---
 So, how much do I love you, my dear readers? Well… not very much, but let's put it this way, I still spent an entire evening listening to this years contestants for Eurovision Song Contest 2013, from the Nickelbackesque ethnic soft rock of Albania to the mail order brides from Serbia. Just so I could dole out points to those who were worthy.

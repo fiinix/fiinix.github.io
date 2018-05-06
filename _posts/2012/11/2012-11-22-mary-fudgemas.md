@@ -3,8 +3,8 @@ title: "Mary Fudgemas"
 date: 2012-11-22T22:46:00+00:00
 author: Carlos
 layout: post
-tags: [Maidstone, "Christmas Tree"]
-category: personal
+tags: [Christmas]
+category: Life
 excerpt: "In which the Eriksson family go into town to see the lighting of the annual Christmas tree."
 ---
 Which you know… sort of, kind of, rhymes with "Merry Christmas". But this post isn't about Christmas. Don't worry though, we'll get to that at a later date. No, this post is mundanely just some minor ramblings and two pictures.

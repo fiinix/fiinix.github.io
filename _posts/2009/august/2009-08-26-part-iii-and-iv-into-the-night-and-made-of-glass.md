@@ -2,8 +2,8 @@
 layout: post
 title:  "Part III & IV, “Into The Night” And “Made of Glass”"
 date: 2009-08-26T17:18:00+01:00
-tags : [Video, Song Writing, Original Song, Konstens Natt, Taiteiden Yö, Night of Arts]
-category: personal
+tags : [Night of Arts, Song writing, Music, Song covers]
+category: Creative
 excerpt: The third and final part of four of the entire recording of my performance at Night of Arts.
 ---
 Finally!

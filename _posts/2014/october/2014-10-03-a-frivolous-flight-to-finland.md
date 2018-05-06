@@ -2,8 +2,8 @@
 layout: post
 title: "A Frivolous Flight to Finland"
 date: 2014-10-03 T 23:00 UTC
-tags : [The Abominable Weekly Update, Finland, ]
-category: personal
+tags : ["The Abominable Weekly Update", Finland, Travel]
+category: Life
 excerpt: In which I give up trying to write a funny post about the weekend when I flew to Finland to get drunk of my ass.
 ---
 *I've spent a large part---bigger than I'd like to admit---of the past weeks trying to come up with a funny or interesting angle for this post. But I can't think of one and now I give up.*

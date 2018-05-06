@@ -2,8 +2,8 @@
 layout: post
 title: Jesus is Dead, Let’s Eat Chocolate
 date: 2014-04-18 T 16:00 UTC
-tags : [Season’s Greetings, Easter, Pictures]
-category: personal
+tags : ["Season’s Greetings", Easter, Pictures]
+category: Life
 excerpt: With temperatures between 12–17° C I really feel like spring is not only here, it’s here to stay. You know what’s also here? Easter.
 facebook: "/assets/posts/jesus-is-dead-lets-eat-chocolate/social-facebook-image.jpg"
 twitter: "/assets/posts/jesus-is-dead-lets-eat-chocolate/social-twitter-image.jpg"

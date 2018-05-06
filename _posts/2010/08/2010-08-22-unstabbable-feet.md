@@ -3,8 +3,8 @@ title: "Unstabbable Feet"
 date: 2010-08-22T17:24:00+00:00
 author: Carlos
 layout: post
-tags: ["Original Song", "Song Writing"]
-category: personal
+tags: [Song writing, Music]
+category: Creative
 excerpt: "In which I write a song without a deep hidden meaning."
 ---
 No metaphors, no deep hidden meanings of cynicism and/or self-pity.

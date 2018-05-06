@@ -2,8 +2,8 @@
 layout: post
 title: "A Finn in the Forest, Part II"
 date: 2015-09-24 T 21:15 UTC
-tags : [Camping, "Web in the Woods", Conference, Pictures, Accessibility]
-category: personal
+tags : ["Web in the Woods", Conferences, Pictures, Accessibility]
+category: Industry
 excerpt: "In which I return from the forest to talk about my experiences at Web in the Woods, the conference with a campfire."
 color: "#2E8B57"
 color2: "#F79337"

@@ -2,8 +2,8 @@
 layout: post
 title: "Oh Shit, Camping!"
 date: 2015-08-12 T 19:15 UTC
-tags : [Accessibility, Conference, "Web in the Woods", Camping]
-category: professional
+tags : [Accessibility, Conferences, "Web in the Woods"]
+category: Industry
 excerpt: "In which I realise that it's only a month until my first speaking event and it's dawning on me how ill prepared I am."
 color: "#2E8B57"
 color2: "#F79337"

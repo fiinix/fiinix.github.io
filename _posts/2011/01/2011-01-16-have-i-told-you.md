@@ -4,7 +4,7 @@ date: 2011-01-16T20:30:00+00:00
 author: Carlos
 layout: post
 tags: ["Bugi Fiction", "Movies", "Hypotermi", "Short Movies"]
-category: personal
+category: Entertainment
 excerpt: "In which I talk about the film I've been in. No, seriously, I'm almost famous."
 ---
 That I've actually been in some movies too. No, like seriously actually been in some movies. Okay, well.. I starred in a short movie about... hmm... I'm still not actually sure what it was about. I just googled it, read about it. But no, I'm still not sure what it was about. Anyway, here's a still from that short movie I managed to scrape out from the bottom of the internet. I do have it on DVD as well, I converted it from VHS some years ago. Yeah, blond hair.. I don't know what I was thinking. Also I spelled blond wrong, damn it!

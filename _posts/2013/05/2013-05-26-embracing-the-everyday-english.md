@@ -3,8 +3,8 @@ title: "Embracing the Everyday English"
 date: 2013-05-26T20:58:00+00:00
 author: Carlos
 layout: post
-tags: ["Monorun!", "The Abominable Weekly Update", Immigration, Pétanque]
-category: personal
+tags: ["Monorun!", "The Abominable Weekly Update", Immigration, Cooking]
+category: Life
 excerpt: "In which we make a Sunday roast, play Pétanque and talk about the game Beije and I made."
 ---
 Surprise! It's another post. Yeah, sometimes I spoil all of you. But don't worry as this isn't one of those times. This is the post in which I talk about the things I did, drank and ate in the last week. As you can probably tell, it's exciting stuff all around.

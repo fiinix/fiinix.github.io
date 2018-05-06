@@ -3,8 +3,8 @@ title: "My Undying Love For You Will Never Decompose (But My Body Might)"
 date: 2011-08-19T09:18:00+00:00
 author: Carlos
 layout: post
-tags: ["Original Song", "Song Writing", "Night of Arts", "Konstens Natt", "Taiteiden Yö", Video]
-category: personal
+tags: [Song writing, Music, "Night of Arts"]
+category: Creative
 excerpt: "In which I perform my new song, a delightful little thing about zombies and love."
 ---
 Drumroll and then some huge applause for my good friend [beije](http://benjaminhorn.io), who so graciously not only filmed one of my [performances](/blog/under-the-weather) but also colour corrected and edited it. Awesome!

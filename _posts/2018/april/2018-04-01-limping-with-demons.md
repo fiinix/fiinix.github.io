@@ -2,8 +2,8 @@
 layout: post
 title: "Limping with Demons"
 date: 2018-04-01 T 13:00
-tags : [Health, Running, Marathon, "Virgin Money London Marathon", "Just Giving", Charity, "East Anglian Air Ambulance", EAAA]
-category: personal
+tags : [Running, Marathons, "Virgin Money London Marathon", Charities, "East Anglian Air Ambulance", Journeys]
+category: Health
 excerpt: "In which there's only three weeks left to the London Marathon and I must confess, I'm not sure if I'm ready to run it."
 thumbnail: "carlos-ellie-and-ben-at-only-the-brave-2018.jpg"
 alt: "Carlos, Ellie and Ben at Only the Brave 2018."

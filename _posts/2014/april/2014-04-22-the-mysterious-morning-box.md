@@ -2,8 +2,8 @@
 layout: post
 title: The Mysterious Morning Box
 date: 2014-04-22 T 12:15 UTC
-tags : [Mystery Box, Lootcrate, ]
-category: personal
+tags : [Lootcrate]
+category: Life
 excerpt: Don’t you just love it when you sign up to things, then forgot all about them and freak out when the mail man knocks on your door because you weren’t expecting anyone to knock on your door?
 ---
 Yeah, I *love* that too.

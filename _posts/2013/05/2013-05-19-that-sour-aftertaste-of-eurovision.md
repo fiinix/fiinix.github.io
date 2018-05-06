@@ -3,8 +3,8 @@ title: "That Sour Aftertaste of Eurovision"
 date: 2013-05-19T18:24:00+00:00
 author: Carlos
 layout: post
-tags: ["Eurovision Song Contest", Humour]
-category: personal
+tags: ["Eurovision Song Contest", Finland, England]
+category: Entertainment
 excerpt: "In which I look at how Finland faired against the UK in this years Eurovision Song Contest."
 ---
 After [judging and guessing who would win this year's Eurovision](/blog/guessing-at-the-eurovisiowhatnow) and then [comparing Finland to United Kingdom which ended in a stalemate](/blog/the-11-year-eurovision-showdown) I suppose it's only fitting that I finish up this Eurovision shit so we can all get back to your lives. Well, so I can get back to mine at least. After I've resolved that annoying stalemate. Don't worry though, as I'm as sick of this as you probably are, this — unlike those other two — is actually going to be a short one.

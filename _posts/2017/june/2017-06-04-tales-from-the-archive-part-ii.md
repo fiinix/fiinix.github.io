@@ -2,8 +2,8 @@
 layout: post
 title: "Tales from the Archive, Part II"
 date: 2017-06-04 T 12:00
-tags : [Writing]
-category: personal
+tags : [Writing, Jekyll]
+category: Meta
 excerpt: "In which I finish migrating all the remaining entries between 2010--2013 and cull most of them because they're so terrible."
 ---
 After a few arduous weekends I've finally managed to migrate my entries from my old blog.

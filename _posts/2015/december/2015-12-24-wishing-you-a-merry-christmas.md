@@ -3,7 +3,7 @@ layout: post
 title: "Wishing You a Merry Christmas"
 date: 2015-12-24 T 22:30 UTC
 tags : [Christmas, "Season’s Greetings"]
-category: personal
+category: Life
 excerpt: "In which the Eriksson family, and our esteemed guest Amanda, wish you all a Merry Christmas with the annual season's greetings."
 color: "#b6000c"
 color2: "#2f7b19"

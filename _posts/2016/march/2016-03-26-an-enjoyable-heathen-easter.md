@@ -3,7 +3,7 @@ layout: post
 title: "An Enjoyable Heathen Easter"
 date: 2016-03-26 T 19:00 UTC
 tags : ["Season’s Greetings", "Easter"]
-category: personal
+category: Life
 excerpt: "In which it's time for the customary Eriksson family Easter greeting."
 color: "#c3030e"
 color2: "#fd8e00"

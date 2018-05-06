@@ -2,8 +2,8 @@
 layout: post
 title: "Beards, Brains and Beauty"
 date: 2015-08-31 T 21:00 UTC
-tags : [Zombies, Pictures, "Photo Shoot"]
-category: personal
+tags : [Zombies, Pictures, "Squiders (company)"]
+category: Life
 disclaimer: "This entry contains graphic images featuring theatrical blood. Viewer discretion is advised."
 excerpt: "In which I, and the rest of Squiders, take a day off work to do a photo shoot which involves more blood than anyone had imagined."
 ---

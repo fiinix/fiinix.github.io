@@ -2,8 +2,8 @@
 layout: post
 title: "Games I'm Eagerly Awaiting III"
 date: 2015-06-17 T 22:30 UTC
-tags : [Gaming, Video, "Deus Ex: Mankind Divided", "Dishonored 2", "Fallout 4", "No Man's Sky", "Rise of the Tomb Raider", "Sea of Thieves"]
-category: personal
+tags : [Video games, Videos, "Deus Ex: Mankind Divided", "Dishonored (series)", "Fallout (series)", "No Man's Sky", "Rise of the Tomb Raider", "Sea of Thieves"]
+category: Life
 excerpt: "In which I write about some more games I'm excited about. And Fallout 4 is finally fucking one of them."
 ---
 

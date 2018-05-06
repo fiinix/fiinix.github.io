@@ -2,8 +2,8 @@
 layout: post
 title: "Respice Aspice et Spera"
 date: 2016-12-31 T 15:00 UTC
-tags : ["New Year's Recap"]
-category: personal
+tags : [Year-in-review]
+category: Life
 excerpt: "In which this fucking year finally comes to a fucking end. Giving way for something new, something better."
 ---
 Wow.

@@ -3,8 +3,8 @@ title: "Why I Don't Believe In Voice Recognition"
 date: 2012-11-02T17:43:00+00:00
 author: Carlos
 layout: post
-tags: [Technology, "Voice Recognition"]
-category: personal
+tags: [Speech recognition, Dorian Gray]
+category: Technology
 excerpt: "In which I try to see how far voice recognition technology has come only to realise, it hasn't."
 ---
 I'm going out tonight, so instead of NOT posting something---which wasn't really much of option given my recent challenge---I thought I would try the voice recognition on my phone. Turns out there doesn't seem to be a way to get a (dot) at the end of a sentence. Which makes for pretty odd sentences. Have fun deciphering the paragraph after the jump.

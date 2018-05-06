@@ -3,8 +3,8 @@ title: "Anomalous Atmospheric Conditions"
 date: 2012-11-11T14:42:00+00:00
 author: Carlos
 layout: post
-tags: [Chart, Weather, "Finland vs England", Humour]
-category: personal
+tags: [Data, Finland, England, Weather]
+category: One-shot
 excerpt: "In which I welcome you, dear traveller, to England by talking about the weather."
 ---
 Some posts write themselves — metaphorically of course, I still write them and those damn posts aren't going to get all the credit — in a couple of hours, whilst others take weeks, even months of doing research, collecting data, making various charts and then starting over because you didn't like the charts. This is one of the latter posts. The 28th of September — 2011, not 2012 — is the time stamp for on of the first files I have on this, mind you back then I didn't actually think it would be a post. But here it is, in all its glory. Enjoy!

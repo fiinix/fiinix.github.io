@@ -2,8 +2,8 @@
 layout: post
 title: "At Least It Wasn’t Lupus, Part 2"
 date: 2014-01-04T18:37:00Z
-tags : ["New Year's Recap"]
-category: personal
+tags : [Year-in-review]
+category: Life
 excerpt: "In which I publish the original idea I had for this year's New Year's Eve Recap."
 ---
 The post you’re about to read is as I had originally envisioned it. It’s unfinished because I’m too tired to finish it and I probably never will. This is Part 2, the part that’s significantly more cheerful because that’s just how it was originally envisioned.

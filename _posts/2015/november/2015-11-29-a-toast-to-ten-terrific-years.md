@@ -2,8 +2,8 @@
 layout: post
 title: "A Toast to Ten Terrific Years"
 date: 2015-11-29 T 12:00 UTC
-tags : [Relationship]
-category: personal
+tags : [Relationships, Anniversaries]
+category: Life
 excerpt: "In which I reminisce about the ten years I've already spent with my wonderful wife, talk about how we first met and look forward to another ten years."
 ---
 Today, ten years ago, Rebecka first turned up on my doorstep.

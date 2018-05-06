@@ -3,8 +3,8 @@ title: Furious Avians
 date: 2010-11-06T21:43:00+00:00
 author: Carlos
 layout: post
-tags: [Gaming, "Angry Birds"]
-category: personal
+tags: [Video games, "Angry Birds"]
+category: Review
 excerpt: "In which I review the video game Angry Birds."
 ---
 Don't get me wrong.. I love the Android platform (platonic love of course). But games for Android have always been a bit, how should I put this... ugly.. yeah, that's the word, despite some games having excellent mechanics and smooth gameplay such as Gem Miner.. most of the games suffer from what I sometimes think of as the **open-source curse**.. Yupp, feel free to quote me.. again, don't get me wrong, open-source is awesome and in anything developers should be kuded (my make-believe verb of "kudos") for giving away their blood sweat and tears, asking nothing (usually) in return. But where open-source developers often have enormous amounts of technical expertise they often lack in the graphical area. Like Gem Miner... I have that game, it's a really good game, but I can help but think that it's not a very pretty game.

@@ -2,8 +2,8 @@
 layout: post
 title: "The Prospective, Looking Forward to 2015"
 date: 2015-01-02 T 12:00 UTC
-tags : ["Alien: Isolation", "Divinity: Original Sin", "Don't Starve", Gaming, "Batman: Arkham Knight", Board Gaming, Web Standards, Marathon, NaNoWriMo, Year Plans, Tattoo, Video, World War II, Painting, Writing, France, Cosplay, Comic Con]
-category: personal
+tags : [Video games, Batman, Board games, Marathons, Writing, Tattoos, Videos, Writing, Cosplay, Comic-con, "Back in time"]
+category: Life
 excerpt: "In which I make a nice list of 15 things I look forward to this coming year."
 ---
 Welcome to the other side.

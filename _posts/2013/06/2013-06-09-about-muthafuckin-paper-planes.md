@@ -3,8 +3,8 @@ title: "About Muthafuckin Paper Planes!"
 date: 2013-06-09T20:36:00+00:00
 author: Carlos
 layout: post
-tags: ["Monorun!", "The Abominable Weekly Update", "Paper Planes", "Father and Son"]
-category: personal
+tags: ["Monorun!", "The Abominable Weekly Update", "Father and son"]
+category: Life
 excerpt: "In which Lucien and I fold and compete paper planes."
 ---
 I feel like these weekly updates are becoming an — actual — weekly thing. I don't like that. I'm going to have to do something about it. Next week. Not this week, because this week finally marks the launch of our game Monorun! There's also going to be a lot about muthafuckin paper planes.

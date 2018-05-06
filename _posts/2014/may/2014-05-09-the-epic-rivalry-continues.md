@@ -3,8 +3,8 @@ layout: post
 title: The Epic Rivalry Continues
 color: "#014D8F"
 date: 2014-05-10 T 16:05 UTC
-tags : [Eurovision Song Contest, Humour]
-category: personal
+tags : [Eurovision Song Contest]
+category: Entertainment
 excerpt: Barely in time for this year's Eurovision Song Contest I get off my high horse to judge what I barely understand.
 tile: "/assets/posts/2014/may/the-epic-rivalry-continues/tile.png"
 ---

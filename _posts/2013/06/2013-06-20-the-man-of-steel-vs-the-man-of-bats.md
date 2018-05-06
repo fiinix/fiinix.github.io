@@ -4,7 +4,7 @@ date: 2013-06-20T21:55:00+00:00
 author: Carlos
 layout: post
 tags: [Batman, Superman]
-category: personal
+category: Entertainment
 excerpt: "In which I talk about why I think Superman is boring and Batman is awesome."
 ---
 Don’t you just hate it when the TL;DR summary is at the end of the post? Surely, that should be the first thing, in case your wonderful reader — you are wonderful, right? — doesn’t feel like reading the whole thing even though it’s only like ~700 words long.

@@ -3,8 +3,8 @@ title: "Carlos’ Countdown ‘Til Christmas (2)"
 date: 2013-12-22T11:00:00+00:00
 author: Carlos
 layout: post
-tags: ["Christmas Countdown", Recipe, "Mrs Beeton's"]
-category: personal
+tags: [Christmas, Recipes]
+category: Life
 excerpt: "In which I share a recipe for mulled wine from Mrs Beeton's Book of Household Management."
 ---
 2 days until Christmas. The countdown continues.

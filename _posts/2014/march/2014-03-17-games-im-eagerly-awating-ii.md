@@ -3,8 +3,8 @@ layout: post
 title: Games I’m Eagerly Awaiting II
 date: 2014-03-17
 excerpt: You want to know the best part about actually having played all those games I had on my to-do list? As new games are announced I can start getting excited about those games, as opposed to the ones that came out circa 2011.
-tags : [Gaming, "Alien: Isolation", Destiny, Dying Light, "Middle-Earth: Shadow of Mordor", Thief, Watchdogs, Fallout 4]
-category: personal
+tags : [Video games, "Middle-Earth: Shadow of Mordor", "Fallout (series)", Videos]
+category: Entertainment
 ---
 Now, I’d love to say that with a new and different year, comes new and different games, but the truth is that most of these games aren’t genre-defying in any way. Some even sound eerily like games that get announced every year. Now I have little interest in the likes of Call Of Duty and Battlefield—I suck at FPS nowadays—and prefer to tickle my gaming sphincter with single-player experiences these days. It’s as simple as that I just prioritise differently than I used to.
 

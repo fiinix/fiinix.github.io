@@ -2,8 +2,8 @@
 layout: post
 title: "Some Reassembly Required"
 date: 2018-03-29 T 08:30
-tags : [Relationship]
-category: personal
+tags : [Relationships]
+category: Life
 excerpt: "In which I begin the slow process of reassembling myself."
 ---
 I probably should have specified that the previous entry didn't spell the literal end of this journal, despite it very much spelling the end of everything else.

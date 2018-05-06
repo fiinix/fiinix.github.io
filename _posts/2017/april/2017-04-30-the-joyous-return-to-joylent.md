@@ -2,8 +2,8 @@
 layout: post
 title: "The Joyous Year of Joylent, aka Jimmy Joy"
 date: 2017-04-30 T 08:00
-tags : [Joylent, Meal Replacement, "The Future of Food", "A Year Journey"]
-category: personal
+tags : [Joylent, "The future of food", Journeys]
+category: Health
 excerpt: "In which I live on Joylent, the meal replacement beverage, for a whole year."
 color: "#00ccb1"
 color2: "#9c97b5"

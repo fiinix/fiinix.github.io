@@ -3,8 +3,8 @@ title: "Up, Up And Away"
 date: 2012-03-11T09:10:00+00:00
 author: Carlos
 layout: post
-tags: [Job, Travel, England]
-category: personal
+tags: [Jobs, Travel, England]
+category: Life
 excerpt: "In which I get excited about flying over to the UK for job interviews."
 ---
 Next week will be very exciting. On Wednesday evening I am flying to the <abbr title="United Kingdom" class="small-caps">UK</abbr> for an interview on Thursday. Obviously I don't know how things will go yet, but I am very (very) excited about the prospect of landing a job in the <abbr class="small-caps">UK</abbr> before we move there. Oh, right, I don't remember if I mentioned that. We are moving to the <abbr class="small-caps">UK</abbr> regardless of my employment status. Besides, so far most of the rejections I have received have been based purely on the fact that I (and we) don't already live in the <abbr class="small-caps">UK</abbr>. Which tells me it shouldn't be _that_ hard to get a job, aside for the recession and high unemployment, for me it's mostly been about geographical location. Which is easily rectified. Which is why we (as the collective whole) have decided that we will move regardless, according to our own schedule were are "out of here!" by the end of April, but obviously if I get a job before that, we will move before that.

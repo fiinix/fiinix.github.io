@@ -3,8 +3,8 @@ title: "Home, Sweet Home (With Pictures)"
 date: 2013-08-18T16:52:00+00:00
 author: Carlos
 layout: post
-tags: [Pictures, Vacation, Finland]
-category: personal
+tags: [Pictures, Travel, Finland]
+category: Life
 excerpt: "In which I show off my holiday pictures from our trip back to Finland."
 ---
 I hope you weren’t eagerly awaiting a post back when I was in Finland because as I’m sure you could can figure out, I was busy doing stuff. Not just any kind of stuff either but important stuff.

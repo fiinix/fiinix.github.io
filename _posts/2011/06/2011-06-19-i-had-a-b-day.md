@@ -3,8 +3,8 @@ title: "I Had a B-Day"
 date: 2011-06-19T12:43:00+00:00
 author: Carlos
 layout: post
-tags: [Birthday, Coffee, "KRUPS F203 Grinder", Review]
-category: personal
+tags: [Birthdays, Coffee, "KRUPS F203 Grinder"]
+category: Life
 excerpt: "In which I celebrate my 21st birthday for the sixth time."
 ---
 For those of you that didn't know.. **my birthday was three days ago**. So why not blog about it when it was more relevant? As it turns out.. the older you get the less significant your birthdays become. I sort of forgot to mention it.. also I was super-busy at the time. But yeah, I have now had my 21st birthday for the sixth time. I mostly spent it with my family, eating tortillas and just generally chilling whilst my awesome wife gave me the gift of time.. time to do nothing. When you have a three-year old, that is actually something you value. I also went for a beer with the Godfather and his non-married romantically linked non-cohabitant. All in all, very nice and relaxed.. just the way I like it.

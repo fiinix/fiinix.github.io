@@ -2,8 +2,8 @@
 layout: post
 title: More Glorious Shots of Dolls
 date: 2009-05-29T12:58:00+01:00
-tags : [Dolls, Design, Creative]
-category: personal
+tags : [Dolls, Sculpting]
+category: Creative
 excerpt: More images of the dolls I have created so far.
 ---
 <div>

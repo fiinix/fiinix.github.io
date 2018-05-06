@@ -2,8 +2,8 @@
 layout: post
 title: "Paying the Price for Past Carlos Again"
 date: 2016-03-31 T 20:00 UTC
-tags : [Health, Shoes]
-category: personal
+tags : [Wearables, Running]
+category: Health
 excerpt: "In which Present Carlos, again, has to pay the price of Past Carlos' mistakes. This time, in the form of shoes."
 ---
 When will I ever learn?

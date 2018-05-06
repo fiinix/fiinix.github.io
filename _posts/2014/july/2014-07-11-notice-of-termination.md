@@ -2,8 +2,8 @@
 layout: post
 title: "Notice of Termination"
 date: 2014-07-11 T 23:00 UTC
-tags : [Job, A Rainy Night on Drury Lane, Web Design, The Abominable Weekly Update]
-category: personal
+tags : [Jobs, "A Rainy Night on Drury Lane", Web design, "The Abominable Weekly Update", "Squiders (company)"]
+category: Life
 excerpt: Sometimes, a lot can happen in a short span of time. The best way to deal with this, is to press it down into that deep dark crevice where it can fester until it kills you. No? Oh, right. No, it's the other thing you're supposed to do.
 ---
 It's been awhile, hasn't it?

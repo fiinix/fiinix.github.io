@@ -3,8 +3,8 @@ title: "Carlos versus Cancer"
 date: 2012-11-30T23:09:00+00:00
 author: Carlos
 layout: post
-tags: [Movember, "Facial Hair", Cancer]
-category: personal
+tags: [Movember, Charities]
+category: Health
 excerpt: "In which I finish growing a mildly trustworty moustache to raise awareness for men’s health issues, such as prostate cancer, testicular cancer and men’s suicide."
 ---
 Obviously I don't have cancer. No. Today just marks the end of November and the end of growing a moustache to raise awareness for prostate and testicular cancer.

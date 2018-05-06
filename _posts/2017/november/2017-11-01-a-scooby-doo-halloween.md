@@ -3,7 +3,7 @@ layout: post
 title: "A Scooby-Doo Halloween"
 date: 2017-11-01 T 21:00
 tags : [Halloween, "Season’s Greetings"]
-category: personal
+category: Life
 excerpt: "In which traditions are meant to be broken and we don't carve any pumpkins."
 thumbnail: "carlos-eriksson-halloween-greetings-2017.jpg"
 alt: "Carlos Eriksson Halloween greeting 2017"

@@ -2,8 +2,8 @@
 layout: post
 title: "Dramatic December, Issue 12/15"
 date: 2015-12-30 T 23:30 UTC
-tags : ["Keeping Up with the Erikssons", Conference, Christmas, CodeHarbour, "Star Wars Episode VII: The Force Awakens", "Star Wars", Finland, "Dickensian Festival", Rochester]
-category: personal
+tags : ["Keeping Up with the Erikssons", Conferences, Christmas, CodeHarbour, "Father and son", Finland, Rochester]
+category: Life
 excerpt: "In this month’s issue of Keeping Up With the Erikssons: I speak at another conference (even recording it), we go to our traditional Dickensian Christmas, two of my friends from Finland come for a visit and Lucien and I watch the new Star Wars film (spoiler-free)."
 ---
 I always wonder how useful the Keeping Up with the Erikssons entry is at the end of the year? Do I really write an entry about what has happened in the past month only to then also write about what has happened in the past year in the, by now, traditional yearly summary entry?

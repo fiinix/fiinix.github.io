@@ -4,7 +4,7 @@ date: 2012-12-30T20:58:00+00:00
 author: Carlos
 layout: post
 tags: [Christmas, Pictures]
-category: personal
+category: Life
 excerpt: "In which I embed a Flickr slideshow showing our Christmas in pictures."
 ---
 Since I talked about posting pictures of my Christmas I decided to create a new set on Flickr. So, here you go. Enjoy the embedded slide show after the jump.

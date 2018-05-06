@@ -2,8 +2,8 @@
 layout: post
 title: "I, for One, Welcome Our New Robot Overlords"
 date: 2015-03-21 T 14:00 UTC
-tags : [UAV, Pictures, Terminator]
-category: personal
+tags : [UAV, Pictures]
+category: Technology
 excerpt: In which the future is already here, Skynet is already self-aware and we're all basically fucked. But in a totally delightful way that I welcome.
 ---
 Last week we got a nice little visit at work.

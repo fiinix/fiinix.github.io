@@ -3,8 +3,8 @@ title: "Dear Xbox (a Love? Letter)"
 date: 2011-04-30T17:45:00+00:00
 author: Carlos
 layout: post
-tags: [Microsoft, Humour, Xbox]
-category: personal
+tags: [Video games, Xbox]
+category: One-shot
 excerpt: "In which I break up with Xbox 360 and Microsoft Live."
 ---
 Dear Xbox (360 and Live)

@@ -2,8 +2,8 @@
 layout: post
 title: "Don't Run with Your Mouth Open"
 date: 2017-08-12 T 19:00
-tags : [Running, "Cambridge Colour Dash", EACH, "East Anglia's Children's Hospices"]
-category: personal
+tags : [Running, Colour Dash, "East Anglia's Children's Hospices", Charities]
+category: Health
 excerpt: "In which Ben and I run a 5k to raise money for East Anglia's Children's Hospices and Lucien throws paint into our mouths."
 color: "#63398D"
 color2: "#f96300"

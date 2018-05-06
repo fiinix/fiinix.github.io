@@ -3,8 +3,8 @@ title: "A Rainy Night on Drury Lane, Part VI — Dem Dee-licious Golden Pancakes
 date: 2013-10-12T09:00:00+00:00
 author: Carlos
 layout: post
-tags: [Writing, "Short Story", Noir, Fiction, "A Rainy Night on Drury Lane", Humour]
-category: personal
+tags: [Writing, "A Rainy Night on Drury Lane"]
+category: Creative
 excerpt: "In which I give you the sixth instalment of the multi-part short story about an ineffectual detective with a lisp."
 ---
 Things take a turn for the hallucinatory in the sixth instalment of “A Rainy Night on Drury Lane” as Detective Wentworth finds himself on the verge of death. Will he persevere or perish?

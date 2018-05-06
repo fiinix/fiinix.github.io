@@ -3,8 +3,8 @@ title: "Come Take Me!"
 date: 2011-12-31T16:11:00+00:00
 author: Carlos
 layout: post
-tags: ["New Year's Recap"]
-category: personal
+tags: [Year-in-review]
+category: Life
 excerpt: "In which I recap the year that has gone by with all its ups and downs, and the t-shirts, let's not forget the t-shirts."
 ---
 The time has come again to summarize the year that has passed. You know? The part where I tie up all the loose ends that I have created in this past year, because I am apparently pretty good at that. So here we go..

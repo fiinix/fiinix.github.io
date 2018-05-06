@@ -2,8 +2,8 @@
 layout: post
 title: "My Week With; The Jawbone UP3"
 date: 2015-12-08 T 22:00 UTC
-tags : [Jawbone UP3, "Quantified Self", Wearables, Health, Review, "My Week With"]
-category: personal
+tags : [Jawbone (products), Quantified self, Wearables, "My week with"]
+category: Review
 excerpt: "In which I spend a week with the latest offering from Jawbone, the UP3 and see whether it's a worthy follow-up to their earlier successes."
 color: "#005555"
 color2: "#007777"

@@ -3,8 +3,8 @@ title: "You Can't 'Like' My Poop Any More"
 date: 2012-12-01T13:31:00+00:00
 author: Carlos
 layout: post
-tags: ["Social Media", "Sweep The Sleaze", Branding]
-category: personal
+tags: [Social media, Brand design]
+category: Technology
 excerpt: "In which I realise that I'm advertising Facebook more than they're advertising me."
 ---
 I would like to say that I have been going back and forth with it for some time now but the truth is, I haven't. As you might notice, the "Like" button is gone. And it isn't coming back either. Now there are a number of reasons — three — for this and I will gladly tell you them all, even the really, really sad one.

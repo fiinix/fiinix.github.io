@@ -3,8 +3,8 @@ title: "A Trip Down Nostalgia Avenue"
 date: 2010-03-27T08:36:00+00:00
 author: Carlos
 layout: post
-tags: ["Gaming", "Command & Conquer: Tiberian Sun Firestorm"]
-category: personal
+tags: [Video games, "Command & Conquer (series)"]
+category: One-shot
 excerpt: "In which I play Command & Conquer: Tiberian Sun Firestorm and get my ass handed to me by the enemy on Easy difficulty."
 ---
 So I was walking along Nostalgia Avenue minding my own business when suddenly a bunch of Devil's Tongues jumped at me.. well they came out the ground but anyways.. Of course they were forcefully greeted by my awesome defense of... hmm... a single infantry unit and a tick tank with half it's health. Fear before my awesome defense bitches I screamed at the top of my lungs, but to no avail as the Devil's Tongues were already eating away at my refinery.

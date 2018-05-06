@@ -3,8 +3,8 @@ layout: post
 title: Carlos Goes to MCM London Comic Con
 color: "#e56323"
 date: 2014-05-26 T 18:40 UTC
-tags : [The Abominable Weekly Update, Comic Con, Pictures, Burgers, Cosplay, Fallout, Lootcrate, T-Shirt]
-category: personal
+tags : ["The Abominable Weekly Update", Comic-con, Pictures, Cosplay, Fallout (series), Lootcrate, T-shirts]
+category: Life
 excerpt: "I start the weekend by attending my first—but definitely not last—Comic Con convention in London and find myself munching on some much needed reindeer meat later on."
 tile: "/assets/posts/2014/may/carlos-goes-mcm-london-comic-con/tile.jpg"
 ---

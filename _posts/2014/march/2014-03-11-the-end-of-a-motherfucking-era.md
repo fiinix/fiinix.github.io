@@ -2,8 +2,8 @@
 layout: post
 title: "The End of a Motherfucking Era"
 date: 2014-03-11T22:35:00Z
-tags : [Final Post, Github, Jekyll]
-category: personal
+tags : [Behind the scenes, Jekyll, Web design]
+category: Technology
 excerpt: "In which I finally move my blog from the Blogger+Blogspot combo to Github+Jekyll."
 ---
 The time has finally come to say goodbye to Blogger and Blogspot. We’ve had some good times in these past---coming on---seven years but there comes a time in everyone’s life when one simply must move on, which is exactly what I’m doing. Or, have already done, as a matter of fact.

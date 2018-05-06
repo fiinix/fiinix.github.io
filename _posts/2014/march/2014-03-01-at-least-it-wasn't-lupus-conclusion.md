@@ -3,7 +3,7 @@ layout: post
 title: "At Least It Wasn’t Lupus, Conclusion"
 date: 2014-03-01T00:39:00Z
 tags : ["The Abominable Weekly Update"]
-category: personal
+category: Life
 excerpt: "In which I return after a 2 month hiatus and conclude the story that begun a few months ago."
 ---
 So I’m back. It doesn’t really feel like I’ve been gone any significant amount of time but looking at the calendar tells a different story. It’s been two months, the exact amount I had planned on keeping my little hiatus. What none of us planned however, was for Lucien to get seriously ill and whilst both of these things happened, only one of them was welcomed.

@@ -3,8 +3,8 @@ title: "I'm Back Baby..."
 date: 2010-02-15T21:03:00+00:00
 author: Carlos
 layout: post
-tags: ["Board Gaming", "Island of Eternity"]
-category: personal
+tags: [Board games, Board game development, "Island of Eternity"]
+category: Creative
 excerpt: "In which I talk about testing my board game Island of Eternity."
 ---
 Finally got the backup of my website up and running. Hell yeah!

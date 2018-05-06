@@ -3,8 +3,8 @@ title: "Santa Goes Medieval on Everyone’s Asses"
 date: 2013-12-24T23:26:00+00:00
 author: Carlos
 layout: post
-tags: [Christmas, Writing, "Short Story", "Season’s Greetings"]
-category: personal
+tags: [Christmas, Writing, "Season’s Greetings"]
+category: One-shot
 excerpt: "In which I tell a short story about Lego santa wrecking havoc in a village with a fire-breathing Lego dragon."
 ---
 It’s Christmas Eve and the evening when we—Nordic people—celebrate Christmas, because well… why exactly should we wait another day if we don’t have to?

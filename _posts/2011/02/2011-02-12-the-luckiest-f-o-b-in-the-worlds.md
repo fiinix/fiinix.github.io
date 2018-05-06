@@ -3,8 +3,8 @@ title: "The Luckiest F.O.B in the World(s)"
 date: 2011-02-12T19:43:00+00:00
 author: Carlos
 layout: post
-tags: [Relationship, Marriage]
-category: personal
+tags: [Relationships]
+category: Life
 excerpt: "In which I reveal that I've gotten married."
 ---
 **Surprise bitches!**

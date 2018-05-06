@@ -2,8 +2,8 @@
 layout: post
 title: "Copywriting: Successful Writing for Design, Advertising and Marketing"
 date: 2016-02-13 T 15:00 UTC
-tags : [Book, Copywriting, Mark Shaw, Review]
-category: personal
+tags : [Books, Copywriting, Mark Shaw]
+category: Review
 excerpt: "In which I recommend Copywriting by Mark Shaw. It's a great book on the art of writing great copy, with plenty of practical exercises for you to do."
 color: "#EF4136"
 color2: "white"

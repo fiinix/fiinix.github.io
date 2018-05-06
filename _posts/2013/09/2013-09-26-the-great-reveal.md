@@ -3,8 +3,8 @@ title: "The Great Reveal"
 date: 2013-09-26T22:34:00+00:00
 author: Carlos
 layout: post
-tags: ["A Rainy Night on Drury Lane", "Web Design", Writing, "Self-publishing"]
-category: personal
+tags: ["A Rainy Night on Drury Lane", Web design, Writing, Behind the scenes]
+category: Creative
 excerpt: "In which I keep one of the many promises and actually reveal the plans for my upcoming book."
 ---
 I should really never promise anything because in the history of promising things, I’m not good at keeping those promises. We all remember that “Christmas song” I started writing that then turned into an “Easter song” as time went by. Only to vanish into thin air, never to be spoken of again.

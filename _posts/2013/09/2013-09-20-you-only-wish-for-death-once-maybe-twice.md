@@ -3,8 +3,8 @@ title: "You Only Wish for Death Once… Maybe Twice"
 date: 2013-09-20T10:00:00+00:00
 author: Carlos
 layout: post
-tags: ["Death Wish Coffee", Coffee, Review]
-category: personal
+tags: ["Death Wish coffee", Coffee]
+category: Review
 excerpt: "In which I tempt fate and any unknown pre-existing heart conditions by drinking the world's strongest coffee."
 ---
 Seeing as it has been months since I last talked about coffee I feel it’s pretty okay that I talk about coffee a little. Besides, it’s not every day I order [“Death Wish Coffee”](http://www.deathwishcoffee.com/) the worlds strongest coffee, drink and review it, now is it? Or to put it another way, it’s a good thing I don’t have a pre-existing heart condition.

@@ -4,7 +4,7 @@ date: 2011-04-25T13:21:00+00:00
 author: Carlos
 layout: post
 tags: ["Season’s Greetings", "Easter"]
-category: personal
+category: Life
 excerpt: "In which I appropriately titled obligatory Easter greeting."
 ---
 Make trends.. or follow. Or like in this case, just another obligatory Happy Easter. But with a usual Carlosian (yeah, it's gonna become a thing) twist. Well, a twist might be a bit of an overstatement, less of an M.Night Shamailaiööön type twist (Shyamalan according to Google).. and more like "I'm calling you a bitch whilst.." -twist. So without further ado I present with this years Easter greetings, twist and all!

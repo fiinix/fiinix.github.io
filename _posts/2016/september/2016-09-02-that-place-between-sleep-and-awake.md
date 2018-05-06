@@ -2,8 +2,8 @@
 layout: post
 title: "That Place between Sleep and Awake"
 date: 2016-09-02 T 23:00 +0100
-tags : [Leukaemia, Cancer, Death, Grief, Mortality, "In Memoriam"]
-category: personal
+tags : [Death, "In Memoriam", Song writing]
+category: Life
 disclaimer: "Trigger warning: The following entry talks about Bereavement and grief."
 excerpt: "In which I write the hardest entry to date."
 ---

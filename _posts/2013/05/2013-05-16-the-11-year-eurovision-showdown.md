@@ -3,8 +3,8 @@ title: "The 11 Year Eurovision Showdown"
 date: 2013-05-16T22:46:00+00:00
 author: Carlos
 layout: post
-tags: ["Eurovision Song Contest", Humour, "Finland vs England"]
-category: personal
+tags: ["Eurovision Song Contest", Finland, England]
+category: Entertainment
 excerpt: "In which I look back at the 11 years of Eurovision rivalry that's been between Finland and the UK."
 ---
 With only 2 days left until the Eurovision Song Contest 2013 finals in Malmö and the fact that I already [spent time last week familiarizing myself with the whole Eurovision “thing”](/blog/guessing-at-the-eurovisiowhatnow) I thought I would go ever further — too far, some might say — and take a look back at the last 11 years of Eurovision, comparing — what else? — Finland's entries to those of United Kingdom of course. Join me, why don't you? It'll be fun. Not funny “Haha” but more like that sad kind of funny.

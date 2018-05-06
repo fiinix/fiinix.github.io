@@ -2,8 +2,8 @@
 layout: post
 title: "Nibble - The Joys of Miniature Projects"
 date: 2015-05-24 T 11:30 UTC
-tags : [Web Design, HTML5, CSS3, Javascript, Front-end]
-category: professional
+tags : [Web design, Cooking]
+category: Creative
 excerpt: "In which I remember that I really enjoy making little things to make our lives easier or better."
 ---
 As parents, my wife and I struggle sometimes to come up with what to make for dinner.

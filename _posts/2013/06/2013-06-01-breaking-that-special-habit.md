@@ -3,8 +3,8 @@ title: "Breaking That Special Habit"
 date: 2013-06-01T12:12:00+00:00
 author: Carlos
 layout: post
-tags: ["Smoking Cessation", "Breaking a Habit"]
-category: personal
+tags: ["Smoking cessation"]
+category: Health
 excerpt: "In which I reach day 251 of not smoking, not that I'm counting the days or anything."
 ---
 Today marks the 251st day I have gone without smoking. Hurray and for me and whatnot, but that's not what I want to talk about. I want to talk about what actually motivated me. And more importantly what didn't.

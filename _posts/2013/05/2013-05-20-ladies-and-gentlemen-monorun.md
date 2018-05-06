@@ -3,8 +3,8 @@ title: "Ladies and Gentlemen, Monorun!"
 date: 2013-05-20T22:23:00+00:00
 author: Carlos
 layout: post
-tags: [Gaming, Design, "Monorun!"]
-category: personal
+tags: [Video games, Video game development, "Monorun!"]
+category: Creative
 excerpt: "In which Beije and I design and make our own browser-based game."
 ---
 > Monorun! is a minimalistic game about the transience of life. As the nucleus of an atom, it's your purpose to stay positive for as long as you can. Avoid those negative electrons.

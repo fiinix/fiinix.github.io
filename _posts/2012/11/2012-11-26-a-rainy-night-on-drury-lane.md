@@ -3,8 +3,8 @@ title: "A Rainy Night on Drury Lane"
 date: 2012-11-26T22:42:00+00:00
 author: Carlos
 layout: post
-tags: [Writing, "Short Story", Noir, Fiction, "A Rainy Night on Drury Lane", Humour]
-category: personal
+tags: [Writing, "A Rainy Night on Drury Lane"]
+category: Creative
 excerpt: "In which I start writing a multi-part short story about an ineffectual detective with a lisp."
 ---
 Have a seat and join me for a little story why don't you. Picture the following scene…

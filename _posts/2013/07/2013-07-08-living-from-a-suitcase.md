@@ -3,8 +3,8 @@ title: "Living From a Suitcase"
 date: 2013-07-08T21:53:00+00:00
 author: Carlos
 layout: post
-tags: ["Finland vs England", Immigration, "Minimal Lifestyle"]
-category: personal
+tags: [Finland, England, Immigration, Minimalism]
+category: Life
 excerpt: "In which I talk about getting rid of 80% of the crap I owned before we moved to the UK."
 ---
 I want you to imagine the following scenario; Someone drops a suitcase in front of you and tell you to fill it with your most priced possessions. Whatever you can fit into that one suitcase, you can take with you as you move to a new life, in a new country. Everything else, you have to give/sell or throw away.

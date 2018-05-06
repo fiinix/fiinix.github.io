@@ -2,8 +2,8 @@
 layout: post
 title: "That Story on Drury Lane"
 date: 2017-05-21 T 20:00
-tags : [Writing, "A Rainy Night on Drury Lane", Fiction, Noir, "Short Story", Humour]
-category: personal
+tags : [Writing, "A Rainy Night on Drury Lane"]
+category: Creative
 excerpt: "In which I manage to put the final touches to A Rainy Night on Drury Lane and release it. For free!"
 color: "#15001f"
 color2: "#e69d00"

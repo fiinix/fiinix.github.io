@@ -2,8 +2,8 @@
 layout: post
 title: "1 out of 16 Personalities"
 date: 2017-07-31 T 10:00
-tags : ["NERIS", "Myers-Briggs", "16 Personalities", "The Campaigner", "Psychology"]
-category: personal
+tags : [Psychology]
+category: Health
 excerpt: "In which I want to believe that people can't be pigeon-holed but clearly I can be."
 color: "#39785F"
 color2: "#9AC271"

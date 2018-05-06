@@ -3,8 +3,8 @@ title: "Coffees of the World, Part Three"
 date: 2011-07-10T20:05:00+00:00
 author: Carlos
 layout: post
-tags: [Coffee]
-category: personal
+tags: [Coffee, Tips and tricks]
+category: One-shot
 excerpt: "In which I conclude the coffee journey I've been on for quite a while."
 ---
 And thuseth concludeth our journey.. eth. Or to be more accurate, I will decrease the amount of blogging about coffee. It's been a hell of a ride these past two months and I have learned so much. Far from being done in any way I just feel like I have been pestering all of you (five people at least) with my coffee explorations. Not only have I been excessively blogging about it.. but at any possible moment I have also discussed it with friends. One friend particularly helped me a lot on what I should write for this "final" entry. Ironically he will probably never actually read it.

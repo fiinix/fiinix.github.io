@@ -3,8 +3,8 @@ title: "This Is the Post Title"
 date: 2012-11-08T22:53:00+00:00
 author: Carlos
 layout: post
-tags: [Design, "Web Design", Branding]
-category: personal
+tags: [Behind the scenes, Web design, Brand design]
+category: Creative
 excerpt: "In which I almost forget to write an entry for the day but end up talking about the re-branding I'm doing."
 ---
 Holy crap. I honestly forgot that I was supposed to write a post today. Yeah, despite having done it now — to my own surprise — every day I still managed to forget it. Well… almost at least. So to make up for "almost forgetting" to write, I thought I'd ramble a little and then show you some screen shots of how the brand readjustment (from Fiinix Design to Carlos Eriksson) is going.

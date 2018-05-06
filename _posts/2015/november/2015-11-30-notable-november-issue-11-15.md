@@ -2,8 +2,8 @@
 layout: post
 title: "Notable November, Issue 11/15"
 date: 2015-12-06 T 21:00 UTC
-tags : ["Keeping Up with the Erikssons", Xbox One, Fallout 4, Beer, Conference, Beard, Micropub, "10:50 From Victoria", Fireworks, Windows 10, Ampersand, Christmas]
-category: personal
+tags : ["Keeping Up with the Erikssons", Xbox, Fallout (series), Conferences, Beards, Micropubs, Christmas]
+category: Life
 excerpt: "In this month’s very late issue of Keeping Up With the Erikssons: We celebrate a failed assassination attempt, I'm finally done growing a beard, play Fallout 4, go to a conference and a micropub and get ready for our fourth Christmas in the UK by celebrating Little Christmas."
 ---
 Well, imagine that.

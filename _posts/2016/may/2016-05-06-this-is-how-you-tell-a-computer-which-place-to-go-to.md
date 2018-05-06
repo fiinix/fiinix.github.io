@@ -2,8 +2,8 @@
 layout: post
 title: "That Thing That I Do That People Pay Me to Do"
 date: 2016-05-07 T 17:00 +0100
-tags : ["Up Goer Five", Readability, Xkcd, "Randall Munroe", Web Design, Copywriting]
-category: personal
+tags : ["Up Goer Five", Web design, Jobs, Writing]
+category: Industry
 excerpt: "In which I finally figure out a way of explaining my job to people who do not work with computers every day."
 color: "#365690"
 color2: "#569037"

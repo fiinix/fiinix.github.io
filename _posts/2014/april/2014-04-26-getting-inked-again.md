@@ -2,8 +2,8 @@
 layout: post
 title: Getting Inked Again
 date: 2014-04-26 T 21:00 UTC
-tags : [The Abominable Weekly Update, Tattoo, Burgers, BBQ]
-category: personal
+tags : ["The Abominable Weekly Update", Tattoos, Cooking]
+category: Life
 excerpt: "Oooh, what's this? Another post? An Abominable Weekly Update? Well it's about time. Feast your eyes on a little of this and a little of that."
 ---
 Last Tuesday when the rest of the Western world went back to work, I took my sweet time waking up by making myself a fresh cup of coffee---it was delicious---and watching the new [Son of Batman][sob]---it was mostly okay.

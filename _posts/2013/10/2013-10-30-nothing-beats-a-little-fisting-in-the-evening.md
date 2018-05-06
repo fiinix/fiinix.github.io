@@ -3,8 +3,8 @@ title: "Nothing Beats a Little Fisting in the Evening"
 date: 2013-10-30T23:29:00+00:00
 author: Carlos
 layout: post
-tags: [Halloween, Pumpkins, "Season’s Greetings"]
-category: personal
+tags: [Halloween, "Season’s Greetings"]
+category: Life
 excerpt: "In which I carve not one, not two but three pumpkins in honour of this year's Halloween."
 ---
 It feels like only a year ago since I last carved a couple of pumpkins. Oh how time flies when you work, shit, eat, sleep, rinse and repeat. But yeah, it’s that time of the year again. That unmistakable time when shops are eagerly replacing their Halloween decorations with Christmas decorations the second Halloween is over.

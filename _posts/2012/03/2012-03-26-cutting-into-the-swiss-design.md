@@ -3,8 +3,8 @@ title: "Cutting Into the Swiss Design"
 date: 2012-03-26T19:12:00+00:00
 author: Carlos
 layout: post
-tags: [Design, Creative, "Logo Design", Windows, "Paula Scher"]
-category: personal
+tags: [Logo design]
+category: Creative
 excerpt: "In which I think I am smarter than, Paula Scher, the designer of the new Windows logo."
 ---
 Or... "How I thought I was smarter than Microsoft's Logo Designer".

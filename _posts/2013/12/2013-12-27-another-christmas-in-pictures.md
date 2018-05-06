@@ -4,7 +4,7 @@ date: 2013-12-27T11:39:00+00:00
 author: Carlos
 layout: post
 tags: [Christmas, Pictures]
-category: personal
+category: Life
 excerpt: "In which I embed another Flickr slideshow showing our Christmas in pictures."
 ---
 Another Christmas has gone by and with that, here’s this year’s December in the form of an slide-show. Everyone loves a slide-show, right?

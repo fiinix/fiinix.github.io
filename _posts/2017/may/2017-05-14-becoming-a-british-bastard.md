@@ -2,8 +2,8 @@
 layout: post
 title: "Becoming a British Bastard"
 date: 2017-05-14 T 08:00
-tags : [Brexit, "Jeremy Corbyn", "Teresa May", "General Election 2017", Immigration, Anniversary]
-category: personal
+tags : [England, Immigration, Anniversaries]
+category: Life
 excerpt: "In which we have lived in the UK for five years but aren't sure if we can call this home anymore."
 color: "#00247D"
 color2: "#CF142B"

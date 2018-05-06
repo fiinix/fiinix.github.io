@@ -2,8 +2,8 @@
 layout: post
 title: "Jingoistic June, Justifiable July and Accepting August, Issue 06-08/16"
 date: 2016-09-25 T 12:00 UTC +0100
-tags : ["Keeping Up with the Erikssons", Running, Cambridge Colour Dash, Brexit, Birthday, Accessibility, Writing, Maidstone, Cambridge, Finland, Port Lympne, Muggy McMugface, Moving]
-category: personal
+tags : ["Keeping Up with the Erikssons", Running, Colour Dash, Birthdays, Cambridge (UK), Travel, Finland, Moving, Pictures]
+category: Life
 excerpt: "In this month’s triple issue of Keeping Up With the Erikssons: My previous accessibility article finds an online home, I refuse to celebrate my birthday, fucking Brexit, I party with old friends in Finland, we visit a wild animal park, I complete my first 5K and we finally find a new home in Cambridge."
 ---
 I'm back.

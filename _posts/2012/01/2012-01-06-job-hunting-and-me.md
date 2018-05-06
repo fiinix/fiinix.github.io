@@ -3,8 +3,8 @@ title: "Job Hunting and Me"
 date: 2012-01-06T14:06:00+00:00
 author: Carlos
 layout: post
-tags: [Job]
-category: personal
+tags: [Jobs, Music]
+category: Life
 excerpt: "In which I've started hunting for a job in the UK."
 ---
 I'm being busy hunting for a job in the UK, remember?

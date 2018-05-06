@@ -2,8 +2,8 @@
 layout: post
 title: "The Happiness of Habits"
 date: 2016-01-21 T 22:00 UTC
-tags : [Writing, Habits, Monthly Challenge]
-category: personal
+tags : [Writing]
+category: Life
 excerpt: "In which I don't make any new year's resolutions but endeavour to make some changes anyway, in the form of monthly challenges."
 ---
 I'm not a big fan of new years resolutions.

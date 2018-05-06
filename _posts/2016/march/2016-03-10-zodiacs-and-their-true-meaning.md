@@ -2,8 +2,8 @@
 layout: post
 title: "Zodiacs and Their True Meaning"
 date: 2016-03-10 T 09:00 UTC
-tags : [Zodiacs, Humour]
-category: personal
+tags : [Writing]
+category: One-shot
 excerpt: "In which we take a real close look at Zodiac signs, their meanings and most importantly, their *true meaning*."
 color: "#A46628"
 color2: "#CD7F32"

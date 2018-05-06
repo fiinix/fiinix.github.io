@@ -3,8 +3,8 @@ title: "The Three Designs"
 date: 2013-03-09T22:28:00+00:00
 author: Carlos
 layout: post
-tags: ["Web Design", "We Play NHL", Branding]
-category: personal
+tags: [Web design, "We Play NHL", Brand design]
+category: Creative
 excerpt: "In which I show some of the designs I've been working on lately."
 ---
 I like keeping myself active. No, that's not quite true. I suspect some people think it sounds better to say it that way but the truth is; I get bored easily. Like stupidly easily.

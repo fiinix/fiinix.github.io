@@ -3,8 +3,8 @@ title: "More Tees, Please"
 date: 2011-01-28T07:44:00+00:00
 author: Carlos
 layout: post
-tags: ["Design", "Clothing", "Freddy Krueger", "13 Icons of Horror", "T-Shirt", "Chucky", "Alien/Xenomorph", "Ghostface", "Hannibal", "Jason Vorhees", "Bruce (JAWS)", "Billy (SAW)", "Leatherface", "Michael Myers", "Pennywise", "Pinhead", "Predator"]
-category: personal
+tags: ["13 Icons of Horror", T-shirts]
+category: Creative
 excerpt: "In which I reveal the entire collection of T-shirt designs that I've made. And they're all for sale."
 ---
 As some of you might already know, via other sources, all of the T-Shirts are now available for sale.

@@ -3,8 +3,8 @@ title: "What the Fuck Am I Eating?"
 date: 2012-11-29T21:55:00+00:00
 author: Carlos
 layout: post
-tags: [Review, Marmite, England, Humour]
-category: personal
+tags: [Marmite, England, "For science!"]
+category: Life
 excerpt: "In which the Eriksson family try their taste palate at the awful yeast spread that is Marmite."
 ---
 Curse me and my curious nature. Curse it to the bowels of the deepest, darkest recesses of my colon.

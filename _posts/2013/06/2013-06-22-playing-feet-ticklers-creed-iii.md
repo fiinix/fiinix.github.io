@@ -3,8 +3,8 @@ title: "Playing Feet-Tickler’s Creed III"
 date: 2013-06-22T22:16:00+00:00
 author: Carlos
 layout: post
-tags: ["Assassin's Creed III", "Batman: Arkham Origins", Gaming]
-category: personal
+tags: ["Assassin's Creed (series)", "Batman", Video games]
+category: Review
 excerpt: "In which I play and, sort of, review Assassin's Creed III."
 ---
 I have finally gotten around to playing Assassin’s Creed III, one of the many games I had on my list of games to play. Having played a few hours — surely enough to pass judgement, wouldn’t you think? — of the game so far I have a few concerns I would like to discuss, if that’s all right?

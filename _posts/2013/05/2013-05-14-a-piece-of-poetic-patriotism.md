@@ -3,8 +3,8 @@ title: "A Piece of Poetic Patriotism"
 date: 2013-05-14T10:30:00+00:00
 author: Carlos
 layout: post
-tags: ["Finland vs England", Immigration]
-category: personal
+tags: [Finland, England, Immigration]
+category: Life
 excerpt: "In which I become surprisingly patriotic having lived in the UK for a year."
 ---
 One year. Today, it's exactly one year since we boarded a plane in cold and dreary Finland, having said goodbye to our friends and family, and flew to the island of Britannia to take root in her soil and become a part of her flora. Poetic, aren't I? In honour of this most blossoming of events I thought I would ask you to indulge me in talking about my sudden onset of patriotism? But since we both know I do most of the talking in this relationship I will simply take your silence as a vocal and enthusiastic “Yes”.

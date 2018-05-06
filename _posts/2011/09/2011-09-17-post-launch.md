@@ -3,8 +3,8 @@ title: "Post-Launch"
 date: 2011-09-17T07:00:00+00:00
 author: Carlos
 layout: post
-tags: [Design, "Web Design", "We Play NHL"]
-category: personal
+tags: [UI design, Web design, "We Play NHL"]
+category: Creative
 excerpt: "In which I make some updates to our brand-spanking new version of our NHL statistics tracking tool."
 ---
 So now it's been a week and a day since the launch of our new NHL Stats web page. And except for a minor bug where it insists that "You have missed one or more fields" when you add a match everything has been pretty smooth sailing. Why do I call that a minor bug I pretend you ask? Well, because it still adds a match to the database every time, so obviously I have just missed something in the echo loop. But I can get it fixed at the same time I do the update to the web page. Since it's not feature-complete anyway.. We suffered a mild case of premature launchulation. And like I already said, a couple of more features to come, some bug fixing, some minor cosmetic changes based on feedback but then that's it. I shouldn't have to do anything after that.. hopefully. Since a dear friend of mine—Ted Bundy—wanted me to make a post about how the launch party went, I thought I would do just that, right now.

@@ -2,8 +2,8 @@
 layout: post
 title: "The Super Heroic Weekly Update"
 date: 2014-07-20 T 01:30 UTC
-tags : [The Abominable Weekly Update, Birthday, Cosplay, Pictures]
-category: personal
+tags : ["The Abominable Weekly Update", Birthdays, Cosplay, Pictures]
+category: Life
 excerpt: Lucien turns an incredible 6 years old and in honour of that, almost everyone dresses up like a super hero.
 facebook: "assets/posts/2014/july/the-super-heroic-weekly-update/facebook-og-image.jpg"
 twitter: "assets/posts/2014/july/the-super-heroic-weekly-update/twitter-image.jpg"

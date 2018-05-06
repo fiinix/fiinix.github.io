@@ -2,8 +2,8 @@
 layout: post
 title: "Web in the Woods"
 date: 2015-04-12 T 13:00 UTC
-tags : [Accessibility, Conference, "Web in the Woods", Camping]
-category: professional
+tags : [Accessibility, Conferences, "Web in the Woods"]
+category: Industry
 excerpt: In which I talk about talking. In the woods. With a fire and everything.
 color: "#2E8B57"
 color2: "#F79337"

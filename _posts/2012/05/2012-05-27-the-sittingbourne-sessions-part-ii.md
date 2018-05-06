@@ -3,8 +3,8 @@ title: "The Sittingbourne Sessions, Part II"
 date: 2012-05-27T15:09:00+00:00
 author: Carlos
 layout: post
-tags: [Video, Cover, Job]
-category: personal
+tags: [Videos, Music, Jobs, Song covers]
+category: Creative
 excerpt: "In which I record a a few more songs just before we move from our self-catering accommodation in Sittinbourne."
 ---
 For once.. I have made good on my promise. In one and a half hour we're relocating to Maidstone, after which I wouldn't be able to finish the Sittingbourne Sessions without lying about our location. Now, my conscience is guilty-free. Feels good.. Mmmm.. Oh yeah, guilty-free..

@@ -4,8 +4,8 @@ title: Alpha and Omega
 date: 2010-12-31T08:41:00+00:00
 author: Carlos
 layout: post
-tags: ["New Year's Recap"]
-category: personal
+tags: [Year-in-review]
+category: Life
 excerpt: "In which I recap the year that has gone by in all its splendor."
 ---
 With this year coming to close and a new year dawning I figured I should probably tie up all my loose ends, also known as, things I said I would blog about, but haven't. So here's a summary of the year that has passed.

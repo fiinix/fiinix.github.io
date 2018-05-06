@@ -2,8 +2,8 @@
 layout: post
 title: "365 Days of Delicious Data"
 date: 2015-04-21 T 23:00 UTC
-tags : ["Quantified Self", Moves, Jawbone UP24, Wearables, Health]
-category: personal
+tags : ["Quantified self", "Jawbone (products)", Wearables]
+category: Health
 excerpt: "In which we I begin to quantify myself and we take a look at all the places I've been in the last year, thanks to the ever-present and watchful eye of Big Brother."
 color: "#1177e3"
 color2: "#001C45"

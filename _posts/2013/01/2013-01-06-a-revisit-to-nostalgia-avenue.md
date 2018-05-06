@@ -3,8 +3,8 @@ title: "A Revisit to Nostalgia Avenue"
 date: 2013-01-06T18:04:00+00:00
 author: Carlos
 layout: post
-tags: [Gaming, "Age of Empires", "Oni", "Operation Wolf"]
-category: personal
+tags: [Video games, "Age of Empires (series)", "Oni", "Operation Wolf"]
+category: Entertainment
 excerpt: "In which Beije's never-ending gaming session gets me thinking about how gaming has shaped me."
 ---
 Reading about <a href="http://www.benjaminhorn.se/post/fragile-allegiance/" >beije's never-ending gaming session</a> got me thinking about how gaming has contributed to shape who I am. Well not just me obviously but then again, this isn't a blog about other people so…

@@ -3,8 +3,8 @@ title: "My New Phone"
 date: 2010-08-14T08:13:00+00:00
 author: Carlos
 layout: post
-tags: [Smartphone, "Samsung Galaxy S", "HTC Desire"]
-category: personal
+tags: [Wearables, "Samsung Galaxy S", "HTC Desire"]
+category: Technology
 excerpt: "In which I get fed up with waiting for my new HTC Desire and order a Samsung Galaxy instead."
 ---
 Last Wednesday I finally had enough of the waiting and waiting.. and more waiting for my HTC Desire. Saunalahti (despite their otherwise good reputation) fucked up big time. Yeah they blamed HTC for not delivering as many phones as they needed. And rightfully so, it's not their fault that HTC couldn't get enough AMOLED screens to deliver enough phones.

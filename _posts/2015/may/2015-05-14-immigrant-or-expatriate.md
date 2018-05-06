@@ -2,8 +2,8 @@
 layout: post
 title: "Immigrant or Expatriate?"
 date: 2015-05-14 T 19:30 UTC
-tags : [Pictures, Immigration, Anniversary]
-category: personal
+tags : [Pictures, Immigration, Anniversaries, England]
+category: Life
 excerpt: "In which I realise that we've already been abroad for three years."
 ---
 Three years.

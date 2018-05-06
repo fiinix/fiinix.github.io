@@ -3,8 +3,8 @@ title: "The End of Tees"
 date: 2011-11-03T20:01:00+00:00
 author: Carlos
 layout: post
-tags: ["Design", "Clothing", "Freddy Krueger", "13 Icons of Horror", "T-Shirt", "Chucky", "Alien/Xenomorph", "Ghostface", "Hannibal", "Jason Vorhees", "Bruce (JAWS)", "Billy (SAW)", "Leatherface", "Michael Myers", "Pennywise", "Pinhead", "Predator"]
-category: post
+tags: ["13 Icons of Horror", T-shirts]
+category: Creative
 excerpt: "In which I decide the keep the design rights to my t-shirts and stop selling my 13 Icons of Horror through shotdeadinthehead.com."
 ---
 Last month I shared about how shotdeadinthehead.com [wanted me to sign a Customer Design Suggestions Agreement](/blog/magic-45) in regards to my t-shirt designs. I of course sent them some follow-up questions I had. But first things first.. the agreement was pretty cut and dry in the end.. when I finally understood it, which was sort of my issue to begin with.. as I had difficulties understanding all of the technical law-terms. But the gist was pretty much this. They pay me a commission on every sold t-shirt, something they had been doing all along. They get the rights to my designs. If we ever part ways, they still pay me(?) and they designs are still theirs.

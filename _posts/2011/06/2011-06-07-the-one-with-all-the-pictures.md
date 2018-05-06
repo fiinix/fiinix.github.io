@@ -4,7 +4,7 @@ date: 2011-06-07T19:00:00+00:00
 author: Carlos
 layout: post
 tags: [Moving, Pictures]
-category: personal
+category: Life
 excerpt: "In which we've moved to our new home and I show you the blurriest photos to prove it."
 ---
 <figure>

@@ -3,8 +3,8 @@ layout: post
 title: A Place to Call Home
 date: 2014-03-11T22:49:00+00:00
 excerpt: In which I finally move my blog to my very own domain carloseriksson.com and begin the arduous process of designing this new website of mine.
-tags : [Jekyll, Github, Web Design]
-category: professional
+tags : [Jekyll, Behind the scenes, Web design]
+category: Technology
 ---
 Welcome to the new website. It's not much of a looker yet, heck, I haven't even gotten smart quotes to work yet. But I will, because these programmers quotes annoys the shit out of me.
 

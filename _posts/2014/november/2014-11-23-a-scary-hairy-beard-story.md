@@ -2,8 +2,8 @@
 layout: post
 title: "A Scary, Hairy Beard Story"
 date: 2014-11-23 T 16:30 UTC
-tags : [Beard, "A Year Journey"]
-category: personal
+tags : [Beards, Journeys]
+category: Life
 excerpt: In which Carlos Eriksson grows a beard for an entire year and documents his journey, week by itchy week.
 ---
 *The beard journey has ended.*

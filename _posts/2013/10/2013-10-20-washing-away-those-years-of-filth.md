@@ -3,8 +3,8 @@ title: "Washing Away Those Years of Filth"
 date: 2013-10-20T21:18:00+00:00
 author: Carlos
 layout: post
-tags: [Baking, Cupcakes, Gaming, Pokémon, "The Abominable Weekly Update"]
-category: personal
+tags: [Baking, Cupcakes, Video games, "The Abominable Weekly Update"]
+category: Life
 excerpt: "In which I talk about Pokémon, amazing cupcakes and getting a new washing machine."
 ---
 Another week has gone by and once again I feel as though I haven’t accomplished very much. But then I start writing and shit just comes out. And then I publish that shit and call it a day.

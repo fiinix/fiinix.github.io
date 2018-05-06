@@ -2,8 +2,8 @@
 layout: post
 title: "Dante's Tenth Circle: Commuting"
 date: 2016-04-22 T 20:00 UTC
-tags : [Job, Cambridge, Commuting, "Studio 24", "Dante's Divine Comedy", "Dante Alighieri"]
-category: personal
+tags : [Jobs, Cambridge (UK), "Studio 24 (company)", "Dante's Divine Comedy"]
+category: Life
 excerpt: "In which I learn the dark art of commuting and why many people seem to hate it so much."
 color: "#363636"
 color2: "#525252"

@@ -2,8 +2,8 @@
 layout: post
 title: "Interrogating the Demons"
 date: 2017-06-25 T 08:00
-tags : [Meditation, Health, Yoga, "Cambridge Buddhist Centre", "Fierce Grace", "On Turning Thirty"]
-category: personal
+tags : [Books, Meditation, Yoga, "Cambridge Buddhist Centre", "Fierce Grace"]
+category: Health
 excerpt: "In which I start cleaning out the cobwebs of my mind by reading, meditating and dying a sweaty death at hot yoga."
 ---
 If the last couple of years has been about focusing on [rewarding my body][demons] for all the shit it had to put up with from Past Carlos, this year is about rewarding my mind.

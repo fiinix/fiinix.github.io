@@ -3,8 +3,8 @@ title: "Petite Cuisine D'amour"
 date: 2010-12-05T09:46:00+00:00
 author: Carlos
 layout: post
-tags: [Design, Bookbinding]
-category: personal
+tags: [Books, Bookbinding]
+category: Creative
 excerpt: "In which I make my own leather-bound recipe book."
 ---
 Aaah. It's done, and for a being the first of possibly more books, I am actually quite pleased with the result. Yeah sure, I cheated here and there, because, well.. I can.. but I'm still pleased with it.

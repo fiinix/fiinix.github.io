@@ -3,8 +3,8 @@ title: "Let the Barbecue Season Begin"
 date: 2013-05-03T22:37:00+00:00
 author: Carlos
 layout: post
-tags: [Humour, "The Abominable Weekly Update", Radio, Music, BBQ]
-category: personal
+tags: ["The Abominable Weekly Update", Music, Cooking]
+category: One-shot
 excerpt: "In which I talk about barbecuing as if I was doing a radio broadcast with music and all."
 ---
 In my defence, the weather was awesome. I had to go and buy a disposable barbecue and make tonight’s dinner on it. I just couldn't resist any more. But nobody wants to read about what I ate. Unless I ate something like the endangered Tonkin Snub-nosed Monkey in which case I suppose that would actually be interesting. But eating endangered animals aside, nobody wants to read about what I ate so I figured I have to make it interesting.

@@ -2,8 +2,8 @@
 layout: post
 title: "Exercising the Demons"
 date: 2015-06-07 T 14:00 UTC
-tags : [Health, "On Turning Thirty"]
-category: personal
+tags : [Yoga, Eating, Exercise]
+category: Health
 excerpt: "In which I continue paying for Past Carlos' mistakes and reluctance to listen of his own body."
 ---
 

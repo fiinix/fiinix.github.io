@@ -2,8 +2,8 @@
 layout: post
 title: Waiting For Inspiration
 date: 2009-09-01T19:44:00+01:00
-tags : [Creative]
-category: personal
+tags : [Behind the scenes]
+category: Creative
 excerpt: Incoherent rambling. Something about not waiting for inspiration but just getting to work.
 ---
 Awesome! For years I have thought that inspiration comes to you when you least expect it. Then I read somewhere, by someone I can't seem to recall at the moment...

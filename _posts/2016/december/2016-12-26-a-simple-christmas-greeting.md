@@ -3,7 +3,7 @@ layout: post
 title: "A Simple Christmas Greeting"
 date: 2016-12-26 T 14:00 UTC
 tags : ["Season’s Greetings", Christmas]
-category: personal
+category: Life
 excerpt: "In which the Eriksson family wish you all a Merry Christmas with the annual season's greetings."
 ---
 I will return to writing in this journal with the enthusiasm it deserves.

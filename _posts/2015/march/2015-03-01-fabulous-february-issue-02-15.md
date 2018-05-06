@@ -2,8 +2,8 @@
 layout: post
 title: "Fabulous February, Issue 02/15"
 date: 2015-03-01 T 19:00 UTC
-tags : ["Keeping Up with the Erikssons", Tattoo, Wartime Life, Star Wars, Anniversary, "Reasons To Be Creative", Conference, Job]
-category: personal
+tags : ["Keeping Up with the Erikssons", Tattoos, Wartime Life, Back in time, Anniversaries, Conferences, Jobs, "Father and son"]
+category: Life
 excerpt: "In this month's issue of Keeping Up With the Erikssons: We don't celebrate our 4th wedding anniversary, lose another pub quiz, continue my tattoo, take on the role of a sentient lizard, attend a conference in London, get Lucien declared healthy and finally, end our Wartime Life."
 ---
 The first story isn't even a story at all but rather the lack of one. We celebrated our fruit anniversary---that's four years in case you're wondering---this month. But when I say *celebrated* what I really mean is, we completely forgot about it. Both of us.

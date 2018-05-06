@@ -3,8 +3,8 @@ title: "On a Very Special Carlos"
 date: 2012-10-27T10:38:00+00:00
 author: Carlos
 layout: post
-tags: ["Smoking Cessation", "Writing Challenge", "Victorian Music Hall"]
-category: personal
+tags: ["Smoking cessation", Writing, Back in time]
+category: Health
 excerpt: "In which I've taken a break from smoking and realise how few entries I've written this year."
 ---
 This week on a very special Carlos I talk about how [beije](http://www.beije.fi/) makes me look bad by writing more than I do, what it's like to "pause" smoking and the [Victorian Music Hall](http://britishmusichallsociety.wordpress.com/2012/07/27/music-hall-in-chatham/) we're attending this evening.

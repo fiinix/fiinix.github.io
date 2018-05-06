@@ -2,8 +2,8 @@
 layout: post
 title: "At Least It Wasn’t Lupus, Part 1"
 date: 2014-01-04T18:25:00Z
-tags : ["New Year's Recap"]
-category: personal
+tags : [Year-in-review, "Father and son"]
+category: Life
 excerpt: "In which I open up and share the, not so fun, experience of Lucien coming down with a rare autoimmune disease."
 ---
 The post you’re about to read was not the post I had originally envisioned, obviously. But I thought it would be more honest to actually share and tell the story, than try to pretend everything was fine when it clearly wasn’t.

@@ -2,8 +2,8 @@
 layout: post
 title: Volume 4, Up And Running
 date: 2009-10-15T17:53:00+01:00
-tags : [Design, "Web Design", Creative]
-category: personal
+tags : [Web design]
+category: Creative
 excerpt: The redesign of 2009 is officially launched despite the lacking content.
 ---
 Hell yeah, Volume 4 of Fiinix Design is online and working more or less properly. I had some nasty bugs in IE I had to care of but now it works. Still have to add all the content to Showcase and Portfolio. As some of you might have noticed it get's a bit wierd in the end.

@@ -2,8 +2,8 @@
 layout: post
 title: "Magnificent May, Issue 05/15"
 date: 2015-05-31 T 15:15 UTC
-tags : ["Keeping Up with the Erikssons", "Comic Con", Tattoo, Beard, Pokemon, Beer, "Back to the Future", Cosplay, Pictures, "Batman: Arkham Knight"]
-category: personal
+tags : ["Keeping Up with the Erikssons", "Comic-con", Tattoos, Beards, Cosplay, Pictures, "Batman"]
+category: Life
 excerpt: "In this month's issue of Keeping Up With the Erikssons: I finally finish my sleeve tattoo, reach the halfway mark of my beard journey, go to Comic Con for a third time and start drinking better beer."
 ---
 Another month flies by where the English weather can't seem to decide if it's going to be summer or not, with one day of 20&deg; in blistering sunshine and the next it's just pissing down.

@@ -2,8 +2,8 @@
 layout: post
 title: "The Pursuit of Employment"
 date: 2016-04-14 T 20:00 UTC
-tags : [Job, "Studio 24", Anxiety, LinkedIn, Twitter, BBC, Shopify]
-category: personal
+tags : [Jobs, "Studio 24 (company)", LinkedIn, Twitter, BBC, Shopify]
+category: Life
 excerpt: "In which I talk about the experience of suddenly finding myself hunting for another job and all of its vices."
 ---
 A part of my, our, world collapsed last February.

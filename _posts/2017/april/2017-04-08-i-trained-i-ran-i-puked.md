@@ -2,8 +2,8 @@
 layout: post
 title: "I Trained, I Ran, I Puked"
 date: 2017-04-08 T 09:00 UTC
-tags : [Running, Health, Cancer, Leukaemia, Marathon, "Just Giving", Charity, "In Memoriam", "Saucony Cambridge Half Marathon"]
-category: personal
+tags : [Running, Marathons, Charities, "In Memoriam", "Saucony Cambridge Half Marathon"]
+category: Health
 excerpt: "In which I complete my first half marathon, raise money in memory of Amanda and puke across the finish line."
 color: "#0b9cdb"
 color2: "#0088d1"

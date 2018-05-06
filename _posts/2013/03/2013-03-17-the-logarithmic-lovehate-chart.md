@@ -3,8 +3,8 @@ title: "The Logarithmic Love/Hate Chart"
 date: 2013-03-17T11:35:00+00:00
 author: Carlos
 layout: post
-tags: [Chart, Love, Hate, Marmite, Statistics]
-category: personal
+tags: [Data, Data visulisation]
+category: Creative
 excerpt: "In which I make a chart, looking how people feel about different thing such as love, hate and Marmite."
 ---
 What started as a moment of boredom turns into a miniature journey into the relationship between Love and Hate as seen through the eyes — search results — of Google. Also, there's charts and numbers because everybody loves charts and numbers, right?

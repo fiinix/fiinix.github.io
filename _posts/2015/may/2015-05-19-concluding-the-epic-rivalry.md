@@ -2,8 +2,8 @@
 layout: post
 title: "Concluding the Epic Rivalry"
 date: 2015-05-19 T 16:30 UTC
-tags : [Eurovision Song Contest, Humour]
-category: personal
+tags : [Eurovision Song Contest, Finland, England]
+category: Entertainment
 excerpt: "In which I continue that weary---by now---tradition of listening through every Eurovision contender and then give them points. Or joke about them. Sometimes both."
 color: "#934a9b"
 ---

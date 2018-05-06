@@ -3,8 +3,8 @@ title: "I Write Titanium, Not Tragedies (It's A Sin)"
 date: 2013-03-22T19:11:00+00:00
 author: Carlos
 layout: post
-tags: ["Original Song", Cover, Video]
-category: personal
+tags: [Song writing, Videos, Music]
+category: Creative
 excerpt: "In which I finally manage to record and upload a couple of songs."
 ---
 I've finally managed to record a couple of songs and then I also "discovered" a demo song I recorded back when I did The Sittingbourne Sessions that I hadn't uploaded. So I sort of, kind of, "mashed" together the titles of "I Write Sins Not Tragedies" and "Titanium" but I didn't actually mash the songs together. I did however do a little — and horrible — beat-boxing in between the songs. The other song is just a rough demo of a song I'm still writing but I recorded a demo of it back in May, 2012 despite its unfinished state.

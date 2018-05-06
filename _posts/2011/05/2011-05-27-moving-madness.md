@@ -4,7 +4,7 @@ date: 2011-05-27T17:06:00+00:00
 author: Carlos
 layout: post
 tags: [Moving]
-category: personal
+category: Life
 excerpt: "In which we've almost moved to our new home. Sans the actual moving and the actual keys."
 ---
 Now it's semi-official.. semi, since we haven't officially moved yet and don't have the keys to the new place and shit like that. Obviously this also means that soon I won't have time to blog for, let's say a couple of weeks or so. Yeah, it might be and probably will be less but I would rather not get your hopes (hopes?) up so I won't. This weekend and the beginning of next week will be utter moving madness. Thankfully though, my awesome wife has gone all 

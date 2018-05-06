@@ -3,8 +3,8 @@ title: "Like a Batpunch™ to the Dick"
 date: 2013-11-10T11:06:00+00:00
 author: Carlos
 layout: post
-tags: ["Batman: Arkham Origins", Gaming, Review, Humour]
-category: personal
+tags: ["Batman", Video games]
+category: One-shot
 excerpt: "In which, instead of reviewing Batman: Arkham Origins, I tell the story of Steven, henchman #537."
 ---
 My original plan for this—sort of—review was going to be a new fresh take on both Batman and the very idea of reviewing a game by ignoring the main character—that’s Batman—even the game itself and instead tell the compelling story of Alfred. The butler who has to put up with a PTSD-ridden and rich manboy who insists on dressing up like a bat to “fight” crime.

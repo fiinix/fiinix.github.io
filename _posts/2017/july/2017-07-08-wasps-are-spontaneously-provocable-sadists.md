@@ -2,8 +2,8 @@
 layout: post
 title: "Wasps Are Spontaneously Provocable Sadists"
 date: 2017-07-08 T 08:00
-tags : ["Cognitive Behavioral Therapy", Phobias]
-category: personal
+tags : [Psychology]
+category: Health
 excerpt: "In which I talk about my irrational fear of wasps, bees and all buzzing things black and yellow."
 disclaimer: "Trigger warning: The following entry features imagery of wasps."
 color: "#EB7500"

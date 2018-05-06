@@ -3,8 +3,8 @@ title: "Carlos’ Countdown ‘Til Christmas (13)"
 date: 2013-12-11T13:50:00+00:00
 author: Carlos
 layout: post
-tags: ["Christmas Countdown", Recipe, Nordic Cuisine]
-category: personal
+tags: [Christmas, Recipes, Baking]
+category: Life
 excerpt: "In which I share a delicious saffron bun recipe, just in time to celebrate Saint Lucia's Day on the 13th."
 ---
 13 days until Christmas. The countdown continues.

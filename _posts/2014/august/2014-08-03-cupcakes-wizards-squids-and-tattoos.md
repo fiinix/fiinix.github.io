@@ -2,8 +2,8 @@
 layout: post
 title: "Cupcakes, Wizards, Squids and Tattoos"
 date: 2014-08-03 T 22:00 UTC
-tags : [Job, Tattoo, Cupcakes, Baking]
-category: personal
+tags : [Jobs, Tattoos, Cupcakes, Baking]
+category: Life
 excerpt: "In which I mangle and molest two company names for the sole purpose of getting a not-particularly-funny title out of it."
 ---
 I think that title should be a white card in the party game [Cards Against Humanity][cah].

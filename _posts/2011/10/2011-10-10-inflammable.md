@@ -3,8 +3,8 @@ title: "Inflammable!"
 date: 2011-10-10T16:32:00+00:00
 author: Carlos
 layout: post
-tags: ["Board Gaming", "Island of Eternity", Design, Clothing, "T-Shirt", "Inflammable!"]
-category: personal
+tags: [Board games, Board game development, "Island of Eternity", T-shirts, "Inflammable!"]
+category: Creative
 excerpt: "In which I reveal a design concept for merchandising opportunities for my board game Island of Eternity."
 ---
 So in light of yesterdays promise, I thought (for a change) I would actually keep that promise. Here's a picture of yesterdays t-shirt project. The design is from the maybe to-be card "Inflammable!"—or [Flammable!](/blog/flammable).. I haven't apparently decided yet—from my board game project "Island of Eternity". What?

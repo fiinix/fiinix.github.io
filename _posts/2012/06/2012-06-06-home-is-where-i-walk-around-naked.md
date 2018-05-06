@@ -4,7 +4,7 @@ date: 2012-06-06T21:45:00+00:00
 author: Carlos
 layout: post
 tags: [Moving]
-category: personal
+category: Life
 excerpt: "In which we get it confirmed that we're getting the apartment (flat) we wanted."
 ---
 You know.. as opposed to "Home is where the heart.. blah blah". Today I got it (super extra) confirmed that we're getting the apartment (flat) that we looked at two Saturdays ago. Come this Saturday we're signing the papers and getting the keys. Awesome! Our current temporary accommodation is ridiculously over-priced (and not that great either, but I will complain more on that once we're out of here) so it's going be really nice not having to worry about that as well as getting a place we can truly call our home. That also means we might be off the grid for a couple of weeks or so, but I promise I will post pictures of our new home once we have an internet connection.

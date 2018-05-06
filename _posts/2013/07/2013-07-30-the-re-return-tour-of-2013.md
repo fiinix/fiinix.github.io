@@ -3,8 +3,8 @@ title: "The Re-Return Tour of 2013"
 date: 2013-07-30T17:53:00+00:00
 author: Carlos
 layout: post
-tags: [Finland, Vacation]
-category: personal
+tags: [Finland, Travel]
+category: Life
 excerpt: "In which I get ready to go on a vacation back to cold and dreary Finland, except it's in the middle of the summer right now and warmer than here."
 ---
 The time has come. Tomorrow we’re going on our vacation but not to some exotic — and Mediterranean — place oh no. No, we’re going to a place which is colder and harsher than where we’re now.

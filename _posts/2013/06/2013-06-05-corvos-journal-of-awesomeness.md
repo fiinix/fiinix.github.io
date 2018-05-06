@@ -2,8 +2,8 @@
 layout: post
 title: "Corvo's Journal of Awesomeness"
 date: 2013-06-05T01:30:00+01:00
-tags : [Dishonored, Gaming, Humour, Review]
-category: personal
+tags : ["Dishonored (series)", Video games]
+category: One-shot
 excerpt: "Follow the self-proclaimed awesome adventures of Corvo as he stabs his way through Dunwall, seeking revenge for those who dissed his honour in Dishonored, a stealth action adventure game originally released in 2012, that I just got to on my to-play list."
 ---
 ## Day 1

@@ -3,7 +3,8 @@ title: "Games, I'm Eagerly Awaiting.."
 date: 2010-05-22T08:50:00+00:00
 author: Carlos
 layout: post
-tags: ["Gaming", "Fable III", "Fallout: New Vegas", "Batman: Arkham City", "Halo: Reach"]
+tags: [Video games, "Fable (series)", "Fallout (series)", "Batman", "Halo (series)"]
+category: Entertainment
 excerpt: "In which I talk about some games I'm really looking forward to."
 ---
 There are a number of games (Xbox 360) I'm waiting for... Not that you probably care.. but instead of writing it down on piece of paper that I will inevitable misplace resulting in that I forget one game, is not something I desire. So I will write it down here and I can just refer to this page, maybe even review the games after they have been released. I probably won't review them but one (I) can always do some wishful thinking. Also for the sake of not just vaguely talking about games you might not have heard of. I am also going to honour you with their teaser/trailers..

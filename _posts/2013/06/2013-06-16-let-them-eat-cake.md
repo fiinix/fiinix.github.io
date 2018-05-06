@@ -3,8 +3,8 @@ title: "Let Them Eat Cake!"
 date: 2013-06-16T21:54:00+00:00
 author: Carlos
 layout: post
-tags: [Birthday, Cake]
-category: personal
+tags: [Birthdays, Baking]
+category: Life
 excerpt: "In which I show you the actual cake with 29 individual candles. Fire hazards ignored."
 ---
 I once knew a woman who said “Let them eat cake!” or something like that. Actually I didn’t know her, it was Marie Antoinette whom as we all know didn’t live when I lived. I live now and she’s… well… pretty dead last time I checked. <a href="http://en.wikipedia.org/wiki/Let_them_eat_cake" >She also never actually said “Let them eat cake!”</a>.

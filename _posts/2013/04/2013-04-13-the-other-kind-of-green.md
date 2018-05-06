@@ -4,7 +4,7 @@ date: 2013-04-13T23:00:00+00:00
 author: Carlos
 layout: post
 tags: [Coffee]
-category: personal
+category: One-shot
 excerpt: "In which I talk about the basics of bean freshness and roasting my own beans using a Hot Air Popcorn Popper."
 ---
 I promise I'll try to make it interesting this time.

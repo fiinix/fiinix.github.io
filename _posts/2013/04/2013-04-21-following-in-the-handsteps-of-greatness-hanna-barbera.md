@@ -3,8 +3,8 @@ title: "Following in the Handsteps of Greatness (Hanna-Barbera)"
 date: 2013-04-21T22:12:00+00:00
 author: Carlos
 layout: post
-tags: [Branding, Design, Hanna-Barbera, ]
-category: personal
+tags: [Brand design, Character design, Hanna-Barbera]
+category: Creative
 excerpt: "In which I redesign my own avatar in the style of Hanna-Barbera.  "
 ---
 A few days ago I was sitting around and sketching, trying to flesh out an idea I have for a painting — more on that at a later date — when I found myself sketching something that really had very little to do with the painting. But I kind of liked how it looked and the feeling of nostalgia that it woke in me.

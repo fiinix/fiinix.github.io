@@ -2,8 +2,8 @@
 layout: post
 title: "In Memoriam: Swansong"
 date: 2017-04-21 T 20:00 UTC
-tags : [Cancer, Leukemia, "In Memoriam", Video, Song Writing, Original Song]
-category: personal
+tags : ["In Memoriam", Videos, Song writing]
+category: Creative
 excerpt: "In which I, after many failed attempts, manage to record the song I wrote for Amanda."
 color: "#0b9cdb"
 color2: "#0088d1"

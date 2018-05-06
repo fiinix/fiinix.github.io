@@ -2,8 +2,8 @@
 layout: post
 title: "Push Ups, Planks and Puking"
 date: 2015-11-15 T 11:00 UTC
-tags : ["Quantified Self", Push Ups, Planks, Health, Exercising, "On Turning Thirty"]
-category: personal
+tags : [Quantified self, Exercise, Data]
+category: Health
 excerpt: "In which I continue this new-found obsession with quantifying myself, looking at the exercise progress I've made and realise I sleep more than I think, albeit unevenly."
 color: "#1177e3"
 color2: "#001C45"

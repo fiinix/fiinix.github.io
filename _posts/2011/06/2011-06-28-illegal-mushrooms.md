@@ -3,8 +3,8 @@ title: "Illegal Mushrooms"
 date: 2011-06-28T18:23:00+00:00
 author: Carlos
 layout: post
-tags: ["Original Song", FruityLoops, "Digital Audio Workstation"]
-category: personal
+tags: [Music, Song writing]
+category: Creative
 excerpt: "In which I dig through the embarrassing archive that is a shitty song I created in FruityLoops years ago."
 ---
 So yeah, funny story. Since we moved recently I went through boxes of crap that I have been saving for *some* years. I come from a long line of hoarders so it's quite cleansing to just throw shit away. Well in one of those boxes I found a CD I haven't seen in a while. Actually it's a whole album, with 19 songs.. can you believe it? Even better. It's the only copy in the world since I wasn't as big on backup's back then. You feel a bit special now, don't you? A little tingly inside? Oh the tension.. what has Carlos got in store for us now?

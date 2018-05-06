@@ -3,8 +3,8 @@ title: "How Skype Took a Dump on My Metaphorical Carpet"
 date: 2012-12-07T22:40:00+00:00
 author: Carlos
 layout: post
-tags: [Design, "UI/UX Design", Skype, Microsoft]
-category: personal
+tags: [UI design, UX design]
+category: Industry
 excerpt: "In which I rant about the UX/UI of Skype and how it insists on always being there."
 ---
 Taking a small break from writing copy for my website — in between the gingerbread baking — I take a moment to reflect… on life, death, and…

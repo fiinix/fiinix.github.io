@@ -3,8 +3,8 @@ title: "The Declaration in the Flask"
 date: 2013-05-07T21:47:00+00:00
 author: Carlos
 layout: post
-tags: ["Father and Son"]
-category: personal
+tags: ["Father and son"]
+category: Life
 excerpt: "In which Lucien and I create a message in a bottle with the hopes of someone finding it some day."
 ---
 Joining the ranks of great people such as <a href="http://en.wikipedia.org/wiki/Theophrastus" >Theophrastus</a>, <a href="http://en.wikipedia.org/wiki/Christopher_Columbus" >Christopher Columbus</a> and the guy who made <a href="https://twitter.com/SoloSoftDrink" >the Solo Bottle</a>, my son and I have today forever immortalised ourselves with the Mistress of the Sea. Braving through the wilderness, fighting against the elements we have come out victorious on the other side, and boy do we have a story to tell.

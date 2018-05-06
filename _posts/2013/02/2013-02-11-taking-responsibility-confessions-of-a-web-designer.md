@@ -3,8 +3,8 @@ title: "Taking Responsibility — Confessions of a Web Designer"
 date: 2013-02-11T22:47:00+00:00
 author: Carlos
 layout: post
-tags: ["Web Design"]
-category: personal
+tags: [Web design, Accessibility]
+category: Industry
 excerpt: "In which I refuse to do what I'm told at work, to make the web a better place for everyone."
 ---
 Today I was asked to put blinking text into a website. Today I had to make a choice. Live with the consequences of knowing that I've contributed to making the internet a worse place or refuse.

@@ -3,8 +3,8 @@ title: "Not a Shower, nor a Grower"
 date: 2012-11-20T21:57:00+00:00
 author: Carlos
 layout: post
-tags: [Movember, "Facial Hair", Cancer]
-category: personal
+tags: [Charities, Movember]
+category: Health
 excerpt: "In which I grow a moustache to raise awareness for men's health issues, such as prostate cancer, testicular cancer and men's suicide."
 ---
 As you might remember I was going to raise awareness for cancer by growing a pitiful moustache. Here's some photographic evidence of my — so far — less than impressive attempt at growing a 'stache. Let this be a lesson to everyone. I challenge you to **not** look like an idiot, in a moustache.

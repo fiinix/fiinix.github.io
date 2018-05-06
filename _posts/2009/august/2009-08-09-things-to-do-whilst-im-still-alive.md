@@ -2,8 +2,8 @@
 layout: post
 title:  Things to do Whilst I'm Still Alive
 date: 2009-08-09T10:05:00+01:00
-tags : [Bucket List]
-category: personal
+tags : [Writing, Song writing, Relationships, Languages]
+category: Life
 excerpt: Everyone has their bucket lists and I'm no exception.
 ---
 Things to do whilst I'm still alive, the revised list.. or something of similar nature. I already had a list before, don't really remember where but it's gone now so I am making a revision.

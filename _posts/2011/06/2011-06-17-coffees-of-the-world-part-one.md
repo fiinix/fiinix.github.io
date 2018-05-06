@@ -3,8 +3,8 @@ title: "Coffees of the World, Part One"
 date: 2011-06-17T20:46:00+00:00
 author: Carlos
 layout: post
-tags: [Coffee, Review]
-category: personal
+tags: [Coffee]
+category: Review
 excerpt: "In which I review some of the first coffees I've had."
 ---
 So here we go I suppose.. a lot of pressure to perform.. well adequately at least. Not that the pressure is being adequate, but that the performance probably will be. Don't you just hate when you feel like you have to explain a joke?

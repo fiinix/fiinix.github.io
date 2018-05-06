@@ -3,8 +3,8 @@ title: "A Small Step for Carlos"
 date: 2010-11-18T21:02:00+00:00
 author: Carlos
 layout: post
-tags: ["Board Gaming", "Island of Eternity"]
-category: personal
+tags: [Board games, Board game development, "Island of Eternity"]
+category: Creative
 excerpt: "In which I talk about the board game, Island of Eternity, that I'm making."
 ---
 *Personal Beije message: tl;dr, just look at the shiny pictures.*

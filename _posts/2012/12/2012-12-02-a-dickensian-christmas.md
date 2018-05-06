@@ -3,8 +3,8 @@ title: "A Dickensian Christmas"
 date: 2012-12-02T22:14:00+00:00
 author: Carlos
 layout: post
-tags: [Rochester, "Dickensian Festival", Christmas]
-category: personal
+tags: [Rochester, Christmas]
+category: Life
 excerpt: "In which the Eriksson family take a bus to experience their first Dickensian Christmas."
 ---
 I was actually going to write a post about the relationships between Love and Hate but I am too tired to get the bubble charts to display accurately. Damn it! The numbers don't add up! I will have to save the charts for some other day. Instead I am going to keep this one short and just tell you about how we went to Rochester and experienced their Dickensian Christmas.

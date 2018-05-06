@@ -3,8 +3,8 @@ title: How I Learned to Stop Worrying and Love the Cigarette
 date: 2012-11-19T20:08:00+00:00
 author: Carlos
 layout: post
-tags: ["Breaking a Habit", "Smoking Cessation"]
-category: personal
+tags: ["Smoking cessation"]
+category: Health
 excerpt: "In which I talk about what it's been like since I took a break from smoking."
 ---
 8 weeks and 1 day ago I took a long and semi-permanent break in smoking. That post title over there. Yeah, that one. A reference again, I like you those as you probably already know and I am not planning on stopping them any time soon. Not that you've ever complained. This post, the one after the jump. It's about how I realistically managed to stay smoke free.

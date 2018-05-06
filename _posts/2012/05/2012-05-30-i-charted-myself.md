@@ -4,7 +4,7 @@ date: 2012-05-30T21:58:00+00:00
 author: Carlos
 layout: post
 tags: [Moving]
-category: personal
+category: Life
 excerpt: "In which I write a disappointing entry about almost nothing at all but show a photo from our self-catering accommodation."
 ---
 So yeah. I suppose some of you might have been waiting for this post.

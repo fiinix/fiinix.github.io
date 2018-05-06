@@ -3,8 +3,8 @@ title: "The Frustrations of Web Design"
 date: 2012-02-16T23:49:00+00:00
 author: Carlos
 layout: post
-tags: ["Web Design", Creative, Design]
-category: personal
+tags: [Web design, Behind the scenes]
+category: Creative
 excerpt: "In which I've started hunting for a job in the UK."
 ---
 Yes, it's been quite a while. And this will alas not be a very long post. So basically here's the <strike>short</strike> long story..

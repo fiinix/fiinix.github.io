@@ -3,8 +3,8 @@ title: "Nothing Ventured, Nothing Gained"
 date: 2012-05-04T23:35:00+00:00
 author: Carlos
 layout: post
-tags: [England, Moving, Job, Immigration]
-category: personal
+tags: [England, Moving, Jobs, Immigration]
+category: Life
 excerpt: "In which we decide to move the UK, without accommodation or employment."
 ---
 People think we're crazy. Rightfully so I suppose since we have decided to move without accommodation and without employment. And without sufficient funds.

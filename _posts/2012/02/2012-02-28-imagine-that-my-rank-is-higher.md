@@ -3,8 +3,8 @@ title: "Imagine That My Rank Is Higher"
 date: 2012-02-28T11:30:00+00:00
 author: Carlos
 layout: post
-tags: [Design, "Web Design", "We Play NHL", "UI/UX Design"]
-category: personal
+tags: [Web design, "We Play NHL", UI design, Behind the scenes]
+category: Creative
 excerpt: "In which me and Mr. Cruise rething the ranking symbols used in our We Play NHL website."
 ---
 Today I thought I would talk to you about ranks.. and more specifically about rank symbols, like the ones used by the army and many games that feature an online multiplayer competitive component. Is this relevant to my thoughts on the subject matter? Well, for the most part it's not but both of them did serve as inspiration when redesigning our ranks and their respective symbols.

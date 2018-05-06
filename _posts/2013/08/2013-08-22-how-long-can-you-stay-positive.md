@@ -3,8 +3,8 @@ title: "How Long Can You Stay Positive?"
 date: 2013-08-22T18:00:00+00:00
 author: Carlos
 layout: post
-tags: [Gaming, Design, "Monorun!", "Windows Phone"]
-category: personal
+tags: [Video games, Video game development, "Monorun!"]
+category: Creative
 excerpt: "In which beije and make a game called Monorun! that is now also available on Windows Phone."
 ---
 Our minimalistic game about the transience of life returns as beije develops it into a native game for the Windows Phone.

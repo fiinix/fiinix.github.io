@@ -3,8 +3,8 @@ title: "Munching on too Many Mince Pies"
 date: 2013-12-07T12:42:00+00:00
 author: Carlos
 layout: post
-tags: ["Christmas Countdown", "Mince Pies", Immigration, "The Abominable Weekly Update"]
-category: personal
+tags: ["For science!", Immigration, "The Abominable Weekly Update", Christmas]
+category: Life
 excerpt: "In which I, and five co-workers try mince pies to determine which is the best."
 ---
 17 days until Christmas. The countdown continues. 

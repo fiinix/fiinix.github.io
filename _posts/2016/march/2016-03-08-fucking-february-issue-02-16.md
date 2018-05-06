@@ -2,8 +2,8 @@
 layout: post
 title: "Fucking February, Issue 02/16"
 date: 2016-03-08 T 21:00 UTC
-tags : ["Keeping Up with the Erikssons", Job, Squiders, "A Book Apart", Pornland, Coffee, Copywriting, "Mark Shaw", "Gail Dines", "Dan Mall", "Barbara Hurd", Joylent, "Monthly Challenge"]
-category: personal
+tags : ["Keeping Up with the Erikssons", Jobs, Squiders (company), Books, Joylent]
+category: Life
 excerpt: "In this month’s late and short issue of Keeping Up With the Erikssons: We have a really shitty month."
 ---
 The idiom goes, <q>When it rains, it pours</q>.

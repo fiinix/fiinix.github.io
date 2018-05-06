@@ -3,8 +3,8 @@ title: "Have You Seen My Goblin?"
 date: 2011-11-11T17:23:00+00:00
 author: Carlos
 layout: post
-tags: [Design, Dolls, Creative]
-category: personal
+tags: [Dolls, Sculpting]
+category: Creative
 excerpt: "In which I show you the latest in the line of the dolls I've created, my goblin doll."
 ---
 If you haven't already seen my Goblin.. well, you will have by the end of this post. This is a project I actually started almost two years ago.. at least according to the date on the folder I created when I was searching the internet for inspiration. This is one of those inspirational pictures.

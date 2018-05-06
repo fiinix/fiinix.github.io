@@ -3,8 +3,8 @@ title: "Music and Me"
 date: 2010-12-27T19:35:00+00:00
 author: Carlos
 layout: post
-tags: ["Song Writing"]
-category: personal
+tags: [Song writing, Behind the scenes, Videos, Music]
+category: Creative
 excerpt: "In which I talk about the some times confusing song writing process I have."
 ---
 Am I writing music, or is music writing me? Nah, never mind, that makes no sense. I'm trying to take a creative break from things, or more accurately, I'm taking a break from board game creating to well... create other things. Funny thing with being creative, there's never really any break from it. I'm never actually having a break from being creative.. never. All I'm ever doing is shifting my focus from one area of creativeness (actually a word according to Firefox spell check) to another. I'm not complaining in any way, I don't mind working like this. But it's interesting that what I consider a break isn't actually a break at all. And even if I'm not doing anything at any particular moment in time, my mind is still creating. It just never stops getting ideas from different things in life. I suppose that's the penalty one pays for having a hyperactive brain. I've had several different ideas whilst writing this so far.

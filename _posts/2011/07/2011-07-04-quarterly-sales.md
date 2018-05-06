@@ -3,8 +3,8 @@ title: "Quarterly Sales"
 date: 2011-07-04T15:26:00+00:00
 author: Carlos
 layout: post
-tags: ["T-Shirt", Design, Clothing, "13 Icons of Horror", "Freddy Krueger", "Chucky", "Alien/Xenomorph", "Ghostface", "Hannibal", "Jason Vorhees", "Bruce (JAWS)", "Billy (SAW)", "Leatherface", "Michael Myers", "Pennywise", "Pinhead", "Predator"]
-category: personal
+tags: [T-shirts, "13 Icons of Horror"]
+category: Creative
 excerpt: "In which I receive my quarterly sales report for my 13 Icons of Horror t-shirts."
 ---
 Got my quarterly sales report a few minutes ago.. I've had a sale of 14 T-shirts more in the last quarter.. which brings my current total to 27.. Hurray for me!

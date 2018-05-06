@@ -2,8 +2,8 @@
 layout: post
 title: "Jolly July and Amusing August, Issue 07-08/15"
 date: 2015-09-01 T 21:00 UTC
-tags : ["Keeping Up with the Erikssons", Birthday, Brickcity, Lego, National History Museum, Maidstone Museum, Paddington Bear, Zombies, Pictures, Dubsmash, Video, Board Gaming]
-category: personal
+tags : ["Keeping Up with the Erikssons", Birthdays, Lego, Museums, Zombies, Pictures, Videos, Board games]
+category: Life
 excerpt: "In this month’s double issue of Keeping Up With the Erikssons: Lucien celebrates his 7th birthday, my brother and I battle it out Dubsmash style, my mom visits, I become undead for a photoshoot and we go to two different museums at two different times."
 ---
 Welcome back dear readers, all 12 of you, I hope you've had a nice vacation. I know I have.

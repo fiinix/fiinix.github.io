@@ -3,8 +3,8 @@ title: "I Made a Bored Game.."
 date: 2010-02-22T18:34:00+00:00
 author: Carlos
 layout: post
-tags: ["Board Gaming", "Island of Eternity"]
-category: personal
+tags: [Board games, Board game development, "Island of Eternity"]
+category: Creative
 excerpt: "In which the development of my yet-to-be-released board game Island of Eternity continues."
 ---
 Pun intended. Albeit slightly false actually as it seems so far that my board game is anything but boring. People seem genuinely having fun, studying people playing, not just asking them. Come to think of I don't actually think I've asked a single one if they thought it was fun. I just base my research on observations instead.

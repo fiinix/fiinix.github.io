@@ -3,8 +3,8 @@ layout: post
 title: Midsummer,  Our Most Cherished Pagan Holiday
 color: "#91b716"
 date: 2014-06-22 T 23:45 UTC
-tags : ["Season’s Greetings", Video, Midsummer, The Abominable Weekly Update]
-category: personal
+tags : ["Season’s Greetings", Videos, Midsummer, "The Abominable Weekly Update", Finland]
+category: Life
 excerpt: Join me as I attempt to explain the curious tradition that is midsummer and top it of with a video greeting to all of you. But mostly you. Yes, you.
 tile: "/assets/posts/2014/june/midsummer-our-most-cherished-pagan-holiday/tile.png"
 facebook: "assets/posts/2014/june/midsummer-our-most-cherished-pagan-holiday/facebook-og-image.png"

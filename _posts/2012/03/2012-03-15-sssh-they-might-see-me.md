@@ -3,8 +3,8 @@ title: "Sssh, They Might See Me"
 date: 2012-03-15T21:12:00+00:00
 author: Carlos
 layout: post
-tags: [Job, Travel, England]
-category: personal
+tags: [Jobs, Travel, England]
+category: Life
 excerpt: "In which I write a journal entry retelling the epic adventure of flying to the UK."
 ---
 *Journal, part I.*

@@ -3,7 +3,7 @@ layout: post
 title: "The First and Last Christmas"
 date: 2017-12-25 T 09:00
 tags : ["Christmas", "Season’s Greetings"]
-category: personal
+category: Life
 excerpt: "In which it's time for the annual Eriksson Christmas greeting."
 thumbnail: "carlos-eriksson-christmas-greetings-2017.jpg"
 alt: "The annual Eriksson Christmas greeting 2017."

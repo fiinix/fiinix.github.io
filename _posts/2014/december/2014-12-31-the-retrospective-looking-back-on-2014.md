@@ -2,8 +2,8 @@
 layout: post
 title: "The Retrospective, Looking Back on 2014"
 date: 2014-12-31 T 11:00 UTC
-tags : [New Year's Recap]
-category: personal
+tags : [Year-in-review]
+category: Life
 excerpt: "In which I look back at and summarise the year that has been in a nice list of 14 things I've liked."
 ---
 Another year has gone by. As I sit here, coffee in one hand, stroking my beard with the other, I'm filled with a sense of awe for the year that has been.

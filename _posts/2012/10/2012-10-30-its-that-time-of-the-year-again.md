@@ -3,8 +3,8 @@ title: "It's That Time Of The Year Again"
 date: 2012-10-30T22:59:00+00:00
 author: Carlos
 layout: post
-tags: [Halloween, Pumpkins, "Season’s Greetings"]
-category: personal
+tags: [Halloween, "Season’s Greetings"]
+category: Life
 excerpt: "In which it's time to carve the yearly pumpkin."
 ---
 And with that I of course mean "Time to carve some pumpkins!" in honour of Halloween. Not only that though as this year I got to carve two pumpkins, one to take with me to work — for the office "Carve-Off" — and the other one because quite frankly I'm spoiling my wife. She wants a pumpkin, she gets a pumpkin. As a bonus, this year is the first year where my son is old enough to appreciate/fear the pumpkin carving.

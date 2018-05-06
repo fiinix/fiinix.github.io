@@ -3,8 +3,8 @@ title: "Coffees of the World, Part Two"
 date: 2011-07-02T15:08:00+00:00
 author: Carlos
 layout: post
-tags: [Coffee, Review]
-category: personal
+tags: [Coffee]
+category: Review
 excerpt: "In which I continue to review the different coffees I've had."
 ---
 <figure>

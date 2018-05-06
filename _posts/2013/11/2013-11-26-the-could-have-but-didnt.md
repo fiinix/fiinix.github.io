@@ -3,8 +3,8 @@ title: "The “Could Have, But Didn’t”"
 date: 2013-11-26T21:58:00+00:00
 author: Carlos
 layout: post
-tags: ["Self-publishing", "A Rainy Night on Drury Lane"]
-category: personal
+tags: [Behind the scenes, "A Rainy Night on Drury Lane"]
+category: Creative
 excerpt: "In which I get the flu instead of managing to release the novella I've been talking on about."
 ---
 Where’s the book you might be asking yourself?

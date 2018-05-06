@@ -2,8 +2,8 @@
 layout: post
 title: "Insane in the Terrain Brain"
 date: 2017-10-07 T 08:00
-tags : ["Go Insane", "Obstacle Race", Health, Running, "GoPro Hero 4"]
-category: personal
+tags : ["Go Insane", Videos, Running]
+category: Health
 excerpt: "In which Scott and I run a 10k obstacle race and I use a GoPro to record it."
 thumbnail: "carlos-eriksson-gliding-through-foam-thumb.jpg"
 alt: "Carlos Eriksson sliding through foam and fairy liquid, giving the victory sign."
