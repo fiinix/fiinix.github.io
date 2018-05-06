@@ -4,7 +4,7 @@
 @import "tools/functions";
 
 @import "settings";
-@import "base/font-face";
+@import "essentials/font-face";
 
 @import "generic/box-sizing";
 // @import "generic/normalize";
@@ -18,41 +18,68 @@
 
 //@import "effects/animations";
 
-@import "base/body";
-@import "base/headings";
-@import "base/horizontal-rules";
-@import "base/paragraphs";
-@import "base/blockquotes";
-@import "base/forms";
-@import "base/figures";
-@import "base/elements";
-@import "base/links";
-@import "base/lists";
-@import "base/tables";
-@import "base/svg";
+@import "essentials/typography";
+@import "essentials/layout";
 
-@import "sections/header";
-@import "sections/navigation";
+@import "elements/link";
+@import "elements/post-meta";
+@import "elements/subheading";
+@import "elements/summary";
+@import "elements/thematic-break";
+@import "elements/title";
+
+@import "components/content";
+@import "components/image";
+@import "components/list";
+@import "components/navigation";
+@import "components/pull-quote";
+@import "components/quote";
+@import "components/search";
+@import "components/tree-list";
+@import "components/video";
+
+
+
+
+
+
+//@import "base/typography";
+
+//@import "base/body";
+//@import "base/headings";
+//@import "base/horizontal-rules";
+//@import "base/paragraphs";
+//@import "base/blockquotes";
+//@import "base/forms";
+//@import "base/figures";
+//@import "base/elements";
+//@import "base/links";
+//@import "base/lists";
+//@import "base/tables";
+//@import "base/svg";
+
 @import "sections/colors";
 @import "sections/columns";
 @import "sections/footer";
+@import "sections/header";
+@import "sections/navigation";
 
-@import "objects/author-image";
-@import "objects/button";
-@import "objects/disclaimer";
-@import "objects/entry-list";
-@import "objects/footnotes";
-@import "objects/iconography";
-@import "objects/logo";
-@import "objects/pager";
-@import "objects/post-heading";
-@import "objects/pull-quotes";
-@import "objects/reading-times";
-@import "objects/search";
-@import "objects/sparkicons";
-@import "objects/syntax-highlight";
-@import "objects/tags";
-@import "objects/timestamps";
+//@import "objects/author-image";
+//@import "objects/button";
+//@import "objects/disclaimer";
+//@import "objects/entry-list";
+//@import "objects/footnotes";
+//@import "objects/iconography";
+//@import "objects/logo";
+//@import "objects/pager";
+//@import "objects/post-heading";
+//@import "objects/pull-quotes";
+//@import "objects/reading-times";
+//@import "objects/search";
+//@import "objects/sparkicons";
+//@import "objects/syntax-highlight";
+//@import "objects/tags";
+//@import "objects/timestamps";
 
 @import "auxiliary/visibility.scss";
 

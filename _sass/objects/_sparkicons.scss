@@ -28,11 +28,16 @@
 	content: "\266B";
 }
 
-.post-content a[href^="#"]:after,
-.page-content a[href^="#"]:after {
+.post-content a[href^="#"]:not(.footnote):not(.reversefootnote):after,
+.page-content a[href^="#"]:not(.footnote):not(.reversefootnote):after {
 	@include spark-icon;
 	content: "\0023"; // hashtag
 	content: "\21B4";
+}
+
+.post-content .tag:after
+.page-content .tag:after {
+	content: none !important;
 }
 
 .post-content a[href^="http://www.youtube"]:after,

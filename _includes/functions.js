@@ -165,7 +165,7 @@ if ("querySelector" in document
             searchInput: document.getElementById('search-input'),
             resultsContainer: document.getElementById('results-container'),
             json: '/search.json',
-            searchResultTemplate: '<li><h3 class="h4 no-margin"><a href="{url}">{title}</a></h3></li>',
+            searchResultTemplate: '<li><h3 class="h4 no-margin post-title--search"><a href="{url}">{title}</a></h3></li>',
         });
 
         var verlokLazyLoad = new LazyLoad({

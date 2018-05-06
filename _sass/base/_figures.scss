@@ -60,19 +60,43 @@ figure img {
     overflow: hidden;
     vertical-align: middle;
     // max-height: 90vh;
+}
 
-    //If the image isn't the only of it's type
-    &:not(:only-of-type) {
+figure.abreasted {
 
-        width: calc(50% - 2.7777vw);
+    img { width: calc(50% - 2.7777vw); }
 
-    }
-
-    &:nth-child(2) {
+    // 2nd and 3rd
+    img:nth-child(n+2) {
 
         margin-top: 0;
         margin-left: 5.5555vw;
 
+    }
+
+}
+
+figure.montage {
+
+    margin-right: -44.4444vw;
+
+    img {
+        width: 66.66vw;
+        margin-top: 0;
+    }
+
+    img:nth-child(n+2) {
+        position: absolute;
+        top: -5.55vw;
+        right: 0;
+        width: calc(33.33vw - 5.5555vw);
+    }
+    img:nth-child(n+3) {
+        position: absolute;
+        top: 0;
+        right: 0;
+        transform: translateY(100%);
+        width: calc(33.33vw - 5.5555vw);
     }
 
 }
@@ -161,11 +185,7 @@ figure cite {
     // max-width: 32em;
 
     // text-transform: uppercase;
-    font-family: $font-family;
-    font-size: 0.74em;
-    line-height: 2.16;
 
-    font-style: italic;
     color: $luma-20;
 
     @include mq($breakpoint-lap) {

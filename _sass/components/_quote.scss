@@ -1,0 +1,78 @@
+/* ==========================================================================
+
+
+   Blockquotes
+
+
+   ========================================================================== */
+blockquote {
+
+    padding: 3em (4.5 / 1.5) +em;
+
+    margin-left: -(4.5 / 1.5) +em;
+    margin-right: -(4.5 / 1.5) +em;
+
+    border-color: inherit;
+
+    color: $luma-10;
+
+    // border: 1em solid;
+    // border-width: 0.25em 0;
+    // border-color: inherit;
+
+    p {
+        position: relative;
+    }
+
+    p:before,p:after {
+
+        content: " ";
+        display: block;
+        width: 5.55vw;
+        height: 5.55vw;
+        position: absolute;
+        top: -5.55vw;
+        border-radius: 50%;
+        border: 5.55vw solid;
+        border-width: 5.55vw 0 0 0 ;
+        border-color: inherit;
+
+    }
+
+    p:after {
+
+        top: -11.11vw;
+
+        z-index: -1;
+
+        width: 11.11vw;
+        height: 11.11vw;
+        border: 11.11vw solid;
+        border-width: 0 0 11.11vw 0;
+        border-color: inherit;
+
+    }
+
+}
+
+cite {
+
+    font-style: normal;
+    color: $black;
+    display: block;
+
+}
+
+figure cite {}
+
+blockquote cite {
+
+    margin-top: 1.5em;
+
+}
+
+cite:before {
+
+    content: "\2014";
+
+}

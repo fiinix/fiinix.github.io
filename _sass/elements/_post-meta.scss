@@ -1,0 +1,26 @@
+/* ==========================================================================
+
+   Post-meta
+
+   ========================================================================== */
+.reading-time,
+.timestamp {
+    color: $luma-20;
+}
+
+.post-ordinal {
+
+    margin-right: 0.5rem;
+
+}
+
+.disclaimer {
+
+    display: inline;
+    -webkit-box-decoration-break: clone;
+    box-decoration-break: clone;
+    padding: 0.1em 0.25em;
+    background-color: $luma-10;
+    color: contrast($luma-10);
+
+}

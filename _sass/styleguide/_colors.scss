@@ -15,6 +15,29 @@
 	border-radius: 50%;
 	box-shadow: em(6) em(9) 0 0 rgba(black, 0.1);
 
+	position: relative;
+
+	&:after {
+
+		content: " ";
+		display: block;
+
+		position: absolute;
+		top: em(- 18);
+		left: em(- 18);
+
+		width: 100%;
+		height: 100%;
+
+		border-radius: 50%;
+
+		background-image: radial-gradient(white 15%, transparent 16%),
+		radial-gradient(white 15%, transparent 16%);
+		background-size: em(16) em(16);
+		background-position: 0 0, em(8) em(8);
+
+	}
+
 }
 
 .bg {
@@ -33,7 +56,7 @@
 
 	&--tertiary {
 
-		background-color: $tertiary-color;
+		//background-color: $tertiary-color;
 
 	}
 

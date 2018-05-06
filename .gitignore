@@ -3,4 +3,7 @@ _ignore/
 .sass-cache/
 .DS_Store/
 _config.yml
-/_config.yml
+_config.yml
+.jekyll-metadata
+Gemfile.lock
+.idea

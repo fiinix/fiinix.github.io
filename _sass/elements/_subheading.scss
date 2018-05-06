@@ -1,0 +1,36 @@
+/* ==========================================================================
+
+   Headings
+
+   ========================================================================== */
+.subheading {
+
+    position: relative;
+
+    padding-top: 1.5em;
+    border-top: 0.6666vh solid luma(90);
+
+    &:before {
+
+        content: " ";
+        display: block;
+
+        width: 5.5555vw;
+        height: 1.3888vh;
+
+        position: absolute;
+        top: -0.6666vh;
+        left: 0;
+
+        background-color: luma(70);
+
+    }
+
+}
+
+.archive-subheading,
+.topics-subheading {
+
+    margin-top: 1.5em;
+
+}

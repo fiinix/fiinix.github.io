@@ -1,0 +1,48 @@
+/* ==========================================================================
+
+   Layout
+
+   ========================================================================== */
+html {
+
+    overflow-x: hidden;
+
+    // Allow for smooth scrolling where available
+    scroll-behavior: smooth;
+
+    /* Keep momentum when scrolling in iOS */
+    overflow-y: scroll; /* Has to be scroll, not auto */
+    -webkit-overflow-scrolling: touch;
+
+}
+body {
+
+    background-color: $white;
+
+    /* So we can have branding run along the entire height of the body */
+    position: relative;
+
+}
+.wrapper {
+
+    margin: 0;
+
+    padding-top: 5.5555vh;
+    padding-bottom: 11.1111vh;
+
+    padding-left: 5.5555vw;
+    padding-right: 11.1111vw;
+
+    @include mq($breakpoint-lap) {
+
+        // max-width: 66.6666vw;
+
+        padding-top: 11.1111vh;
+        padding-bottom: 22.2222vh;
+
+        padding-left: 11.1111vw;
+        padding-right: 22.2222vw;
+
+    };
+
+}

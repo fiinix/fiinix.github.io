@@ -36,13 +36,17 @@
     //    background-size: 11.1111vw 11.1111vh, 11.1111vw 11.1111vh, 5.5555vw 5.5555vh, 5.5555vw 5.5555vh;
     //    //background-position:-1px -1px, -1px -1px, -1px -1px, -1px -1px;
 
-        background-image:   linear-gradient(rgba(0,0,0,.5) 1px, transparent 1px),
-                            linear-gradient(90deg, rgba(0,0,0,.5) 1px, transparent 1px);
-        background-size: 5.5555vw 5.5555vh, 5.5555vw 5.5555vh;
+        //background-image:   linear-gradient(rgba(0,0,0,.5) 1px, transparent 1px),
+        //                    linear-gradient(90deg, rgba(0,0,0,.5) 1px, transparent 1px);
+        //background-size: 5.5555vw 5.5555vh, 5.5555vw 5.5555vh;
         //background-position:-1px -1px, -1px -1px;
 
-        background-image: linear-gradient(90deg, transparent 0%, transparent 50%, hsla(0%,0,50,0.2) 50%, hsla(0%,0,50,0.2) 100%);
-        background-size: 11.1111vw 11.1111vh;
+        background-image:   linear-gradient(90deg, transparent 0%, transparent 50%, hsla(0%,0,50,0.1) 50%, hsla(0%,0,50,0.1) 100%),
+                            linear-gradient(0deg, transparent 0%, transparent 50%, hsla(0%,0,50,0.05) 50%, hsla(0%,0,50,0.05) 100%);
+        background-size: 11.1111vw 11.1111vh, 11.1111vw 11.1111vh;
+
+        //background-image: linear-gradient(90deg, transparent 0%, transparent 50%, hsla(0%,0,50,0.2) 50%, hsla(0%,0,50,0.2) 100%);
+        //background-size: 11.1111vw 11.1111vh;
 
     }
 

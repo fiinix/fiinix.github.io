@@ -52,6 +52,18 @@
 
 }
 
+.col--title.col--title {
+
+	flex: 1 0 auto;
+
+	@include mq($breakpoint-desk) {
+
+		max-width: 66.6666vw;
+
+	}
+
+}
+
 .col--secondary.col--secondary {
 
 	max-width: 32em;

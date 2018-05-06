@@ -5,7 +5,8 @@
 <!-- <li> -->
 {% unless post.next %}
 <!-- <ul class="this"> -->
-<li class="current-month"><h2 id="{{ post.date | date: '%B' | downcase }}" class="h5 subheading archive-subheading">{{ post.date | date: '%B' }}</h2>
+<li class="current-month">
+    <h2 id="{{ post.date | date: '%B' | downcase }}" class="h5 subheading archive-subheading">{{ post.date | date: '%B' }}</h2>
 <ul class="clean-list">
 {% else %}
 <!-- {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %} -->
@@ -22,8 +23,14 @@
 {% endif %}
 <!-- / New month -->
 {% endunless %}
-<li class="post">{% if post.color %}{% endif %}<h3 class="h4 no-margin"><a href="{{ post.url }}">{{ post.title | markdownify | strip_html | trim  }}</a></h3></li>
-
+<li class="post">{% if post.color %}{% endif %}
+    <!--<h3 class="h4 no-margin">-->
+        <!--<a href="{{ post.url }}">{{ post.title | markdownify | strip_html | trim  }}</a>-->
+    <!--</h3>-->
+    <h1 class="h4 no-margin post-heading post-heading--listing post-type--{{ page.category }}" data-heading="{{ page.title | markdownify | strip_html | trim  }}" style="{% if post.text %}color:red;{% endif %} {% if post.color %} color: {{ post.color }};{% endif %}">
+        <a href="{{ post.url }}" style="color: inherit; {% if post.color2 %} background-image: linear-gradient(to bottom, {{ post.color2 }} 100%, {{ post.color2 }} 100%){% endif %}">{{ post.title | markdownify | strip_html | trim  }}</a>
+    </h1>
+</li>
 {% unless post.next %}
 <!-- </ul> -->
 {% else %}

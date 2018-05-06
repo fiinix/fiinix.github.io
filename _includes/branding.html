@@ -11,20 +11,22 @@
 {% assign timestamp_7 = timestamp | slice:7 | times: 11.11 %}
 {% assign timestamp_8 = timestamp | slice:8 | times: 11.11 %}
 {% assign timestamp_9 = timestamp | slice:9 | times: 11.11 %}
-{% assign timestamp_10 = timestamp | slice:10  | times: 11.11 %}
+<!--{% assign timestamp_10 = timestamp | slice:10  | times: 11.11 %}-->
 {% endif %}
-<div class="colors colors--{{ page.category }}">
-	<div class="color color--primary" style="width: {{ timestamp_0 }}vw; {% if page.color %} background-color: {{ page.color }};{% endif %}"></div>
-	<div class="color color--secondary" style="width: {{ timestamp_1 }}vw; {% if page.color2 %} background-color: {{ page.color2 }};{% endif %}"></div>
-	<div class="color color--tertiary" style="width: {{ timestamp_3 }}vw; "></div>
-	<div class="color color--accent" style="width: {{ timestamp_4 }}vw; {% if page.color3 %} background-color: {{ page.color3 }};{% endif %}"></div>
+<div class="colors colors--top colors--{{ page.category | downcase }}" data-timestamp="{{timestamp}}">
+	<div class="color color--tertiary" style="{% if timestamp %}width: {{ timestamp_2 }}vw;{% endif %} {% if page.color3                                 %} background-color: {{ page.color3 }};{% endif %}"></div>
+	<div class="color color--secondary" style="{% if timestamp %}width: {{ timestamp_1 }}vw;{% endif %} {% if page.color2 %} background-color: {{ page.color2 }};{% endif %}"></div>
+	<div class="color color--primary" style="{% if timestamp %}width: {{ timestamp_0 }}vw;{% endif %} {% if page.color %} background-color: {{ page.color }};{% endif %}"></div>
+</div>
 
-	<div class="color color--primary" style="width: {{ timestamp_5 }}vw; {% if page.color %} background-color: {{ page.color }};{% endif %}"></div>
-	<div class="color color--secondary" style="width: {{ timestamp_6 }}vw; {% if page.color2 %} background-color: {{ page.color2 }};"{% endif %}"></div>
-	<div class="color color--tertiary" style="width: {{ timestamp_7 }}vw; "></div>
-	<div class="color color--accent" style="width: {{ timestamp_8 }}vw; {% if page.color3 %} background-color: {{ page.color3 }};{% endif %}"></div>
-
-	<div class="color color--primary" style="width: {{ timestamp_9 }}vw; {% if page.color %} background-color: {{ page.color }};{% endif %}"></div>
-	<div class="color color--secondary" style="width: {{ timestamp_10 }}vw; {% if page.color2 %} background-color: {{ page.color2 }};{% endif %}"></div>
+<!-- quaternary, quinary, senary, septenary, octonary, nonary, and denary -->
+<div class="colors colors--bottom colors--{{ page.category | downcase }}">
+    <div class="color color--denary" style="{% if timestamp %}width: {{ timestamp_9 }}vw;{% endif %} {% if page.color2 %} background-color: {{ page.color2 }};{% endif %}"></div>
+    <div class="color color--nonary" style="{% if timestamp %}width: {{ timestamp_8 }}vw;{% endif %} {% if page.color %} background-color: {{ page.color }};{% endif %}"></div>
+    <div class="color color--octonary" style="{% if timestamp %}width: {{ timestamp_7 }}vw;{% endif %} {% if page.color3 %} background-color: {{ page.color3 }};{% endif %}"></div>
+    <div class="color color--septenary" style="{% if timestamp %}width: {{ timestamp_6 }}vw;{% endif %} "></div>
+    <div class="color color--senary" style="{% if timestamp %}width: {{ timestamp_5 }}vw;{% endif %} {% if page.color2 %} background-color: {{ page.color2 }};"{% endif %}"></div>
+<div class="color color--quinary" style="{% if timestamp %}width: {{ timestamp_4 }}vw;{% endif %} {% if page.color %} background-color: {{ page.color }};{% endif %}"></div>
+	<div class="color color--quaternary" style="{% if timestamp %}width: {{ timestamp_3 }}vw;{% endif %} {% if page.color3 %} background-color: {{ page.color3 }};{% endif %}"></div>
 </div>
 <!-- / Branding -->

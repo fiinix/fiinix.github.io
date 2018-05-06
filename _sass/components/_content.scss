@@ -1,0 +1,35 @@
+/* ==========================================================================
+
+   Content
+
+   ========================================================================== */
+.post-content {
+
+    color: $primary-color;
+    border-color: $primary-color $accent-color $accent-color $primary-color;
+    margin-top: 3em;
+    margin-bottom: 3em;
+
+}
+p {
+
+    color: $black;
+    border-color: inherit;
+
+}
+
+// End mark sign.
+.post-content > p:last-of-type:after {
+
+    content: " ";
+    display: inline-block;
+
+    // This is matched to the x-height of the font used
+    width: 0.5em;
+    height: 0.5em;
+    border-top: 0.5em solid;
+    border-top-color: inherit;
+
+    margin-left: 0.25em;
+
+}

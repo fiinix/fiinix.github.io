@@ -47,17 +47,29 @@ a {
 
 .link--tertiary {
 
-	background-image: linear-gradient(to bottom, $tertiary-color 100%, $tertiary-color 100%);
+	background-image: linear-gradient(to left, $tertiary-color 0%, $primary-color 100%);
+	background-repeat: no-repeat;
 	background-size: 0.2222em 0.2222em;
+	background-size: 100% 0.22em;
 
 	&:hover,
 	&:focus,
 	&:active {
 		
-		background-image: linear-gradient(to bottom, $tertiary-color 100%, $tertiary-color 100%);
-		background-size: 0.3333em 0.3333em;
+		background-image: linear-gradient(to left, $tertiary-color 0%, $primary-color 100%);
+		background-size: 100% 0.3333em;
 
 	}
+
+	font-size: 1em;
+	line-height: 1.5;
+
+	@include mq($breakpoint-lap) {
+
+		font-size: 1.5em;
+		line-height: 1.3554;
+
+	};
 
 }
 

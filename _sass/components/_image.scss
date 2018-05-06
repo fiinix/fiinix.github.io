@@ -1,0 +1,205 @@
+/* ==========================================================================
+
+   Image
+
+   ========================================================================== */
+
+/*
+ * 1. Hide default img element if we DON'T HAVE javascript (as it won't load via lazy load)
+ * 2. Hide fallback img element if we DO HAVE javascript
+ */
+/* 1 */ .no-js .js-lazy-load,
+/* 2 */ .js noscript {
+
+    display: none;
+    visibility: hidden;
+
+}
+noscript {
+
+    width: 100%;
+    display: inline-block;
+    margin-top: 0;
+
+}
+
+figure {
+
+    padding: 0;
+
+    margin-top: 4.5em;
+    margin-bottom: 4.5em;
+
+    margin-left: -5.5555vw;
+    margin-right: -11.1111vw;
+
+    position: relative;
+
+    @include mq($breakpoint-lap) {
+
+        margin-left: -11.1111vw;
+        margin-right: -11.1111vw;
+
+    }
+
+}
+
+figure img {
+
+    display: inline-block;
+    width: 100%;
+    white-space: pre;
+    overflow: hidden;
+    vertical-align: middle;
+}
+
+// Abreasted image, we use only-of-type to not break older posts
+figure {
+
+    img:not(:only-of-type) { width: calc(50% - 2.7777vw); }
+
+    // 2nd and 3rd
+    img:nth-child(n+2) {
+
+        margin-top: 0;
+        margin-left: 5.5555vw;
+
+    }
+
+}
+
+figure.montage {
+
+    margin-right: -44.4444vw;
+
+    img {
+        width: 66.66vw;
+        margin-top: 0;
+    }
+
+    img:nth-child(n+2) {
+        position: absolute;
+        top: -5.55vw;
+        right: 0;
+        width: calc(33.33vw - 5.5555vw);
+    }
+    img:nth-child(n+3) {
+        position: absolute;
+        top: 0;
+        right: 0;
+        transform: translateY(100%);
+        width: calc(33.33vw - 5.5555vw);
+    }
+
+}
+
+// We can style the pseduo elements as long as the image isn't found.
+figure img {
+
+    &:before {
+
+        content: " ";
+        display: block;
+
+        height: 2.5em;
+        width: 100%;
+
+        background-color: luma(90);
+
+        position: absolute;
+        top: 0;
+        left: 0;
+
+        @include mq($breakpoint-lap) {
+
+        }
+
+    }
+
+    &:after {
+
+        content: "This image is missing;\A" attr(src);
+        display: block;
+        width: 100%;
+
+        padding: 1em 0 3em 5.5555vw;
+
+        background-color: luma(90);
+        color: $black;
+
+        @include mq($breakpoint-lap) {
+
+            padding-left: 11.1111vw;
+
+        }
+
+    }
+
+}
+
+figcaption,
+figure cite {
+
+    margin-left: 5.5555vw;
+    margin-right: 11.1111vw;
+
+    margin-top: (1.5 / 0.74) +em;
+    color: $luma-20;
+
+    @include mq($breakpoint-lap) {
+
+        margin-left: 11.1111vw;
+        margin-right: 11.1111vw;
+
+    }
+
+}
+
+// Prose gets no class by default so this needs to be overridden in _syntax_highlight
+figure pre {
+
+    margin-left: 5.5555vw;
+    margin-right: 11.1111vw;
+
+    @include mq($breakpoint-lap) {
+
+        margin-left: 11.1111vw;
+        margin-right: 11.1111vw;
+
+    }
+
+}
+
+.aside-image {
+
+    width: 27.7777vw;
+    float: right;
+    clear: both;
+
+    margin-top: 1.5em;
+    margin-left: 5.5555vw;
+    margin-bottom: 1.5em;
+    margin-right: 0;
+
+    figcaption {
+
+        margin-left: 0;
+        margin-right: 0;
+
+    }
+
+    @include mq($breakpoint-lap) {
+
+        margin-left: 4.5em;
+        margin-bottom: 4.5em;
+        margin-right: -11.1111vw;
+
+    }
+
+    @include mq($breakpoint-desk) {
+
+        width: 16.6666vw;
+
+    }
+
+}

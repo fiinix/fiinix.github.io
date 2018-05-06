@@ -1,0 +1,287 @@
+---
+layout: default
+---
+<h1>{{page.title}} h</h1>
+
+<div id="archives">
+    {% for category in site.categories %}
+    <div class="archive-group">
+        {% capture category_name %}{{ category | first }}{% endcapture %}
+        <div id="#{{ category_name | slugize }}"></div>
+        <h3 class="">{{ category_name }}</h3>
+        <a name="{{ category_name | slugize }}"></a>
+        <p>{{ site.categories[category_name] | size }}</p>
+
+        <!--{% for post in site.categories[category_name] %}-->
+        <!--<article class="">-->
+        <!--<h4><a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a>-->
+        <!--</h4>-->
+        <!--</article>-->
+        <!--{% endfor %}-->
+
+    </div>
+    {% endfor %}
+</div>
+
+<div class="the-forest">
+
+    last modified: {{ site.time | date: "%Y-%m-%d" }}
+    current week this year: {{ site.time | date: "%W" }}
+
+    <ul class="clean-list">
+
+        {% assign svg_height = 512 %}
+        {% assign svg_width = 512 %}
+        {% assign svg_midpoint = 256 %}
+        {% assign wood_color = '#915F4B' %}
+        {% assign start_trunk = 52 %}
+
+        {% assign counter = 0 %}
+        {% assign nowyear =  "now" | date: "%Y" %}
+        {% assign tag_collection = '' %}
+        {% assign category_collection = '' %}
+        {% assign year_word_count = 0 %}
+        {% assign weeks = '' %}
+        {% assign word_counts = '' %}
+
+        {% assign posts = site.posts | reverse %}
+
+        {% for post in posts %}
+
+        {% assign thisyear = post.date | date: "%Y" %}
+        {% assign nextyear = post.next.date | date: "%Y" %}
+        {% assign counter = counter | plus: 1 %}
+
+        {% assign new_tags = post.tags %}
+        {% assign new_categories = post.categories %}
+
+        {% if tag_collection == '' %}
+        {% assign tag_collection = new_tags %}
+        {% else %}
+        {% assign tag_collection = tag_collection | concat: new_tags %}
+        {% endif %}
+
+        {% if category_collection == '' %}
+        {% assign category_collection = new_categories %}
+        {% else %}
+        {% assign category_collection = category_collection | concat: new_categories %}
+        {% endif %}
+
+        {% assign word_count = post.content | number_of_words %}
+        {% assign year_word_count = year_word_count | plus: word_count  %}
+
+        {% if weeks == '' %}
+        {% assign date = post.date | date: "%d" %}
+        {% assign weeks = post.date | date: "%W" | times:4 %}
+        {% else %}
+        {% assign temp_date = post.date | date: "%d" | split: "," %}
+        {% assign date = date | concat:temp_date %}
+        {% assign temp_weeks = post.date | date: "%W" | times:4 | split: "," %}
+        {% assign weeks = weeks | concat:temp_weeks %}
+        {% endif %}
+
+        {% if word_counts == '' %}
+        {% assign word_counts = post.content | number_of_words %}
+        {% else %}
+        {% assign temp_word_counts = post.content | number_of_words | split: "," %}
+        {% assign word_counts = word_counts | concat:temp_word_counts %}
+        {% endif %}
+
+        <!--{% assign side = post.date | date: "%d" | modulo: 2 %}-->
+        <!---->
+
+
+
+        {% comment %} Seasonal context spring 9-22, summer 22-35, autumn 35-48, winter 48-9 {% endcomment %}
+
+        {% assign current_week = site.time | date: "%W" |plus:0 %}
+        {% if current_week >= 9 and current_week < 22 %}
+
+        {% comment %} This is Spring hsla(65, 52%, 39%, 1) {% endcomment %}
+        {% assign seasonal_color = "hsla(102, 42%, 53%, 1)" %}
+
+        {% elsif current_week >= 22 and current_week < 35 %}
+
+        {% comment %} This is Summer 73, 51%, 58% {% endcomment %}
+        {% assign seasonal_color = "hsla(134, 49%, 28%, 1)" %}
+
+        {% elsif current_week >= 35 and current_week < 48 %}
+
+        {% comment %} This is Autumn {% endcomment %}
+        {% assign seasonal_color = "hsla(347, 60%, 41%, 1)" %}
+        {% else %}
+
+        {% comment %} This is Winter {% endcomment %}
+        {% assign seasonal_color = "hsla(240, 25%, 85%, 1)" %}
+        {% endif %}
+
+
+        {% if thisyear != nextyear %}
+        <li>
+
+            {% assign years_since = nowyear | minus: thisyear %}
+
+            {% if nowyear == thisyear %}
+            {% assign trunk_height = site.time | date: "%W" |times:4 %}
+            {% else %}
+            {% assign trunk_height = 208 %}
+            {% endif %}
+
+            <svg class="tree" style="background-color: transparent;" fill="currentColor" height="{{svg_height}}" viewBox="0 0 {{svg_width}} {{svg_height}}" width="{{svg_width}}" xmlns="http://www.w3.org/2000/svg">
+
+                <defs>
+                    <filter id="foliage">
+                        <feTurbulence type="turbulence" baseFrequency="0.15"
+                                      numOctaves="2" result="turbulence"/>
+                        <feDisplacementMap in2="turbulence" in="SourceGraphic"
+                                           scale="40" xChannelSelector="R" yChannelSelector="G"/>
+                    </filter>
+                    <pattern id="leaf" viewBox="0 0 600 600" width="9" height="9"  patternUnits="userSpaceOnUse">
+                        <path d="M274.7 50c15.2 19.8 34.7 31.8 50.3 0l1-1 13 6c48.4 33.7 52.8 76.2 31 130.6-14.1 35.3-61 96.4-61 96.4l28-92c22.2-28.4-24.5-29.3-7-3l-26 87-1-108c22.3-29.5-29.9-31.2-6 1l-1 107-26-87c12-30.6-34.6-15.2-6 3l27 93s-49.3-62.8-64-99.3C205.7 131 226.5 65.1 266 52z" id="a" fill="#ff6565" fill-opacity=".8"></path>
+                        <path id="b" d="M531.4 199.1c-23.6 16.5-11.4 47 15.8 47.8l1.2.7-1.6 14.2c-28.2 63.4-78 76.5-127 74.5-10.6-.5-98-32-98-32L418 302c27.2 13.2 43-19.1 0-8.1l-90.2 3 102.3-34.7c46 1 12.6-29.5-2.8-5.4l-102 32.5 74.6-51.9c46.5-11.7 11.2-38.3-4.8-4.7l-79.9 54.7s39.8-60.5 64-87.3c34.3-38.5 109.4-47.1 147.6-8.7z" fill="#ff6565" fill-opacity=".8"></path>
+                        <path d="M469.2 490.5c-26.5-10.3-41-1.2-40.7 29.7l-.2 1.4-14 2.8c-52.4 5-102.9-49.4-110-98-4.8-32.3.2-103 .2-103l31.7 90.9c-7.5 41.2 37.7 24.7 7.5-1.8L313.3 327l64.5 86.6c10.1 37.2 39.4 8 4.3-4.4l-62.3-87 72.3 55c18.3 36.6 49.2 2.6 3-6L318.6 312s72.8 13.8 102.8 33.9c43 28.8 79.7 99.8 53.7 137.9z" id="c" fill="#ff6565" fill-opacity=".8"></path>
+                        <path id="d" d="M172.3 520.7c11.5-25.4-17.1-48.4-40.7-29.5l-1.4.2-7-12.5c-20.8-59.2 18.4-108.1 59.6-134.7 27.6-17.8 98.2-31.3 98.2-31.3l-76.8 58c-42-5-15.6 34.2 4 6.5l72.1-55.1-62.7 88c-38 10 1 41.2 6.4 2.7l62.8-86-32 89.2c-33.1 14 8.8 44.7 6.2 1.8l35.1-95.3s2.4 84.3-.8 108.2c-6.6 49.1-52.2 103.7-114.8 93.3z" fill="#ff6565" fill-opacity=".8"></path>
+                        <path d="M53.3 244.8c30.4.8 41.7-31.2 16.2-47.6l-.6-1.3s11.5-7.5 18-9.7c44-14.5 101.9-16.7 138.1 16.4 29.5 26.8 59 84.4 59 84.4L205.9 231c-14.8-34.7-42 4-5.1 5.7l74 52.6-102.6-33.9c-17.6-33.4-48.3 11.5-1 6l101 35.5-90.7-3.4c-40.6-23.3-36 27.3.9 6.6l96.7 4.4s-65.9 25.3-103.6 31.3c-48.7 7.7-105.9-37.2-118.7-79.1l-3.5-11.8z" id="e" fill="#ff6565" fill-opacity=".8"></path>
+                    </pattern>
+                </defs>
+
+                {% comment %} This is the trunk {% endcomment %}
+                {% if nowyear != thisyear %}
+                <circle cx="{{svg_midpoint}}" cy="{{svg_height|minus:trunk_height|minus:start_trunk|minus:26}}" r="{{year_word_count|divided_by:counter|divided_by:10|at_least:3}}" stroke="green" stroke-width="0" fill="{{seasonal_color}}" />
+                {% endif %}
+                <path d="M{{ svg_midpoint|minus:3|minus:years_since }} {{svg_height}}
+                        l{{ years_since|times:2|plus:6 }} 0
+                        l0 -{{start_trunk}}
+                        l0 -{{trunk_height}}
+                        l-{{years_since}} -26
+                        l-3 -2
+                        l-{{ 3|plus:years_since }} 26 Z" fill="{{wood_color}}"></path>
+
+
+
+                {% if weeks.first %}
+                {% for branch in weeks %}
+
+                {% comment %} word_counts[forloop.index0] | divided_by:156|times:10.0 {% endcomment %}
+
+                {% assign side = forloop.index | modulo: 2 %}
+                {% assign branch_length = word_counts[forloop.index0] | divided_by:10 %}
+                {% assign branch_angle = date[forloop.index0] |plus:0 %}
+
+                {% if side != 0 %}
+                {% comment %} This branch goes right {% endcomment %}
+                <g transform="rotate(-{{60|minus:branch_angle}} {{svg_midpoint}} {{svg_height|minus:branch|minus:start_trunk}})">
+                    <circle cx="{{years_since|divided_by:2|plus:svg_midpoint}}" cy="{{svg_height|minus:branch|minus:branch_length|minus:start_trunk}}" r="{{branch_length|divided_by:3|at_least:3}}" stroke="green" stroke-width="0" fill="{{seasonal_color}}" />
+                </g>
+                {% else %}
+                {% comment %} This branch goes left {% endcomment %}
+                <g transform="rotate({{60|minus:branch_angle}} {{svg_midpoint}} {{svg_height|minus:branch|minus:start_trunk}})">
+                    <circle cx="{{years_since|divided_by:2|plus:svg_midpoint}}" cy="{{svg_height|minus:branch|minus:branch_length|minus:start_trunk}}" r="{{branch_length|divided_by:3|at_least:3}}" stroke="green" stroke-width="0" fill="{{seasonal_color}}" />
+                </g>
+                {% endif %}
+
+                {% endfor %}
+
+
+
+                {% comment %} If the year only has one post we can't loop through the array {% endcomment %}
+                {% else %}
+
+                {% assign branch_length = word_counts | divided_by:10 %}
+                {% assign branch_angle = date %}
+                {% assign branch = weeks %}
+
+                {% comment %} This leaf goes right {% endcomment %}
+                <g transform="rotate(-{{60|minus:branch_angle}} {{svg_midpoint}} {{svg_height|minus:branch|minus:start_trunk}})">
+                    <circle cx="{{years_since|divided_by:2|plus:svg_midpoint}}" cy="{{svg_height|minus:branch|minus:branch_length|minus:start_trunk}}" r="{{branch_length|divided_by:3|at_least:3}}" stroke="green" stroke-width="0" fill="{{seasonal_color}}" />
+                </g>
+
+                {% endif %}
+
+
+
+                {% if weeks.first %}
+                {% for branch in weeks %}
+
+                {% comment %} word_counts[forloop.index0] | divided_by:156|times:10.0 {% endcomment %}
+
+                {% assign side = forloop.index | modulo: 2 %}
+                {% assign branch_length = word_counts[forloop.index0] | divided_by:10 %}
+                {% assign branch_angle = date[forloop.index0] |plus:0 %}
+
+                {% if side != 0 %}
+                {% comment %} This branch goes right {% endcomment %}
+                <g transform="rotate(-{{60|minus:branch_angle}} {{svg_midpoint}} {{svg_height|minus:branch|minus:start_trunk}})">
+                    <path d="M{{svg_midpoint|minus:1|minus:years_since}} {{svg_height|minus:branch|minus:start_trunk}}
+                        l{{years_since|times:2|plus:2}} 0
+                        l-{{1|plus:years_since|divided_by:2}} -{{branch_length}}
+                        l-{{1|plus:years_since|divided_by:2}} 0 Z" fill="{{wood_color}}"></path>
+                </g>
+                {% else %}
+                {% comment %} This branch goes left {% endcomment %}
+                <g transform="rotate({{60|minus:branch_angle}} {{svg_midpoint}} {{svg_height|minus:branch|minus:start_trunk}})">
+                    <path d="M{{svg_midpoint|minus:1|minus:years_since}} {{svg_height|minus:branch|minus:start_trunk}}
+                        l{{years_since|times:2|plus:2}} 0
+                        l-{{1|plus:years_since|divided_by:2}} -{{branch_length}}
+                        l-{{1|plus:years_since|divided_by:2}} 0 Z" fill="{{wood_color}}"></path>
+                </g>
+                {% endif %}
+
+                {% endfor %}
+
+
+
+                {% comment %} If the year only has one post we can't loop through the array {% endcomment %}
+                {% else %}
+
+                {% assign branch_length = word_counts | divided_by:10 %}
+                {% assign branch_angle = date %}
+                {% assign branch = weeks %}
+
+                {% comment %} This leaf goes right {% endcomment %}
+                <g transform="rotate(-{{60|minus:branch_angle}} {{svg_midpoint}} {{svg_height|minus:branch|minus:start_trunk}})">
+                    <path d="M{{svg_midpoint|minus:1|minus:years_since}} {{svg_height|minus:branch|minus:start_trunk}}
+                        l{{years_since|times:2|plus:2}} 0
+                        l-{{1|plus:years_since|divided_by:2}} -{{branch_length}}
+                        l-{{1|plus:years_since|divided_by:2}} 0 Z" fill="{{wood_color}}"></path>
+                </g>
+
+                {% endif %}
+
+
+
+            </svg>
+
+            <br><br>
+
+            word counts: {{ word_counts | join: ", " }}<br>
+            weeks: {{ weeks | join: ", " }}<br>
+            year: {{ thisyear }}<br>
+            years since: {{ years_since }}<br>
+            url: /archive/{{ post.date | date:"%Y" }} <br>
+            post count: {{ counter }}<br>
+            word count: {{ year_word_count }}<br>
+            category count: {{ category_collection | uniq | size }}<br>
+            categories: {{ category_collection | uniq | join: ", " }}<br>
+            tag count (uniqe): {{ tag_collection | uniq | size }}<br>
+            tags (uniqe): {{ tag_collection | uniq | sort | join: ", " }}
+            <br>
+            {% assign test = tag_collection  | uniq | sort %}
+            {% for tag in test %}
+            <a href="">{{ tag }}</a>
+            {% endfor %}
+
+
+        </li>
+        {% assign counter = 0 %}
+        {% assign tag_collection = '' %}
+        {% assign categories_collection = '' %}
+        {% assign year_word_count = 0 %}
+        {% assign weeks = '' %}
+        {% assign word_counts = '' %}
+
+        {% endif %}
+        {% endfor %}
+    </ul>
+
+</div>

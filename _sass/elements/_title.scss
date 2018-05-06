@@ -1,0 +1,28 @@
+/* ==========================================================================
+
+   Post-meta
+
+   ========================================================================== */
+.post-title {
+
+    position: relative;
+
+    margin-top: 0.25em;
+    margin-bottom: 1em;
+
+    //color: $black;
+
+}
+
+
+.post-title span {
+
+    //color: $primary-color;
+
+    background-image: linear-gradient(to bottom, $primary-color 100%, $primary-color 100%);
+    background-position: 0 100%;
+    background-repeat: repeat-x;
+    line-height: 1.15;
+    background-size: 0.1666em 0.1666em;
+
+}

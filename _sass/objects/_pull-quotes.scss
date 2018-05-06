@@ -27,13 +27,7 @@ p[data-pullquote]:before {
 	-moz-hyphens: none;
 	hyphens: none;
 
-	font-weight: $heading-weight;
-	font-family: $heading-family;
-
 	color: inherit;
-
-	font-size: 1.5em;
-	line-height: 1.3554;
 
 	@include mq($breakpoint-lap) {
 

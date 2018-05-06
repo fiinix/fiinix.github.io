@@ -1,0 +1,41 @@
+/* ==========================================================================
+
+   Navigation
+
+   ========================================================================== */
+.nav {
+
+    width: 100%;
+
+    margin: 0 auto 1.5em auto;
+
+    display: flex;
+    flex-direction: column;
+
+    a:not(.logo),
+    .search-wrapper {
+
+        margin-top: 0;
+        margin-left: auto;
+
+    }
+
+    @include mq($breakpoint-lap) {
+
+        flex-direction: row;
+
+        a:not(.logo),
+        .search-wrapper {
+
+            margin-left: 0.5em;
+
+        }
+
+    }
+
+}
+
+.logo {
+    margin-top: 0;
+    margin-right: auto;
+}

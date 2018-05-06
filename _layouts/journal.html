@@ -6,7 +6,7 @@ layout: default
   <header class="group">
     <div class="col col--primary">
 
-        <h1 class="page-heading page-type--{{ page.category }}" {% if page.color %} style="color: {{ page.color }};"{% endif %}>
+        <h1 class="page-title page-type--{{ page.category | downcase }}" {% if page.color %} style="color: {{ page.color }};"{% endif %}>
             <span>{{ page.title | markdownify | strip_html | trim  }}</span>
         </h1>
 
@@ -17,10 +17,10 @@ layout: default
    <section class="col col--primary">
 
     {% if page.excerpt %}
-      <div class="lead">{{ page.excerpt | markdownify }}</div>
+      <div class="summary">{{ page.excerpt | markdownify }}</div>
       {% endif %}
 
-    <article class="page-content page-type--{{ page.category }}" lang="en"{% if page.color %} style="border-color:{{ page.color }} {{ page.color }} {{ page.color2 }} {{ page.color2 }}; color: {{ page.color }};"{% endif %}>
+    <article class="page-content page-type--{{ page.category | downcase }}" lang="en"{% if page.color %} style="border-color:{{ page.color }} {{ page.color }} {{ page.color2 }} {{ page.color2 }}; color: {{ page.color }};"{% endif %}>
       {{ content }}
     </article>
 
@@ -28,8 +28,8 @@ layout: default
    <aside class="col col--secondary" role="complementary">
 
     <ul class="clean-list">
-      <li><a href="/archive">Archive</a> <small>&times; {{ site.posts | size }}</small></li>
-      <li><a href="/topics">Topics</a> <small>&times; {{ site.tags | size }}</small></li>
+      <li><a href="/archive">All entries</a> <small>&times; {{ site.posts | size }}</small></li>
+      <li><a href="/topics">All topics</a> <small>&times; {{ site.tags | size }}</small></li>
       <li><a href="/feed.xml">Subscribe via RSS</a></li>
     </ul>
 

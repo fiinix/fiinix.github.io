@@ -7,7 +7,7 @@
    ========================================================================== */
 html {
 	
-	font-size: percentage($font-size/16);
+	//font-size: percentage($font-size/16);
 
 	overflow-x: hidden;
 	
@@ -18,9 +18,7 @@ html {
 }
 body {
 
-	font-size: 100%;
-	line-height: 1.3554;
-	font-family: $font-family;
+	//font-size: 100%;
 
 	background-color: $white;
 
@@ -29,38 +27,13 @@ body {
 
 	@include mq($breakpoint-lap) {
 
-		line-height: $font-leading/$font-size;
+		//line-height: $font-leading/$font-size;
 
 	};
 
 	@include mq($breakpoint-mall) {
 
-		font-size: 120%;
-
-	};
-
-}
-
-
-.wrapper {
-
-	margin: 0;
-
-	padding-top: 5.5555vh;
-	padding-bottom: 11.1111vh;
-
-	padding-left: 5.5555vw;
-	padding-right: 11.1111vw;	
-
-	@include mq($breakpoint-lap) {
-
-		// max-width: 66.6666vw;
-
-		padding-top: 11.1111vh;
-		padding-bottom: 22.2222vh;
-
-		padding-left: 11.1111vw;
-		padding-right: 22.2222vw;
+		//font-size: 120%;
 
 	};
 

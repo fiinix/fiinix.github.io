@@ -21,7 +21,7 @@ The evolution of this website is an experiment in iterating and building somethi
 
 All the pages are given semantic meaning with <abbr title="HyperText Markup Language" class="small-caps">HTML5</abbr> and the aesthetics are controlled by <abbr title="Cascading Style Sheets" class="small-caps">CSS</abbr>.
 
-Images are only loaded once you scroll to them with the help of [Lazy Load][lazy] by Mika Tuupola.
+Images are only loaded once you scroll to them with the help of [LazyLoad][lazy] by Andrea "verlok" Verlicchi.
 
 [maidstone]: https://goo.gl/maps/MkPCyQk4H9A2
 [cyreal]: http://www.cyreal.org
@@ -31,4 +31,4 @@ Images are only loaded once you scroll to them with the help of [Lazy Load][lazy
 [source]: https://github.com/fiinix/fiinix.github.io
 [trello]: https://trello.com/b/zEdO8nv9
 
-[lazy]: https://github.com/tuupola/jquery_lazyload
+[lazy]: https://github.com/verlok/lazyload

@@ -27,24 +27,30 @@ $eucalyptus:					hsl(155, 87%, 33%); /* #1c8d5e */
 
 $eastern-blue:					#1E9AB0;
 $surfs-up-blue:					#0F768A;
-
 $jade:							#00B86B;
 $tropical-rain-forest:			#00834d;
 
+
+$jade:							#00B86B;
+$lightpink: lightpink;
+$hotpink: hotpink;
+
+
+
 $crimson-light:					hsl(345, 97%, 58%); /* #FC2C60 */
 
-$primary-color:					$tropical-rain-forest;
-$secondary-color:				$surfs-up-blue;
-$tertiary-color:				$eastern-blue;
-$accent-color:					$jade;
+$primary-color:					$jade;
+$secondary-color:				$lightpink;
+//$tertiary-color:				$eastern-blue;
+$accent-color:					$hotpink;
 
 //$primary-color:					$eastern-blue;
 //$secondary-color:				$jade;
 //$tertiary-color:				$tropical-rain-forest;
 //$accent-color:					$fuel-yellow;
 
-$black:							hsl(0,0%,12%);
-$white:							hsl(0,0%,96%);
+$black:							hsl(240,50%,12%);
+$white:							hsl(0,0%,90%);
 
 $dark-grey:						hsl(0,0%,18%);
 $grey:							hsl(0,0%,60%);
@@ -94,13 +100,26 @@ $font-constant:					2.03;
  *
  */
 
-$heading-family:				'Cooper Hewitt', 'Helvetica Neue 85 Heavy', 'Arial Black', 'Roboto', sans-serif;
-$heading-weight:				800;
+$heading-family:				'Cooper Hewitt', 'Helvetica Neue 85 Heavy', 'Arial', 'Roboto', sans-serif;
+$heading-weight:				700;
 
 $ui-family:						'Arial', sans-serif;
 $ui-weight:						400;
 
 $fixed-family:					Consolas, monaco, monospace;
+
+
+// Prototype for new viewport contextual size mapping. We want to loop through these creating a mixin which allows the call for a size (and classes for all of them, allowing reuse in markup). Use the map name for the classes, e.g. 'size--2xl'
+$type-sizes: (
+	'default': (
+		'h1':    ('size': 24, 'leading': 24),
+		'h2':    ('size': 20, 'leading': 24),
+		'h3':    ('size': 19, 'leading': 24),
+		'h4':   ('size': 18, 'leading': 24),
+		'h5':  ('size': 17, 'leading': 24),
+		'h6':  ('size': 16, 'leading': 24)
+	),
+);
 
 
 /* Paths
@@ -152,6 +171,7 @@ $z-layers: (
 	"footer":					10
 	),
 	"search":					30,
+	"search-close":				31,
 	"brand":					20,
 	"default":					1,
 	"below":					-1,

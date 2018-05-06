@@ -47,12 +47,6 @@ ol li {
 		top: 0.275em;
 		left: -3.5em;
 
-		font-size: (1.5 / 1) +em;
-		line-height: 1;
-
-		font-family: $heading-family;
-		font-weight: $heading-weight;
-		letter-spacing: -0.05em;
 		color: luma(70);
 
 		counter-increment: orderedList;
