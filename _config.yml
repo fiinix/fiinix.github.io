@@ -11,6 +11,7 @@ github_username:  fiinix
 markdown: kramdown
 highlighter: rouge
 permalink: /blog/:title
+future: false
 
 # Gems
 gems:
