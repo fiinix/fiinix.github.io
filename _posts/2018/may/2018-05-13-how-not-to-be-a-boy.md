@@ -23,7 +23,7 @@ What I didn't expect were the relatable and incredibly heartbreaking stories I w
 
 Taking me on a journey through his life, from losing his mother to breast cancer at the age of 17 to eventually becoming a parent to two girls, and realising how woefully unequipped he was to be a parent.
 
-A part-autobiography and part-exploring in toxic masculinity, Robert somehow manages to walk the line of grief and bereavement with absurd masturbatory humour without losing touch of either.
+A part-autobiography and part-exploration in toxic masculinity, Robert somehow manages to walk the line of grief and bereavement with absurd masturbatory humour without losing touch of either.
 
 > Is there any romance greater than the one a teenage boy has with his own loneliness? <cite>[How Not to Be a Boy, Robert Webb][goodreads]</cite>
 
@@ -68,7 +68,7 @@ I'm in my bedroom, reading in bed. It's a pity that the Doctor's companion, Nyss
 
 I'm not sure how often this happens, but I'm pretty sure that if Nyssa had a splinter in her vagina, I'd be a good person to call. I'd probably be one of an elite squadron of teen space-doctors who happened to be passing through.
 
-Nyssa and I would probably get chatting in the TV lounge of the space leper colony and, relieved to be talking to someone who didn't have space-leprosy for a change, she would confide her embarrassing predicament. After I had reassured her about my discretion and experience, she would gratefully allow me to extract the splinter with infinite care and precision using my teeth. At that point, and recalling the diagrams I'd learnt in the Elite Teen-Doctor Space Academy, I'd probably provide the customary after-care service of licking her clitoris and nerve-electrifying skill and artistry. And then Nyssa, what with being such a kind girl, would probably teach me how to wank properly the way other boys probably do and I would... HANG ON, SOMETHING VERY ALARMING BUT FANTASTIC IS HAPPENING! I SHOULD STOP THIS -- IT'S MAKING ME GOING TO DO A WEE! NO! IT'S NOT A WEE, IT'S SOMETHING ELSE! IT'S... OH MY FUCKING LORD!
+Nyssa and I would probably get chatting in the TV lounge of the space leper colony and, relieved to be talking to someone who didn't have space-leprosy for a change, she would confide her embarrassing predicament. After I had reassured her about my discretion and experience, she would gratefully allow me to extract the splinter with infinite care and precision using my teeth. At that point, and recalling the diagrams I'd learnt in the Elite Teen-Doctor Space Academy, I'd probably provide the customary after-care service of licking her clitoris with nerve-electrifying skill and artistry. And then Nyssa, what with being such a kind girl, would probably teach me how to wank properly the way other boys probably do and I would... HANG ON, SOMETHING VERY ALARMING BUT FANTASTIC IS HAPPENING! I SHOULD STOP THIS -- IT'S MAKING ME GOING TO DO A WEE! NO! IT'S NOT A WEE, IT'S SOMETHING ELSE! IT'S... OH MY FUCKING LORD!
 
 And thus it was that the would-be Doogie Howser MD of space cunnilingus had his first orgasm.
 
@@ -76,7 +76,7 @@ And thus it was that the would-be Doogie Howser MD of space cunnilingus had his 
 
 Honestly, do yourself a favour and [get How Not to Be a Boy][amazon].
 
-If you've grown up indoctrinated into male-gendered behaviour, you'll find so many things to relate to, spoken of with such earnestness, that you too will have a lot of snot flying out of your bodily cavities.
+If you've grown up indoctrinated into male-gendered behaviour, you'll find so many things to relate to, spoken of with such earnestness and humour, that you too will have a lot of snot flying out of your bodily cavities.
 
 If you've been conditioned into female-gendered behaviour, well, you'll find just as much insight into the conflicted shit we go through and struggle to articulate.
 
