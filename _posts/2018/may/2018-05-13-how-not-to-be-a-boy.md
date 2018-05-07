@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How Not to Be a Boy"
-date: 2018-05-27 T 07:00
+date: 2018-06-03 T 07:00
 tags : [Writing, Books, Equality]
 category: Review
 excerpt: "In which I read, cry, laugh and review Robert Webb's How Not to Be a Boy."
