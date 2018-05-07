@@ -62,7 +62,8 @@ ol li:before,
 h1, h2, h3, h4, h5, h6,
 ol li:before,
 .tag .tag-count,
-.post-ordinal {
+.post-ordinal,
+.cta-link {
 
     font-weight: $heading-weight;
     font-family: $heading-family;
@@ -76,7 +77,7 @@ ol li:before,
    19.2 - 23.994 (3)
 
    ========================================================================== */
-.post-content h5 {
+.post-content h4 {
     font-size: calc( 19.2px + (23.994 - 19.2) * ( (100vw - 320px) / ( 1200 - 320) ));
     line-height: 1;
 }
@@ -89,7 +90,8 @@ ol li:before,
 .summary,
 p[data-pullquote]:before,
 blockquote,
-.post-content h4 {
+.cta-link,
+.post-content h3 {
     font-size: calc( 23.04px + (31.984002 - 23.04) * ( (100vw - 320px) / ( 1200 - 320) ));
     line-height: 1.3554;
 }
@@ -100,7 +102,7 @@ blockquote,
 
    ========================================================================== */
 .post-heading--listing,
-.post-content h3 {
+.post-content h2 {
     font-size: calc( 27.648px + (42.63467467 - 27.648) * ( (100vw - 320px) / ( 1200 - 320) ));
     line-height: 1.35;
 }
@@ -121,7 +123,6 @@ blockquote,
    33.1776 - 56.83202133  (6)
 
    ========================================================================== */
-.post-content h2,
 .homepage-intro {
     font-size: calc( 33.1776px + (56.83202133 - 33.1776) * ( (100vw - 320px) / ( 1200 - 320) ));
     line-height: 1.22474;

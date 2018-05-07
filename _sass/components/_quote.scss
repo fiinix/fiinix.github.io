@@ -24,32 +24,37 @@ blockquote {
         position: relative;
     }
 
+    // small circle
     p:before,p:after {
 
         content: " ";
         display: block;
-        width: 5.55vw;
-        height: 5.55vw;
+        width: 11.1111vw;
+        height: 2.7777vw;
         position: absolute;
         top: -5.55vw;
-        border-radius: 50%;
-        border: 5.55vw solid;
-        border-width: 5.55vw 0 0 0 ;
+        left: -11.1111vw;
+        border: 2.7777vw solid;
+        border-width: 2.7777vw 0 0 0 ;
         border-color: inherit;
 
     }
 
+    // big circle
     p:after {
 
-        top: -11.11vw;
+        top: -2.7777vw;
+        left: auto;
+        right: -11.11vw;
 
         z-index: -1;
 
-        width: 11.11vw;
-        height: 11.11vw;
-        border: 11.11vw solid;
-        border-width: 0 0 11.11vw 0;
+        width: 16.6666vw;
+        height: 16.6666vw;
+        border: 16.6666vw solid;
+        border-width: 0 0 16.6666vw 0;
         border-color: inherit;
+        opacity: 0.2;
 
     }
 

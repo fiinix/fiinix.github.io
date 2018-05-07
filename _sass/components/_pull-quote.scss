@@ -48,16 +48,14 @@ p[data-pullquote]:after {
     z-index: -1;
 
     position: absolute;
-    top: em(- 128);
-    right: -11.11vw;
+    top: 0;
+    right: -22.2222vw;
 
-    width: 0;
-    height: 0;
-
-    opacity: 0.3;
+    width: 22.2222vw;
+    height: 2.7777vw;
 
     border-style: solid;
-    border-width: 0 0 44.44vw 44.44vw;
+    border-width: 0 0 2.7777vw 0;
     border-color: transparent;
     border-bottom-color: inherit;
 

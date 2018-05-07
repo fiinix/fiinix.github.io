@@ -1,0 +1,41 @@
+.cta {
+
+    padding: 5.55vh 5.5555vw;
+
+    margin-top: 4.5em;
+    margin-bottom: 4.5em;
+
+    margin-left: -5.5555vw;
+    margin-right: -11.1111vw;
+
+    position: relative;
+
+    background-color: $primary-color;
+    border-color: $primary-color;
+
+    &:before {
+
+        content: " ";
+        position: absolute;
+        top: 0;
+        right: -11.1111vw;
+        display: block;
+        width: 11.1111vw;
+        height: 2.7777vw;
+
+        border: 2.7777vw solid;
+        border-width: 0 0 2.7777vw 0;
+        border-color: inherit;
+
+    }
+
+    @include mq($breakpoint-lap) {
+
+        padding: 11.1111vh 11.1111vw;
+
+        margin-left: -11.1111vw;
+        margin-right: -11.1111vw;
+
+    }
+
+}

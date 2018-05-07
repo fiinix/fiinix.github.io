@@ -49,12 +49,12 @@ a[href^="spotify"]:focus:before {
     content: attr(href);
     display: block;
     position: absolute;
-    top: -1.54rem;
+    top: -2.14rem;
     left: 0;
 
     z-index: 100;
 
-    background-color: $primary-color;
+    background-color: $black;
     border-bottom: 0.2rem solid $white;
     color: $white;
 
@@ -65,7 +65,13 @@ a[href^="spotify"]:focus:before {
     font-weight: $font-weight;
 
     letter-spacing: 0.015rem;
-    font-size: 0.74rem;
+    font-size: em(14);
     white-space: nowrap;
+
+    .cta & {
+
+        content: none;
+
+    }
 
 }
