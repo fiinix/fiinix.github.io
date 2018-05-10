@@ -16,8 +16,31 @@ layout: default
  <div class="group" role="main">
    <section class="col col--primary">
 
+
+       {% for post in site.posts limit:1 %}
+
+       {% assign currentDateClean = site.time | date: "%Y-%m-%d 00:00:00" %}
+       {% assign previousDateClean = post.date | date: "%Y-%m-%d 00:00:00" %}
+
+       {%   assign today = currentDateClean | date: '%s' %}
+       {%   assign start = previousDateClean | date: '%s' %}
+       {%   assign secondsSince = today | minus: start %}
+       {%   assign hoursSince = secondsSince | divided_by: 60 | divided_by: 60 %}
+       {%   assign daysSince = hoursSince | divided_by: 24.0 | round %}
+
+       {% if daysSince == 0 %}
+       {% assign statement = "14 days." %}
+       {% elsif daysSince == 13 %}
+       {% assign statement = 14|minus: daysSince | append: " day." %}
+       {% else %}
+       {% assign statement = 14|minus: daysSince | append: " days." %}
+       {% endif %}
+
+       {% endfor %}
+
+
     {% if page.excerpt %}
-      <div class="summary">{{ page.excerpt | markdownify }}</div>
+      <div class="summary">{{ page.excerpt | markdownify }} {{ statement }}</div>
       {% endif %}
 
     <article class="page-content page-type--{{ page.category | downcase }}" lang="en"{% if page.color %} style="border-color:{{ page.color }} {{ page.color }} {{ page.color2 }} {{ page.color2 }}; color: {{ page.color }};"{% endif %}>

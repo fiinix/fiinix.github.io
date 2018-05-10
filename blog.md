@@ -3,7 +3,7 @@ layout: journal
 title: Journal
 category: content
 permalink: /blog/
-excerpt: "I've kept an online journal for the past nine, going on ten years, writing about things that excite, annoy and fascinate me."
+excerpt: "My fortnightly journal is where I write about things that interest me, lately it’s been running and mental health. The next entry comes out in"
 ---
 <!-- <h2 class="h4">Recent entries</h2> -->
 
