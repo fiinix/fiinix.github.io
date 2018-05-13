@@ -702,10 +702,9 @@ We're almost at the end of my journey now. Next week isn't going to be with a ph
 
 After that, that's it though.
 
-<figure>
-	<img class="js-lazy-load" data-original="/assets/posts/2014/november/a-scary-hairy-beard-story/carlos-eriksson-beard-growing-progess-week-51.jpg" alt="The beard growth after 51 weeks.">
-	<figcaption>Männer Abgeordnete des Deutschen Reichstages!</figcaption>
-</figure>
+*Photo removed.*
+
+*13 May 2018. In hindsight, I should have gone for the Pencil moustache. Making light of the Holocaust and the suffering imposed on millions of people was a terrible decision and with the increasing prevalence of alt-right terrorists I have decided to remove this photo. I'm sorry for being insensitive in the first place, I will educate myself and be better from now on.*
 
 ## Week 52 - The End
 
