@@ -201,7 +201,11 @@ figure cite {
 }
 
 // Prose gets no class by default so this needs to be overridden in _syntax_highlight
+figure { background-color: white;}
 figure pre {
+
+    margin-top: 4.5em;
+    margin-bottom: 4.5em;
 
     margin-left: 5.5555vw;
     margin-right: 11.1111vw;
@@ -209,7 +213,7 @@ figure pre {
     @include mq($breakpoint-lap) {
 
         margin-left: 11.1111vw;
-        margin-right: 11.1111vw;
+        margin-right: 44.4444vw;
 
     }
 

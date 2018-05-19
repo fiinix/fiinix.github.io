@@ -8,7 +8,8 @@ This won't show up when you do View Source in browser.
 {% for post in site.posts %}
 
 {% if forloop.last == true and anyTagFound == 1 %}
-<h3 class="h5 subheading" id="related-posts">Similar entries</h3>
+<details>
+<summary><h3 class="h5 subheading" id="related-posts">Similar entries</h3></summary>
 {{ returnTags }}
 {% else %}
 
@@ -41,5 +42,5 @@ This won't show up when you do View Source in browser.
     {% endif %}
 
 {% endif %}
-
+</details>
 {% endfor %}

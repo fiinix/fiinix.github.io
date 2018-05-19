@@ -1,0 +1,22 @@
+{% for post in site.posts limit:1 %}
+
+{% assign currentDateClean = site.time | date: "%Y-%m-%d 00:00:00" %}
+{% assign previousDateClean = post.date | date: "%Y-%m-%d 00:00:00" %}
+
+{%   assign today = currentDateClean | date: '%s' %}
+{%   assign start = previousDateClean | date: '%s' %}
+{%   assign secondsSince = today | minus: start %}
+{%   assign hoursSince = secondsSince | divided_by: 60 | divided_by: 60 %}
+{%   assign daysSince = hoursSince | divided_by: 24.0 | round %}
+
+{% if daysSince == 0 %}
+{% assign statement = "14 days." %}
+{% elsif daysSince == 13 %}
+{% assign statement = 14|minus: daysSince | append: " day." %}
+{% else %}
+{% assign statement = 14|minus: daysSince | append: " days." %}
+{% endif %}
+
+{% endfor %}
+
+<p><em>{{ "The next entry comes out in " | append:statement }}</em></p>
