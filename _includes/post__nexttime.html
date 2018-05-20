@@ -10,13 +10,15 @@
 {%   assign daysSince = hoursSince | divided_by: 24.0 | round %}
 
 {% if daysSince == 0 %}
-{% assign statement = "14 days." %}
+    {% assign statement = "in 14 days." %}
+{% elsif daysSince == 14 %}
+    {% assign statement = "today." %}
 {% elsif daysSince == 13 %}
-{% assign statement = 14|minus: daysSince | append: " day." %}
+    {% assign statement = 14|minus: daysSince | prepend: "in " | append: " day." %}
 {% else %}
-{% assign statement = 14|minus: daysSince | append: " days." %}
+    {% assign statement = 14|minus: daysSince | prepend: "in " | append: " days." %}
 {% endif %}
 
 {% endfor %}
 
-<p><em>{{ "The next entry comes out in " | append:statement }}</em></p>
+<p><em>{{ "The next entry comes out " | append:statement }}</em></p>
