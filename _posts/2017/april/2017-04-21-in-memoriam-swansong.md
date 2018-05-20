@@ -74,4 +74,4 @@ I hope you'll like it.
 </figure>
 
 [sleep]: /blog/that-place-between-sleep-and-awake
-[swansong]: /blog/that-place-between-sleep-and-awake/#swansong
+[swansong]: /blog/that-place-between-sleep-and-awake#swansong

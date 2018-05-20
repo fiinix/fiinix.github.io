@@ -63,52 +63,54 @@ I've tried to record it, but I can't get through it. You'll have to settle for t
 
 ## Swansong
 
-    Everyone's watching,
-    Now that you're not there any more,
-    And all the light disappears from the room,
-    You left behind.
+{% highlight text %}
+Everyone's watching,
+Now that you're not there any more,
+And all the light disappears from the room,
+You left behind.
 
-    Everyone's whispering,
-    Is that the end of the show?
-    And all the smiles disappear from their eyes,
-    Curtains closed.
+Everyone's whispering,
+Is that the end of the show?
+And all the smiles disappear from their eyes,
+Curtains closed.
 
-    Spread your wings, and take flight,
-    Sour across the sky, pierce the blackest night.
+Spread your wings, and take flight,
+Sour across the sky, pierce the blackest night.
 
-    My little swan flew away,
-    Swallowed by the dark grey,
-    Sea, can't see you any more,
-    But this is your call,
-    You last call,
-    Your swan song.
+My little swan flew away,
+Swallowed by the dark grey,
+Sea, can't see you any more,
+But this is your call,
+You last call,
+Your swan song.
 
-    Everyone's listening,
-    To the faint echos of your song,
-    And all the sound disappears from the void,
-    You left behind.
+Everyone's listening,
+To the faint echos of your song,
+And all the sound disappears from the void,
+You left behind.
 
-    Everyone's singing along,
-    To that tune you used to play,
-    And all the tears disappear from their eyes,
-    The end.
+Everyone's singing along,
+To that tune you used to play,
+And all the tears disappear from their eyes,
+The end.
 
-    Spread your wings, and take flight,
-    Sour across the sky, pierce the blackest night.
+Spread your wings, and take flight,
+Sour across the sky, pierce the blackest night.
 
-    My little swan flew away,
-    Swallowed by the dark grey,
-    Sea, can't see you any more,
-    But this is your call,
-    You last call,
-    Your swan song.
+My little swan flew away,
+Swallowed by the dark grey,
+Sea, can't see you any more,
+But this is your call,
+You last call,
+Your swan song.
 
-    My little swan flew away,
-    Swallowed by the dark grey,
-    Sea, can't see you any more,
-    But this is your call,
-    You last call,
-    Your swan song.
+My little swan flew away,
+Swallowed by the dark grey,
+Sea, can't see you any more,
+But this is your call,
+You last call,
+Your swan song.
+{% endhighlight %}
 
 In the end, I suppose we all have different ways of dealing with grief and loss.
 
