@@ -127,24 +127,6 @@ var _extends = Object.assign || function (a) {
 });
 
 
-/*
- * Google Analytics
- *
- */
-(function (G, o, O, g, l) {
-    G.GoogleAnalyticsObject = O;
-    G[O] || (G[O] = function () {
-        (G[O].q = G[O].q || []).push(arguments)
-    });
-    G[O].l = +new Date;
-    g = o.createElement("script"), l = o.scripts[0];
-    g.src = "//www.google-analytics.com/analytics.js";
-    l.parentNode.insertBefore(g, l)
-}(this, document, "ga"));
-ga("create", "UA-37451007-1");
-ga("send", "pageview");
-
-
 /* Does it dijon? */
 if ("querySelector" in document
     && "addEventListener" in window
