@@ -8,10 +8,10 @@ excerpt: "In which I read, cry, laugh and review Robert Webb's How Not to Be a B
 color: "#FA178E"
 color2: "black"
 color3: "#5F6561"
-thumbnail: "how-not-to-be-a-boy/robert-webb-and-carlos-eriksson.jpg"
+thumbnail: "robert-webb-and-carlos-eriksson.jpg"
 alt: "Carlos Eriksson and Robert Webb frowning at the camera."
-cta-copy: "Did you know?"
-cta-label: "My latest novella, Tales from the Gun, is free to read"
+cta-copy: "To avoid having to use Jan Hankl's Flank Pat System"
+cta-label: "Buy How not to Be a Boy on Amazon"
 cta-url: "https://www.amazon.co.uk/How-Not-Boy-Robert-Webb/dp/1786890089"
 skimlink: no
 ---
