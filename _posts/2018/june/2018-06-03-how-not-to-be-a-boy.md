@@ -30,9 +30,9 @@ A part-autobiography and part-exploration in toxic masculinity, Robert somehow m
 I had the pleasure of attending An Evening with Robert Webb last year, where aside for selling and signing the books, he talked about the ridiculous expectations boys and men have forced on them throughout their lives.
 
 <figure>
-  <img class="js-lazy-load" data-original="/assets/posts/2018/may/how-not-to-be-a-boy/robert-webb-and-carlos-eriksson.jpg" alt="Carlos Eriksson and Robert Webb frowning at the camera.">
+  <img class="js-lazy-load" data-original="/assets/posts/2018/june/how-not-to-be-a-boy/robert-webb-and-carlos-eriksson.jpg" alt="Carlos Eriksson and Robert Webb frowning at the camera.">
   <noscript>
-    <img src="/assets/posts/2018/may/how-not-to-be-a-boy/robert-webb-and-carlos-eriksson.jpg" alt="Carlos Eriksson and Robert Webb frowning at the camera.">
+    <img src="/assets/posts/2018/june/how-not-to-be-a-boy/robert-webb-and-carlos-eriksson.jpg" alt="Carlos Eriksson and Robert Webb frowning at the camera.">
   </noscript>
   <figcaption>Robert looked so bored doing the standard smile so I asked him if we could frown together.</figcaption>
 </figure>
@@ -56,9 +56,9 @@ What follows is an excerpt from Chapter 5, "Boys Are Never Teacher's Pets".
 ***
 
 <figure class="aside-image">
-  <img class="js-lazy-load" data-original="/assets/posts/2018/may/how-not-to-be-a-boy/hntbab-cover.jpg" alt="Robert Webb's How Not to be a Boy">
+  <img class="js-lazy-load" data-original="/assets/posts/2018/june/how-not-to-be-a-boy/hntbab-cover.jpg" alt="Robert Webb's How Not to be a Boy">
   <noscript>
-    <img src="/assets/posts/2018/may/how-not-to-be-a-boy/hntbab-cover.jpg" alt="Robert Webb's How Not to be a Boy">
+    <img src="/assets/posts/2018/june/how-not-to-be-a-boy/hntbab-cover.jpg" alt="Robert Webb's How Not to be a Boy">
   </noscript>
 </figure>
 
