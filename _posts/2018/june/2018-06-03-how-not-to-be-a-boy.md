@@ -12,7 +12,7 @@ thumbnail: "robert-webb-and-carlos-eriksson.jpg"
 alt: "Carlos Eriksson and Robert Webb frowning at the camera."
 cta-copy: "To avoid having to use Jan Hankl's Flank Pat System"
 cta-label: "Buy How not to Be a Boy on Amazon"
-cta-url: "https://www.amazon.co.uk/How-Not-Boy-Robert-Webb/dp/1786890089"
+cta-url: "https://amzn.to/2kM4FGL"
 skimlink: no
 ---
 Going into this, I knew Robert Webb is a very funny man.
@@ -86,4 +86,4 @@ Five unashamed tear-riddled stars out of five.
 
 [baddies]: https://www.youtube.com/watch?v=hn1VxaMEjRU
 [goodreads]: https://www.goodreads.com/book/show/34661984-how-not-to-be-a-boy?from_search=true
-[amazon]: https://www.amazon.co.uk/How-Not-Boy-Robert-Webb/dp/1786890089
+[amazon]: https://amzn.to/2kM4FGL
