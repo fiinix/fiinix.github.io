@@ -68,14 +68,33 @@ layout: default
 
     {% include post__nexttime.html %}
 
-    <!--{% if page.cta-url %}-->
-    <!--<div class="cta" {% if page.color %}style="background-color: {{ page.color }}; border-color: {{ page.color }};"{% endif %}>-->
-      <!--<h3>{{ page.cta-copy }}</h3>-->
-      <!--<p>-->
-        <!--<a class="cta-link" href="{{ page.cta-url }}">{{ page.cta-label }}</a>-->
-      <!--</p>-->
-    <!--</div>-->
-    <!--{% endif %}-->
+
+    {% assign TodaysDate = "now" | date: '%Y-%m-%d' %}
+    {% assign PromotionStartDate = page.cta-default-start | date: '%Y-%m-%d' %}
+    {% assign PromotionEndDate = page.cta-default-end | date: '%Y-%m-%d' %}
+
+    {% if TodaysDate >= PromotionStartDate and TodaysDate <= PromotionEndDate %}
+    <div class="cta" {% if page.color %}style="background-color: {{ page.color }}; border-color: {{ page.color }};"{% endif %}>
+      <h3>{{ page.cta-default-copy | markdownify | strip_html | trim }}</h3>
+      <p>
+        <a class="cta-link" href="{{ page.cta-default-url }}">{{ page.cta-default-label | markdownify | strip_html | trim }}</a>
+      </p>
+    </div>
+    {% elsif page.cta-url %}
+    <div class="cta" {% if page.color %}style="background-color: {{ page.color }}; border-color: {{ page.color }};"{% endif %}>
+      <h3>{{ page.cta-copy | markdownify | strip_html | trim }}</h3>
+      <p>
+        <a class="cta-link" href="{{ page.cta-url }}">{{ page.cta-label | markdownify | strip_html | trim }}</a>
+      </p>
+    </div>
+    {% else %}
+    <div class="cta" {% if page.color %}style="background-color: {{ page.color }}; border-color: {{ page.color }};"{% endif %}>
+      <h3>Know someone who would like this?</h3>
+      <p>
+        <span class="cta-link">Share this entry with a friend</span>
+      </p>
+    </div>
+    {% endif %}
 
     {% include post__related.html %}
     {% include post__pager.html %}
