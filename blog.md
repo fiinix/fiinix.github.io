@@ -7,7 +7,7 @@ excerpt: "My fortnightly journal is where I write about things that interest me,
 ---
 <!-- <h2 class="h4">Recent entries</h2> -->
 
-{% for post in site.posts limit:20 %}
+{% for post in site.posts limit:7 %}
 {% unless post.category == "case-study" %}
 
 <article class="post-preview">
