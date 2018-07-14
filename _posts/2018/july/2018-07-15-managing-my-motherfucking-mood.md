@@ -31,7 +31,7 @@ I typed, "mood tracking," into Google Play and installed the first one---
 
 ---No wait, I didn't do that at all.
 
-I read about it on another blog, which mentioned Daylio so that's what I installed.
+I read about it on another blog, which mentioned [Daylio][daylio] so that's what I installed.
 
 *I don't know how I couldn't remember that at first.*
 
@@ -116,3 +116,4 @@ In the meantime, I will keep uncovering and solving the mysteries that are the e
 [end]: /blog/the-end
 [review]: http://adhdbipolar.com/top-4-mood-tracking-apps/
 [ncbi]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5344152/
+[daylio]: https://daylio.webflow.io/
