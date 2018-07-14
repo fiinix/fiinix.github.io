@@ -20,8 +20,8 @@ defaults:
       type: "posts" # previously `post` in Jekyll 2.2.
     values:
       layout: "post"
-      cta-default-start: 2018-08-01
-      cta-default-end: 2018-08-30
+      cta-default-start: 2018-09-01
+      cta-default-end: 2018-09-30
       cta-default-copy: "Did you know?"
       cta-default-label: "My novella, Tales from the Gun is out now"
       cta-default-url: "http://carloseriksson.com/tales-from-the-gun"
