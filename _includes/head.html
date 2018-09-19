@@ -47,6 +47,8 @@
 	<meta property="og:description" content="{% if page.excerpt %}{{ page.excerpt | markdownify | strip_html | trim }}{% else %}{{ site.description }}{% endif %}"/> -->
 	<!-- / Facebook -->
 
+	<meta property="og:image" content="http://carloseriksson.com/assets/posts/{{ page.date | date: "%Y"}}/{{ page.date | date: "%B" | downcase}}{{ page.url | remove: "/blog" }}/{% if page.thumbnail %}{{ page.thumbnail }}{% else %}assets/img/twitter-default-image.png{% endif %}"/>
+
 	<!-- Twitter -->
 	<meta name="twitter:card" content="{% if page.thumbnail %}summary_large_image{%else%}summary{% endif %}">
 	<meta name="twitter:url" content="http://carloseriksson.com{{ page.url }}">
@@ -54,7 +56,7 @@
 
 	<meta name="twitter:description" content="{% if page.excerpt %}{{ page.excerpt | markdownify | strip_html | trim }}{% else %}{{ site.description }}{% endif %}"/>
 
-	<meta name="twitter:image" content="http://carloseriksson.com/assets/posts/{{ page.date | date: "%Y"}}/{{ page.date | date: "%B" | downcase}}{{ page.url | remove: "/blog" }}/{% if page.thumbnail %}{{ page.thumbnail }}{% else %}assets/img/twitter-default-image.png{% endif %}"/>
+	<!--<meta name="twitter:image" content="http://carloseriksson.com/assets/posts/{{ page.date | date: "%Y"}}/{{ page.date | date: "%B" | downcase}}{{ page.url | remove: "/blog" }}/{% if page.thumbnail %}{{ page.thumbnail }}{% else %}assets/img/twitter-default-image.png{% endif %}"/>-->
 	{% if page.alt %}<meta name="twitter:image:alt" content="{{ page.alt }}" />{% endif %}
 	<meta name="twitter:creator" content="@fiinixdesign">
 	<meta name="twitter:site" content="@fiinixdesign">
