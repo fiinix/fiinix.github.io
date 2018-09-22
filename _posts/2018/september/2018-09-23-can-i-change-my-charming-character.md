@@ -146,7 +146,7 @@ This is interesting. People think I'm more extrovert than I think I am.
 
 Maybe my self-image needs to catch up a little?
 
-I mean, I do like heavy metal so it must be true.
+I mean, I do like heavy metal so it *must* be true.
 
 ## Agreeableness
 
@@ -184,9 +184,9 @@ People who score low tend to be emotionally stable and resilient. They usually s
   <figcaption>Neuroticism, self-score (1), observed average (0.5).</figcaption>
 </figure>
 
-This one is kind of all over the place as far as people are concerned, which tells me I need to look more into it and understand what's going on here. In their defense, I can understand why as I feel, especially in the past two years, that I have been all over the place emotionally.
+This one is kind of all over the place as far as people are concerned, which tells me I need to look more into it and understand what's going on here. In their defense, I can understand why, as especially in the past two years I have been all over the place emotionally.
 
-Overall though, I would say that emotionally sensitive, something I'm already working on and will continue to figure out.
+Overall though, I would say that I am emotionally sensitive, something I'm already working on and will continue to figure out.
 
 *Not to mention that the very existence of this entry proves a certain level of neuroticism.*
 
@@ -208,7 +208,7 @@ I'd like to think I'm very middle-of-the-road when it comes to being honest and 
 
 By the looks of it, people agree with that.
 
-But being honest and humble is something I value a lot and I wish I was it more myself.
+But I wish I was more honest and humble because it's something I value a lot.
  
 So I want to work on this one too.
 
@@ -216,7 +216,7 @@ So I want to work on this one too.
 
 These traits represent broad areas of my personality. Research has shown that these groupings of characteristics often occur together.
 
-Not always though, as a person is complex and nuances.
+Not always though, as a person is complex and nuances. *Look ma, I'm complex and nuances.*
 
 Another study looked at the genetics of the traits which suggests that traits such as Openness to experience are hereditable at 61 percent and Agreeableness and Neuroticism are at 41 percent.
 
@@ -226,7 +226,7 @@ And here we have it.
 
 Me, in a nutshell.
 
-The entire complexity, or lack thereof, of me, put into six measurable traits which when coupled with a standard IQ test is meant to be a pretty reliable indicator for how happy and successful I'll be in life. *No pressure ey.*
+My entire complexity, or lack thereof, put into six measurable traits which when coupled with a standard IQ test is meant to be a pretty reliable indicator for how happy and successful I'll be in life. *No pressure ey.*
 
 I guess the question now is, can I change any of this?
 
