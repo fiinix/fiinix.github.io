@@ -16,7 +16,7 @@ As each year comes to its close I summarise it here, include my most memorable e
 
 ## 2017
 
-Other memorable entries include; [Completing my first half marathon][halfmarathon] and vomiting profusely, living on a [meal replacement for a whole year][joylent2], [living in the <abbr title="United Kingdom" class="small-caps">UK</abbr> for 5 years][immigrant], [starting to smoke again][smokingagain], [running a 10k obstacle course and filming it][insanebrain], starting my own [vlog about the journey to next year's London Marathon][londonmarathon] and opening up about [the ending of the relationship between Rebecka and I][the-end].
+Memorable entries include; [Completing my first half marathon][halfmarathon] and vomiting profusely, living on a [meal replacement for a whole year][joylent2], [living in the <abbr title="United Kingdom" class="small-caps">UK</abbr> for 5 years][immigrant], [starting to smoke again][smokingagain], [running a 10k obstacle course and filming it][insanebrain], starting my own [vlog about the journey to next year's London Marathon][londonmarathon] and opening up about [the ending of the relationship between Rebecka and I][the-end].
 
 But my most memorable entry is [In Memoriam: Swansong][swansong], where I writing a song in memory of Amanda.
 
