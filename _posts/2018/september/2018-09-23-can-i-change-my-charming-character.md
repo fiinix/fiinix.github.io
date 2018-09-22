@@ -40,6 +40,8 @@ The statements themselves form a true-scored and a false-scored pairing, which i
 
 Taking inspiration from a growing need to [expand the BFI with a sixth trait according to the HEXACO model][hexaco], I added two more statements to my survey to also asses their suggested Honesty-Humility scale, bringing my total traits to six.
 
+*You can [complete the HEXACO-PR-I][test] yourself to find out what you're like, it might surprise you.*
+
 Unlike the [Myer-Briggs Type Indicator (MBTI) test I did a while back ago][myer], whose scientific value has been proven to be about as useful as astrology---which in turn is about as useful as using snails to predict the future---the BFI-10 has a much greater reliability (i.e. the same person taking the test on different occasions still gets the same results) over a longer period of time.
 
 ***
@@ -235,3 +237,4 @@ Or, as William James says, has my character already set like plaster?
 [book]: https://www.goodreads.com/book/show/55966.The_Principles_of_Psychology
 [myer]: /blog/1-out-of-16-personalities
 [hexaco]: http://journals.sagepub.com/doi/abs/10.1177/1088868306294907
+[test]: http://hexaco.org/hexaco-online
