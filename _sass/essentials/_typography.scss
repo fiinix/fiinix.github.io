@@ -25,7 +25,8 @@ blockquote cite {
    ========================================================================== */
 .tag,
 .reading-time,
-.timestamp {
+.timestamp,
+.category {
 
     font-weight: $font-weight;
 
@@ -48,20 +49,17 @@ figure cite {
 
    ========================================================================== */
 ol li:before,
-.tag .tag-count,
-.post-ordinal {
+//.tag .tag-count,
+.post-ordinal,
+.post-content h4 {
     font-size: calc( 19.2px + (23.994 - 19.2) * ( (100vw - 320px) / ( 1200 - 320) ));
     line-height: 1;
-
-    font-family: $heading-family;
-    font-weight: $heading-weight;
-    letter-spacing: -0.05em;
 }
 
 .heading,
 h1, h2, h3, h4, h5, h6,
 ol li:before,
-.tag .tag-count,
+//.tag .tag-count,
 .post-ordinal,
 .cta-link {
 
@@ -72,14 +70,10 @@ ol li:before,
 
 }
 
-/* ==========================================================================
-
-   19.2 - 23.994 (3)
-
-   ========================================================================== */
-.post-content h4 {
-    font-size: calc( 19.2px + (23.994 - 19.2) * ( (100vw - 320px) / ( 1200 - 320) ));
-    line-height: 1;
+ol li:before,
+//.tag .tag-count,
+.post-ordinal {
+    letter-spacing: -0.05em;
 }
 
 /* ==========================================================================

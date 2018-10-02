@@ -33,13 +33,18 @@ layout: default
         <span style="color: inherit; {% if page.color %} background-image: linear-gradient(to bottom, {{ page.color }} 100%, {{ page.color }} 100%){% endif %}">{{ page.title | markdownify | strip_html | trim  }}</span>
       </h1>
 
-      <p>{{page.category}}</p>
-
-        <p>
-          <span class="post-ordinal" style="{% if page.color %} color: {{ page.color }};{% else %} color: #00B86B; {% endif %}">&#8470;{{ post_counter }}</span>
+      <div class="group col--primary">
+        <div class="col">
+          <span class="post-ordinal" style="{% if page.color %} color: {{ page.color }};{% else %} color: #00B86B; {% endif %}">&#8470;{{ post_counter }}</span></div>
+        <div class="col">
           {% include date.html type="page" %}
           {% include reading-time.html type="page" %}
-        </p>
+        </div>
+        <div class="col align-right">
+          <span class="category"><span class="category-prefix">In</span><span class="category-label">{{page.category}}</span></span>
+        </div>
+      </div>
+
     </div>
   </div>
 

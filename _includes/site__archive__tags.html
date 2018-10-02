@@ -62,14 +62,16 @@
       <ul class="tag-list inline-list">
     {% endif %}
 
+        {% comment %}
+        Only show tags which have a count of 2+
+        {% endcomment %}
+        {% if site.tags[this_word].size > 1 %}
     <li>
       <a class="tag {% if site.tags[this_word].size > 9 %}tag--doubledigit{% elsif site.tags[this_word].size > 1 %}tag--singledigit{% endif %}" href="#{{ this_word | replace: ' ', '+' }}">
-        {% if site.tags[this_word].size > 1 %}
-          <span class="tag-count">{{ site.tags[this_word].size }}</span>
-        {% endif %}
-        <span class="tag-label">{{ this_word | markdownify | strip_html | trim }}</span>
+        <span class="tag-label">{{ this_word | markdownify | strip_html | trim }}</span><span class="tag-count">{{ site.tags[this_word].size }}</span>
       </a>
     </li>
+        {% endif %}
 
   {% endunless %}
       {% endfor %}
@@ -88,6 +90,7 @@
   {% for item in (0..num_words) %}{% unless forloop.last %}
     {% capture this_word %}{{ tag_words[item] | strip_newlines }}{% endcapture %}
 
+  <div style="min-height: 100vh;">
       <h2 id="{{ this_word | replace: ' ', '+' }}" class="h5 subheading topics-subheading">{{ this_word | markdownify | strip_html | trim }}
 
       {% capture first_letter %}{{ this_word | append:'fill' | truncate: 4 | remove: '.' }}{% endcapture %}
@@ -102,14 +105,18 @@
 
       </h2>
 
+  <div class="tag-columns">
   <ul class="clean-list">
     {% for post in site.tags[this_word] %}{% if post.title != null %}
 
     <li class="">
-      <h3 class="h4 no-margin"><a href="{{ post.url }}">{{ post.title | markdownify | strip_html | trim }}</a></h3>
+      <h3 class="--h4 --no-margin"><a href="{{ post.url }}">{{ post.title | markdownify | strip_html | trim }}</a></h3>
     </li>
     {% endif %}{% endfor %}
   </ul>
-  {% endunless %}{% endfor %}
+  </div><!-- /tag-columns -->
+  {% endunless %}
+</div><!-- /island -->
+  {% endfor %}
 </div>
 <!-- /Topics by section -->

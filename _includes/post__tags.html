@@ -1,3 +1,6 @@
+<style>
+    .tag:after { background-color: {{ page.color }}; }
+</style>
 <h3 class="h4 subheading" id="topics">Topics</h3>
 {% unless page.tags == empty %}
 	{% assign tags_max = 0 %}
@@ -9,7 +12,7 @@
     <ul class="tag-list">
         {% for i in (1..tags_max) reversed %}{% for tag in page.tags %}
             {% if site.tags[tag].size == i %}
-                <li><a class="tag {% if site.tags[tag].size > 9 %}tag--doubledigit{% elsif site.tags[tag].size > 1 %}tag--singledigit{% endif %}" rel="tag" href="/topics/#{{ tag | replace: ' ', '+' }}">{% if site.tags[tag].size > 1 %}<span class="tag-count">{{ site.tags[tag].size }}</span>{% endif %}<span class="tag-label">{{ tag }}</span></a>
+                <li><a class="tag {% if site.tags[tag].size > 9 %}tag--doubledigit{% elsif site.tags[tag].size > 1 %}tag--singledigit{% endif %}" rel="tag" href="/topics/#{{ tag | replace: ' ', '+' }}"><span class="tag-label">{{ tag }}</span>{% if site.tags[tag].size > 1 %}<span class="tag-count">{{ site.tags[tag].size }}</span>{% endif %}</a>
                     {% unless forloop.last %}
                     {% endunless %}
                 </li>

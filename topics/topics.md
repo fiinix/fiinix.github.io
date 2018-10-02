@@ -1,5 +1,5 @@
 ---
-layout: journal
+layout: page
 title: Topics
 permalink: /topics/
 excerpt: "Each entry gets filed under one or more topics. Here is where I collect them all."
