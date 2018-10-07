@@ -16,7 +16,7 @@ layout: default
 
   <div class="group">
     <div class="col col--title">
-      
+
       <!--<h1 class="h2 post-heading post-type&#45;&#45;{{ page.category }}" data-heading="{{ page.title | markdownify | strip_html | trim  }}">-->
         <!--<span style=" {% if page.text %}color:black;{% endif %} {% if page.color %} background-color: {{ page.color }};{% endif %} ">{{ page.title | markdownify | strip_html | trim  }}</span>-->
       <!--</h1>-->
@@ -94,9 +94,11 @@ layout: default
     </div>
     {% else %}
     <div class="cta" {% if page.color %}style="background-color: {{ page.color }}; border-color: {{ page.color }};"{% endif %}>
-      <h3>Know someone who would like this?</h3>
+
+      <h3>Get notified when the next one&rsquo;s out</h3>
+      <!--<h3>Know someone who would like this?</h3>-->
       <p>
-        <span class="cta-link">Share this entry with a friend</span>
+        <a href="/subscribe" class="cta-link">Subscribe for fortnightly updates</a>
       </p>
     </div>
     {% endif %}

@@ -15,7 +15,7 @@ layout: default
    <section class="col col--primary">
 
       {% if page.excerpt %}
-      <div class="lead">{{ page.excerpt | markdownify }}</div>
+      <div class="summary">{{ page.excerpt | markdownify }}</div>
       {% endif %}
 
     <article class="page-content page-type--{{ page.category }}" lang="en"{% if page.color %} style="border-color:{{ page.color }} {{ page.color }} {{ page.color2 }} {{ page.color2 }}; color: {{ page.color }};"{% endif %}>

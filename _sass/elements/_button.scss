@@ -1,0 +1,29 @@
+/* ==========================================================================
+
+   Search
+
+   ========================================================================== */
+
+.button {
+
+    display: inline-block;
+
+    background-color: $black;
+    color: $white;
+    padding: 0.75em 1.5em;
+    text-align: center;
+
+    border: 0;
+    border-radius: 0.1666em;
+
+    box-shadow: 0 0.1em 0 0.1em rgba(0,0,0,0.2);
+
+    &:hover,
+    &:focus {
+
+        background-color: $primary-color;
+        color: $black;
+
+    }
+
+}

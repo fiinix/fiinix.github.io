@@ -39,3 +39,23 @@
     }
 
 }
+
+.cta-link {
+
+    position: relative;
+
+    &:after {
+
+        content: " ";
+        background-image: svg-url("<svg viewBox='0 0 87 100' xmlns='http://www.w3.org/2000/svg'><path fill='rgba(0,0,0,0.25)' d='M86.6 50L0 100V0z' fill-rule='evenodd'/></svg>");
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
+        width: 0.75em;
+        height: 0.75em;
+        position: absolute;
+        top: 0;
+        left: -1.5em;
+
+    }
+
+}
