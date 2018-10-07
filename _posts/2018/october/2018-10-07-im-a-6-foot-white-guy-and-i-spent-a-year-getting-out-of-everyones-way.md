@@ -7,6 +7,7 @@ category: One-shot
 excerpt: "In which I spent a year actively giving space to other people and realising just how much more spatial awareness women have."
 thumbnail: "kpop.gif"
 alt: "Loop of man walking away from explosion from K-Pop music video."
+disclaimer: "Trigger warning: The following entry includes a use of the C-word."
 ---
 From manspearing and mansplaining to manterrupting and manslamming, men have been known to exert their power since the dawn of time---look mom! I'm mansplaining right now.
 
