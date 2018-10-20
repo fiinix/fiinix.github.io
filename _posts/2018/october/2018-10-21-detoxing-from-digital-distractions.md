@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Detoxing from Digital Distractions"
-date: 2018-10-07 T 07:00
+date: 2018-10-21 T 07:00
 tags : [Data, Psychology, "Social media"]
 category: Health
 excerpt: "In which I reduce my digital distractions only to realise how many real-life distractions I also have."
