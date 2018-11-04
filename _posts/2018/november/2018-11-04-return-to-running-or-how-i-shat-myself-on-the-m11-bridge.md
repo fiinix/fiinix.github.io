@@ -6,7 +6,7 @@ tags : [Running, Marathons, "Virgin Money London Marathon", Charities, "East Ang
 category: Health
 excerpt: "In which I finally get back to running, realise how important it is and join the infamous Runner's Gut club."
 thumbnail: "carlos-eriksson-shits-himself-og.jpg"
-alt: "Illustration of Carlos Eriksson having a shit in the forest."
+alt: "Illustration of Carlos Eriksson as a Disney character having a shit in the forest."
 ---
 After three months of injury, the first run without any knee pain afterwards felt amazing.
 
@@ -21,9 +21,9 @@ But running through a field of wet grass as the morning fog was leaving reminded
 It reminded me that my favourite run of all time wasn't [the half marathon][puked] or any of [the obstacle races][obstacle] but the morning run in Madrid where I ran up the hills of Casa de Campo to watch the sunrise, followed by running down the same hill, arms flailing like a child.
 
 <figure>
-  <img class="js-lazy-load" data-original="/assets/posts/2018/november/return-to-running-or-how-i-shat-myself-on-the-m11-bridge/carlos-eriksson-at-casa-de-campo-in-madrid.jpg" alt="Chart showing the distribution of the assessment score for Honesty-Humility.">
+  <img class="js-lazy-load" data-original="/assets/posts/2018/november/return-to-running-or-how-i-shat-myself-on-the-m11-bridge/carlos-eriksson-at-casa-de-campo-in-madrid.jpg" alt="Carlos Eriksson standing and overlooking the sunrise from the hilltops of Casa de Campo, Madrid, Spain.">
   <noscript>
-    <img src="/assets/posts/2018/november/return-to-running-or-how-i-shat-myself-on-the-m11-bridge/carlos-eriksson-at-casa-de-campo-in-madrid.jpg" alt="Chart showing the distribution of the assessment score for Honesty-Humility.">
+    <img src="/assets/posts/2018/november/return-to-running-or-how-i-shat-myself-on-the-m11-bridge/carlos-eriksson-at-casa-de-campo-in-madrid.jpg" alt="Carlos Eriksson standing and overlooking the sunrise from the hilltops of Casa de Campo, Madrid, Spain.">
   </noscript>
   <figcaption>The best run of my life.</figcaption>
 </figure>
@@ -75,9 +75,9 @@ Under the fence, I jogged to the nearest tree which took me far enough from the 
 And then had a massive shit.
 
 <figure>
-  <img class="js-lazy-load" data-original="/assets/posts/2018/november/return-to-running-or-how-i-shat-myself-on-the-m11-bridge/carlos-eriksson-shits-himself-illustration.png" alt="Chart showing the distribution of the assessment score for Honesty-Humility.">
+  <img class="js-lazy-load" data-original="/assets/posts/2018/november/return-to-running-or-how-i-shat-myself-on-the-m11-bridge/carlos-eriksson-shits-himself-illustration.png" alt="Illustration of Carlos Eriksson as a Disney character having a shit in the forest.">
   <noscript>
-    <img src="/assets/posts/2018/november/return-to-running-or-how-i-shat-myself-on-the-m11-bridge/carlos-eriksson-shits-himself-illustration.png" alt="Chart showing the distribution of the assessment score for Honesty-Humility.">
+    <img src="/assets/posts/2018/november/return-to-running-or-how-i-shat-myself-on-the-m11-bridge/carlos-eriksson-shits-himself-illustration.png" alt="Illustration of Carlos Eriksson as a Disney character having a shit in the forest.">
   </noscript>
   <figcaption>A happy, happy shit.</figcaption>
 </figure>
