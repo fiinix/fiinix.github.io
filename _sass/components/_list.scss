@@ -15,9 +15,11 @@ ol,ul,dl {
  */
 ol {
 
-    list-style: none;
-    padding-left: 2.25em;
     counter-reset: orderedList;
+    list-style: none;
+    padding-left: 3.375em;
+    margin-top: 4.5em;
+    margin-bottom: 4.5em;
 
     ol {
 
@@ -37,19 +39,18 @@ ol li {
 
     &:before {
 
-        display: block;
-
-        width: 3em;
-
-        position: absolute;
-        top: 0.275em;
-        left: -3.5em;
-
         color: luma(70);
 
-        counter-increment: orderedList;
         content: counters(orderedList, ".");
-        text-align: right;
+
+        counter-increment: orderedList;
+        display: block;
+        left: -3.375rem;
+
+        position: absolute;
+
+        top: 0.275em;
+        width: 3.375rem;
         // padding-right: 0.75em;
 
     }
@@ -71,8 +72,9 @@ ol li {
 ul {
 
     list-style: none;
-    padding-left: 2.25em;
-    // margin-bottom: 0;
+    padding-left: 3.375em;
+    margin-top: 4.5em;
+    margin-bottom: 4.5em;
 
 }
 
@@ -82,13 +84,15 @@ ul li {
 
     &:before {
 
-        color: $luma-80;
-        content: "\2666";
+        background-color: luma(70);
+        content: " ";
+        height: 1.3888vh;
+        left: -3.375em;
 
         position: absolute;
 
-        top: 0;
-        left: -2.25em;
+        top: 0.375em;
+        width: 1.125em;
 
     }
 
@@ -103,8 +107,8 @@ ul li {
 
     list-style-type: none;
 
-    padding-left: 0;
     margin-bottom: 0;
+    padding-left: 0;
 
     li {
 
@@ -130,8 +134,8 @@ ul li {
 
     list-style-type: none;
 
-    padding-left: 0;
     margin-bottom: 0;
+    padding-left: 0;
 
     li {
 
@@ -151,23 +155,23 @@ ul li {
 .tag-list {
 
     display: inline-block;
+    padding-left: 0;
+
     position: relative;
 
     &:after {
 
         //content: " ";
+        background-color: $primary-color;
         display: block;
+        height: 100%;
+        left: em(16);
         position: absolute;
         top: em(16);
-        left: em(16);
         width: 100%;
-        height: 100%;
-        background-color: $primary-color;
         z-index: z("below");
 
     }
-
-    padding-left: 0;
 
     li {
         display: inline-block;
