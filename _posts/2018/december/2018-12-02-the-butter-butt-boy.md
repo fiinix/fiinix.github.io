@@ -17,7 +17,7 @@ Later, my mom would find me, sat in a melted mess of milk and butter babbling in
 <figure>
   <img class="js-lazy-load" data-original="/assets/posts/2018/december/the-butter-butt-boy/carlos-eriksson-cooking-in-his-moms-kitchen2.jpg" alt="Carlos Eriksson as a toddler, making a mess in his mom's kitchen2.">
   <noscript>
-    <img src="/assets/posts/2018/december/the-butter-butt-boy/carlos-eriksson-cooking-in-his-moms-kitchen.jpg" alt="Carlos Eriksson as a toddler, making a mess in his mom's kitchen.">
+    <img src="/assets/posts/2018/december/the-butter-butt-boy/carlos-eriksson-cooking-in-his-moms-kitchen2.jpg" alt="Carlos Eriksson as a toddler, making a mess in his mom's kitchen.">
   </noscript>
   <figcaption>True story: My first word was, “Mom.” My second one was, “Cooking.”</figcaption>
 </figure>
