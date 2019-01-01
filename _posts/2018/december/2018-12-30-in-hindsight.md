@@ -141,7 +141,7 @@ Well-researched articles take longer than people think. I wrote one article whic
 
 This was an ambitious goal.
 
-I have worked a lot of this one but have very little to show for it yet.
+I have worked a lot on this one but have very little to show for it yet.
 
 I want to create a sustainable secondary income where I'm like a ghost in the machine. I still have more work to do but it's inching itself forward.
 
