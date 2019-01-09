@@ -16,7 +16,7 @@ As each year comes to its close I summarise it here, include my most memorable e
 
 ## 2018
 
-Memorable entries include; Getting injured and [deferring my London marathon][marathon], celebrating a [decade of blogging][blogging], trying [the ketogenic diet][keto] for a month, [seeing a medium][medium], assessing how well [I truly kmow myself][charming], [getting out of everyone's way][whiteguy], [detoxing from digital distractions][digital] and [shitting myself on the M11 bridge][shitting]. 
+Memorable entries include; Getting injured and [deferring my London marathon][marathon], celebrating a [decade of blogging][blogging], trying [the ketogenic diet][keto] for a month, [seeing a medium][medium], assessing how well [I truly know myself][charming], [getting out of everyone's way][whiteguy], [detoxing from digital distractions][digital] and [shitting myself on the M11 bridge][shitting]. 
 
 But my most memorable entry is [Making Memories with Our Marvellous Mom][childhood], where my siblings and I recreate our childhood photos.
 
@@ -88,9 +88,9 @@ But my most memorable entry is [Back to the Past][backpast], where in honour of 
 
 ## 2014
 
-Memorable entries include; [Lucien getting seriously ill][lupus], [a 24 h board game marathon][board], [going to my first Comic Con][comic], [turning thirty][thirty], [getting a new jobs][job], [growing a beard for a year][beard] and [hunting for the perfect Christmas tree][tree].
+Memorable entries include; [Lucien getting seriously ill][lupus], [a 24 h board game marathon][board], [going to my first Comic-con][comic], [turning thirty][thirty], [getting a new job][job], [growing a beard for a year][beard] and [hunting for the perfect Christmas tree][tree].
 
-But my most memorable entry is [A Letter from the Promised Land][promised-land], where I pretend to be a turn of the 20th century immigrant who is writing home to the family and friends he has left behind for a brighter future in the new world.
+But my most memorable entry is [A Letter from the Promised Land][promised-land], where I pretend to be a turn of the 20th-century immigrant who is writing home to the family and friends he has left behind for a brighter future in the new world.
 
 [See all the entries from 2014][2014].
 
@@ -129,9 +129,9 @@ But my most memorable entry is [A Rainy Night on Drury Lane, Part VII — A Whit
 
 *38 entries out of 97 made it through.*
 
-Memorable entries include; rethinking [the ranking symbols used on weplaynhl.com][rankings], [flying to the <abbr class="small-caps">UK</abbr> to attend job interviews][upandaway], [packing a bag each and moving the <abbr class="small-caps">UK</abbr>][fish], recording [some covers][sitt-1] and some [songs of my own][sitt-2], getting [a place to call home in the <abbr class="small-caps">UK</abbr>][alan], how [I stopped smoking][cigarette] and starting [a mult-part short story][rainy-night-1].
+Memorable entries include; rethinking [the ranking symbols used on weplaynhl.com][rankings], [flying to the <abbr class="small-caps">UK</abbr> to attend job interviews][upandaway], [packing a bag each and moving the <abbr class="small-caps">UK</abbr>][fish], recording [some covers][sitt-1] and some [songs of my own][sitt-2], getting [a place to call home in the <abbr class="small-caps">UK</abbr>][alan], how [I stopped smoking][cigarette] and starting [a multi-part short story][rainy-night-1].
 
-But my most memorable entry is [Anomalous Atmospheric Conditions][weather], where I take a humour look at the weather differences between Finland and the <abbr class="small-caps">UK</abbr>.
+But my most memorable entry is [Anomalous Atmospheric Conditions][weather], where I take a humorous look at the weather differences between Finland and the <abbr class="small-caps">UK</abbr>.
 
 [See all the entries from 2012][2012].
 
@@ -170,7 +170,7 @@ But my most memorable entry is [The Luckiest F.O.B in the World(s)][fob], where 
 
 Memorable entries include; [playing Command & Conquer: Tiberian Sun Firestorm][cc], conducting an [embarrassing interview with myself][interview], pretending I had a shot at playing [Romeo in Baz Luhrmann’s Romeo + Juliet][leo] and continuing the work on [my board game Island of Eternity][prototype].
 
-But my most memorable entry is [P-P-P-Poker Table][poker], where I design and build an octagonal poker table out of birch and European pruce.
+But my most memorable entry is [P-P-P-Poker Table][poker], where I design and build an octagonal poker table out of birch and European spruce.
 
 [See all the entries from 2010][2010].
 
@@ -185,7 +185,7 @@ But my most memorable entry is [P-P-P-Poker Table][poker], where I design and bu
 
 *16 entries out of 33 made it through.*
 
-Memorable entries include; [creating sculpted dolls][dolls], a horrible [bucket list][bucket], [performing covers and my own material at Night of Arts][nightart], [getting a third tattoo][tattoo3] and [designing an T-shirt for Xbox.com][xbox].
+Memorable entries include; [creating sculpted dolls][dolls], a horrible [bucket list][bucket], [performing covers and my own material at Night of Arts][nightart], [getting a third tattoo][tattoo3] and [designing a T-shirt for Xbox.com][xbox].
 
 But my most memorable entry is one of my live performances from Night of Arts, specifically [Part III & IV, “Into The Night” And “Made of Glass”][glass].
 
