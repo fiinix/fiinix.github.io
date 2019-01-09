@@ -4,7 +4,7 @@ title: "What I've Read This Year"
 date: 2018-12-16 T 07:00
 tags : [Reading, Books]
 category: Review
-excerpt: "In which I finish my 16th book for the year and look at the transformative power of reading."
+excerpt: "In which I finish my 18th book for the year and look at the transformative power of reading."
 thumbnail: "carlos-eriksson-reading-books-og.jpg"
 alt: "Carlos Eriksson as a Disney character, reading books."
 ---
@@ -91,6 +91,8 @@ My malnourished mind was ravenous and rumbling for more.
 - [**The Righteous Mind: Why Good People Are Divided by Politics and Religion**][morality] *by Jonathan Haidt*. I don't know whether I agree with the author's moral divisions or not, but it was very interesting and a book I would recommend to people, especially in today's divided political climate.
 - [**Reality is Not What it Seems: The Journey to Quantum Gravity**][quantum] *by Carlo Rovelli*. Approachable and beautiful writing about our current understanding of our universe. This should be required reading for anyone who lives in this universe.
 - [**Sapiens: A Brief History of Humankind**][sapiens] *by Yuval Noah Harari*. A brief but insightful look at racism, sexism, religion, capitalism and everything else we've done in the past history of humankind.
+- [**Food Rules: An Eater's Manual**][food] *by Michael Pollan*. Simple and straightforward eating advice that most of us probably already know but just "forgot" somewhere along the way. *Added.*
+- [**Homo Deus: A Brief History of Tomorrow**][deus] *by Yuval Noah Harari*. For the first time in human history, more people die from eating too mcuh than too little. Where are we going in our quest to become the gods we once worshipped? *Added.*
 
 I'm now reading 2-3 books per month and spend about an hour every weekday reading.
 
@@ -134,4 +136,6 @@ One that, unlike me, he hopefully won't forget.
 [morality]: https://www.goodreads.com/book/show/11324722-the-righteous-mind
 [quantum]: https://www.goodreads.com/book/show/29767627-reality-is-not-what-it-seems
 [sapiens]: https://www.goodreads.com/book/show/23692271-sapiens
+[food]: https://www.goodreads.com/book/show/7015635-food-rules
+[deus]: https://www.goodreads.com/book/show/30363345-homo-deus
 [derek]: https://sivers.org/bfaq
