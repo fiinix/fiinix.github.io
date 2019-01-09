@@ -6,12 +6,31 @@ excerpt: "Like the mythical Elephants' graveyard, this is where all my Journal e
 ---
 As each year comes to its close I summarise it here, include my most memorable entry and give you a list of all the entries.
 
-## 2018
+## 2019
 
 *This year that hasn’t reached an introspective status yet.*
 
-[See all the entries from 2018 so far][2018].
+[See all the entries from 2019 so far][2019].
 
+[2019]: /archive/2019
+
+## 2018
+
+Memorable entries include; Getting injured and [deferring my London marathon][marathon], celebrating a [decade of blogging][blogging], trying [the ketogenic diet][keto] for a month, [seeing a medium][medium], assessing how well [I truly kmow myself][charming], [getting out of everyone's way][whiteguy], [detoxing from digital distractions][digital] and [shitting myself on the M11 bridge][shitting]. 
+
+But my most memorable entry is [Making Memories with Our Marvellous Mom][childhood], where my siblings and I recreate our childhood photos.
+
+[See all the entries from 2018][2018].
+
+[marathon]: /blog/disappointment-defeat-and-deferral
+[blogging]: /blog/the-diary-of-two-decades
+[keto]: /blog/the-ketogenic-man
+[medium]: /blog/dialogues-with-my-dead-dad
+[charming]: /blog/can-i-change-my-charming-character
+[whiteguy]: /blog/im-a-6-foot-white-guy-and-i-spent-a-year-getting-out-of-everyones-way
+[digital]: /blog/detoxing-from-digital-distractions
+[shitting]: /blog/return-to-running-or-how-i-shat-myself-on-the-m11-bridge
+[childhood]: /blog/making-memories-with-our-marvellous-mom
 [2018]: /archive/2018
 
 ## 2017
