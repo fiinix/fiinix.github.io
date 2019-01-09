@@ -8,7 +8,7 @@ excerpt: "In which I look back at the year that has passed with all its intentio
 thumbnail: "carlos-eriksson-looking-himself-in-the-mirror-og.jpg"
 alt: "Carlos Eriksson as a Disney character, looking himself in the mirror."
 ---
-A year ago I sat down and write down a list of things I wanted to accomplish this year.
+A year ago I sat and wrote down a list of things I wanted to accomplish this year.
 
 But unlike [so many times before][looking-2015], I didn't publish it or tell anyone about it.
 
