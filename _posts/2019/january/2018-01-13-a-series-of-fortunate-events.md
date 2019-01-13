@@ -78,7 +78,7 @@ We've had a lot of fun reading together, having almost finished the Chamber of S
 
 I love playing board games---so much so that [I even designed my own][eternity].
 
-So this year we've played classics such as Labyrinth and more modern games, such as Pandemic: Iberia and Merchands & Marauders and enjoyed them all.
+So this year we've played classics such as Labyrinth and more modern games, such as Pandemic: Iberia and Merchants & Marauders and enjoyed them all.
 
 But the most memorable game was without a doubt when Lucien won his first game of chess against me.
 
