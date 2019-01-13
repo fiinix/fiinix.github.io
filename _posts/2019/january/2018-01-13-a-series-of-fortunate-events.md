@@ -6,6 +6,7 @@ tags : ["Year-in-review"]
 category: Life
 excerpt: "In which I look back at all the things I had no plans of doing last year but did anyway."
 thumbnail: "carlos-eriksson-in-a-rubber-dinghy-og.jpg"
+http://carloseriksson.com/assets/posts/2019/january/a-seres-of-fortunate-events/carlos-eriksson-in-a-rubber-dinghy-og.jpg
 alt: "Carlos Eriksson as a Disney character, in a rubber dinghy out at sea."
 ---
 A year ago I sat and wrote down a list of things I wanted to accomplish last year.
