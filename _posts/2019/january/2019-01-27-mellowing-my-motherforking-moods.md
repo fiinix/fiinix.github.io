@@ -112,7 +112,7 @@ I've been looking for alternatives but haven't been able to find one that manage
 
 Meanwhile, it feels like the landscape has changed and these new scenic routes are giving me more joy and tranquillity than before.
 
-And although I still have quite a few mature coping mechanisms to learn, I don't feel as overwhelmed by my moods as I used to.
+And although I still have quite a few mature coping mechanisms to learn, I don't feel as overwhelmed by my moods as I used to be.
 
 [daylio]: /blog/managing-my-motherfucking-moods
 [dsq-14]: http://www.web.pdx.edu/~dcoleman/dsq.html
