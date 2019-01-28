@@ -9,7 +9,7 @@ I'm an **accessibility-focused multilingual designer** and frontend developer wh
 
 For the past eight years I've been making websites and experiences that are **accessible and usable for everyone**. I focus on typography, information architecture and inclusive design patterns.
 
-From having the pleasure of [writing about accessibility][writing] for Net magazine to [speaking at conferences][speaking] about the importance of accessibility and having other work used by tens of thousands of people on a daily basis, my wonderful wife and son always keep me grounded.
+From having the pleasure of [writing about accessibility][writing] for Net magazine to [speaking at conferences][speaking] about the importance of accessibility and having other work used by tens of thousands of people on a daily basis, my friends and family always keep me grounded.
 
 I wouldn’t be half the man I am without them.
 
