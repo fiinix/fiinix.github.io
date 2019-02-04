@@ -22,7 +22,7 @@ What follows, is a review of those intentions and any failures and lessons I lea
 
 *Originally they were in no particular order other than how I came to think of them, I've since then grouped them in a way that makes sense to me.*
 
-## Table of content
+## Table of contents
 
 - [Self-care](#self-care)
 - [Relationships](#relationships)

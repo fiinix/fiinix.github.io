@@ -20,7 +20,7 @@ I want to be the kind of person who welcomes the surprises as much as I welcome 
 
 What follows is a review of all the things I had no plans of doing but managed to do anyway.
 
-## Table of content
+## Table of contents
 
 - [Self-care](#self-care)
 - [Relationships](#relationships)
