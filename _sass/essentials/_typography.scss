@@ -172,3 +172,18 @@ p[data-pullquote]:before {
     margin-bottom: 3em;
 
 }
+
+sup,
+sub {
+    //font-size: 0.74em;
+    line-height: 0;
+    position: relative;
+    vertical-align: baseline;
+}
+
+sup {
+    top: -0.5em;
+}
+sub {
+    bottom: -0.25em;
+}
