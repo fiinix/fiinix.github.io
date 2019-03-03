@@ -24,14 +24,19 @@ blockquote {
         position: relative;
     }
 
-    // small circle
-    p:before,p:after {
+    p:before, p:after {
 
         content: " ";
         display: block;
+        position: absolute;
+
+    }
+
+    // small circle
+    p:before {
+
         width: 11.1111vw;
         height: 2.7777vw;
-        position: absolute;
         top: -5.55vw;
         left: -11.1111vw;
         border: 2.7777vw solid;
@@ -44,7 +49,6 @@ blockquote {
     p:after {
 
         top: -2.7777vw;
-        left: auto;
         right: -11.11vw;
 
         z-index: -1;
@@ -53,6 +57,45 @@ blockquote {
         height: 16.6666vw;
         border: 16.6666vw solid;
         border-width: 0 0 16.6666vw 0;
+        border-color: inherit;
+        opacity: 0.2;
+
+    }
+
+}
+
+// If there's ever a second blockquote, let's make it different
+blockquote:nth-of-type(2) {
+
+    // small circle
+    p:before {
+
+        width: 44.4444vw;
+        height: 1.3888vw;
+        position: absolute;
+        bottom: -5.55vw;
+        top: auto;
+        left: auto;
+        right: -44.4444vw;
+        border: 1.3888vw solid;
+        border-width: 1.3888vw 0 0 0 ;
+        border-color: inherit;
+
+    }
+
+    // big circle
+    p:after {
+
+        top: -2.7777vw;
+        right: auto;
+        left: -8.3333vw;
+
+        z-index: -1;
+
+        width: 11.1111vw;
+        height: 11.1111vw;
+        border: 11.1111vw solid;
+        border-width: 0 0 11.1111vw 0;
         border-color: inherit;
         opacity: 0.2;
 
