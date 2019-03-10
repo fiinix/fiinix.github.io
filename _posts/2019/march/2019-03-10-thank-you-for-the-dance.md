@@ -20,7 +20,7 @@ Her name is Jessica and her soft but pointy noise, dark-blonde hair and steel-bl
 
 *Love.*
 
-Before I understand the word, I know the feelings to go with it.
+Before I understand the word, I know the feeling to go with it.
 
 I imagine us walking together, holding hands and talking about the kind of things people in love talk about.
 
