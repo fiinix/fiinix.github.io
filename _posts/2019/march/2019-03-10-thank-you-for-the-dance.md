@@ -16,7 +16,7 @@ The little 6-year-old girl.
 
 I met her on my first day in kindergarten.
 
-Her name is Jessica and her soft but pointy noise, chestnut brown hair and steel-blue eyes burn into the foundation of my mind.
+Her name is Jessica and her soft but pointy noise, dark-blonde hair and steel-blue eyes burn into the foundation of my mind.
 
 *Love.*
 
