@@ -60,6 +60,8 @@ Thriva uses the largest private path lab in the UK, who in turn counts the NHS a
   <figcaption>Carlock Holmes and the Exceptional Erythrocyte.</figcaption>
 </figure>
 
+*Disclaimer: I’m not sponsored by Thriva to write this entry.*
+
 My second attempt goes much better than the first and two finger-pricks later I manage to get enough blood to fill the two vials needed for the Advanced subscription.
 
 *The test kit is sent out every three months but you can cancel the subscription if you just want to do it once.*
