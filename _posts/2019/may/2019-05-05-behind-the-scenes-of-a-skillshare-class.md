@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "The Making Of: How to Design Inclusive User Experiences (Ux) for People"
-date: 2019-04-22 T 07:00
+title: "Behind the Scenes of a Skillshare Class"
+date: 2019-05-05 T 07:00
 tags : [Marathons, Running, "Brighton Marathon", "In Memoriam", Journeys]
 category: Industry
 excerpt: "In which I take you step-by-step of the making of my new online class: where I teach inclusive user experience design."
