@@ -35,12 +35,21 @@
 		&--tertiary { width: 44.44vw; background-color: $primary-color; }
 
 		&--quaternary { width: 88.88vw; background-color: $primary-color; }
-		&--quinary { width: 77.77vw; background-color: $secondary-color; }
+		&--quinary { width: 77.77vw; background-color: $secondary-color; z-index: -1; }
 		&--senary { width: 66.66vw; background-color: $accent-color; }
-		&--septenary { width: 55.55vw; background-color: white; }
+		&--septenary { width: 55.55vw; background-color: white; z-index: -1; }
 		&--octonary { width: 44.44vw; background-color: $primary-color; }
 		&--nonary { width: 33.33vw; background-color: $secondary-color; }
 		&--denary { width: 22.22vw; background-color: $accent-color; }
+
+	}
+
+	&--bottom {
+
+		.color--quinary { width: 0; }
+		.color--senary { width: 0; }
+		.color--nonary { width: 0; }
+		.color--denary { width: 0;}
 
 	}
 

@@ -53,8 +53,18 @@
         width: 0.75em;
         height: 0.75em;
         position: absolute;
-        top: 0;
-        left: -1.5em;
+        top: 50%;
+        left: 0;
+        transform: translate(-200%, -50%);
+        //transition: all 150ms ease-in-out 0ms;
+
+    }
+
+    &:hover:after,
+    &:focus:after {
+
+        //transform: translate(-200%, -50%) scale(5);
+        //transition: all 150ms ease-in-out 0ms;
 
     }
 

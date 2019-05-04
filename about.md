@@ -3,27 +3,32 @@ layout: about
 title: About
 category: content
 permalink: /about/
-excerpt: "I make the places you can visit from a computer better for everyone, not just the people it is easy for."
+excerpt: "Carlos makes the places you can visit from a computer better for everyone, not just the people it is easy for."
+cta-copy: "Interested in working together?"
+cta-label: "Get in touch"
+cta-url: "mailto:carlos.n.design@gmail.com?subject=Let%27s%20work%20together"
 ---
-I'm an **accessibility-focused multilingual designer** and frontend developer who knows that inclusive design can exist in the heart of form and function, without compromising either.
+Since working closely with people with permanent mental and physical disabilities back in Finland, Carlos has been on an over **decade-long quest to make the web better for everyone**, not just the people it is easy for.
 
-For the past eight years I've been making websites and experiences that are **accessible and usable for everyone**. I focus on typography, information architecture and inclusive design patterns.
+His hands-on experience supporting and helping people live independent lives and seeing the broken state of the web they had to endure became the driving force for change.
 
-From having the pleasure of [writing about accessibility][writing] for Net magazine to [speaking at conferences][speaking] about the importance of accessibility and having other work used by tens of thousands of people on a daily basis, my friends and family always keep me grounded.
+Since then, he's been championing to create a more inclusive technology industry by first recognising exclusion.
 
-I wouldn’t be half the man I am without them.
+It's only through the lens of exclusion, and the mismatch it creates between people and technology that we can understand how vital it is that we include everyone; from people with permanent, temporary and situational disabilities to marginalised and underrepresented groups.
 
-Born and raised in [Finland][vasa], we now live in the <abbr title="United Kingdom" class="small-caps">UK</abbr>. A few years ago we packed a bag each and moved here for what, so far, has been quite [an adventure][adventure].
+From **collaborating with charities**, such as Kent Association for the Blind where he led user-testing with people with visual impairments, to **educating stakeholders and teams** at agencies of the Cabinet Office with paradigm-shifting lessons and workshops his stories always comes back to people.
 
-<figure>
-  <img class="js-lazy-load" data-original="/assets/img/carlos-eriksson.jpg" alt="Carlos Eriksson in the flesh.">
-  <figcaption>Here I am, trying my best to look thoughtful. Photo by <a href="http://stephenthomascole.com/">Stephen Thomas Cole</a>.</figcaption>
-</figure>
+> At the end of the day, the web is still built by people, for people. <cite>[What are you doing for an inclusive web today?][article]</cite>
 
-Inquisitive and critical by nature, I get genuinely excited about learning new things whether it&rsquo;s another tool to add to the arsenal or baking exquisitely complicated cupcakes.
+By partnering, in his capacity at Studio 24, with **country-wide reshaping major projects**, such as HS2 and Heathrow Expansion, Carlos' impact can be seen in the barriers-to-entry he has removed.
 
-<a href="mailto:carlos.n.design@gmail.com?subject=Employment%20opportunity">I'm available</a> for full-time employment.
+By working with prolific charities, such as the Internet Watch Foundation and Fauna & Flora International, he has been **making sure their services reach as many people as possible**.
 
+With [teaching], [public speaking][speaking] and by [writing in industry-recognised print publications][net], such as net magazine, he continues to educate and empower peers and people alike, on how to transform their organisations to make a better web for everyone.
+
+[teaching]: https://skl.sh/2LioXYs
+[net]: https://medium.com/net-magazine/the-cost-of-accessibility-90c875420239#.h3jncilu1
+[article]: http://www.studio24.net/blog/what-are-you-doing-for-an-inclusive-web-today/
 [writing]: /writing
 [speaking]: /speaking
 [adventure]: /blog/immigrant-or-expatriate

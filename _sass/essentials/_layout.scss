@@ -25,6 +25,11 @@ body {
 }
 .wrapper {
 
+    background-image: url(../img/carlos-eriksson-2019.png);
+    background-position: bottom right;
+    background-repeat: no-repeat;
+    background-size: 33vh auto;
+
     margin: 0;
 
     padding-top: 5.5555vh;
@@ -36,6 +41,8 @@ body {
     @include mq($breakpoint-lap) {
 
         // max-width: 66.6666vw;
+
+        background-size: 55vh auto;
 
         padding-top: 11.1111vh;
         padding-bottom: 22.2222vh;

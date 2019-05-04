@@ -22,6 +22,35 @@ layout: default
       {{ content }}
     </article>
 
+       {% assign TodaysDate = "now" | date: '%Y-%m-%d' %}
+       {% assign PromotionStartDate = page.cta-default-start | date: '%Y-%m-%d' %}
+       {% assign PromotionEndDate = page.cta-default-end | date: '%Y-%m-%d' %}
+
+       {% if TodaysDate >= PromotionStartDate and TodaysDate <= PromotionEndDate %}
+       <div class="cta" {% if page.color %}style="background-color: {{ page.color }}; border-color: {{ page.color }};"{% endif %}>
+           <h3>{{ page.cta-default-copy | markdownify | strip_html | trim }}</h3>
+           <p>
+               <a class="cta-link" href="{{ page.cta-default-url }}">{{ page.cta-default-label | markdownify | strip_html | trim }}</a>
+           </p>
+       </div>
+       {% elsif page.cta-url %}
+       <div class="cta" {% if page.color %}style="background-color: {{ page.color }}; border-color: {{ page.color }};"{% endif %}>
+           <h3>{{ page.cta-copy | markdownify | strip_html | trim }}</h3>
+           <p>
+               <a class="cta-link" href="{{ page.cta-url }}">{{ page.cta-label | markdownify | strip_html | trim }}</a>
+           </p>
+       </div>
+       {% else %}
+       <div class="cta" {% if page.color %}style="background-color: {{ page.color }}; border-color: {{ page.color }};"{% endif %}>
+
+           <h3>Get notified when the next entry is out</h3>
+           <!--<h3>Know someone who would like this?</h3>-->
+           <p>
+               <a href="/subscribe" class="cta-link">Subscribe for fortnightly updates</a>
+           </p>
+       </div>
+       {% endif %}
+
    </section>
    <aside class="col col--secondary" role="complementary">
 

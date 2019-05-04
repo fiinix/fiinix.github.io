@@ -67,7 +67,7 @@ layout: default
       {% endif %}
 
 
-    <article class="post-content post-type--{{ page.category }}" lang="en"{% if page.color %} style="border-color:{{ page.color }} {{ page.color }} {{ page.color2 }} {{ page.color2 }}; color: {{ page.color }};"{% endif %}>
+    <article id="article-content" class="post-content post-type--{{ page.category }}" lang="en"{% if page.color %} style="border-color:{{ page.color }} {{ page.color }} {{ page.color2 }} {{ page.color2 }}; color: {{ page.color }};"{% endif %}>
       {{ content }}
     </article>
 
@@ -108,6 +108,9 @@ layout: default
 
   </section>
   <aside class="col col--secondary">
+
+    <button id="speak">Speak</button>
+    <button id="stop">Stop</button>
 
   {% include post__tags.html %}
 

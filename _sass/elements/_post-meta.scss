@@ -11,6 +11,16 @@
 .post-ordinal {
 
     margin-right: 0.5rem;
+    position: absolute;
+    top: 0;
+    right: 0;
+    transform: translate(300%, 150%) scale(4);
+
+}
+
+.post-preview {
+
+    position: relative;
 
 }
 
