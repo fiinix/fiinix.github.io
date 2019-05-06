@@ -5,8 +5,8 @@ date: 2018-10-07 T 07:00
 tags : [Equality, Psychology]
 category: One-shot
 excerpt: "In which I spent a year actively giving space to other people and realising just how much more spatial awareness women have."
-thumbnail: "matt-quinn-32104-unsplash.jpg"
-alt: "People walking on sidewalk."
+thumbnail: "carlos-eriksson-blissfully-walking-through-everyone-og.png"
+alt: "Carlos Eriksson as a Disney character walking blissfully through everyone on the street."
 disclaimer: "Trigger warning: The following entry includes a use of the C-word."
 ---
 From manspearing and mansplaining to manterrupting and manslamming, men have been known to exert their power since the dawn of time---look mom! I'm mansplaining right now.
@@ -32,9 +32,9 @@ Now imagine yourself walking on the sidewalk when suddenly a 6′4″ man is lum
 What do you do?
 
 <figure>
-  <img class="js-lazy-load" data-original="/assets/posts/2018/october/im-a-6-foot-white-guy-and-i-spent-a-year-getting-out-of-everyones-way/get-out.gif" alt="Chart showing the distribution of the assessment score for Honesty-Humility.">
+  <img class="js-lazy-load" data-original="/assets/posts/2018/october/im-a-6-foot-white-guy-and-i-spent-a-year-getting-out-of-everyones-way/carlos-eriksson-blissfully-walking-through-everyone.png" alt="Carlos Eriksson as a Disney character blissfully walking through everyone.">
   <noscript>
-    <img src="/assets/posts/2018/october/im-a-6-foot-white-guy-and-i-spent-a-year-getting-out-of-everyones-way/get-out.gif" alt="Chart showing the distribution of the assessment score for Honesty-Humility.">
+    <img src="/assets/posts/2018/october/im-a-6-foot-white-guy-and-i-spent-a-year-getting-out-of-everyones-way/carlos-eriksson-blissfully-walking-through-everyone.png" alt="Carlos Eriksson as a Disney character blissfully walking through everyone.">
   </noscript>
   <figcaption>Excuse me Sir!</figcaption>
 </figure>
