@@ -17,7 +17,7 @@ cta-url: "mailto:carlos.n.design@gmail.com?subject=Speaking%20collaboration"
 {:.h3.post-heading.post-heading--listing}
 ### The Cost of Accessibility
 
-<time datetime="2015-12-03 19:00:00 GMT" class="timestamp timestamp--listing">Dec. 2015</time>
+<time datetime="2015-12-03 19:00:00 GMT" class="timestamp timestamp--listing">codeHarbour on Tour!, Dec. 2015</time>
 
 In which I make a business case for accessibility at [codeHarbour on Tour!][codeharbour] and talk about the very real cost of ignoring it.
 

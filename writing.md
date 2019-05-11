@@ -4,7 +4,7 @@ title: Writing
 category: content
 permalink: /writing/
 excerpt: "I educate and empower peers and people alike, on how to transform their teams and organisations to make a better web for everyone."
-cta-copy: "Do you have a publication in need of a article?"
+cta-copy: "Do you have a publication in need of an article?"
 cta-label: "Get in touch"
 cta-url: "mailto:carlos.n.design@gmail.com?subject=Writing%20collaboration"
 ---
