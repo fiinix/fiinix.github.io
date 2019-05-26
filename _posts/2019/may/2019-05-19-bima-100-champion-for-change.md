@@ -79,9 +79,9 @@ This year included astonishing people such as [Caroline Keep][caroline], a physi
 And of course many more, and now also me.
 
 <figure>
-  <img class="js-lazy-load" data-original="/assets/posts/2019/may/bima-100-champion-for-change/carlos-eriksso-and-simeon-quarrie-standing-up-for-applause.jpg" alt="Carlos interrupting the award-show to congratulate one of the winners.">
+  <img class="js-lazy-load" data-original="/assets/posts/2019/may/bima-100-champion-for-change/carlos-eriksson-and-simeon-quarrie-standing-up-for-applause.jpg" alt="Carlos interrupting the award-show to congratulate one of the winners.">
   <noscript>
-    <img src="/assets/posts/2019/may/bima-100-champion-for-change/carlos-eriksso-and-simeon-quarrie-standing-up-for-applause.jpg" alt="Carlos interrupting the award-show to congratulate one of the winners.">
+    <img src="/assets/posts/2019/may/bima-100-champion-for-change/carlos-eriksson-and-simeon-quarrie-standing-up-for-applause.jpg" alt="Carlos interrupting the award-show to congratulate one of the winners.">
   </noscript>
   <figcaption>Simeon Quarrie looking understandly confused as I just tapped him on the shoulder to congratulate him in the middle of everyone’s names being called out.</figcaption>
 </figure>
