@@ -42,7 +42,8 @@ layout: default
 
 
     {% if page.excerpt %}
-      <div class="summary"><p>{{ page.excerpt | markdownify | strip_html | append: statement }}</p></div>
+       <!--<div class="summary"><p>{{ page.excerpt | markdownify | strip_html | append: statement }}</p></div>-->
+      <div class="summary"><p>{{ page.excerpt | markdownify | strip_html }}</p></div>
       {% endif %}
 
     <article class="page-content page-type--{{ page.category | downcase }}" lang="en"{% if page.color %} style="border-color:{{ page.color }} {{ page.color }} {{ page.color2 }} {{ page.color2 }}; color: {{ page.color }};"{% endif %}>

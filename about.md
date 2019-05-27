@@ -8,7 +8,7 @@ cta-copy: "Interested in working together?"
 cta-label: "Get in touch"
 cta-url: "mailto:carlos.n.design@gmail.com?subject=Let%27s%20work%20together"
 ---
-Since working closely with people with permanent mental and physical disabilities back in Finland, Carlos has been on an over **decade-long quest to make the web better for everyone**, not just the people it is easy for.
+Since working closely with people with permanent mental and physical disabilities back in Finland 🇫🇮, Carlos has been on an over **decade-long quest to make the web better for everyone**, not just the people it is easy for.
 
 His hands-on experience supporting and helping people live independent lives and seeing the broken state of the web they had to endure became the driving force for change.
 
