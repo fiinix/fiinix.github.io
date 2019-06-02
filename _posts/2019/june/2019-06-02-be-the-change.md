@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Be the Change"
-date: 2019-05-02 T 07:00
+date: 2019-06-02 T 07:00
 tags : [Equality, "UX design", "UI design", Web design, Accessibility, Inclusive design, Newsletter]
 category: Industry
 excerpt: "In which I lay the foundation for the upcoming reboot of this website and its blog."
