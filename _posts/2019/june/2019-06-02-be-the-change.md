@@ -46,7 +46,7 @@ I'm firmly in the group who wants to change the world which means also changing 
 
 <del>I'm starting right here, in my own little corner of the web.</del>
 
-<ins>I'm staring a new site, called [superdupercritical.com](http://superdupercritical.com).</ins>
+I'm starting a new site, called [superdupercritical.com](http://superdupercritical.com).
 
 We'll see where things go from here but it seems like the most sensible place to start.
 
