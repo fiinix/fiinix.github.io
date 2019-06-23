@@ -44,7 +44,9 @@ I'm firmly in the group who wants to change the world which means also changing 
 
 ## Where I am doing this
 
-I'm starting right here, in my own little corner of the web.
+<del>I'm starting right here, in my own little corner of the web.</del>
+
+<ins>I'm staring a new site, called [superdupercritical.com](http://superdupercritical.com).</ins>
 
 We'll see where things go from here but it seems like the most sensible place to start.
 
@@ -86,7 +88,7 @@ I'm keeping my current publishing schedule of 26 entries per year (excluding sch
 
 As a subscriber, you get the articles before anyone else.
 
-A week afterwards, they will be published on my website and live under <code>/articles</code>, where I'll include a 'Listen to' option.
+A week afterwards, they will be published on my website and live under [/articles](http://superdupercritical.com/articles), where I'll include a 'Listen to' option.
 
 I also have some ideas for syndication but I still need to figure out the details of this.
 
