@@ -8,7 +8,7 @@ excerpt: The first blog post featuring Island of Eternity, the 1930's styled adv
 ---
 <div>
 <figure>
-	<img src="../../../../assets/posts/2009/july/project-board-game-status-update/TIOE-PoC-transparent-background.png" alt="Island of Eternity mockup showing the board and box design">
+	<img src="/assets/posts/2009/july/project-board-game-status-update/TIOE-PoC-transparent-background.png" alt="Island of Eternity mockup showing the board and box design">
 	<figcaption>Early mockup of Island of Eternity.</figcaption>
 </figure>
 </div>

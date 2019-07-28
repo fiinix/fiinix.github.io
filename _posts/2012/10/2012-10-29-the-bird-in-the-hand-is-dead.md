@@ -11,7 +11,7 @@ excerpt: "In which I change the much-loved Fiinix Design name in favour of somet
 
 As I mentioned previously in "I Suppose I Should Feel Bad"(link removed) I have been thinking about refining my website. Don't bother going there yet, I haven't refined it yet. I'm still fiddling about with a prototype because even though the current website is responsive I want to take it even further and design something that is more "device agnostic". Which means rebuilding the entire structure… again… but that's okay as I don't actually mind that. I quite enjoy the empty canvas and the possibilities it presents.
 
-Well… at least — much thanks to beije — I got the blog merger problem solved quite quickly. Not only did he write a parser for my needs, he created a repo for it [at github](https://github.com/beije/Blogspotparser) so that anyone else could use it as well. At least I got to return the favour when he wanted me to [design a logo for him](http://www.beije.fi/post/deep-winter/). 
+Well… at least — much thanks to beije — I got the blog merger problem solved quite quickly. Not only did he write a parser for my needs, he created a repo for it [at github](https://github.com/beije/Blogspotparser) so that anyone else could use it as well. At least I got to return the favour when he wanted me to [design a logo for him](http://www.benjaminhorn.io/post/deep-winter/). 
 
 Anyway.
 

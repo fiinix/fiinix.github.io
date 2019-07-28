@@ -12,7 +12,7 @@ I linked it too, but alas I don't know how long it will be there...
 
 <div>
 <figure>
-	<img src="../../../../assets/posts/2009/october/my-xbox-my-way-runner-up/Untitled-2.jpg" alt="A screenshot of xbox.com featuring my T-shirt design">
+	<img src="/assets/posts/2009/october/my-xbox-my-way-runner-up/Untitled-2.jpg" alt="A screenshot of xbox.com featuring my T-shirt design">
 	<figcaption>I personally didn’t think much of the winning design.</figcaption>
 </figure>
 </div>
@@ -21,7 +21,7 @@ EDIT: As requested by beije, here's the entry I sent in, he pointed out nicely t
 
 <div>
 <figure>
-	<img src="../../../../assets/posts/2009/october/my-xbox-my-way-runner-up/zombie-clown-gang-by-carlos.jpg" alt="Full view of the design I sent in">
+	<img src="/assets/posts/2009/october/my-xbox-my-way-runner-up/zombie-clown-gang-by-carlos.jpg" alt="Full view of the design I sent in">
 	<figcaption>The Zombie Clown Gang</figcaption>
 </figure>
 </div>

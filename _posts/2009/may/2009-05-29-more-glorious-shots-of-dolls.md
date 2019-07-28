@@ -8,7 +8,7 @@ excerpt: More images of the dolls I have created so far.
 ---
 <div>
 <figure>
-	<img src="../../../../assets/posts/2009/may/more-glorious-shots-of-dolls/elf-doll3.jpg" alt="Closeup of Elf doll sitting in a wooden log">
+	<img src="/assets/posts/2009/may/more-glorious-shots-of-dolls/elf-doll3.jpg" alt="Closeup of Elf doll sitting in a wooden log">
 	<figcaption>Valandil Singollo is truly one with nature.</figcaption>
 </figure>
 </div>
@@ -17,7 +17,7 @@ Different angle of the elf doll known as Valandil Singollo (yeah, that's what I 
 
 <div>
 <figure>
-	<img src="../../../../assets/posts/2009/may/more-glorious-shots-of-dolls/zombie-doll.jpg" alt="A Zombie Clown doll">
+	<img src="/assets/posts/2009/may/more-glorious-shots-of-dolls/zombie-doll.jpg" alt="A Zombie Clown doll">
 	<figcaption>The Zombie Clown doll.</figcaption>
 </figure>
 </div>
@@ -26,14 +26,14 @@ Actually the first doll I tried creating, it's just a zombie clown as they have 
 
 <div>
 <figure>
-	<img src="../../../../assets/posts/2009/may/more-glorious-shots-of-dolls/daemon-doll.jpg" alt="Closeup of Daemon doll">
+	<img src="/assets/posts/2009/may/more-glorious-shots-of-dolls/daemon-doll.jpg" alt="Closeup of Daemon doll">
 	<figcaption>Sgt. Jack Dæmon.</figcaption>
 </figure>
 </div>
 
 <div>
 <figure>
-	<img src="../../../../assets/posts/2009/may/more-glorious-shots-of-dolls/daemon-doll4.jpg" alt="Full view of Daemon doll">
+	<img src="/assets/posts/2009/may/more-glorious-shots-of-dolls/daemon-doll4.jpg" alt="Full view of Daemon doll">
 	<figcaption>The full view of Sgt. Jack Dæmon.</figcaption>
 </figure>
 </div>

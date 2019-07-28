@@ -15,7 +15,7 @@ I'm also participating in Idols this year, because well.. they made it so east t
 
 That's it.. now go away! We're done here.. I have "stuff" to do..
 
-Nah, I'm kidding.. I still have pictures to show you. This years pumpkin in all it's edited glory. Kudos to [beije](http://www.beije.fi/) and his photography skills for the first picture in it's original state. I obviously added the pumpkin, which is why it looks to out of place.
+Nah, I'm kidding.. I still have pictures to show you. This years pumpkin in all it's edited glory. Kudos to [beije](http://www.benjaminhorn.io/) and his photography skills for the first picture in it's original state. I obviously added the pumpkin, which is why it looks to out of place.
 
 <figure>
     <img class="js-lazy-load" data-original="/assets/posts/2011/10/i-am-the-pumpkinMAN.png" alt="Carlos Eriksson wearing a pumpkin on his head.">

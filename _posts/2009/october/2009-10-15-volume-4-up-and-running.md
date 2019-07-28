@@ -18,7 +18,7 @@ But other than that and a few possible kinks that need to be solved it's awesome
 
 <div>
 <figure>
-	<img src="../../../../assets/posts/2009/october/volume-4-up-and-running/carlos-eriksson-fiinix-design-website-preview-2009.jpg" alt="Full view of the Home page of Fiinix Design, 2009">
+	<img src="/assets/posts/2009/october/volume-4-up-and-running/carlos-eriksson-fiinix-design-website-preview-2009.jpg" alt="Full view of the Home page of Fiinix Design, 2009">
 	<figcaption>The tagline “Will work for money” still makes me chuckle.</figcaption>
 </figure>
 </div>

@@ -7,7 +7,7 @@ tags: [Web design, UI design, CSS]
 category: Industry
 excerpt: "In which I continue Benjamin's work on his Javascript select parser by adding"
 ---
-Why part III you might be asking yourself. Well.. [beije](http://www.beije.fi/) already so nicely did [part I](http://www.beije.fi/post/javascript-select-parser/) and [part II](http://www.beije.fi/post/javascript-select-parser-part-ii/). And well.. whilst prototyping for NHL v.4 I wanted to see if I could get form elements to behave nicer.. in other words.. to _actually_ style them. At which point I blatantly stole (expect beije gives out everything without a license, so not technically not stealing..) his Javascript select parser.
+Why part III you might be asking yourself. Well.. [beije](http://www.benjaminhorn.io/) already so nicely did [part I](http://www.benjaminhorn.io/post/javascript-select-parser/) and [part II](http://www.benjaminhorn.io/post/javascript-select-parser-part-ii/). And well.. whilst prototyping for NHL v.4 I wanted to see if I could get form elements to behave nicer.. in other words.. to _actually_ style them. At which point I blatantly stole (expect beije gives out everything without a license, so not technically not stealing..) his Javascript select parser.
 
 <figure>
     <img class="js-lazy-load" data-original="/assets/posts/2012/05/Untitled-6.jpg" alt="Example of styled checkboxes and radio buttons.">

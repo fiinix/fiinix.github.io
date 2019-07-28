@@ -20,7 +20,7 @@ Yes, they're awesome and yes, they are for sale.
 
 <div>
 <figure>
-	<img src="../../../../assets/posts/2009/may/something-to-blog-about/elf-doll.jpg" alt="Elf doll sitting on wooden log">
+	<img src="/assets/posts/2009/may/something-to-blog-about/elf-doll.jpg" alt="Elf doll sitting on wooden log">
 	<figcaption>His name is: Valandil Singollo.</figcaption>
 </figure>
 </div>

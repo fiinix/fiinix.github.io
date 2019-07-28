@@ -31,7 +31,7 @@ I just finished updating our NHL Stats website to 3.3. What does that mean I hea
   <figcaption>Let’s face it, sometimes we get things wrong. Good thing we can edit things then ey?</figcaption>
 </figure>
 
-**In the Zone** indicator added. The player's avatar becomes entangled with mathematical symbols one hour every day to signal that this is the hour when the player has won most of their games. **Edit:** Thanks to [beije](http://www.beije.fi/) for guiding me in the right direction when I was trying to extrapolate the new data (number of wins correlating to time stamp) from our db, `GROUP BY` is the shit in this case!
+**In the Zone** indicator added. The player's avatar becomes entangled with mathematical symbols one hour every day to signal that this is the hour when the player has won most of their games. **Edit:** Thanks to [beije](http://www.benjaminhorn.io/) for guiding me in the right direction when I was trying to extrapolate the new data (number of wins correlating to time stamp) from our db, `GROUP BY` is the shit in this case!
 
 <figure>
     <img class="js-lazy-load" data-original="/assets/posts/2012/03/in-the-zone.png" alt="Screenshot illustrating the math symbols hovering over a player who is In the Zone.">
