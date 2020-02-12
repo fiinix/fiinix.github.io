@@ -7,6 +7,7 @@ category: Health
 excerpt: "In which I take the fifth step and tell someone about all the fucked up stuff I've been through."
 thumbnail: "carlos-eriksson-like-a-puppet-on-a-string-og.png"
 alt: "Carlos Eriksson as a Disney character, like a puppet on a string."
+disclaimer: "Trigger warning: The following entry includes descriptions of self-harm, substance abuse, and blood."
 ---
 Getting home I would do what I did most of those nights. I "go to sleep" on the bathroom floor instead of going to bed.
 
