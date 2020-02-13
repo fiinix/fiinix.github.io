@@ -6,13 +6,35 @@ excerpt: "Like the mythical Elephants' graveyard, this is where all my Journal e
 ---
 As each year comes to its close I summarise it here, include my most memorable entry and give you a list of all the entries.
 
-## 2019
+
+
+## 2020
 
 *This year that hasn’t reached an introspective status yet.*
 
-[See all the entries from 2019 so far][2019].
+[See all the entries from 2020 so far][2020].
 
+[2020]: /archive/2020
+
+
+
+## 2019
+
+Memorable entries include; [tracking my moods][motherforking] for a year, continuing to learn [what well-being truly means][vitruvian], [travelling back to my first love][thankdance] and how it shaped me, going behind the scenes on [making a Skillshare class][skillshare] and getting awarded [BIMA's Champion for Change][bima].
+
+But my most memorable entry is [What I Learned from Running a Marathon][brightonmarathon], where I finally manage to complete my first marathon.
+
+[See all the entries from 2019][2019].
+
+[motherforking]: /blog/mellowing-my-motherforking-moods
+[vitruvian]: /blog/the-vitruvian-man
+[thankdance]: /blog/thank-you-for-the-dance
+[skillshare]: /blog/behind-the-scenes-of-a-skillshare-class
+[bima]: /blog/bima-100-champion-for-change
+[brightonmarathon]: /blog/what-i-learned-from-running-a-marathon
 [2019]: /archive/2019
+
+
 
 ## 2018
 
